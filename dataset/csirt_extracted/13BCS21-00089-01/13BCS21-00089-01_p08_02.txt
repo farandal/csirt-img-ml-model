@@ -1,0 +1,23 @@
+Source: 13BCS21-00089-01.pdf | Page: 8 | Image: 13BCS21-00089-01_p08_02 (431x375px)
+------------------------------------------------------------
+CSIRT informa vulnerabilidades obtenidas de TensorFlow 
+Alerta de seguridad cibernética 
+9VSA21-00356-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+08 de Enero de 2021
+
+Última revisión 
+08 de Enero de 2021

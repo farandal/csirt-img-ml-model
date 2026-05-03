@@ -1,0 +1,44 @@
+Source: 13BCS21-00089-01.pdf | Page: 14 | Image: 13BCS21-00089-01_p14_02 (431x375px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades que afectan a Red Hat Quay 
+Alerta de seguridad cibernética 
+9VSA21-00363-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de Enero de 2021
+
+Última revisión 
+13 de Enero de 2021
+
+CVE 
+CVE-2020-27831   -    CVE-2020-3899    -    CVE-2020-9802 
+CVE-2020-9327     -    CVE-2020-8492    -    CVE-2020-7595 
+CVE-2020-6405     -    CVE-2020-3902    -    CVE-2020-3901 
+CVE-2020-3900     -    CVE-2020-3897    -    CVE-2020-9805 
+CVE-2020-3895     -     CVE-2020-3894  -    CVE-2020-3885 
+CVE-2020-3868     -    CVE-2020-3867   -    CVE-2020-3865 
+CVE-2020-3864     -    CVE-2020-3862   -    CVE-2020-9803     
+CVE-2020-9806     -    CVE-2020-1752   -    CVE-2020-11793 
+CVE-2020-24659   -    CVE-2020-15503  -   CVE-2020-14422 
+CVE-2020-14391   -    CVE-2020-14382  -   CVE-2020-13632 
+CVE-2020-13631   -    CVE-2020-13630   -  CVE-2020-10029 
+CVE-2020-9807     -     CVE-2020-10018  -  CVE-2020-9925 
+CVE-2020-9915     -      CVE-2020-9895   -  CVE-2020-9894 
+CVE-2020-9893     -      CVE-2020-9862   -  CVE-2020-9850 
+CVE-2020-9843     -    CVE-2020-1971    -   CVE-2020-1751 
+CVE-2020-27832   -   CVE-2019-8782     -   CVE-2019-8816 
+CVE-2019-8815     -     CVE-2019-8814   -   CVE-2019-8813 
+CVE-2019-8812     -     CVE-2019-8811   -  CVE-2019-8808 
+CVE-2019-8783  -    CVE-2019-8771    -    CVE-2019-8820

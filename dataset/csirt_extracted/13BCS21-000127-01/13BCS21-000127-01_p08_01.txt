@@ -1,0 +1,95 @@
+Source: 13BCS21-000127-01.pdf | Page: 8 | Image: 13BCS21-000127-01_p08_01 (449x417px)
+------------------------------------------------------------
+CSIRT alerta de nuevas vulnerabilidades graves en productos de Cisco 
+Alerta de seguridad cibernética 
+9VSA21-00503-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de octubre de 2021
+
+Última revisión 
+7 de octubre de 2021
+
+CVE 
+CVE-2021-34710 
+CVE-2021-34735 
+CVE-2021-34698 
+CVE-2021-34748 
+CVE-2021-34775 
+CVE-2021-34776 
+CVE-2021-34777 
+CVE-2021-34778 
+CVE-2021-34779 
+CVE-2021-34780 
+CVE-2021-1594 
+CVE-2021-34788
+
+CVE-2021-34758 
+CVE-2021-34766 
+CVE-2021-34744 
+CVE-2021-34757 
+CVE-2021-34706 
+CVE-2021-34702 
+CVE-2021-34711 
+CVE-2021-1534 
+CVE-2021-34782 
+CVE-2021-34742 
+CVE-2021-34772 
+CVE-2020-24586
+
+CVE-2020-24587 
+CVE-2020-24588 
+CVE-2020-26139 
+CVE-2020-26140 
+CVE-2020-26141 
+CVE-2020-26142 
+CVE-2020-26143 
+CVE-2020-26144 
+CVE-2020-26145 
+CVE-2020-26146 
+CVE-2020-26147
+
+Fabricante
+
+Cisco 
+Productos afectados 
+Cisco ATA 190 Series Analog Telephone Adapter Software. 
+Cisco AsyncOS for Cisco Web Security Appliance (WSA). 
+Cisco Intersight Virtual Appliance.
+
+Cisco Small Business 220 Series Smart Switches. 
+Cisco Identity Services Engine (ISE). 
+Cisco TelePresence Collaboration Endpoint (CE) Software y Cisco RoomOS 
+Software. 
+Cisco Smart Software Manager On-Prem (SSM On-Prem). 
+Cisco Business 220 Series Smart Switches. 
+Cisco Identity Services Engine (ISE). 
+Cisco IP Phone software. 
+Cisco AsyncOS Software for Cisco Email Security Appliance (ESA). 
+Cisco DNA Center. 
+Cisco Vision Dynamic Signage Director.  
+Cisco Orbital. 
+Aironet 1532 APs, AP803 Integrated AP on IR829 Industrial Integrated 
+Services Routers. 
+Aironet 1542 APs, Aironet 1810 APs, Aironet 1815 APs, Aironet 1832 APs, 
+Aironet 1842 APs, Aironet 1852 APs, Aironet 1800i Aps. 
+Aironet 1552 APs, Aironet 1552H APs, Aironet 1572 APs, Aironet 1702 APs, 
+Aironet 2702 APs, Aironet 3702 APs, IW 3702 Aps. 
+Aironet 1560 Series APs, Aironet 2800 Series APs, Aironet Series 3800 APs, 
+Aironet Series 4800 APs, Catalyst IW 6300 APs, 6300 Series Embedded 
+Services APs (ESW6300). 
+Catalyst 9105 APs, Catalyst 9115 APs, Catalyst 9120 APs, Integrated AP on 
+1100 Integrated Services Routers. 
+Catalyst 9117 AP.

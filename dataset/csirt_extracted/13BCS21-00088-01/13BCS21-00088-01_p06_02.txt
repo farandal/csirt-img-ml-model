@@ -1,0 +1,23 @@
+Source: 13BCS21-00088-01.pdf | Page: 6 | Image: 13BCS21-00088-01_p06_02 (188x144px)
+------------------------------------------------------------
+CSIRT informa phishing de SúperClave inactiva 
+Alerta de seguridad cibernética 
+8FPH21-00348-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+04 de Enero de 2021
+
+Última revisión 
+04 de Enero de 2021

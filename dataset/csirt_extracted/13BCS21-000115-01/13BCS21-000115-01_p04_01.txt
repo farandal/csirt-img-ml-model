@@ -1,0 +1,23 @@
+Source: 13BCS21-000115-01.pdf | Page: 4 | Image: 13BCS21-000115-01_p04_01 (441x420px)
+------------------------------------------------------------
+CSIRT advierte de página fraudulenta que suplanta a Apple 
+Alerta de seguridad cibernética 
+8FFR21-00989-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de julio de 2021
+
+Última revisión 
+13 de julio de 2021

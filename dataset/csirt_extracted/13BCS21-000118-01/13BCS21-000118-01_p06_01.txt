@@ -1,0 +1,30 @@
+Source: 13BCS21-000118-01.pdf | Page: 6 | Image: 13BCS21-000118-01_p06_01 (449x417px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidades que afectan a Mozilla Thunderbird 
+Alerta de seguridad cibernética 
+9VSA21-00477-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+3 de agosto de 2021
+
+Última revisión 
+3 de agosto de 2021
+
+CVE 
+CVE-2021-29969 
+CVE-2021-29970 
+CVE-2021-29976 
+CVE-2021-30547 
+Fabricante

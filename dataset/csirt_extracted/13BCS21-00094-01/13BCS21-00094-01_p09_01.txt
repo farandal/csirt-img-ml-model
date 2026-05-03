@@ -1,0 +1,23 @@
+Source: 13BCS21-00094-01.pdf | Page: 9 | Image: 13BCS21-00094-01_p09_01 (430x399px)
+------------------------------------------------------------
+CSIRT advierte de una vulnerabilidad que afecta a Agora Video SDK 
+Alerta de seguridad cibernética 
+9VSA21-00393-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de Febrero de 2021
+
+Última revisión 
+18 de Febrero de 2021

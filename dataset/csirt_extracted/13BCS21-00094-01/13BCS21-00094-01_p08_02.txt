@@ -1,0 +1,23 @@
+Source: 13BCS21-00094-01.pdf | Page: 8 | Image: 13BCS21-00094-01_p08_02 (431x400px)
+------------------------------------------------------------
+CSIRT comparte mitigaciones obtenidas de Laravel 
+Alerta de seguridad cibernética 
+9VSA21-00392-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de Febrero de 2021
+
+Última revisión 
+17 de Febrero de 2021

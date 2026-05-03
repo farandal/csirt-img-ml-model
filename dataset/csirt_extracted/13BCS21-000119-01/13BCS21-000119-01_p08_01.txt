@@ -1,0 +1,107 @@
+Source: 13BCS21-000119-01.pdf | Page: 8 | Image: 13BCS21-000119-01_p08_01 (449x417px)
+------------------------------------------------------------
+CSIRT advierte de vulnerabilidades críticas en varios productos de Microsoft 
+Alerta de seguridad cibernética 
+9VSA21-00480-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de agosto de 2021
+
+Última revisión 
+10 de agosto de 2021
+
+CVE 
+CVE-2021-36936 
+CVE-2021-26432 
+CVE-2021-26424 
+CVE-2021-34535 
+CVE-2021-34534 
+CVE-2021-34480 
+CVE-2021-34530 
+CVE-2021-36949 
+CVE-2021-36946 
+CVE-2021-34485 
+CVE-2021-36948
+
+CVE-2021-36943 
+CVE-2021-36938 
+CVE-2021-36937 
+CVE-2021-36933 
+CVE-2021-36932 
+CVE-2021-36927 
+CVE-2021-36926 
+CVE-2021-26433 
+CVE-2021-26431 
+CVE-2021-26430 
+CVE-2021-26429
+
+CVE-2021-26428 
+CVE-2021-26426 
+CVE-2021-34537 
+CVE-2021-34487 
+CVE-2021-34536 
+CVE-2021-34486 
+CVE-2021-34483 
+CVE-2021-34478 
+CVE-2021-34524 
+CVE-2021-33762 
+CVE-2021-34471
+
+CVE-2021-36950 
+CVE-2021-34532 
+CVE-2021-26423 
+CVE-2021-36947 
+CVE-2021-36945 
+CVE-2021-36941 
+CVE-2021-36940 
+CVE-2021-36942 
+CVE-2021-26425 
+CVE-2021-34484 
+CVE-2021-34533
+
+Fabricante
+
+Microsoft 
+Productos afectados 
+.NET Core & Visual Studio 
+ASP .NET 
+Azure 
+Azure Sphere 
+Microsoft Azure Active Directory 
+Connect 
+Microsoft Dynamics 
+Microsoft Graphics Component 
+Microsoft Office 
+Microsoft Office SharePoint 
+Microsoft Office Word 
+Microsoft Scripting Engine 
+Microsoft Windows Codecs Library 
+Remote Desktop Client 
+Windows Bluetooth Service
+
+Windows Cryptographic Services 
+Windows Defender 
+Windows Event Tracing 
+Windows Media 
+Windows MSHTML Platform 
+Windows NTLM 
+Windows Print Spooler Components 
+Windows Services for NFS ONCRPC 
+XDR Driver 
+Windows Storage Spaces Controller 
+Windows TCP/IP 
+Windows Update 
+Windows Update Assistant 
+Windows User Profile Service

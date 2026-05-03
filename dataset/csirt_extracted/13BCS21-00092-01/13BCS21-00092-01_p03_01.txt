@@ -1,0 +1,23 @@
+Source: 13BCS21-00092-01.pdf | Page: 3 | Image: 13BCS21-00092-01_p03_01 (188x139px)
+------------------------------------------------------------
+CSIRT advierte página bancaria fraudulenta 
+Alerta de seguridad cibernética 
+8FFR21-00885-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+02 de Febrero de 2021
+
+Última revisión 
+02 de Febrero de 2021

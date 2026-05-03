@@ -1,0 +1,23 @@
+Source: 13BCS21-00092-01.pdf | Page: 6 | Image: 13BCS21-00092-01_p06_01 (188x109px)
+------------------------------------------------------------
+CSIRT informa correo con malware con supuesto pedido 
+Alerta de seguridad cibernética 
+2CMV21-00142-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 de Enero de 2021
+
+Última revisión 
+29 de Enero de 2021

@@ -1,0 +1,23 @@
+Source: 13BCS21-000118-01.pdf | Page: 3 | Image: 13BCS21-000118-01_p03_02 (445x313px)
+------------------------------------------------------------
+CSIRT alerta de página fraudulenta que suplanta a Netflix 
+Alerta de seguridad cibernética 
+8FFR21-00999-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 de agosto de 2021
+
+Última revisión 
+2 de agosto de 2021

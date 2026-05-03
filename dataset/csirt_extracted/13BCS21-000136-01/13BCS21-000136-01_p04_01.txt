@@ -1,0 +1,46 @@
+Source: 13BCS21-000136-01.pdf | Page: 4 | Image: 13BCS21-000136-01_p04_01 (431x400px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en IBM QRadar SIEM 
+Alerta de seguridad cibernética 
+9VSA21-00528-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 de diciembre de 2021
+
+Última revisión 
+6 de diciembre de 2021
+
+CVE 
+CVE-2017-15713 
+CVE-2021-32399 
+CVE-2021-29650 
+CVE-2021-29154 
+CVE-2021-22555 
+CVE-2020-27777 
+CVE-2021-3715 
+CVE-2019-9924 
+CVE-2018-18751 
+CVE-2018-11768 
+CVE-2020-7226 
+CVE-2020-9492 
+CVE-2018-8029 
+CVE-2020-13954 
+CVE-2021-22696 
+CVE-2021-28163 
+CVE-2021-28169 
+CVE-2021-28165 
+CVE-2021-29425 
+CVE-2021-2161 
+Fabricante

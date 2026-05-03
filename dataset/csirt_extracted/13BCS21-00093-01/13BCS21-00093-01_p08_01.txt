@@ -1,0 +1,23 @@
+Source: 13BCS21-00093-01.pdf | Page: 8 | Image: 13BCS21-00093-01_p08_01 (431x358px)
+------------------------------------------------------------
+CSIRT advierte phishing de cuenta de streaming suspendida 
+Alerta de seguridad cibernética 
+8FPH21-00366-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+04 de Febrero de 2021
+
+Última revisión 
+04 de Febrero de 2021

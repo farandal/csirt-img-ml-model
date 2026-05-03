@@ -1,0 +1,23 @@
+Source: 13BCS21-00094-01.pdf | Page: 7 | Image: 13BCS21-00094-01_p07_02 (431x259px)
+------------------------------------------------------------
+CSIRT advierte malware con supuesto registro de vacuna Covid-19 
+Alerta de seguridad cibernética 
+2CMV21-00148-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de Febrero de 2021
+
+Última revisión 
+17 de Febrero de 2021

@@ -1,0 +1,23 @@
+Source: 13BCS21-000121-01.pdf | Page: 3 | Image: 13BCS21-000121-01_p03_01 (442x299px)
+------------------------------------------------------------
+CSIRT alerta por campaña de phishing que suplanta a TNT 
+Alerta de seguridad cibernética 
+2CMV21-00215-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de agosto de 2021
+
+Última revisión 
+20 de agosto de 2021

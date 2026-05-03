@@ -1,0 +1,48 @@
+Source: 13BCS21-000141-01.pdf | Page: 9 | Image: 13BCS21-000141-01_p09_01 (569x527px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en Mozilla Firefox 
+Alerta de seguridad cibernética 
+9VSA21-00546-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de enero de 2022
+
+Última revisión 
+13 de enero de 2022
+
+CVE 
+CVE-2022-22746 
+CVE-2022-22743 
+CVE-2022-22742 
+CVE-2022-22744 
+CVE-2022-22741 
+CVE-2022-22740 
+CVE-2022-22738
+
+CVE-2022-22737 
+CVE-2021-4140 
+CVE-2022-22749 
+CVE-2022-22750 
+CVE-2022-22748 
+CVE-2022-22745
+
+CVE-2022-22744 
+CVE-2022-22747 
+CVE-2022-22736 
+CVE-2022-22739 
+CVE-2022-22751 
+CVE-2022-22752
+
+Fabricante

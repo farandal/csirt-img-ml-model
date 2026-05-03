@@ -1,0 +1,24 @@
+Source: 13BCS21-000115-01.pdf | Page: 3 | Image: 13BCS21-000115-01_p03_01 (439x297px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de malware que suplanta a la Tesorería General de 
+la República 
+Alerta de seguridad cibernética 
+2CMV21-00202-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de julio de 2021
+
+Última revisión 
+13 de julio de 2021

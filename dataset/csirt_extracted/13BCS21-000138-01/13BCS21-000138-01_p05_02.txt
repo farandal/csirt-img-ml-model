@@ -1,0 +1,23 @@
+Source: 13BCS21-000138-01.pdf | Page: 5 | Image: 13BCS21-000138-01_p05_02 (400x540px)
+------------------------------------------------------------
+CSIRT alerta de phishing de supuesta cuenta bloqueada 
+Alerta de seguridad cibernética 
+8FPH20-00455-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de Diciembre de 2021
+
+Última revisión 
+23 de Diciembre de 2021

@@ -1,0 +1,66 @@
+Source: 13BCS21-00089-01.pdf | Page: 11 | Image: 13BCS21-00089-01_p11_01 (431x375px)
+------------------------------------------------------------
+CSIRT comparte mitigaciones obtenidas de Microsoft 
+Alerta de seguridad cibernética 
+9VSA21-00361-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de Enero de 2021
+
+Última revisión 
+12 de Enero de 2021
+
+CVE 
+CVE-2020-26870           CVE-2021-1663               CVE-2021-1707 
+CVE-2021-1636               CVE-2021-1669             CVE-2021-1708 
+CVE-2021-1637               CVE-2021-1670             CVE-2021-1711 
+CVE-2021-1643               CVE-2021-1672             CVE-2021-1713 
+CVE-2021-1644               CVE-2021-1676             CVE-2021-1714 
+CVE-2021-1645               CVE-2021-1677             CVE-2021-1715 
+CVE-2021-1647               CVE-2021-1694             CVE-2021-1716 
+CVE-2021-1648               CVE-2021-1696             CVE-2021-1725 
+CVE-2021-1656               CVE-2021-1699 
+Vulnerabilidades adicionales informadas: 
+CVE-2021-1638               CVE-2021-1666               CVE-2021-1691 
+CVE-2021-1641               CVE-2021-1667               CVE-2021-1692 
+CVE-2021-1642               CVE-2021-1668               CVE-2021-1693 
+CVE-2021-1646               CVE-2021-1671               CVE-2021-1695 
+CVE-2021-1649               CVE-2021-1673               CVE-2021-1697 
+CVE-2021-1650               CVE-2021-1674               CVE-2021-1700 
+CVE-2021-1651               CVE-2021-1678               CVE-2021-1701 
+CVE-2021-1652               CVE-2021-1679               CVE-2021-1702 
+CVE-2021-1653               CVE-2021-1680               CVE-2021-1703 
+CVE-2021-1654               CVE-2021-1681               CVE-2021-1704 
+CVE-2021-1655               CVE-2021-1682               CVE-2021-1705 
+CVE-2021-1657               CVE-2021-1683               CVE-2021-1706 
+CVE-2021-1658               CVE-2021-1684               CVE-2021-1709 
+CVE-2021-1659               CVE-2021-1685               CVE-2021-1710 
+CVE-2021-1660               CVE-2021-1686               CVE-2021-1712 
+CVE-2021-1661               CVE-2021-1687               CVE-2021-1717 
+CVE-2021-1662               CVE-2021-1688               CVE-2021-1718 
+CVE-2021-1664               CVE-2021-1689               CVE-2021-1719 
+CVE-2021-1665               CVE-2021-1690               CVE-2021-1723 
+Fabricante 
+Microsoft 
+Productos afectados 
+ASP.NET Core 3.1 
+ASP.NET Core 5.0 
+Bot Framework SDK for .NET Framework 
+Bot Framework SDK for JavaScript 
+Bot Framework SDK for Python 
+Excel Services 
+HEVC Video Extensions 
+Microsoft 365 Apps for Enterprise (para sistemas 32-bit y 64-bit) 
+Microsoft Azure Kubernetes Service

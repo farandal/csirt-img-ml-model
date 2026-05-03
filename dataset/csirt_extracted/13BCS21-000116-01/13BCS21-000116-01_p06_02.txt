@@ -1,0 +1,28 @@
+Source: 13BCS21-000116-01.pdf | Page: 6 | Image: 13BCS21-000116-01_p06_02 (449x417px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidad grave en FortiAnalyzer y FortiManager de 
+Fortinet 
+Alerta de seguridad cibernética 
+9VSA21-00471-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de julio de 2021
+
+Última revisión 
+20 de julio de 2021
+
+CVE 
+CVE-2021-32589 
+Fabricante

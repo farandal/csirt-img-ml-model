@@ -1,0 +1,23 @@
+Source: 13BCS21-000111-01.pdf | Page: 5 | Image: 13BCS21-000111-01_p05_01 (440x333px)
+------------------------------------------------------------
+CSIRT advierte de sitio fraudulento que suplanta a Office365 y Outlook 
+Alerta de seguridad cibernética 
+8FFR21-00964-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de junio de 2021
+
+Última revisión 
+11 de junio de 2021

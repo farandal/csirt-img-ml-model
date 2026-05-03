@@ -1,0 +1,23 @@
+Source: 13BCS21-000120-01.pdf | Page: 4 | Image: 13BCS21-000120-01_p04_02 (446x306px)
+------------------------------------------------------------
+CSIRT alerta ante un sitio fraudulento que suplanta al BCI 
+Alerta de seguridad cibernética 
+8FFR21-01004-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de agosto de 2021
+
+Última revisión 
+19 de agosto de 2021

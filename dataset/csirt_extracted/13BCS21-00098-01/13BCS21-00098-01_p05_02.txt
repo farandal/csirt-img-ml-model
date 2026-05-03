@@ -1,0 +1,23 @@
+Source: 13BCS21-00098-01.pdf | Page: 5 | Image: 13BCS21-00098-01_p05_02 (449x417px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en productos BIG-IP de F5 
+Alerta de seguridad cibernética 
+9VSA21-00408-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de marzo de 2021
+
+Última revisión 
+16 de marzo de 2021

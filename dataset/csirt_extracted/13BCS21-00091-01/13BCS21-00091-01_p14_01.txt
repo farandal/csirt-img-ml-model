@@ -1,0 +1,23 @@
+Source: 13BCS21-00091-01.pdf | Page: 14 | Image: 13BCS21-00091-01_p14_01 (391x341px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades de Chromium y Google Chrome 
+Alerta de seguridad cibernética 
+9VSA21-00373-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de Enero de 2021
+
+Última revisión 
+25 de Enero de 2021

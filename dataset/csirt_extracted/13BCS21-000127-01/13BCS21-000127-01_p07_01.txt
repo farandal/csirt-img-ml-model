@@ -1,0 +1,27 @@
+Source: 13BCS21-000127-01.pdf | Page: 7 | Image: 13BCS21-000127-01_p07_01 (449x417px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidad crítica en IBM QRadar 
+Alerta de seguridad cibernética 
+9VSA21-00501-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+4 de octubre de 2021
+
+Última revisión 
+4 de octubre de 2021
+
+CVE 
+CVE-2021-37967 
+Fabricante

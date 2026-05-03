@@ -1,0 +1,65 @@
+Source: 13BCS21-00091-01.pdf | Page: 15 | Image: 13BCS21-00091-01_p15_01 (391x341px)
+------------------------------------------------------------
+CSIRT comparte mitigaciones obtenidas de Cisco 
+Alerta de seguridad cibernética 
+9VSA21-00375-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 de Enero de 2021
+
+Última revisión 
+26 de Enero de 2021
+
+CVE 
+CVE-2021-1264    -    CVE-2021-1257    -    CVE-2021-1265 
+CVE-2021-1138    -    CVE-2021-1139    -    CVE-2021-1140 
+CVE-2021-1141    -    CVE-2021-1142    -    CVE-2021-1241 
+CVE-2021-1273    -    CVE-2021-1274    -    CVE-2021-1278 
+CVE-2021-1279    -    CVE-2021-1302    -    CVE-2021-1304 
+CVE-2021-1305    -    CVE-2021-1218    -    CVE-2021-1259 
+CVE-2021-1300    -    CVE-2021-1301 
+Fabricante 
+Cisco 
+Productos afectados 
+CVE-2021-1264: Cisco DNA Center, versiones anteriores a la 1.3.1.0. 
+CVE-2021-1257 y CVE-2021-1265: Cisco DNA Center, versiones anteriores a 
+la 2.1.1.0. 
+CVE-2021-1138, CVE-2021-1139, CVE-2021-1140, CVE-2021-1141 y CVE-
+2021-1142: Cisco Smart 
+Software Manager Satellite, versiones anteriores a la 6.3.0. (desde la cual el 
+producto fue 
+renombrado como Cisco Smart Software Manager On-Prem). 
+CVE-2021-1241: Cisco SD-WAN (versiones 18.3.0 a 20.4.0), routers Cisco SD-
+WAN vEdge. 
+CVE-2021-1273: Cisco SD-WAN (versiones 18.3.0 a 20.4.0), Cisco SD-WAN 
+vBond Orchestrator, Cisco 
+SD-WAN vEdge Cloud Router, routers Cisco SD-WAN vEdge, Cisco SD-WAN 
+vManage y Cisco SD-WAN 
+vSmart Controller. 
+CVE-2021-1274: Cisco SD-WAN vBond Orchestrator, Cisco SD-WAN vEdge 
+Cloud Router, routers Cisco 
+SD-WAN vEdge, Cisco SD-WAN vManage, Cisco SD-WAN vSmart Controller, y 
+los Cisco IOS XE SD-WAN 
+anteriores a la version 16.12.4. 
+CVE-2021-1278 y CVE-2021-1279: Cisco SD-WAN vBond Orchestrator, Cisco 
+SD-WAN vEdge Cloud 
+Router, routers Cisco SD-WAN vEdge, Cisco SD-WAN vManage, Cisco SD-
+WAN vSmart Controller, y los 
+Cisco SD-WAN versiones de la 18.3.0 a la 20.3.0. 
+CVE-2021-1300 y CVE-2021-1301: Cisco SD-WAN vBond Orchestrator, Cisco 
+SD-WAN vEdge Cloud 
+Router, routers Cisco SD-WAN vEdge, Cisco SD-WAN vManage, Cisco SD-
+WAN vSmart Controller, 
+Cisco IOS XE SD-WAN, versiones hasta la 16.12 y los Cisco SD-WAN versiones

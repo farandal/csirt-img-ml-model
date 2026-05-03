@@ -1,0 +1,60 @@
+Source: 13BCS21-000137-01.pdf | Page: 4 | Image: 13BCS21-000137-01_p04_01 (556x482px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+10 de diciembre de 2021
+
+Última revisión 
+10 de diciembre de 2021
+
+Indicadores de compromiso 
+URL sitio falso 
+https://www.brunosale[.]online 
+https://www.esalbotas[.]online 
+https://www.monoprixv[.]online 
+https://www.tezenisaldi[.]store 
+https://www.azaleiacl[.]online 
+https://www.skizapatillas[.]shop 
+https://www.lcosoldes[.]online 
+https://www.masduoutlet[.]online 
+https://www.roupaspringfield[.]online 
+https://www.deitecl[.]com 
+https://www.costeoutlet[.]shop 
+https://www.cannsabanas[.]online 
+https://www.ovsshop[.]online 
+https://www.tezenisonline[.]store 
+https://www.okaidshop[.]online 
+https://www.dogsmall[.]shop 
+https://www.szapatosk[.]online 
+https://www.doitechile[.]shop 
+https://www.coajanuary[.]shop 
+https://www.womanroupas[.]website 
+https://www.certeflout[.]online 
+https://www.calzesoldes[.]online 
+https://www.hakaoutlet[.]shop 
+https://www.vetementsvente[.]online 
+https://www.bramhaco[.]com 
+https://www.bershoutlet[.]online 
+https://www.homeostcolombia[.]online 
+https://www.bimbobagshop[.]online 
+IP 
+[185.212.172.121] 
+[185.212.172.125] 
+[185.212.172.126] 
+[185.212.172.118] 
+[185.212.172.116] 
+[185.212.172.115] 
+[185.212.172.114]

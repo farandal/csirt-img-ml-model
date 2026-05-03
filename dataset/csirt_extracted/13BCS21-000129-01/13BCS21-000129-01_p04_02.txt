@@ -1,0 +1,23 @@
+Source: 13BCS21-000129-01.pdf | Page: 4 | Image: 13BCS21-000129-01_p04_02 (445x248px)
+------------------------------------------------------------
+CSIRT alerta de phishing con malware con supuesto comprobante de pago 
+Alerta de seguridad cibernética 
+2CMV21-00237-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de octubre de 2021
+
+Última revisión 
+19 de octubre de 2021

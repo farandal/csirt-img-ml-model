@@ -1,0 +1,24 @@
+Source: 13BCS21-000119-01.pdf | Page: 4 | Image: 13BCS21-000119-01_p04_01 (444x309px)
+------------------------------------------------------------
+CSIRT alerta de campaña de malware que suplanta a la Universidad de Buenos 
+Aires 
+Alerta de seguridad cibernética 
+2CMV21-00208-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de agosto de 2021
+
+Última revisión 
+9 de agosto de 2021

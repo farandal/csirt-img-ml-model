@@ -1,0 +1,23 @@
+Source: 13BCS21-000121-01.pdf | Page: 3 | Image: 13BCS21-000121-01_p03_02 (444x371px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de malware con falsa cotización 
+Alerta de seguridad cibernética 
+2CMV21-00216-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 de agosto de 2021
+
+Última revisión 
+26 de agosto de 2021

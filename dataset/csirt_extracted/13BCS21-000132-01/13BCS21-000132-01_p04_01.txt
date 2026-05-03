@@ -1,0 +1,91 @@
+Source: 13BCS21-000132-01.pdf | Page: 4 | Image: 13BCS21-000132-01_p04_01 (431x400px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades del Update Tuesday de Microsoft en 
+Noviembre 2021 
+Alerta de seguridad cibernética 
+9VSA21-00519-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de Noviembre de 2021
+
+Última revisión 
+10 de Noviembre de 2021
+
+CVE 
+CVE-2021-42298 
+CVE-2021-42279 
+CVE-2021-42316 
+CVE-2021-26443 
+CVE-2021-3711 
+CVE-2021-38666 
+CVE-2021-41351 
+CVE-2021-43209 
+CVE-2021-43208 
+CVE-2021-26444 
+CVE-2021-42323 
+CVE-2021-42322 
+CVE-2021-42321 
+CVE-2021-42319 
+CVE-2021-41376 
+CVE-2021-41374 
+CVE-2021-42304 
+CVE-2021-42303 
+CVE-2021-42302 
+CVE-2021-42301 
+CVE-2021-42300 
+CVE-2021-42305 
+CVE-2021-42277 
+CVE-2021-42296 
+CVE-2021-41366 
+CVE-2021-41349 
+CVE-2021-41356 
+CVE-2021-42280
+
+CVE-2021-42291 
+CVE-2021-42287 
+CVE-2021-42288 
+CVE-2021-42285 
+CVE-2021-42284 
+CVE-2021-42283 
+CVE-2021-42282 
+CVE-2021-42278 
+CVE-2021-42275 
+CVE-2021-42274 
+CVE-2021-41373 
+CVE-2021-41375 
+CVE-2021-41372 
+CVE-2021-41368 
+CVE-2021-41367 
+CVE-2021-40442 
+CVE-2021-38631 
+CVE-2021-38665 
+CVE-2021-42292 
+CVE-2021-42286 
+CVE-2021-42276 
+CVE-2021-41379 
+CVE-2021-41377 
+CVE-2021-41378 
+CVE-2021-41371 
+CVE-2021-41370 
+CVE-2021-36957
+
+Fabricante
+
+Microsoft 
+Productos afectados 
+3D Viewer 
+Azure RTOS 
+Azure Sphere 
+FSLogix

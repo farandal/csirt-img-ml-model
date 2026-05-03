@@ -1,0 +1,23 @@
+Source: 13BCS21-000131-01.pdf | Page: 5 | Image: 13BCS21-000131-01_p05_02 (431x215px)
+------------------------------------------------------------
+CSIRT advierte smishing por dispositivo de seguridad caducado 
+Alerta de seguridad cibernética 
+8FPH21-00444-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+04 de Noviembre de 2021
+
+Última revisión 
+04 de Noviembre de 2021

@@ -1,0 +1,23 @@
+Source: 13BCS21-000124-01.pdf | Page: 4 | Image: 13BCS21-000124-01_p04_02 (442x590px)
+------------------------------------------------------------
+CSIRT alerta de campaña de smishing que suplanta a CorreosChile 
+Alerta de seguridad cibernética 
+8FPH21-00434-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de septiembre de 2021
+
+Última revisión 
+13 de septiembre de 2021

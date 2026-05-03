@@ -1,0 +1,33 @@
+Source: 13BCS21-00097-01.pdf | Page: 7 | Image: 13BCS21-00097-01_p07_02 (449x417px)
+------------------------------------------------------------
+CSIRT alerta sobre vulnerabilidades en productos F5 
+Alerta de seguridad cibernética 
+9VSA21-00405-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de marzo de 2021
+
+Última revisión 
+10 de marzo de 2021
+
+CVE 
+CVE-2021-22986 
+CVE-2021-22987 
+CVE-2021-22988 
+CVE-2021-22989
+
+CVE-2021-22990 
+CVE-2021-22991 
+CVE-2021-22992

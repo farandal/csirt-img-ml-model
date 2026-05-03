@@ -1,0 +1,27 @@
+Source: 13BCS21-000135-01.pdf | Page: 11 | Image: 13BCS21-000135-01_p11_01 (431x400px)
+------------------------------------------------------------
+CSIRT advierte vulnerabilidad en Trend Micro Security 
+Alerta de seguridad cibernética 
+9VSA21-00525-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 de Noviembre de 2021
+
+Última revisión 
+30 de Noviembre de 2021
+
+CVE 
+CVE-2021-43772 
+Fabricante

@@ -1,0 +1,23 @@
+Source: 13BCS21-00096-01.pdf | Page: 5 | Image: 13BCS21-00096-01_p05_01 (449x417px)
+------------------------------------------------------------
+CSIRT informa de vulnerabilidades en VMware 
+Alerta de seguridad cibernética 
+9VSA21-00396-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+1 de marzo de 2021
+
+Última revisión 
+1 de marzo de 2021

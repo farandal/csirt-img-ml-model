@@ -1,0 +1,42 @@
+Source: 13BCS21-000136-01.pdf | Page: 5 | Image: 13BCS21-000136-01_p05_01 (431x400px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en Google Chrome 
+Alerta de seguridad cibernética 
+9VSA21-00529-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de diciembre de 2021
+
+Última revisión 
+7 de diciembre de 2021
+
+CVE 
+CVE-2021-4062 
+CVE-2021-4068 
+CVE-2021-4067 
+CVE-2021-4066 
+CVE-2021-4065 
+CVE-2021-4064 
+CVE-2021-4063 
+CVE-2021-4061 
+CVE-2021-4052 
+CVE-2021-4059 
+CVE-2021-4058 
+CVE-2021-4057 
+CVE-2021-4056 
+CVE-2021-4055 
+CVE-2021-4054 
+CVE-2021-4053 
+Fabricante

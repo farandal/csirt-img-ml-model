@@ -1,0 +1,23 @@
+Source: 13BCS21-00092-01.pdf | Page: 5 | Image: 13BCS21-00092-01_p05_01 (188x100px)
+------------------------------------------------------------
+CSIRT informa smishing sobre tarjeta bancaria dada de baja 
+Alerta de seguridad cibernética 
+8FPH21-00365-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+03 de Febrero de 2021
+
+Última revisión 
+03 de Febrero de 2021

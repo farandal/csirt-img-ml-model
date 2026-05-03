@@ -1,0 +1,23 @@
+Source: 13BCS21-000112-01.pdf | Page: 7 | Image: 13BCS21-000112-01_p07_02 (440x340px)
+------------------------------------------------------------
+CSIRT alerta de una página fraudulenta que suplanta a Office 365 
+Alerta de seguridad cibernética 
+8FFR21-00982-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de junio de 2021
+
+Última revisión 
+24 de junio de 2021

@@ -1,0 +1,23 @@
+Source: 13BCS21-000119-01.pdf | Page: 7 | Image: 13BCS21-000119-01_p07_01 (447x334px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing que suplanta al Banco Itaú 
+Alerta de seguridad cibernética 
+8FPH21-00424-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de agosto de 2021
+
+Última revisión 
+11 de agosto de 2021

@@ -1,0 +1,27 @@
+Source: 13BCS21-000127-01.pdf | Page: 7 | Image: 13BCS21-000127-01_p07_02 (449x417px)
+------------------------------------------------------------
+CSIRT advierte de vulnerabilidad de riesgo alto en Apache HTTP Server 2.4.49 
+Alerta de seguridad cibernética 
+9VSA21-00502-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 de octubre de 2021
+
+Última revisión 
+6 de octubre de 2021
+
+CVE 
+CVE-2021-41773 
+Fabricante

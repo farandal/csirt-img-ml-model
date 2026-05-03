@@ -1,0 +1,23 @@
+Source: 13BCS21-000119-01.pdf | Page: 5 | Image: 13BCS21-000119-01_p05_03 (436x357px)
+------------------------------------------------------------
+CSIRT alerta de campaña de malware que suplanta a Unilever Ecuador 
+Alerta de seguridad cibernética 
+2CMV21-00212-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de agosto de 2021
+
+Última revisión 
+12 de agosto de 2021

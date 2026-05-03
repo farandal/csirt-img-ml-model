@@ -1,0 +1,48 @@
+Source: 13BCS21-000141-01.pdf | Page: 6 | Image: 13BCS21-000141-01_p06_01 (569x527px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en Google Android 
+Alerta de seguridad cibernética 
+9VSA21-00544-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de enero de 2022
+
+Última revisión 
+10 de enero de 2022
+
+CVE 
+CVE-2021-30319 
+CVE-2021-30311 
+CVE-2021-30308 
+CVE-2021-30307 
+CVE-2021-30301 
+CVE-2021-30300 
+CVE-2021-30287
+
+CVE-2021-30285 
+CVE-2021-30353 
+CVE-2021-1049 
+CVE-2021-0959 
+CVE-2021-31889 
+CVE-2021-40148
+
+CVE-2021-31890 
+CVE-2021-31346 
+CVE-2021-31345 
+CVE-2021-39633 
+CVE-2021-39634 
+CVE-2020-29368
+
+Fabricante

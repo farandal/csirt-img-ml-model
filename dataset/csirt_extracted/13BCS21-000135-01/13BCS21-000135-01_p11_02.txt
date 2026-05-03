@@ -1,0 +1,28 @@
+Source: 13BCS21-000135-01.pdf | Page: 11 | Image: 13BCS21-000135-01_p11_02 (431x400px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en varias multifuncionales HP 
+Alerta de seguridad cibernética 
+9VSA21-00526-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 de Noviembre de 2021
+
+Última revisión 
+30 de Noviembre de 2021
+
+CVE 
+CVE-2021-39237 
+CVE-2021-39238 
+Fabricante

@@ -1,0 +1,23 @@
+Source: 13BCS21-00089-01.pdf | Page: 5 | Image: 13BCS21-00089-01_p05_02 (432x562px)
+------------------------------------------------------------
+CSIRT advierte phishing de SúperClave bloqueada 
+Alerta de seguridad cibernética 
+8FPH21-00351-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+07 de Enero de 2021
+
+Última revisión 
+07 de Enero de 2021

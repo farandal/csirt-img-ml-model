@@ -1,0 +1,23 @@
+Source: 13BCS21-000131-01.pdf | Page: 6 | Image: 13BCS21-000131-01_p06_01 (431x368px)
+------------------------------------------------------------
+CSIRT informa campaña de phishing malware con falsa factura 
+Alerta de seguridad cibernética 
+2CMV21-00241-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 de Octubre de 2021
+
+Última revisión 
+29 de Octubre de 2021

@@ -1,0 +1,28 @@
+Source: 13BCS21-000117-01.pdf | Page: 8 | Image: 13BCS21-000117-01_p08_02 (449x417px)
+------------------------------------------------------------
+CSIRT alerta de nuevas vulnerabilidades en Zimbra 
+Alerta de seguridad cibernética 
+9VSA21-00475-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 de julio de 2021
+
+Última revisión 
+29 de julio de 2021
+
+CVE 
+CVE-2021-35208 
+CVE-2021-35209 
+Fabricante

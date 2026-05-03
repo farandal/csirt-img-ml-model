@@ -1,0 +1,23 @@
+Source: 13BCS21-00098-01.pdf | Page: 3 | Image: 13BCS21-00098-01_p03_02 (445x355px)
+------------------------------------------------------------
+CSIRT alerta de página fraudulenta que imita a banco 
+Alerta de seguridad cibernética 
+8FFR21-00918-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de marzo de 2021
+
+Última revisión 
+12 de marzo de 2021

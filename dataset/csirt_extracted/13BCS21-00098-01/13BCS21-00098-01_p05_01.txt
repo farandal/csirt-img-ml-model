@@ -1,0 +1,23 @@
+Source: 13BCS21-00098-01.pdf | Page: 5 | Image: 13BCS21-00098-01_p05_01 (449x417px)
+------------------------------------------------------------
+CSIRT advierte de vulnerabilidades críticas en Google Chrome 
+Alerta de seguridad cibernética 
+9VSA21-00407-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de marzo de 2021
+
+Última revisión 
+15 de marzo de 2021

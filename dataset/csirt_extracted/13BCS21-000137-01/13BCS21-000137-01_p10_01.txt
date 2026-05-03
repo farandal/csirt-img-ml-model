@@ -1,0 +1,31 @@
+Source: 13BCS21-000137-01.pdf | Page: 10 | Image: 13BCS21-000137-01_p10_01 (592x670px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+14 de diciembre de 2021
+
+Última revisión 
+14 de diciembre de 2021
+
+CSIRT advierte phishing de falso regalo por parte del 
+Supermercado Líder 
+Alerta 
+de 
+seguridad
+
+8FPH21-00453-01
+
+cibernética

@@ -1,0 +1,23 @@
+Source: 13BCS21-000141-01.pdf | Page: 5 | Image: 13BCS21-000141-01_p05_01 (409x203px)
+------------------------------------------------------------
+CSIRT advierte phishing con falso concurso que suplanta a Colun 
+Alerta de seguridad cibernética 
+8FPH21-00462-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de enero de 2022
+
+Última revisión 
+12 de enero de 2022

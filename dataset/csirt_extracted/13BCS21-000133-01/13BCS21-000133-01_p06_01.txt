@@ -1,0 +1,28 @@
+Source: 13BCS21-000133-01.pdf | Page: 6 | Image: 13BCS21-000133-01_p06_01 (431x400px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidades en productos de Citrix 
+Alerta de seguridad cibernética 
+9VSA21-00520-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de Noviembre de 2021
+
+Última revisión 
+12 de Noviembre de 2021
+
+CVE 
+CVE-2021-22955 
+CVE-2021-22956 
+Fabricante

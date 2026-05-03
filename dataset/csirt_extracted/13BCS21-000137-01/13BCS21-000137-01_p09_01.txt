@@ -1,0 +1,31 @@
+Source: 13BCS21-000137-01.pdf | Page: 9 | Image: 13BCS21-000137-01_p09_01 (572x437px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+10 de diciembre de 2021
+
+Última revisión 
+10 de diciembre de 2021
+
+CSIRT advierte phishing con falsos regalos navideños de Mercado 
+Libre 
+Alerta 
+de 
+seguridad
+
+8FPH21-00451-01
+
+cibernética

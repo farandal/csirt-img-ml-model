@@ -1,0 +1,55 @@
+Source: 13BCS21-000122-01.pdf | Page: 6 | Image: 13BCS21-000122-01_p06_01 (449x417px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidades graves en BIG-IP y BIG-IQ de F5 
+Alerta de seguridad cibernética 
+9VSA21-00485-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+31 de agosto de 2021
+
+Última revisión 
+31 de agosto de 2021
+
+CVE 
+CVE-2021-23025 
+CVE-2021-23026 
+CVE-2021-23027 
+CVE-2021-23028 
+CVE-2021-23029 
+CVE-2021-23030 
+CVE-2021-23031 
+CVE-2021-23032 
+CVE-2021-23033 
+CVE-2021-23034 
+CVE-2021-23035 
+CVE-2021-23036 
+CVE-2021-23037 
+CVE-2021-23038 
+CVE-2021-23039 
+CVE-2021-23040 
+CVE-2021-23041 
+CVE-2021-23042 
+CVE-2021-23043 
+CVE-2021-23044 
+CVE-2021-23045 
+CVE-2021-23046 
+CVE-2021-23047 
+CVE-2021-23048 
+CVE-2021-23049 
+CVE-2021-23050 
+CVE-2021-23051 
+CVE-2021-23052 
+CVE-2021-23053 
+Fabricante

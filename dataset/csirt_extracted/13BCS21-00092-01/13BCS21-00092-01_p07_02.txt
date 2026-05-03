@@ -1,0 +1,23 @@
+Source: 13BCS21-00092-01.pdf | Page: 7 | Image: 13BCS21-00092-01_p07_02 (188x174px)
+------------------------------------------------------------
+CSIRT comparte mitigaciones obtenidas de Apache 
+Alerta de seguridad cibernética 
+9VSA21-00380-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+02 de Febrero de 2021
+
+Última revisión 
+02 de Febrero de 2021

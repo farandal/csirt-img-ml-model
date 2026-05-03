@@ -1,0 +1,62 @@
+Source: 13BCS21-00096-01.pdf | Page: 6 | Image: 13BCS21-00096-01_p06_01 (449x417px)
+------------------------------------------------------------
+CSIRT advierte vulnerabilidades en Google Android 
+Alerta de seguridad cibernética 
+9VSA21-00398-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de Febrero de 2021
+
+Última revisión 
+25 de Febrero de 2021
+
+CVE 
+CVE-2021-0394 
+CVE-2021-0392 
+CVE-2021-0390 
+CVE-2021-0396 
+CVE-2021-0393 
+CVE-2021-0397 
+CVE-2021-0398 
+CVE-2021-0391 
+CVE-2021-0395 
+CVE-2017-14491 
+CVE-2020-11299 
+CVE-2020-11226 
+CVE-2020-11222 
+CVE-2020-11221 
+CVE-2020-11220 
+CVE-2020-11199 
+CVE-2020-11198 
+CVE-2020-11195
+
+CVE-2020-11194 
+CVE-2020-11190 
+CVE-2020-11189 
+CVE-2020-11188 
+CVE-2020-11186 
+CVE-2020-11178 
+CVE-2020-11171 
+CVE-2020-11166 
+CVE-2020-11165 
+CVE-2020-11228 
+CVE-2020-11227 
+CVE-2020-11218 
+CVE-2020-11204 
+CVE-2020-11192 
+CVE-2020-11223 
+CVE-2020-11309 
+CVE-2020-11308 
+CVE-2020-11290

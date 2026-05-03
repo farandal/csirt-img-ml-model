@@ -1,0 +1,23 @@
+Source: 13BCS21-000120-01.pdf | Page: 6 | Image: 13BCS21-000120-01_p06_01 (436x425px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de smishing que suplanta al Banco Santander 
+Alerta de seguridad cibernética 
+8FPH21-00425-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de agosto de 2021
+
+Última revisión 
+12 de agosto de 2021

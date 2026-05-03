@@ -1,0 +1,23 @@
+Source: 13BCS21-00089-01.pdf | Page: 3 | Image: 13BCS21-00089-01_p03_02 (427x291px)
+------------------------------------------------------------
+CSIRT advierte suplantación de sitio de sistema de pagos en línea 
+Alerta de seguridad cibernética 
+8FFR21-00871-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de Enero de 2021
+
+Última revisión 
+11 de Enero de 2021

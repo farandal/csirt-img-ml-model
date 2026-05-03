@@ -1,0 +1,30 @@
+Source: 13BCS21-000124-01.pdf | Page: 5 | Image: 13BCS21-000124-01_p05_01 (449x417px)
+------------------------------------------------------------
+CSIRT advierte de vulnerabilidades en WordPress 
+Alerta de seguridad cibernética 
+9VSA21-00489-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de septiembre de 2021
+
+Última revisión 
+13 de septiembre de 2021
+
+CVE 
+CVE-2021-39200 
+CVE-2021-39201 
+CVE-2021-39202 
+CVE-2021-39203 
+Fabricante

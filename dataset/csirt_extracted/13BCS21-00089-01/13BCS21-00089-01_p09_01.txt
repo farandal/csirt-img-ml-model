@@ -1,0 +1,23 @@
+Source: 13BCS21-00089-01.pdf | Page: 9 | Image: 13BCS21-00089-01_p09_01 (431x375px)
+------------------------------------------------------------
+CSIRT comparte mitigaciones obtenidas de Nvidia 
+Alerta de seguridad cibernética 
+9VSA21-00357-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+08 de Enero de 2021
+
+Última revisión 
+08 de Enero de 2021

@@ -1,0 +1,27 @@
+Source: 13BCS21-000116-01.pdf | Page: 5 | Image: 13BCS21-000116-01_p05_02 (449x417px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidad en productos SonicWall 
+Alerta de seguridad cibernética 
+9VSA21-00469-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de julio de 2021
+
+Última revisión 
+19 de julio de 2021
+
+CVE 
+CVE-2019-7481 
+Fabricante

@@ -1,0 +1,65 @@
+Source: 13BCS21-000132-01.pdf | Page: 3 | Image: 13BCS21-000132-01_p03_01 (431x400px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidades en productos Cisco 
+Alerta de seguridad cibernética 
+9VSA21-00518-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+09 de Noviembre de 2021
+
+Última revisión 
+09 de Noviembre de 2021
+
+CVE 
+CVE-2021-40119 
+CVE-2021-34795 
+CVE-2021-40112 
+CVE-2021-40113 
+CVE-2021-34739 
+CVE-2021-34741 
+CVE-2021-40128 
+CVE-2021-1500 
+CVE-2021-40115 
+CVE-2021-40126 
+CVE-2021-34773 
+CVE-2021-40127 
+CVE-2021-40120 
+CVE-2021-34784 
+CVE-2021-34701 
+CVE-2021-34774 
+CVE-2021-34731 
+CVE-2021-40124 
+Fabricante
+
+Cisco 
+Productos afectados 
+Cisco Policy Suite 21.1.0 y anteriores. 
+Cisco Catalyst PON Switch CGP-ONT-1P 
+Cisco Catalyst PON Switch CGP-ONT-4P 
+Cisco Catalyst PON Switch CGP-ONT-4PV 
+Cisco Catalyst PON Switch CGP-ONT-4PVC 
+Cisco Catalyst PON Switch CGP-ONT- 
+Cisco ESA con una versión vulnerable del software Cisco AsyncOS (13.0 y 
+anteriores, 13.5 y 13.7) 
+Productos Cisco corriendo una versión afectada del firmware: 
+250 Series Smart Switches 
+350 Series Managed Switches 
+350X Series Stackable Managed Switches 
+550X Series Stackable Managed Switches 
+Business 250 Series Smart Switches 
+Business 350 Series Managed Switches 
+ESW2 Series Advanced Switches 
+Small Business 200 Series Smart Switches 
+Small Business 300 Series Managed Switches

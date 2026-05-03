@@ -1,0 +1,28 @@
+Source: 13BCS21-000121-01.pdf | Page: 7 | Image: 13BCS21-000121-01_p07_01 (449x417px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidades graves en OpenSSL 
+Alerta de seguridad cibernética 
+9VSA21-00483-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de agosto de 2021
+
+Última revisión 
+25 de agosto de 2021
+
+CVE 
+CVE-2021-3711 
+CVE-2021-3712 
+Fabricante

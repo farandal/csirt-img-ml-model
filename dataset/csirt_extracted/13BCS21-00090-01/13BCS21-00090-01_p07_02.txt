@@ -1,0 +1,23 @@
+Source: 13BCS21-00090-01.pdf | Page: 7 | Image: 13BCS21-00090-01_p07_02 (431x143px)
+------------------------------------------------------------
+CSIRT informa campaña de malware con documentos para envío 
+Alerta de seguridad cibernética 
+2CMV21-00132-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de Enero de 2021
+
+Última revisión 
+19 de Enero de 2021

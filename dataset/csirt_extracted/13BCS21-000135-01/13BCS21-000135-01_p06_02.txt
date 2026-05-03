@@ -1,0 +1,24 @@
+Source: 13BCS21-000135-01.pdf | Page: 6 | Image: 13BCS21-000135-01_p06_02 (431x471px)
+------------------------------------------------------------
+CSIRT advierte phishing con supuesta actividad sospechosa del 
+Banco Ripley 
+Alerta de seguridad cibernética 
+8FPH21-00448-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+02 de diciembre de 2021
+
+Última revisión 
+02 de diciembre de 2021

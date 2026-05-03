@@ -1,0 +1,34 @@
+Source: 13BCS21-000140-01.pdf | Page: 7 | Image: 13BCS21-000140-01_p07_01 (431x400px)
+------------------------------------------------------------
+CSIRT alerta de nuevas vulnerabilidades en Google Chrome 
+Alerta de seguridad cibernética 
+9VSA21-00540-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de enero de 2022
+
+Última revisión 
+5 de enero de 2022
+
+CVE 
+CVE-2022-0109    -    CVE-2022-0120    -    CVE-2022-0118 
+CVE-2022-0116    -    CVE-2022-0115    -    CVE-2022-0114 
+CVE-2022-0113    -    CVE-2022-0112    -    CVE-2022-0111 
+CVE-2022-0110    -    CVE-2022-0108    -    CVE-2022-0096 
+CVE-2022-0107    -    CVE-2022-0106    -    CVE-2022-0105 
+CVE-2022-0104    -    CVE-2022-0103    -    CVE-2022-0102 
+CVE-2022-0101    -    CVE-2022-0100    -    CVE-2022-0099 
+CVE-2022-0098    -    CVE-2022-0097    -    CVE-2022-0117 
+Fabricante

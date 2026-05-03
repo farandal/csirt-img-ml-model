@@ -1,0 +1,23 @@
+Source: 13BCS21-000114-01.pdf | Page: 6 | Image: 13BCS21-000114-01_p06_01 (449x417px)
+------------------------------------------------------------
+CSIRT alerta por vulnerabilidades en Sage X3 
+Alerta de seguridad cibernética 
+9VSA21-00464-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de julio de 2021
+
+Última revisión 
+7 de julio de 2021

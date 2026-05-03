@@ -1,0 +1,58 @@
+Source: 13BCS21-000141-01.pdf | Page: 6 | Image: 13BCS21-000141-01_p06_02 (569x527px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades Microsoft Update Tuesday 
+Enero 2022 
+Alerta de seguridad cibernética 
+9VSA21-00545-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de enero de 2022
+
+Última revisión 
+12 de enero de 2022
+
+CVE 
+CVE-2021-22947 
+CVE-2021-36976 
+CVE-2022-21833 
+CVE-2022-21834 
+CVE-2022-21835 
+CVE-2022-21836 
+CVE-2022-21837 
+CVE-2022-21838 
+CVE-2022-21839 
+CVE-2022-21840
+
+CVE-2022-21869 
+CVE-2022-21870 
+CVE-2022-21871 
+CVE-2022-21872 
+CVE-2022-21873 
+CVE-2022-21874 
+CVE-2022-21875 
+CVE-2022-21876 
+CVE-2022-21877 
+CVE-2022-21878
+
+CVE-2022-21902 
+CVE-2022-21903 
+CVE-2022-21904 
+CVE-2022-21905 
+CVE-2022-21906 
+CVE-2022-21907 
+CVE-2022-21908 
+CVE-2022-21910 
+CVE-2022-21911 
+CVE-2022-21912

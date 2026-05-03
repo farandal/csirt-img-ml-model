@@ -1,0 +1,23 @@
+Source: 13BCS21-000122-01.pdf | Page: 4 | Image: 13BCS21-000122-01_p04_02 (400x663px)
+------------------------------------------------------------
+CSIRT alerta ante una página fraudulenta que suplanta al Banco Santander 
+Alerta de seguridad cibernética 
+8FFR21-01010-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+3 de septiembre de 2021
+
+Última revisión 
+3 de septiembre de 2021

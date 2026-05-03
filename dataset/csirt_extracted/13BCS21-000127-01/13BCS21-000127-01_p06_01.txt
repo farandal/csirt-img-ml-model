@@ -1,0 +1,23 @@
+Source: 13BCS21-000127-01.pdf | Page: 6 | Image: 13BCS21-000127-01_p06_01 (442x383px)
+------------------------------------------------------------
+CSIRT alerta de campaña de smishing que suplanta al Banco de Chile 
+Alerta de seguridad cibernética 
+8FPH21-00437-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de octubre de 2021
+
+Última revisión 
+5 de octubre de 2021

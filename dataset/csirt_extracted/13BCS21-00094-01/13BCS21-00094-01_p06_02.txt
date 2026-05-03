@@ -1,0 +1,23 @@
+Source: 13BCS21-00094-01.pdf | Page: 6 | Image: 13BCS21-00094-01_p06_02 (431x211px)
+------------------------------------------------------------
+CSIRT advierte smishing de tarjeta de crédito bloqueada 
+Alerta de seguridad cibernética 
+8FPH21-00375-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de Febrero de 2021
+
+Última revisión 
+18 de Febrero de 2021

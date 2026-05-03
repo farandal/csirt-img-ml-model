@@ -1,0 +1,23 @@
+Source: 13BCS21-00091-01.pdf | Page: 4 | Image: 13BCS21-00091-01_p04_01 (431x255px)
+------------------------------------------------------------
+CSIRT informa portal de firma electrónica falso 
+Alerta de seguridad cibernética 
+8FFR21-00878-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de Enero de 2021
+
+Última revisión 
+22 de Enero de 2021

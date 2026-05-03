@@ -1,0 +1,27 @@
+Source: 13BCS21-000138-01.pdf | Page: 6 | Image: 13BCS21-000138-01_p06_01 (431x400px)
+------------------------------------------------------------
+CSIRT comparte nueva vulnerabilidad y mitigaciones para Apache Log4j 2 
+Alerta de seguridad cibernética 
+9VSA21-00535-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de diciembre de 2021
+
+Última revisión 
+18 de diciembre de 2021
+
+CVE 
+CVE-2021-45105 
+Fabricante

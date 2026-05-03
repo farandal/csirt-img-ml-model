@@ -1,0 +1,47 @@
+Source: 13BCS21-000126-01.pdf | Page: 8 | Image: 13BCS21-000126-01_p08_02 (449x417px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades graves en Microsoft Edge 
+Alerta de seguridad cibernética 
+9VSA21-00500-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 de septiembre de 2021
+
+Última revisión 
+29 de septiembre de 2021
+
+CVE 
+CVE-2021-37965 
+CVE-2021-37964 
+CVE-2021-37957 
+CVE-2021-37958 
+CVE-2021-37959 
+CVE-2021-37960
+
+CVE-2021-37961 
+CVE-2021-37962 
+CVE-2021-37963 
+CVE-2021-37956 
+CVE-2021-37973 
+CVE-2021-37966
+
+CVE-2021-37967 
+CVE-2021-37968 
+CVE-2021-37969 
+CVE-2021-37970 
+CVE-2021-37971 
+CVE-2021-37972
+
+Fabricante

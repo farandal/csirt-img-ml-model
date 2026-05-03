@@ -1,0 +1,25 @@
+Source: 13BCS21-000135-01.pdf | Page: 3 | Image: 13BCS21-000135-01_p03_01 (431x369px)
+------------------------------------------------------------
+CSIRT informa suplantación de sitio web del Banco Santander 
+Alerta de seguridad cibernética 
+8FFR21-01023-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o
+
+Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 de Noviembre de 2021
+
+Última revisión 
+26 de Noviembre de 2021

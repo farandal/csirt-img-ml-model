@@ -1,0 +1,27 @@
+Source: 13BCS21-000116-01.pdf | Page: 6 | Image: 13BCS21-000116-01_p06_01 (449x417px)
+------------------------------------------------------------
+CSIRT alerta de nueva vulnerabilidad en Windows Print Spooler de Microsoft 
+Alerta de seguridad cibernética 
+9VSA21-00470-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de julio de 2021
+
+Última revisión 
+19 de julio de 2021
+
+CVE 
+CVE-2021-34481 
+Fabricante

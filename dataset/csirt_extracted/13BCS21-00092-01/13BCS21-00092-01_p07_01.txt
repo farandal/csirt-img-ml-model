@@ -1,0 +1,23 @@
+Source: 13BCS21-00092-01.pdf | Page: 7 | Image: 13BCS21-00092-01_p07_01 (188x163px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades entregadas por Mozilla 
+Alerta de seguridad cibernética 
+9VSA21-00379-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 de Enero de 2021
+
+Última revisión 
+29 de Enero de 2021

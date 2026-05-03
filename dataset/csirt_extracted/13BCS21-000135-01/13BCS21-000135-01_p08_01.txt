@@ -1,0 +1,63 @@
+Source: 13BCS21-000135-01.pdf | Page: 8 | Image: 13BCS21-000135-01_p08_01 (431x401px)
+------------------------------------------------------------
+CSIRT comparte IoC de campaña de phishing con malware descubierta por la 
+PDI, para su bloqueo 
+Alerta de seguridad cibernética 
+2CMV21-00252-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 de Noviembre de 2021
+
+Última revisión 
+29 de Noviembre de 2021
+
+Indicadores de compromiso 
+SHA256 
+5afda8caa4b0965e6e98b66b677f0d31f0b6e863da591a98fc3991b62a26d9fb 
+b0562deb87049cf41c53484bc5705cffb6e5798d29c804fc25ef1fc79dccb680 
+37ec1209daa15ba2bb2a9d9c372960703125e0b0acfa0736cb2ae10edfad7d62 
+59d14a53849a19d0dd5ccaf63a85955adbd313c9ec7d92422c0fcdda357b8ce0 
+1acebc9946af2303aae313154909c31ce6b01c7d9e78392f414e0088cbae4ac9 
+IoC URL incluidos los archivos  
+https://klevvrtech[.]com/zxywJAC24KJ/ji.html 
+https://srkcampus[.]org/OYcMRJbL/ji.html 
+https://stebet[.]co.id/fbmKk6n48G/ji.htm 
+https://headlineproductions[.]ro/rOJX6ai7AkZE/op.html 
+https://jrcapital[.]uk/eft8gfFqw/op.html 
+https://lc-bilingua[.]com/8wp9k9RPDzn/op.html 
+IoC URL  similitud 
+acelle.rey[.]agency/corruptiaperiam/explicaboaut-5364880 
+acelle.rey[.]agency/corruptiaperiam/magnamsint-5523695 
+acelle.rey[.]agency/corruptiaperiam/minusqui-5521155 
+acelle.rey[.]agency/corruptiaperiam/namiure-5429433 
+acelle.rey[.]agency/corruptiaperiam/quidemea-5422513 
+acelle.rey[.]agency/corruptiaperiam/quiin-5442646 
+andyhermawan[.]net/doloresearum/eaqueaut-6475420 
+dev.plussizenation[.]com/eumin/etquia-5364880 
+dev.plussizenation[.]com/eumin/insed-5422513 
+dev.plussizenation[.]com/eumin/maioresaperiam-5508573 
+dev.plussizenation[.]com/eumin/natussapiente-5365031 
+dev.plussizenation[.]com/eumin/quiadeserunt-6461399 
+dev.plussizenation[.]com/eumin/repellatperspiciatis-6486302 
+dev.plussizenation[.]com/eumin/uthic-5523695 
+emailverify.rey[.]agency/exercitationemaccusantium/corporisquo-5442646 
+emailverify.rey[.]agency/exercitationemaccusantium/quinecessitatibus-
+5521155 
+erp.rey[.]agency/repellatreprehenderit/aliasaut-6473321 
+erp.rey[.]agency/repellatreprehenderit/delenitiatque-6493436 
+erp.rey[.]agency/repellatreprehenderit/iureducimus-6470868 
+heat.rey[.]agency/temporeconsequuntur/iureid-5516255 
+monsolde[.]ch/modiquae/debitismolestias-5508573 
+monsolde[.]ch/modiquae/debitisvoluptatem-5365031

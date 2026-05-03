@@ -1,0 +1,74 @@
+Source: 13BCS21-000112-01.pdf | Page: 10 | Image: 13BCS21-000112-01_p10_02 (449x417px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidades graves en productos Dell 
+Alerta de seguridad cibernética 
+9VSA21-00459-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de junio de 2021
+
+Última revisión 
+24 de junio de 2021
+
+CVE 
+CVE-2021-21571 
+CVE-2021-21572 
+CVE-2021-21573 
+CVE-2021-21574
+
+Fabricante 
+Dell 
+Productos afectados 
+Alienware m15 R6 
+ChengMing 3990 
+ChengMing 3991 
+Dell G15 5510 
+Dell G15 5511 
+Dell G3 3500 
+Dell G5 5500 
+Dell G7 7500 
+Dell G7 7700 
+Inspiron 14 5418 
+Inspiron 15 5518 
+Inspiron 15 7510 
+Inspiron 3501
+
+AIOInspiron 7706 
+2n1Latitude 3120 
+Latitude 3320 
+Latitude 3410 
+Latitude 3420 
+Latitude 3510 
+Latitude 3520 
+Latitude 5310 
+Latitude 5310 2 in 1 
+Latitude 5320 
+Latitude 5320 2-in-1 
+Latitude 5410 
+Latitude 5411
+
+Precision 3440 
+Precision 3450 
+Precision 3550 
+Precision 3551 
+Precision 3560 
+Precision 3561 
+Precision 3640 
+Precision 3650 MT 
+Precision 5550 
+Precision 5560 
+Precision 5760 
+Precision 7550 
+Precision 7560

@@ -1,0 +1,38 @@
+Source: 13BCS21-000122-01.pdf | Page: 7 | Image: 13BCS21-000122-01_p07_02 (449x417px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidades graves en productos de Cisco 
+Alerta de seguridad cibernética 
+9VSA21-00487-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 de agosto de 2021
+
+Última revisión 
+26 de agosto de 2021
+
+CVE 
+CVE-2019-1727 
+CVE-2021-1518 
+CVE-2021-1578 
+CVE-2021-1579 
+CVE-2021-1580 
+CVE-2021-1581 
+CVE-2021-1582 
+CVE-2021-1587 
+CVE-2021-1588 
+CVE-2021-1590 
+CVE-2021-1591 
+CVE-2021-1592 
+CVE-2021-22156

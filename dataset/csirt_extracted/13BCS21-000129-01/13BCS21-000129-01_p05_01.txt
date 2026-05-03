@@ -1,0 +1,23 @@
+Source: 13BCS21-000129-01.pdf | Page: 5 | Image: 13BCS21-000129-01_p05_01 (445x317px)
+------------------------------------------------------------
+CSIRT informa phishing con malware a través de una supuesta cotización 
+Alerta de seguridad cibernética 
+2CMV21-00238-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de octubre de 2021
+
+Última revisión 
+19 de octubre de 2021

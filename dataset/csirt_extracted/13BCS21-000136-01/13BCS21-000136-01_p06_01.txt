@@ -1,0 +1,35 @@
+Source: 13BCS21-000136-01.pdf | Page: 6 | Image: 13BCS21-000136-01_p06_01 (431x400px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades críticas en VPN de SonicWall 
+Alerta de seguridad cibernética 
+9VSA21-00530-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de diciembre de 2021
+
+Última revisión 
+9 de diciembre de 2021
+
+CVE 
+CVE-2021-20038 
+CVE-2021-20045 
+CVE-2021-20043 
+CVE-2021-20040 
+CVE-2021-20039 
+CVE-2021-20041 
+CVE-2021-20042 
+CVE-2021-20044 
+CVE-2021-20045 
+Fabricante

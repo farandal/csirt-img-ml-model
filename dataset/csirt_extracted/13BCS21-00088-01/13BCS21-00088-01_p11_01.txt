@@ -1,0 +1,23 @@
+Source: 13BCS21-00088-01.pdf | Page: 11 | Image: 13BCS21-00088-01_p11_01 (188x163px)
+------------------------------------------------------------
+CSIRT comparte mitigaciones obtenidas de IBM Cloud Pak System 
+Alerta de seguridad cibernética 
+9VSA20-00352-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+06 de Enero de 2021
+
+Última revisión 
+06 de Enero de 2021

@@ -1,0 +1,23 @@
+Source: 13BCS21-00091-01.pdf | Page: 9 | Image: 13BCS21-00091-01_p09_02 (431x569px)
+------------------------------------------------------------
+CSIRT advierte phishing de bloqueo de cuenta 
+Alerta de seguridad cibernética 
+8FPH21-00361-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de Enero de 2021
+
+Última revisión 
+25 de Enero de 2021

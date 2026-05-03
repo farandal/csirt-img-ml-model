@@ -1,0 +1,23 @@
+Source: 13BCS21-000128-01.pdf | Page: 3 | Image: 13BCS21-000128-01_p03_01 (438x378px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing con malware que suplanta a DHL 
+Alerta de seguridad cibernética 
+2CMV21-00230-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de octubre de 2021
+
+Última revisión 
+12 de octubre de 2021

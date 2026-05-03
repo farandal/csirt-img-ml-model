@@ -1,0 +1,23 @@
+Source: 13BCS21-00088-01.pdf | Page: 10 | Image: 13BCS21-00088-01_p10_02 (188x163px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades obtenidas de Node.js 
+Alerta de seguridad cibernética 
+9VSA20-00351-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+05 de Enero de 2021
+
+Última revisión 
+05 de Enero de 2021

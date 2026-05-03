@@ -1,0 +1,119 @@
+Source: 13BCS21-000124-01.pdf | Page: 7 | Image: 13BCS21-000124-01_p07_01 (449x417px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades compartidas por Microsoft en su Update 
+Tuesday de septiembre 
+Alerta de seguridad cibernética 
+9VSA21-00493-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de septiembre de 2021
+
+Última revisión 
+15 de septiembre de 2021
+
+CVE 
+CVE-2021-26434 
+CVE-2021-26435 
+CVE-2021-26436 
+CVE-2021-26437 
+CVE-2021-26439 
+CVE-2021-36930 
+CVE-2021-36952 
+CVE-2021-36954 
+CVE-2021-36955 
+CVE-2021-36956 
+CVE-2021-36959 
+CVE-2021-36960 
+CVE-2021-36961 
+CVE-2021-36962 
+CVE-2021-36963 
+CVE-2021-36964 
+CVE-2021-36965
+
+CVE-2021-36966 
+CVE-2021-36967 
+CVE-2021-36968 
+CVE-2021-36969 
+CVE-2021-36972 
+CVE-2021-36973 
+CVE-2021-36974 
+CVE-2021-36975 
+CVE-2021-38624 
+CVE-2021-38625 
+CVE-2021-38626 
+CVE-2021-38628 
+CVE-2021-38629 
+CVE-2021-38630 
+CVE-2021-38632 
+CVE-2021-38633
+
+CVE-2021-38634 
+CVE-2021-38635 
+CVE-2021-38636 
+CVE-2021-38637 
+CVE-2021-38638 
+CVE-2021-38639 
+CVE-2021-38641 
+CVE-2021-38642 
+CVE-2021-38644 
+CVE-2021-38645 
+CVE-2021-38646 
+CVE-2021-38647 
+CVE-2021-38648 
+CVE-2021-38649 
+CVE-2021-38650 
+CVE-2021-38651 
+CVE-2021-38652
+
+CVE-2021-38653 
+CVE-2021-38654 
+CVE-2021-38655 
+CVE-2021-38656 
+CVE-2021-38657 
+CVE-2021-38658 
+CVE-2021-38659 
+CVE-2021-38660 
+CVE-2021-38661 
+CVE-2021-38667 
+CVE-2021-38669 
+CVE-2021-38671 
+CVE-2021-40440 
+CVE-2021-40444 
+CVE-2021-40447 
+CVE-2021-40448
+
+Fabricante
+
+Microsoft 
+Productos afectados 
+Accessibility Insights for Android 
+Azure Open Management Infrastructure 
+Azure Sphere 
+HEVC Video Extensions 
+Microsoft 365 Apps for Enterprise for 32-bit Systems 
+Microsoft 365 Apps for Enterprise for 64-bit Systems 
+Microsoft Dynamics 365 Business Central 2020 Release Wave 2 – Update 
+17.10 
+Microsoft Dynamics 365 Business Central 2021 Release Wave 1 – Update 
+18.5 
+Microsoft Edge (Chromium-based) 
+Microsoft Edge for Android 
+Microsoft Excel 2013 RT Service Pack 1 
+Microsoft Excel 2013 Service Pack 1 (32-bit editions) 
+Microsoft Excel 2013 Service Pack 1 (64-bit editions) 
+Microsoft Excel 2016 (32-bit edition) 
+Microsoft Excel 2016 (64-bit edition) 
+Microsoft Office 2013 RT Service Pack 1 
+Microsoft Office 2013 Service Pack 1 (32-bit editions)

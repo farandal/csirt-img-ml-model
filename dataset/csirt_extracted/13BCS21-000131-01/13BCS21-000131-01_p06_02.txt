@@ -1,0 +1,23 @@
+Source: 13BCS21-000131-01.pdf | Page: 6 | Image: 13BCS21-000131-01_p06_02 (431x250px)
+------------------------------------------------------------
+CSIRT informa phishing con malware supuestamente de la TGR 
+Alerta de seguridad cibernética 
+2CMV21-00243-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+03 de Noviembre de 2021
+
+Última revisión 
+03 de Noviembre de 2021

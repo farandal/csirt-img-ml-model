@@ -1,0 +1,64 @@
+Source: 13BCS21-000131-01.pdf | Page: 10 | Image: 13BCS21-000131-01_p10_01 (431x400px)
+------------------------------------------------------------
+CSIRT alerta de nuevas vulnerabilidades en Android 
+Alerta de seguridad cibernética 
+9VSA21-00517-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+03 de Noviembre de 2021
+
+Última revisión 
+03 de Noviembre de 2021
+
+CVE 
+CVE-2021-0799 
+CVE-2021-0921 
+CVE-2021-0923 
+CVE-2021-0926 
+CVE-2021-0933 
+CVE-2020-13871 
+CVE-2021-0653 
+CVE-2021-0922 
+CVE-2021-0928 
+CVE-2021-0650 
+CVE-2021-0918 
+CVE-2021-0930 
+CVE-2021-0434 
+CVE-2021-0649 
+CVE-2021-0932 
+CVE-2021-0925 
+CVE-2021-0931 
+CVE-2021-0919 
+CVE-2021-0920
+
+Vulnerabilidades críticas  
+CVE-2021-0918 
+CVE-2021-0930 
+CVE-2021-0889 
+CVE-2021-1924 
+CVE-2021-1975 
+ 
+Vulnerabilidades de riesgo alto 
+CVE-2021-0799 
+CVE-2021-0921 
+CVE-2021-0923 
+CVE-2021-0926 
+CVE-2021-0933 
+CVE-2020-13871 
+CVE-2021-0653 
+CVE-2021-0928 
+CVE-2021-0650 
+CVE-2021-0434 
+CVE-2021-0649

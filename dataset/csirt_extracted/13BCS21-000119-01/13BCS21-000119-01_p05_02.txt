@@ -1,0 +1,23 @@
+Source: 13BCS21-000119-01.pdf | Page: 5 | Image: 13BCS21-000119-01_p05_02 (441x136px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing para difundir malware 
+Alerta de seguridad cibernética 
+2CMV21-00211-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de agosto de 2021
+
+Última revisión 
+12 de agosto de 2021

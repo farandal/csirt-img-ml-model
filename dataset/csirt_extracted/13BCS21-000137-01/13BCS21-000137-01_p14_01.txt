@@ -1,0 +1,65 @@
+Source: 13BCS21-000137-01.pdf | Page: 14 | Image: 13BCS21-000137-01_p14_01 (431x400px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades informadas en el Update Tuesday de 
+Microsoft para diciembre 
+Alerta de seguridad cibernética 
+9VSA21-00533-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de diciembre de 2021
+
+Última revisión 
+ 
+14 de diciembre de 2021
+
+CVE 
+CVE-2021-43905   -   CVE-2021-43899   -   CVE-2021-42310 
+CVE-2021-43233   -   CVE-2021-43217   -   CVE-2021-43215 
+CVE-2021-43907   -   CVE-2021-43892   -   CVE-2021-43908 
+CVE-2021-43896   -   CVE-2021-43893   -   CVE-2021-43877 
+CVE-2021-43891   -   CVE-2021-43889   -   CVE-2021-43888 
+CVE-2021-43883   -   CVE-2021-41365   -   CVE-2021-42315 
+CVE-2021-42314   -   CVE-2021-42313   -   CVE-2021-42312 
+CVE-2021-42311   -   CVE-2021-43882   -   CVE-2021-43880 
+CVE-2021-43875   -   CVE-2021-43256   -   CVE-2021-43255 
+CVE-2021-43248   -   CVE-2021-43247   -   CVE-2021-43246 
+CVE-2021-43245   -   CVE-2021-43244   -   CVE-2021-43243 
+CVE-2021-43240   -   CVE-2021-43239   -   CVE-2021-43238 
+CVE-2021-43237   -   CVE-2021-43236   -   CVE-2021-43235 
+CVE-2021-43234   -   CVE-2021-43232   -   CVE-2021-43231 
+CVE-2021-43230   -   CVE-2021-43229   -   CVE-2021-43228 
+CVE-2021-43227   -   CVE-2021-43226   -   CVE-2021-43225 
+CVE-2021-43224   -   CVE-2021-43223   -   CVE-2021-43222 
+CVE-2021-43216   -   CVE-2021-43214   -   CVE-2021-42320 
+CVE-2021-42295   -   CVE-2021-42293   -   CVE-2021-41360 
+CVE-2021-43890   -   CVE-2021-42294   -   CVE-2021-41333 
+CVE-2021-40453   -   CVE-2021-40452   -   CVE-2021-40441 
+CVE-2021-43242   -   CVE-2021-42309   -   CVE-2021-43207 
+CVE-2021-43219 
+Fabricante
+
+Microsoft 
+Productos afectados 
+App Installer 
+ASP.NET Core 6.0 
+Bot Framework SDK for .NET Framework 
+HEVC Video Extensions 
+Microsoft 4K Wireless Display Adapter 
+Microsoft BizTalk ESB Toolkit 2.3 
+Microsoft Defender for IoT 
+Microsoft Office 2013 Service Pack 1 (64-bit editions) 
+Microsoft Office LTSC 2021 for 32-bit editions 
+Microsoft Office Web Apps Server 2013 Service Pack 1 
+Microsoft SharePoint Foundation 2013 Service Pack 1

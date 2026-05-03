@@ -1,0 +1,23 @@
+Source: 13BCS21-00094-01.pdf | Page: 8 | Image: 13BCS21-00094-01_p08_01 (431x396px)
+------------------------------------------------------------
+CSIRT advierte de vulnerabilidades que afectan a productos Red Hat 
+Alerta de seguridad cibernética 
+9VSA21-00391-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de Febrero de 2021
+
+Última revisión 
+16 de Febrero de 2021

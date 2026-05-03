@@ -1,0 +1,23 @@
+Source: 13BCS21-00089-01.pdf | Page: 7 | Image: 13BCS21-00089-01_p07_02 (431x375px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades obtenidas por Google 
+Alerta de seguridad cibernética 
+9VSA21-00354-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+07 de Enero de 2021
+
+Última revisión 
+07 de Enero de 2021

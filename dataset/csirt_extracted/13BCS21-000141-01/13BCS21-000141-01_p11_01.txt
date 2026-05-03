@@ -1,0 +1,67 @@
+Source: 13BCS21-000141-01.pdf | Page: 11 | Image: 13BCS21-000141-01_p11_01 (569x527px)
+------------------------------------------------------------
+CSIRT alerta de nuevas vulnerabilidades en productos de Adobe 
+Alerta de seguridad cibernética 
+9VSA21-00548-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de enero de 2022
+
+Última revisión 
+13 de enero de 2022
+
+CVE 
+CVE-2021-44715 
+CVE-2021-45068 
+CVE-2021-45067 
+CVE-2021-45064 
+CVE-2021-45063 
+CVE-2021-45062 
+CVE-2021-45061 
+CVE-2021-45060 
+CVE-2021-44742 
+CVE-2021-44741 
+CVE-2021-44740 
+CVE-2021-44739 
+CVE-2021-44714
+
+CVE-2021-44701 
+CVE-2021-44713 
+CVE-2021-44712 
+CVE-2021-44711 
+CVE-2021-44710 
+CVE-2021-44709 
+CVE-2021-44708 
+CVE-2021-44707 
+CVE-2021-44706 
+CVE-2021-44705 
+CVE-2021-44704 
+CVE-2021-44703 
+CVE-2021-44702
+
+CVE-2021-44187 
+CVE-2021-44186 
+CVE-2021-44185 
+CVE-2021-44743 
+CVE-2021-45051 
+CVE-2021-45052 
+CVE-2021-43752 
+CVE-2021-44700 
+CVE-2021-45053 
+CVE-2021-45056 
+CVE-2021-45054 
+CVE-2021-45055
+
+Fabricante

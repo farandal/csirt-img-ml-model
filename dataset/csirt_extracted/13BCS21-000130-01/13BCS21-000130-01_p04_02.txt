@@ -1,0 +1,23 @@
+Source: 13BCS21-000130-01.pdf | Page: 4 | Image: 13BCS21-000130-01_p04_02 (431x255px)
+------------------------------------------------------------
+CSIRT advierte de phishing por supuesto cobro de IFE Universal 
+Alerta de seguridad cibernética 
+8FPH21-00438-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 de Octubre de 2021
+
+Última revisión 
+26 de Octubre de 2021

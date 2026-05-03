@@ -1,0 +1,28 @@
+Source: 13BCS21-000140-01.pdf | Page: 7 | Image: 13BCS21-000140-01_p07_02 (431x400px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades del servidor Apache HTTP Server 
+Alerta de seguridad cibernética 
+9VSA22-00541-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de diciembre de 2021
+
+Última revisión 
+14 de diciembre de 2021
+
+CVE 
+CVE-2021-44224 
+CVE-2021-44790 
+Fabricante

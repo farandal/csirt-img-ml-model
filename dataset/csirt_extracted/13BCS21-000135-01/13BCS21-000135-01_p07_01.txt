@@ -1,0 +1,24 @@
+Source: 13BCS21-000135-01.pdf | Page: 7 | Image: 13BCS21-000135-01_p07_01 (431x129px)
+------------------------------------------------------------
+CSIRT informa phishing vía WhatsApp con falsa promoción del 
+supermercado Jumbo 
+Alerta de seguridad cibernética 
+8FPH21-00449-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+02 de diciembre de 2021
+
+Última revisión 
+02 de diciembre de 2021

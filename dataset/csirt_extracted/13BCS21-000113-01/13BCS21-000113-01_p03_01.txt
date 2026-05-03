@@ -1,0 +1,24 @@
+Source: 13BCS21-000113-01.pdf | Page: 3 | Image: 13BCS21-000113-01_p03_01 (444x220px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de malware con phishing que suplanta a la 
+Tesorería General de la República 
+Alerta de seguridad cibernética 
+2CMV21-00199-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 de junio de 2021
+
+Última revisión 
+29 de junio de 2021

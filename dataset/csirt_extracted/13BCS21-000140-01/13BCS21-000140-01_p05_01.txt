@@ -1,0 +1,21 @@
+Source: 13BCS21-000140-01.pdf | Page: 5 | Image: 13BCS21-000140-01_p05_01 (496x775px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+31 de diciembre de 2021
+
+Última revisión 
+31 de diciembre de 2021

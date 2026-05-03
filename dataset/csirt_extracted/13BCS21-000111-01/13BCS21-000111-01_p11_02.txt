@@ -1,0 +1,24 @@
+Source: 13BCS21-000111-01.pdf | Page: 11 | Image: 13BCS21-000111-01_p11_02 (439x289px)
+------------------------------------------------------------
+CSIRT alerta por campaña de phishing que extorsiona con supuestas fotos 
+comprometedoras 
+Alerta de seguridad cibernética 
+8FPH21-00409-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de junio de 2021
+
+Última revisión 
+14 de junio de 2021

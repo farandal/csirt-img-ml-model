@@ -1,0 +1,23 @@
+Source: 13BCS21-000113-01.pdf | Page: 6 | Image: 13BCS21-000113-01_p06_01 (440x398px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing con falsa migración de Outlook 
+Alerta de seguridad cibernética 
+8FPH21-00415-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+1 de julio de 2021
+
+Última revisión 
+1 de julio de 2021

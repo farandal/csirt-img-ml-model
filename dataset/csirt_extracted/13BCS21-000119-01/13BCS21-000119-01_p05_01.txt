@@ -1,0 +1,23 @@
+Source: 13BCS21-000119-01.pdf | Page: 5 | Image: 13BCS21-000119-01_p05_01 (442x211px)
+------------------------------------------------------------
+CSIRT alerta por campaña de malware que suplanta a DHL 
+Alerta de seguridad cibernética 
+2CMV21-00210-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de agosto de 2021
+
+Última revisión 
+11 de agosto de 2021

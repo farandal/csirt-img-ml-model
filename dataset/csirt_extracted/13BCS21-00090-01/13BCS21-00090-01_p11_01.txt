@@ -1,0 +1,65 @@
+Source: 13BCS21-00090-01.pdf | Page: 11 | Image: 13BCS21-00090-01_p11_01 (431x375px)
+------------------------------------------------------------
+CSIRT advierte vulnerabilidades entregadas por Cisco 
+Alerta de seguridad cibernética 
+9VSA21-00367-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+08 de Enero de 2021
+
+Última revisión 
+08 de Enero de 2021
+
+CVE 
+CVE-2021-1242    -    CVE-2021-1311   -    CVE-2021-1145 
+CVE-2021-1224    -    CVE-2021-1236    -    CVE-2021-1258 
+CVE-2021-1240    -    CVE-2021-1127    -    CVE-2021-1245 
+CVE-2021-1246    -    CVE-2021-1131    -    CVE-2021-1267 
+CVE-2021-1238    -    CVE-2021-1239    -    CVE-2021-1126 
+CVE-2021-1130    -    CVE-2021-1226    -    CVE-2021-1143 
+Fabricante 
+Cisco 
+Productos afectados 
+CVE-2021-1242 
+Cisco Webex Teams, versiones anteriores a la 40.12.0.17293. 
+CVE-2021-1311 
+Cisco Webex Meetings Server. 0MR3 anteriores al Parche de Seguridad 5. 
+4.0MR3 anteriores al Parche de Seguridad 4. 
+CVE-2021-1145 
+Routers Cisco ASR 5000 Series si están ejecutando una versión de Cisco 
+StarOS previa a la 21.19.7. 
+CVE-2021-1224 
+Aparatos que usen el siguiente software 
+Software Cisco FTD anteriores al 6.6.0. 
+Software Snort Intrusion Protection System (IPS) para Cisco Unified Threat 
+Defense (UTD) para Cisco IOS XE anteriores a la version 17.2.1r. 
+Snort de Código abierto, versiones anteriores a la 2.9.16. 
+CVE-2021-1223 
+Aparatos que usen el siguiente software 
+Cisco Firepower Threat Defense (FTD) anteriores a la version 6.7.0. 
+Cisco UTD Snort IPS Engine para IOS XE, versiones anteriores a la 17.4.1. 
+Snort de código abierto, versiones anteriores a la 2.9.17. 
+CVE-2021-1236 
+Aparatos que usen el siguiente software: 
+Cisco Firepower Threat Defense (FTD) anteriores a la ersion 6.5.0.5. 
+Cisco UTD Snort IPS Engine para IOS XE, versiones anteriores a la 17.4.1. 
+Snort de código abierto, versiones anteriores a la 2.9.14.10. 
+CVE-2021-1258 
+AnyConnect Secure Mobiliy Client para Linux: versiones anteriores a la 
+4.9.03047. 
+AnyConnect Secure Mobiliy Client para MacOS: versiones anteriores a la 
+4.9.03047. 
+AnyConnect Secure Mobilty Client para Windows, versiones anteriores a la 
+4.9.03049.

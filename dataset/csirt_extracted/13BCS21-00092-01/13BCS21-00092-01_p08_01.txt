@@ -1,0 +1,66 @@
+Source: 13BCS21-00092-01.pdf | Page: 8 | Image: 13BCS21-00092-01_p08_01 (188x174px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades entregadas por Apple 
+Alerta de seguridad cibernética 
+9VSA21-00381-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+02 de Febrero de 2021
+
+Última revisión 
+02 de Febrero de 2021
+
+CVE 
+CVE-2021-1761    -    CVE-2020-29614 
+CVE-2021-1793 
+CVE-2021-1737 
+CVE-2021-1738 
+CVE-2021-1744 
+CVE-2021-1779 
+CVE-2021-1757 
+CVE-2021-1764 
+CVE-2021-1750 
+CVE-2020-29633 
+CVE-2021-1771 
+CVE-2021-1762 
+CVE-2021-1763 
+CVE-2021-1774 
+CVE-2021-1767 
+CVE-2021-1745 
+CVE-2021-1753 
+CVE-2021-1768 
+CVE-2021-1751 
+CVE-2020-27938 
+CVE-2021-1769 
+CVE-2021-1788 
+CVE-2021-1765 
+CVE-2021-1801 
+CVE-2021-1789 
+CVE-2021-1799 
+CVE-2021-1777 
+CVE-2021-1754 
+CVE-2021-1797 
+CVE-2021-1790 
+CVE-2020-27945 
+CVE-2021-1760 
+CVE-2021-1747 
+CVE-2021-1776 
+CVE-2021-1759 
+CVE-2021-1772 
+CVE-2021-1792 
+CVE-2021-1787 
+CVE-2021-1786 
+CVE-2020-27937 
+CVE-2021-1802

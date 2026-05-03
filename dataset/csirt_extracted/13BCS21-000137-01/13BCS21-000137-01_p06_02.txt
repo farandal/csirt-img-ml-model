@@ -1,0 +1,21 @@
+Source: 13BCS21-000137-01.pdf | Page: 6 | Image: 13BCS21-000137-01_p06_02 (557x495px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+14 de diciembre de 2021
+
+Última revisión 
+14 de diciembre de 2021

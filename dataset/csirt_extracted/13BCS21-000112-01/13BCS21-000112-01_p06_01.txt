@@ -1,0 +1,23 @@
+Source: 13BCS21-000112-01.pdf | Page: 6 | Image: 13BCS21-000112-01_p06_01 (443x306px)
+------------------------------------------------------------
+CSIRT alerta ante página fraudulenta que suplanta a Wells Fargo 
+Alerta de seguridad cibernética 
+8FFR21-00979-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de junio de 2021
+
+Última revisión 
+23 de junio de 2021

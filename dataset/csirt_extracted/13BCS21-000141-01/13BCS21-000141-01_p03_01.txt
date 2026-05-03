@@ -1,0 +1,25 @@
+Source: 13BCS21-000141-01.pdf | Page: 3 | Image: 13BCS21-000141-01_p03_01 (494x453px)
+------------------------------------------------------------
+CSIRT informa sitio que suplanta al Banco Ripley 
+Alerta de seguridad cibernética 
+8FFR21-01047-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o
+
+Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de enero de 2022
+
+Última revisión 
+7 de enero de 2022

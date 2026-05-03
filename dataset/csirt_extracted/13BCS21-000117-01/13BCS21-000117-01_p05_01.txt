@@ -1,0 +1,24 @@
+Source: 13BCS21-000117-01.pdf | Page: 5 | Image: 13BCS21-000117-01_p05_01 (444x398px)
+------------------------------------------------------------
+CSIRT advierte ante página fraudulenta que suplanta portal de correo de 
+Microsoft 
+Alerta de seguridad cibernética 
+8FFR21-00994-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de julio de 2021
+
+Última revisión 
+23 de julio de 2021

@@ -1,0 +1,37 @@
+Source: 13BCS21-000137-01.pdf | Page: 15 | Image: 13BCS21-000137-01_p15_01 (431x400px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidades en productos Apple 
+Alerta de seguridad cibernética 
+9VSA21-00534-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de diciembre de 2021
+
+Última revisión 
+ 
+14 de diciembre de 2021
+
+CVE 
+CVE-2021-30995   -   CVE-2021-30954   -   CVE-2021-30953 
+CVE-2021-30984   -   CVE-2021-30952   -   CVE-2021-30951 
+CVE-2021-30936   -   CVE-2021-30934   -   CVE-2021-30964 
+CVE-2021-30767   -   CVE-2021-30947   -   CVE-2021-30946 
+CVE-2021-30968   -   CVE-2021-30955   -   CVE-2021-30960 
+CVE-2021-30993   -   CVE-2021-30949   -   CVE-2021-30980 
+CVE-2021-30927   -   CVE-2021-30937   -   CVE-2021-30916 
+CVE-2021-30939   -   CVE-2021-30945   -   CVE-2021-30958 
+CVE-2021-30957   -   CVE-2021-30942   -   CVE-2021-30926 
+CVE-2021-30966 
+Fabricante

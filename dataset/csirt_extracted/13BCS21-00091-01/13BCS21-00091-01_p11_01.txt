@@ -1,0 +1,23 @@
+Source: 13BCS21-00091-01.pdf | Page: 11 | Image: 13BCS21-00091-01_p11_01 (431x266px)
+------------------------------------------------------------
+CSIRT advierte campaña de malware con supuesto presupuesto 
+Alerta de seguridad cibernética 
+2CMV21-00139-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de Enero de 2021
+
+Última revisión 
+27 de Enero de 2021

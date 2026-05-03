@@ -1,0 +1,127 @@
+Source: 13BCS21-000128-01.pdf | Page: 12 | Image: 13BCS21-000128-01_p12_01 (449x417px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades informadas por Microsoft en su Update 
+Tuesday de octubre 
+Alerta de seguridad cibernética 
+9VSA21-00505-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de octubre de 2021
+
+Última revisión 
+14 de octubre de 2021
+
+CVE 
+CVE-2021-41346 
+CVE-2021-40474 
+CVE-2021-41345 
+CVE-2020-1971 
+CVE-2021-3449 
+CVE-2021-3450 
+CVE-2021-41361 
+CVE-2021-40479 
+CVE-2021-36953 
+CVE-2021-40455 
+CVE-2021-41347 
+CVE-2021-41354 
+CVE-2021-41352 
+CVE-2021-36970 
+CVE-2021-41363 
+CVE-2021-41350 
+CVE-2021-41348 
+CVE-2021-34453 
+CVE-2021-41355
+
+CVE-2021-26427 
+CVE-2021-40457 
+CVE-2021-40481 
+CVE-2021-40480 
+CVE-2021-41344 
+CVE-2021-40484 
+CVE-2021-41343 
+CVE-2021-41342 
+CVE-2021-41357 
+CVE-2021-41353 
+CVE-2021-40471 
+CVE-2021-40472 
+CVE-2021-40454 
+CVE-2021-40485 
+CVE-2021-41340 
+CVE-2021-41339 
+CVE-2021-41338 
+CVE-2021-41337 
+CVE-2021-41336
+
+CVE-2021-41335 
+CVE-2021-41334 
+CVE-2021-41332 
+CVE-2021-41331 
+CVE-2021-41330 
+CVE-2021-26442 
+CVE-2021-26441 
+CVE-2021-40489 
+CVE-2021-40488 
+CVE-2021-40487 
+CVE-2021-40486 
+CVE-2021-40483 
+CVE-2021-40482 
+CVE-2021-40478 
+CVE-2021-40477 
+CVE-2021-40476 
+CVE-2021-40475 
+CVE-2021-40469
+
+CVE-2021-40470 
+CVE-2021-40467 
+CVE-2021-40466 
+CVE-2021-40465 
+CVE-2021-40468 
+CVE-2021-40463 
+CVE-2021-40464 
+CVE-2021-40462 
+CVE-2021-40460 
+CVE-2021-40461 
+CVE-2021-40456 
+CVE-2021-40473 
+CVE-2021-40449 
+CVE-2021-40450 
+CVE-2021-40443 
+CVE-2021-38672 
+CVE-2021-38663 
+CVE-2021-38662
+
+Fabricante
+
+Microsoft 
+Productos afectados 
+.NET 5.0 
+Intune management extension 
+Microsoft 365 Apps for Enterprise for 32-bit Systems 
+Microsoft 365 Apps for Enterprise for 64-bit Systems 
+Microsoft Dynamics 365 (on-premises) version 9.0 y 9.1 
+Microsoft Dynamics 365 Customer Engagement V9.0 
+Microsoft Dynamics 365 Customer Engagement V9.1 
+Microsoft Excel 2013 RT Service Pack 1 
+Microsoft Excel 2013 Service Pack 1 32-bit editions y 64-bit editions 
+Microsoft Excel 2016 32-bit edition) y 64-bit edition 
+Microsoft Exchange Server 2013 Cumulative Update 10, 11, 21 y 22 
+Microsoft Office 2013 RT Service Pack 1 
+Microsoft Office 2013 Service Pack 1 32-bit editions y 64-bit editions 
+Microsoft Office 201632-bit editions y 64-bit editions 
+Microsoft Office 2019 32-bit editions y 64-bit editions  
+Microsoft Office 2019 for Mac 
+Microsoft Office LTSC 2021 32-bit editions y 64-bit editions  
+Microsoft Office LTSC for Mac 2021 
+Microsoft Office Online Server
