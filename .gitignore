@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# PDFs (raw bulletins and working copies — tracked via dataset/ pipeline only)
+*.pdf
+
+# Dataset — raw PDFs and compressed copies (large binary assets)
+dataset/csirt_pdf/
+dataset/csirt_pdf_compressed/
+
+# Model artifacts (large binary files — rebuild with scripts/train.py)
+fraud_model/artifacts/index.faiss
+fraud_model/artifacts/embeddings.npy
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
