@@ -1,0 +1,20 @@
+Source: 13BCS23-000223-01.pdf | Page: 4 | Image: 13BCS23-000223-01_p04_02 (570x436px)
+------------------------------------------------------------
+CSIRT alerta de un nuevo sitio fraudulento que suplanta a Vans 
+Alerta de seguridad cibernética 
+8FFR23-01483-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 agosto, 2023
+
+Última revisión 
+8 agosto, 2023

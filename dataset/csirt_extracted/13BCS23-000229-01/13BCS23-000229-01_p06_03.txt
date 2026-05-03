@@ -1,0 +1,23 @@
+Source: 13BCS23-000229-01.pdf | Page: 6 | Image: 13BCS23-000229-01_p06_03 (1058x149px)
+------------------------------------------------------------
+CSIRT informa de parche a vulnerabilidad en Trend Micro Apex One y WFBS 
+Alerta de seguridad cibernética 
+9VSA23-00902-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 septiembre, 2023
+
+Última revisión 
+20 septiembre, 2023

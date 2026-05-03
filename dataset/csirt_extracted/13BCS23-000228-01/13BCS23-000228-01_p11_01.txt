@@ -1,0 +1,24 @@
+Source: 13BCS23-000228-01.pdf | Page: 11 | Image: 13BCS23-000228-01_p11_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de nueva vulnerabilidad crítica en Mozilla Firefox y 
+Thunderbird 
+Alerta de seguridad cibernética 
+9VSA23-00898-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 septiembre, 2023
+
+Última revisión 
+13 septiembre, 2023

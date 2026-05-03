@@ -1,0 +1,80 @@
+Source: 13BCS23-000231-01.pdf | Page: 9 | Image: 13BCS23-000231-01_p09_02 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información de actualización de seguridad mensual de Android 
+correspondiente a octubre 2023 
+Alerta de seguridad cibernética 
+9VSA23-00913-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 septiembre, 2023
+
+Última revisión 
+27 septiembre, 2023
+
+CVE 
+CVE-2023-21266 
+CVE-2023-40116 
+CVE-2023-40120 
+CVE-2023-40131 
+CVE-2023-40140 
+CVE-2023-40121 
+CVE-2023-40136 
+CVE-2023-40134 
+CVE-2023-40137 
+CVE-2023-40138 
+CVE-2023-40139 
+CVE-2023-21291 
+CVE-2023-21244
+
+CVE-2023-40117 
+CVE-2023-40129 
+CVE-2023-40125 
+CVE-2023-40128 
+CVE-2023-40130 
+CVE-2023-40123 
+CVE-2023-40127 
+CVE-2023-40133 
+CVE-2023-40135 
+CVE-2023-21252 
+CVE-2023-21253 
+CVE-2022-28348 
+CVE-2021-44828
+
+CVE-2023-4211 
+CVE-2023-33200 
+CVE-2023-34970 
+CVE-2023-20819 
+CVE-2023-32819 
+CVE-2023-32820 
+CVE-2023-40638 
+CVE-2023-33029 
+CVE-2023-33034 
+CVE-2023-33035 
+CVE-2023-24855 
+CVE-2023-28540 
+CVE-2023-33028
+
+CVE-2023-21673 
+CVE-2023-22385 
+CVE-2023-24843 
+CVE-2023-24844 
+CVE-2023-24847 
+CVE-2023-24848 
+CVE-2023-24849 
+CVE-2023-24850 
+CVE-2023-24853 
+CVE-2023-33026 
+CVE-2023-33027 
+CVE-2023-4863

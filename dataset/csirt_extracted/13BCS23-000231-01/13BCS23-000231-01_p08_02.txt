@@ -1,0 +1,24 @@
+Source: 13BCS23-000231-01.pdf | Page: 8 | Image: 13BCS23-000231-01_p08_02 (641x595px)
+------------------------------------------------------------
+CSIRT informa de parche publicado por Atlassian para vulnerabilidad crítica en 
+Confluence Data Center and Server 
+Alerta de seguridad cibernética 
+9VSA23-00912-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 octubre, 2023
+
+Última revisión 
+5 octubre, 2023

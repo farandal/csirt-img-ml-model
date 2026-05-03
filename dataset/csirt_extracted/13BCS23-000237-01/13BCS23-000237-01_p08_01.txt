@@ -1,0 +1,23 @@
+Source: 13BCS23-000237-01.pdf | Page: 8 | Image: 13BCS23-000237-01_p08_01 (867x633px)
+------------------------------------------------------------
+CSIRT alerta de nuevo sitio fraudulento que suplanta a zapatillas Munich 
+Alerta de seguridad cibernética 
+8FFR23-01556-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 noviembre, 2023
+
+Última revisión 
+13 noviembre, 2023

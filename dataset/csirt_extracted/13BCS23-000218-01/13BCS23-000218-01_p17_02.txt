@@ -1,0 +1,23 @@
+Source: 13BCS23-000218-01.pdf | Page: 17 | Image: 13BCS23-000218-01_p17_02 (636x590px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidad en Cisco ACI Multi-Site CloudSec 
+Alerta de seguridad cibernética 
+9VSA23-00856-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 julio, 2023
+
+Última revisión 
+6 julio, 2023

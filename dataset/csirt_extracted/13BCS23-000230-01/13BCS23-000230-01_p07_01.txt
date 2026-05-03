@@ -1,0 +1,24 @@
+Source: 13BCS23-000230-01.pdf | Page: 7 | Image: 13BCS23-000230-01_p07_01 (641x595px)
+------------------------------------------------------------
+CSIRT informa de nueva vulnerabilidad de día cero que afecta a Google Chrome, 
+parchada en su más reciente actualización 
+Alerta de seguridad cibernética 
+9VSA23-00909-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 septiembre, 2023
+
+Última revisión 
+28 septiembre, 2023

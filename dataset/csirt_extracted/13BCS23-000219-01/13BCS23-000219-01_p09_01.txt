@@ -1,0 +1,23 @@
+Source: 13BCS23-000219-01.pdf | Page: 9 | Image: 13BCS23-000219-01_p09_01 (582x427px)
+------------------------------------------------------------
+CSIRT alerta ante nueva campaña de phishing con malware, que suplanta a la PDI 
+Alerta de seguridad cibernética 
+2CMV23-00425-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 julio, 2023
+
+Última revisión 
+13 julio, 2023

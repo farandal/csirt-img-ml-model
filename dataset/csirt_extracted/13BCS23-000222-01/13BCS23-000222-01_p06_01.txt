@@ -1,0 +1,24 @@
+Source: 13BCS23-000222-01.pdf | Page: 6 | Image: 13BCS23-000222-01_p06_01 (459x393px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta un inicio de sesión de 
+correo electrónico 
+Alerta de seguridad cibernética 
+8FPH23-00864-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 julio, 2023
+
+Última revisión 
+28 julio, 2023

@@ -1,0 +1,20 @@
+Source: 13BCS23-000223-01.pdf | Page: 8 | Image: 13BCS23-000223-01_p08_01 (581x484px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta al Banco Santander 
+Alerta de seguridad cibernética 
+8FPH23-00873-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 agosto, 2023
+
+Última revisión 
+8 agosto, 2023

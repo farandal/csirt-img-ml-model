@@ -1,0 +1,23 @@
+Source: 13BCS23-000236-01.pdf | Page: 9 | Image: 13BCS23-000236-01_p09_02 (577x471px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware Agent Tesla 
+Alerta de seguridad cibernética 
+2CMV23-00432-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 noviembre, 2023
+
+Última revisión 
+6 noviembre, 2023

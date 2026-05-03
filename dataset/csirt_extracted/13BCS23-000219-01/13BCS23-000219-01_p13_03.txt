@@ -1,0 +1,66 @@
+Source: 13BCS23-000219-01.pdf | Page: 13 | Image: 13BCS23-000219-01_p13_03 (1058x149px)
+------------------------------------------------------------
+CSIRT informa vulnerabilidades parchadas por SAP en su SAP Security Patch Day de 
+Julio 2023 
+Alerta de seguridad cibernética 
+9VSA23-00862-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 julio, 2023
+
+Última revisión 
+12 julio, 2023
+
+CVE 
+CVE-2023-36922 
+CVE-2023-33989 
+CVE-2023-33987 
+CVE-2023-33991 
+CVE-2023-33990 
+CVE-2023-35871 
+CVE-2023-36925
+
+CVE-2023-36921 
+CVE-2023-35873 
+CVE-2023-35872 
+CVE-2023-35870 
+CVE-2023-33988 
+CVE-2023-36918 
+CVE-2023-36920
+
+CVE-2023-36919 
+CVE-2023-35874 
+CVE-2023-36917 
+CVE-2023-31405 
+CVE-2023-36924 
+CVE-2023-33992
+
+Fabricante 
+SAP 
+Productos afectados 
+SAP ECC and SAP S/4HANA (IS-OIL) versiones 600, 602, 603, 604, 605, 606, 617, 
+618, 800, 802, 803, 804, 805, 806, 807. 
+SAP Business Client, Versions -6.5, 7.0, 7.70. 
+SAP NetWeaver (BI CONT ADD ON), Versions –707, 737, 747, 757 
+SAP UI5 Variant Management, Versions –SAP_UI 750, SAP_UI 754, SAP_UI 755, 
+SAP_UI 756, SAP_UI 757, UI_700 200. 
+SAP SQL Anywhere, Version-17.0. 
+SAP Solution Manager (Diagnostic Agent), Versions –7.20. 
+SAP NetWeaver Process Integration (Runtime Workbench), Versions–
+SAP_XITOOL 7.50. 
+SAP NetWeaver Process Integration (Message Display Tool), Versions–SAP_XIAF 
+7.50. 
+SAP NetWeaver AS ABAP and ABAP Platform, Version -KRNL64NUC7.22, 
+KRNL64NUC 7.22EXT, KRNL64UC 7.22, KRNL64UC 7.22EXT, KRNL64UC 7.53,

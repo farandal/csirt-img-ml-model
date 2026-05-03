@@ -1,0 +1,42 @@
+Source: 13BCS23-000232-01.pdf | Page: 9 | Image: 13BCS23-000232-01_p09_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas en Google Chrome 118 
+Alerta de seguridad cibernética 
+9VSA23-00916-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 octubre, 2023
+
+Última revisión 
+12 octubre, 2023
+
+CVE 
+CVE-2023-5218 
+CVE-2023-5487 
+CVE-2023-5484 
+CVE-2023-5475
+
+CVE-2023-5483 
+CVE-2023-5481 
+CVE-2023-5476 
+CVE-2023-5474
+
+CVE-2023-5479 
+CVE-2023-5485 
+CVE-2023-5478
+
+CVE-2023-5477 
+CVE-2023-5486 
+CVE-2023-5473

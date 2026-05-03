@@ -1,0 +1,20 @@
+Source: 13BCS23-000223-01.pdf | Page: 6 | Image: 13BCS23-000223-01_p06_03 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que engaña con falsa actualización 
+Alerta de seguridad cibernética 
+8FPH23-00869-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 agosto, 2023
+
+Última revisión 
+7 agosto, 2023

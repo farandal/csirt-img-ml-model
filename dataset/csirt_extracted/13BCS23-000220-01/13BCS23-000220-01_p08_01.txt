@@ -1,0 +1,27 @@
+Source: 13BCS23-000220-01.pdf | Page: 8 | Image: 13BCS23-000220-01_p08_01 (399x345px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware en falsa cotización 
+Alerta de seguridad cibernética 
+2CMV23-00426-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 julio, 2023
+
+Última revisión 
+18 julio, 2023
+
+Indicadores de compromiso 
+URL-Dominio 
+http://195.178.120[.]24/PPZrQQAxIGIYpWRhmWDcUPp.vbs

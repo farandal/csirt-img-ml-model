@@ -1,0 +1,24 @@
+Source: 13BCS23-000229-01.pdf | Page: 8 | Image: 13BCS23-000229-01_p08_01 (641x595px)
+------------------------------------------------------------
+CSIRT informa de nuevas vulnerabilidades de riesgo alto en Jira, Confluence, 
+Bitbucket y Bamboo de Atlassian 
+Alerta de seguridad cibernética 
+9VSA23-00905-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 septiembre, 2023
+
+Última revisión 
+21 septiembre, 2023

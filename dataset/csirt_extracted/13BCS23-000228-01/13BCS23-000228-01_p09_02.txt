@@ -1,0 +1,24 @@
+Source: 13BCS23-000228-01.pdf | Page: 9 | Image: 13BCS23-000228-01_p09_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de nueva vulnerabilidad crítica que afecta a Google 
+Chrome 
+Alerta de seguridad cibernética 
+9VSA23-00896-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 septiembre, 2023
+
+Última revisión 
+12 septiembre, 2023

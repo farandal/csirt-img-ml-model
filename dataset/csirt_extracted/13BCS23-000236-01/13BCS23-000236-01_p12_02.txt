@@ -1,0 +1,24 @@
+Source: 13BCS23-000236-01.pdf | Page: 12 | Image: 13BCS23-000236-01_p12_02 (1058x149px)
+------------------------------------------------------------
+CSIRT informa de vulnerabilidades, dos de ellas críticas, que afectan a Veeam ONE 
+IT 
+Alerta de seguridad cibernética  
+9VSA23-00934-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 noviembre, 2023
+
+Última revisión 
+7 noviembre, 2023

@@ -1,0 +1,23 @@
+Source: 13BCS23-000234-01.pdf | Page: 4 | Image: 13BCS23-000234-01_p04_04 (1058x149px)
+------------------------------------------------------------
+CSIRT informa de nueva campaña de phishing suplantando a Zimbra 
+Alerta de seguridad cibernética 
+8FPH23-00902-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 octubre, 2023
+
+Última revisión 
+23 octubre, 2023

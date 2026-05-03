@@ -1,0 +1,45 @@
+Source: 13BCS23-000223-01.pdf | Page: 10 | Image: 13BCS23-000223-01_p10_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades parchadas por SAP en su SAP Security Patch Day 
+Agosto 2023 
+Alerta de seguridad cibernética 
+9VSA23-00877-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 agosto, 2023
+
+Última revisión 
+8 agosto, 2023
+
+CVE 
+CVE-2023-37484 
+CVE-2023-37483 
+CVE-2023-36922 
+CVE-2023-39439 
+CVE-2023-33989 
+CVE-2023-36923
+
+CVE-2023-39437 
+CVE-2023-37490 
+CVE-2023-37491 
+CVE-2023-33993 
+CVE-2023-37488 
+CVE-2023-37486
+
+CVE-2023-39436 
+CVE-2023-37487 
+CVE-2023-37492 
+CVE-2023-39440 
+CVE-2023-36926

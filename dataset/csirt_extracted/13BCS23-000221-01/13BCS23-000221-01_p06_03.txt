@@ -1,0 +1,23 @@
+Source: 13BCS23-000221-01.pdf | Page: 6 | Image: 13BCS23-000221-01_p06_03 (582x519px)
+------------------------------------------------------------
+CSIRT alerta de nuevo sitio fraudulento que suplanta a Banco Ripley 
+Alerta de seguridad cibernética 
+8FFR23-01477-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 julio, 2023
+
+Última revisión 
+27 julio, 2023

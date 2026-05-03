@@ -1,0 +1,20 @@
+Source: 13BCS23-000223-01.pdf | Page: 4 | Image: 13BCS23-000223-01_p04_03 (586x502px)
+------------------------------------------------------------
+CSIRT alerta de nueva página fraudulenta que suplanta a Tarjetas Cencosud 
+Alerta de seguridad cibernética 
+8FFR23-01484-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 agosto, 2023
+
+Última revisión 
+9 agosto, 2023

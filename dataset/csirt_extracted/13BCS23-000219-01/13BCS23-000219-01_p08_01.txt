@@ -1,0 +1,32 @@
+Source: 13BCS23-000219-01.pdf | Page: 8 | Image: 13BCS23-000219-01_p08_01 (746x577px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta al Ministerio de 
+Transportes 
+Alerta de seguridad cibernética 
+2CMV23-00423-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 julio, 2023
+
+Última revisión 
+12 julio, 2023
+
+Indicadores de compromiso 
+URL-Dominio 
+https://p-tekng.com/wp-content/themes/–
+/NEX/dasssashytsrfwewdw4w432dcadssswe32dsfwywyw67wjjehnsbvcdfreyd.ph
+p 
+SHA256   
+bc5b31facbded74c5fd435198a28ffad8e9191bcb7af3fccd6671de3849e08af

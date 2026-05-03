@@ -1,0 +1,41 @@
+Source: 13BCS23-000226-01.pdf | Page: 11 | Image: 13BCS23-000226-01_p11_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades nuevas en Mozilla Firefox 116 
+Alerta de seguridad cibernética 
+9VSA23-00889-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+31 agosto, 2023
+
+Última revisión 
+31 agosto, 2023
+
+CVE 
+CVE-2023-4573 
+CVE-2023-4574 
+CVE-2023-4575 
+CVE-2023-4576
+
+CVE-2023-4577 
+CVE-2023-4578 
+CVE-2023-4579
+
+CVE-2023-4580 
+CVE-2023-4581 
+CVE-2023-4582
+
+CVE-2023-4583 
+CVE-2023-4584 
+CVE-2023-4585

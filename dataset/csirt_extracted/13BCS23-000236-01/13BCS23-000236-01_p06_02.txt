@@ -1,0 +1,23 @@
+Source: 13BCS23-000236-01.pdf | Page: 6 | Image: 13BCS23-000236-01_p06_02 (717x522px)
+------------------------------------------------------------
+CSIRT alerta de nuevo sitio fraudulento que suplanta a Mizuno 
+Alerta de seguridad cibernética 
+8FFR23-01542-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 noviembre, 2023
+
+Última revisión 
+8 noviembre, 2023

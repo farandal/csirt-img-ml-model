@@ -1,0 +1,34 @@
+Source: 13BCS23-000226-01.pdf | Page: 10 | Image: 13BCS23-000226-01_p10_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades que afectan algunos productos de 
+Cisco 
+Alerta de seguridad cibernética 
+9VSA23-00886-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 agosto, 2023
+
+Última revisión 
+25 agosto, 2023
+
+CVE 
+CVE-2023-20168 
+CVE-2023-20169
+
+CVE-2023-20200 
+CVE-2023-20115
+
+CVE-2023-20234 
+CVE-2023-20230

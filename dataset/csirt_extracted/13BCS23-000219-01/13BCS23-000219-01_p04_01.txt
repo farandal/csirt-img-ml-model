@@ -1,0 +1,23 @@
+Source: 13BCS23-000219-01.pdf | Page: 4 | Image: 13BCS23-000219-01_p04_01 (599x458px)
+------------------------------------------------------------
+CSIRT alerta de nuevo sitio fraudulento que suplanta a CorreosChile 
+Alerta de seguridad cibernética 
+8FFR23-01457-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 julio, 2023
+
+Última revisión 
+7 julio, 2023

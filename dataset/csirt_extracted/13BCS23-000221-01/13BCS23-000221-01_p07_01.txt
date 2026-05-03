@@ -1,0 +1,23 @@
+Source: 13BCS23-000221-01.pdf | Page: 7 | Image: 13BCS23-000221-01_p07_01 (745x556px)
+------------------------------------------------------------
+CSIRT alerta de un nuevo sitio fraudulento que suplanta a Amazon 
+Alerta de seguridad cibernética 
+8FFR23-01478-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 julio, 2023
+
+Última revisión 
+27 julio, 2023

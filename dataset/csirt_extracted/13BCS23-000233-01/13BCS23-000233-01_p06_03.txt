@@ -1,0 +1,25 @@
+Source: 13BCS23-000233-01.pdf | Page: 6 | Image: 13BCS23-000233-01_p06_03 (1058x149px)
+------------------------------------------------------------
+CSIRT informa de nueva vulnerabilidad de día cero que afecta a Cisco IOS XE 
+Alerta de seguridad cibernética 
+9VSA23-00921-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 octubre, 2023
+
+Última revisión 
+16 octubre, 2023
+
+5

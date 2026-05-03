@@ -1,0 +1,24 @@
+Source: 13BCS23-000233-01.pdf | Page: 4 | Image: 13BCS23-000233-01_p04_01 (642x452px)
+------------------------------------------------------------
+CSIRT alerta de la activación de un nuevo sitio fraudulento que suplanta a Banco 
+Falabella 
+Alerta de seguridad cibernética 
+8FFR23-01540-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 octubre, 2023
+
+Última revisión 
+18 octubre, 2023

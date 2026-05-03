@@ -1,0 +1,32 @@
+Source: 13BCS23-000228-01.pdf | Page: 11 | Image: 13BCS23-000228-01_p11_03 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades en actualización mensual de 
+seguridad de Adobe 
+Alerta de seguridad cibernética 
+9VSA23-00899-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 septiembre, 2023
+
+Última revisión 
+14 septiembre, 2023
+
+CVE 
+CVE-2023-29305 
+CVE-2023-29306
+
+CVE-2023-26369 
+CVE-2023-38214 
+CVE-2023-38215

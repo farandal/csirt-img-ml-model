@@ -1,0 +1,23 @@
+Source: 13BCS23-000218-01.pdf | Page: 7 | Image: 13BCS23-000218-01_p07_02 (582x446px)
+------------------------------------------------------------
+CSIRT alerta ante nuevo sitio fraudulento que suplanta a IKEA 
+Alerta de seguridad cibernética 
+8FFR23-01447-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+4 julio, 2023
+
+Última revisión 
+4 julio, 2023

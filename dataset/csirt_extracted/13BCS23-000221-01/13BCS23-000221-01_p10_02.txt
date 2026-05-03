@@ -1,0 +1,22 @@
+Source: 13BCS23-000221-01.pdf | Page: 10 | Image: 13BCS23-000221-01_p10_02 (1058x149px)
+------------------------------------------------------------
+Alerta de seguridad cibernética 
+8FPH23-00863-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 julio, 2023
+
+Última revisión 
+27 julio, 2023

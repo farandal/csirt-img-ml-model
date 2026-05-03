@@ -1,0 +1,23 @@
+Source: 13BCS23-000224-01.pdf | Page: 4 | Image: 13BCS23-000224-01_p04_02 (569x510px)
+------------------------------------------------------------
+CSIRT alerta de nueva página fraudulenta que suplanta a Banco Santander 
+Alerta de seguridad cibernética 
+8FFR23-01487-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 agosto, 2023
+
+Última revisión 
+14 agosto, 2023

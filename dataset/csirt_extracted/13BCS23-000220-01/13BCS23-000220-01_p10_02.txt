@@ -1,0 +1,23 @@
+Source: 13BCS23-000220-01.pdf | Page: 10 | Image: 13BCS23-000220-01_p10_02 (636x590px)
+------------------------------------------------------------
+CSIRT informa vulnerabilidad crítica explotada en WooCommerce para WordPress 
+Alerta de seguridad cibernética 
+9VSA23-00866-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 julio, 2023
+
+Última revisión 
+18 julio, 2023

@@ -1,0 +1,123 @@
+Source: 13BCS23-000228-01.pdf | Page: 10 | Image: 13BCS23-000228-01_p10_02 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas en Update Tuesday de 
+Microsoft para septiembre 2023 
+Alerta de seguridad cibernética 
+9VSA23-00897-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 septiembre, 2023
+
+Última revisión 
+12 septiembre, 2023
+
+CVE 
+CVE-2023-4863 
+CVE-2023-41764 
+CVE-2023-39956 
+CVE-2023-38164 
+CVE-2023-38163 
+CVE-2023-38162 
+CVE-2023-38161 
+CVE-2023-38160 
+CVE-2023-38156 
+CVE-2023-38155 
+CVE-2023-38152 
+CVE-2023-38150 
+CVE-2023-38149 
+CVE-2023-38148 
+CVE-2023-38147 
+CVE-2023-38146
+
+CVE-2023-38144 
+CVE-2023-38143 
+CVE-2023-38142 
+CVE-2023-38141 
+CVE-2023-38140 
+CVE-2023-38139 
+CVE-2023-36886 
+CVE-2023-36805 
+CVE-2023-36804 
+CVE-2023-36803 
+CVE-2023-36802 
+CVE-2023-36801 
+CVE-2023-36800 
+CVE-2023-36799 
+CVE-2023-36796 
+CVE-2023-36794
+
+CVE-2023-36793 
+CVE-2023-36792 
+CVE-2023-36788 
+CVE-2023-36777 
+CVE-2023-36773 
+CVE-2023-36772 
+CVE-2023-36771 
+CVE-2023-36770 
+CVE-2023-36767 
+CVE-2023-36766 
+CVE-2023-36765 
+CVE-2023-36764 
+CVE-2023-36763 
+CVE-2023-36762 
+CVE-2023-36761 
+CVE-2023-36760
+
+CVE-2023-36759 
+CVE-2023-36758 
+CVE-2023-36757 
+CVE-2023-36756 
+CVE-2023-36745 
+CVE-2023-36744 
+CVE-2023-36742 
+CVE-2023-36740 
+CVE-2023-36739 
+CVE-2023-36736 
+CVE-2023-35355 
+CVE-2023-33136 
+CVE-2023-32051 
+CVE-2023-29332 
+CVE-2023-24936 
+CVE-2022-41303
+
+Fabricante 
+Microsoft 
+Productos afectados 
+.NET and Visual Studio 
+.NET Core & Visual Studio 
+.NET Framework 
+3D Builder 
+3D Viewer 
+Azure DevOps 
+Azure HDInsights 
+Microsoft Azure Kubernetes Service 
+Microsoft Dynamics 
+Microsoft Dynamics Finance & Operations 
+Microsoft Edge (Chromium-based) 
+Microsoft Exchange Server 
+Microsoft Identity Linux Broker 
+Microsoft Office 
+Microsoft Office Excel 
+Microsoft Office Outlook 
+Microsoft Office SharePoint 
+Microsoft Office Word 
+Microsoft Streaming Service 
+Microsoft Windows Codecs Library 
+Servicing Stack Updates 
+Visual Studio 
+Visual Studio Code 
+Windows Cloud Files Mini Filter Driver 
+Windows Common Log File System Driver 
+Windows Defender

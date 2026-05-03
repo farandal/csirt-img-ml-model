@@ -1,0 +1,55 @@
+Source: 13BCS23-000235-01.pdf | Page: 7 | Image: 13BCS23-000235-01_p07_03 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información de varias vulnerabilidades parchadas por Cisco en su 
+Cisco ASA, FMC, and FTD Software Security Advisory Bundled Publication 
+Alerta de seguridad cibernética  
+9VSA23-00931-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 noviembre, 2023
+
+Última revisión 
+2 noviembre, 2023
+
+CVE 
+CVE-2023-20048 
+CVE-2023-20086 
+CVE-2023-20095 
+CVE-2023-20244 
+CVE-2023-20083 
+CVE-2023-20063 
+CVE-2023-20155 
+CVE-2023-20219 
+CVE-2023-20220
+
+CVE-2023-20042 
+CVE-2023-20114 
+CVE-2023-20264 
+CVE-2023-20005 
+CVE-2023-20041 
+CVE-2023-20074 
+CVE-2023-20206 
+CVE-2023-20245 
+CVE-2023-20256
+
+CVE-2023-20270 
+CVE-2023-20246 
+CVE-2023-20071 
+CVE-2023-20247 
+CVE-2022-20713 
+CVE-2023-20070 
+CVE-2023-20267 
+CVE-2023-20031 
+CVE-2023-20177

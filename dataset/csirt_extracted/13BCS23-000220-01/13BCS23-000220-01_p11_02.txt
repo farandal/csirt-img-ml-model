@@ -1,0 +1,23 @@
+Source: 13BCS23-000220-01.pdf | Page: 11 | Image: 13BCS23-000220-01_p11_02 (1058x149px)
+------------------------------------------------------------
+CSIRT informa de tres vulnerabilidades en NetScaler de Citrix, una crítica 
+Alerta de seguridad cibernética 
+9VSA23-00867-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 julio, 2023
+
+Última revisión 
+18 julio, 2023

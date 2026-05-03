@@ -1,0 +1,23 @@
+Source: 13BCS23-000221-01.pdf | Page: 5 | Image: 13BCS23-000221-01_p05_01 (582x447px)
+------------------------------------------------------------
+CSIRT alerta de una nueva página fraudulenta que suplanta a Lippi 
+Alerta de seguridad cibernética 
+8FFR23-01472-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 julio, 2023
+
+Última revisión 
+24 julio, 2023

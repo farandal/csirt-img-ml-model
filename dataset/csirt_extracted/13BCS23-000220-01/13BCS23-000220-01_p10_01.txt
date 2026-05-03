@@ -1,0 +1,43 @@
+Source: 13BCS23-000220-01.pdf | Page: 10 | Image: 13BCS23-000220-01_p10_01 (636x590px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades críticas en SonicWall GMS y 
+Analytics 
+Alerta de seguridad cibernética 
+9VSA23-00865-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 julio, 2023
+
+Última revisión 
+17 julio, 2023
+
+CVE 
+CVE-2023-34123 
+CVE-2023-34124 
+CVE-2023-34125 
+CVE-2023-34126 
+CVE-2023-34127
+
+CVE-2023-34128 
+CVE-2023-34129 
+CVE-2023-34130 
+CVE-2023-34131 
+CVE-2023-34132
+
+CVE-2023-34133 
+CVE-2023-34134 
+CVE-2023-34135 
+CVE-2023-34136 
+CVE-2023-34137

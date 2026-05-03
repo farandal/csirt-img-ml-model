@@ -1,0 +1,55 @@
+Source: 13BCS23-000234-01.pdf | Page: 5 | Image: 13BCS23-000234-01_p05_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte de nuevas vulnerabilidades que fueron parchadas para Junos OS 
+Alerta de seguridad cibernética 
+9VSA23-00924-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 octubre, 2023
+
+Última revisión 
+24 octubre, 2023
+
+CVE 
+CVE-2023-44194 
+CVE-2023-44190 
+CVE-2023-44189 
+CVE-2023-36839 
+CVE-2023-44204 
+CVE-2023-44182 
+CVE-2023-44203 
+CVE-2023-44202 
+CVE-2023-44198 
+CVE-2023-44197
+
+CVE-2023-44196 
+CVE-2023-44195 
+CVE-2023-44187 
+CVE-2023-44201 
+CVE-2023-44199 
+CVE-2023-44188 
+CVE-2023-44191 
+CVE-2023-22392 
+CVE-2023-44192 
+CVE-2023-44178
+
+CVE-2023-44175 
+CVE-2023-36841 
+CVE-2023-36843 
+CVE-2023-44193 
+CVE-2023-44183 
+CVE-2023-44185 
+CVE-2023-44176 
+CVE-2023-44177

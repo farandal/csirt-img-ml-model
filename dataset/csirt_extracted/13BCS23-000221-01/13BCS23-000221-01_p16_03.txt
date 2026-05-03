@@ -1,0 +1,23 @@
+Source: 13BCS23-000221-01.pdf | Page: 16 | Image: 13BCS23-000221-01_p16_03 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidad crítica en MikroTik RouterOS 
+Alerta de seguridad cibernética 
+9VSA23-00872-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 julio, 2023
+
+Última revisión 
+26 julio, 2023

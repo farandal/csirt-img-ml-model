@@ -1,0 +1,59 @@
+Source: 13BCS23-000223-01.pdf | Page: 13 | Image: 13BCS23-000223-01_p13_03 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades en el Boletín de Seguridad Android Agosto 2023 
+Alerta de seguridad cibernética 
+9VSA23-00881-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 agosto, 2023
+
+Última revisión 
+10 agosto, 2023
+
+CVE 
+CVE-2023-21265 
+CVE-2023-21287 
+CVE-2023-21269 
+CVE-2023-21270 
+CVE-2023-21272 
+CVE-2023-21278 
+CVE-2023-21281 
+CVE-2023-21286 
+CVE-2023-21267 
+CVE-2023-21276 
+CVE-2023-21277
+
+CVE-2023-21279 
+CVE-2023-21283 
+CVE-2023-21288 
+CVE-2023-21289 
+CVE-2023-21292 
+CVE-2023-21280 
+CVE-2023-21284 
+CVE-2023-21282 
+CVE-2023-21273 
+CVE-2023-2096 
+CVE-2023-21132
+
+CVE-2023-21133 
+CVE-2023-21134 
+CVE-2023-21140 
+CVE-2023-21242 
+CVE-2023-21275 
+CVE-2023-21271 
+CVE-2023-21274 
+CVE-2023-21285 
+CVE-2023-21268 
+CVE-2023-21290

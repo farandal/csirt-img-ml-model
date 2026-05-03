@@ -1,0 +1,23 @@
+Source: 13BCS23-000222-01.pdf | Page: 4 | Image: 13BCS23-000222-01_p04_03 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de sitio fraudulento que suplanta al Supermercado Rofil 
+Alerta de seguridad cibernética 
+8FFR23-01480-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+3 agosto, 2023
+
+Última revisión 
+3 agosto, 2023

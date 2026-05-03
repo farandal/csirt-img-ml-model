@@ -1,0 +1,36 @@
+Source: 13BCS23-000221-01.pdf | Page: 15 | Image: 13BCS23-000221-01_p15_02 (636x590px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas por Adobe para 
+ColdFusion e InDesign 
+Alerta de seguridad cibernética 
+9VSA23-00870-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 julio, 2023
+
+Última revisión 
+25 julio, 2023
+
+CVE 
+CVE-2023-29298 
+CVE-2023-38203 
+CVE-2023-38204 
+CVE-2023-38205 
+CVE-2023-38206 
+Fabricante 
+Adobe 
+Productos afectados 
+ColdFusion 2018 
+ColdFusion 2021

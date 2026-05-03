@@ -1,0 +1,23 @@
+Source: 13BCS23-000219-01.pdf | Page: 4 | Image: 13BCS23-000219-01_p04_03 (582x474px)
+------------------------------------------------------------
+CSIRT alerta ante nuevo sitio fraudulento que suplanta a Caterpillar 
+Alerta de seguridad cibernética 
+8FFR23-01459-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 julio, 2023
+
+Última revisión 
+13 julio, 2023

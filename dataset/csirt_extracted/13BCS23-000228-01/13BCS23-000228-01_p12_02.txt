@@ -1,0 +1,88 @@
+Source: 13BCS23-000228-01.pdf | Page: 12 | Image: 13BCS23-000228-01_p12_02 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades de actualización mensual de SAP 
+para septiembre 2023 
+Alerta de seguridad cibernética 
+9VSA23-00900-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 septiembre, 2023
+
+Última revisión 
+14 septiembre, 2023
+
+CVE 
+CVE-2023-40622 
+CVE-2022-41272 
+CVE-2023-25616 
+CVE-2023-40309 
+CVE-2023-42472
+
+CVE-2023-40308 
+CVE-2023-40621 
+CVE-2023-40623 
+CVE-2023-40306 
+CVE-2021-41184
+
+CVE-2021-41183 
+CVE-2021-41182 
+CVE-2023-24998 
+CVE-2023-40624 
+CVE-2023-40625
+
+CVE-2023-37489 
+CVE-2023-41369 
+CVE-2023-41368 
+CVE-2023-41367
+
+Fabricante 
+SAP 
+Productos afectados 
+SAP Business Client, Versiones -6.5, 7.0, 7.70 
+SAP BusinessObjects Business Intelligence Platform (Promotion Management), 
+versiones 420,430 
+SAP NetWeaver Process Integration, Versión –7.50 
+SAP Business Objects Business Intelligence Platform (CMC), versiones 420, 430 
+SAP CommonCryptoLib, Versiones–8 
+SAP NetWeaver AS ABAP 
+SAP NetWeaver AS Java and ABAP Platform of S/4HANA on-premise. 
+SAP Web Dispatcher, Versiones -7.22EXT, 7.53, 7.54, 7.77, 7.85, 7.89 
+SAP Content Server, Versiones -6.50, 7.53, 7.54 
+SAP HANA Database, Versiones –2.0 
+SAP Host Agent, Versiones –722 
+SAP Extended Application Services and Runtime (XSA) 
+SAPSSOEXT, Versiones –17 
+SAP BusinessObjects Business Intelligence Platform (Web Intelligence HTML 
+interface),Versión 420 
+SAP CommonCryptoLib, Versiones–8 
+SAP NetWeaver AS ABAP 
+SAP NetWeaver AS Java and ABAP Platform of S/4HANA on-premise. 
+SAP Web Dispatcher, Versiones -7.22EXT, 7.53, 7.54, 7.77, 7.85, 7.89 
+SAPContent Server, Versiones -6.50, 7.53, 7.54 
+SAPHANA Database, Versiones –2.0 
+SAPHost Agent, Versiones –722 
+SAPExtended Application Services and Runtime (XSA), versiones 
+SAP_EXTENDED_APP_SERVICES 1, XS_ADVANCED_RUNTIME 1.00 
+SAPSSOEXT, Versiónes –17 
+SAP PowerDesignerClient, Versión –16.7 
+SAP BusinessObjects Suite (Installer), Versión –420, 430 
+SAP S/4HANA (Manage Catalog Items and Cross-Catalog search), versiones 
+S4CORE 103, S4CORE 104, S4CORE 105, S4CORE 106 
+SAPUI5, Versiones –SAP_UI 750, SAP_UI 753, SAP_UI 754, SAP_UI 755, SAP_UI 
+756, UI_700 200 
+SAP Quotation Management Insurance (FS-QUO), versiones 400, 510, 700, 800 
+SAP NetWeaver AS ABAP (applications based on Unified Rendering), versiones 
+SAP_UI 754, SAP_UI 755, SAP_UI 756, SAP_UI 757, SAP_UI 758, SAP_BASIS 702, 
+SAP_BASIS 731

@@ -1,0 +1,24 @@
+Source: 13BCS23-000234-01.pdf | Page: 5 | Image: 13BCS23-000234-01_p05_03 (1058x149px)
+------------------------------------------------------------
+CSIRT informa de parche de seguridad ante nueva vulnerabilidad crítica en 
+VMware vCenter Server 
+Alerta de seguridad cibernética 
+9VSA23-00925-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 octubre, 2023
+
+Última revisión 
+25 octubre, 2023

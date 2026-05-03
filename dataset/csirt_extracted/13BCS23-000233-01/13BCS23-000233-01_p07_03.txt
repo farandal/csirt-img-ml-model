@@ -1,0 +1,52 @@
+Source: 13BCS23-000233-01.pdf | Page: 7 | Image: 13BCS23-000233-01_p07_03 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información de actualizaciones de seguridad incluidas en el Oracle 
+Critical Patch Update Advisory, octubre 2023 
+Alerta de seguridad cibernética 
+9VSA23-00922-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 octubre, 2023
+
+Última revisión 
+17 octubre, 2023
+
+CVE 
+CVE-2019-10086 
+CVE-2019-17498 
+CVE-2020-11023 
+CVE-2020-11988 
+CVE-2020-13956 
+CVE-2020-36518     
+CVE-2020-7760 
+CVE-2021-28165 
+CVE-2021-36374 
+CVE-2021-37136 
+CVE-2021-37533 
+CVE-2021-37714 
+CVE-2021-40690 
+CVE-2021-41165 
+CVE-2021-41945 
+CVE-2021-43045 
+CVE-2022-1471 
+CVE-2022-23491 
+CVE-2022-24329 
+CVE-2022-24834 
+CVE-2022-24839 
+CVE-2022-25147 
+CVE-2022-25647 
+CVE-2022-26612
+
+6

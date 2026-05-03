@@ -1,0 +1,26 @@
+Source: 13BCS23-000233-01.pdf | Page: 6 | Image: 13BCS23-000233-01_p06_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones de seguridad de Progress WS_FTP Server 
+Alerta de seguridad cibernética 
+9VSA23-00920-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 octubre, 2023
+
+Última revisión 
+16 octubre, 2023
+
+CVE 
+CVE-2023-42657

@@ -1,0 +1,24 @@
+Source: 13BCS23-000229-01.pdf | Page: 7 | Image: 13BCS23-000229-01_p07_02 (641x595px)
+------------------------------------------------------------
+CSIRT informa de vulnerabilidades críticas que afectan a Nagios XI y para las cuales 
+existen parches disponibles 
+Alerta de seguridad cibernética 
+9VSA23-00904-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 septiembre, 2023
+
+Última revisión 
+21 septiembre, 2023

@@ -1,0 +1,42 @@
+Source: 13BCS23-000223-01.pdf | Page: 13 | Image: 13BCS23-000223-01_p13_01 (636x590px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas por Zoom 
+Alerta de seguridad cibernética 
+9VSA23-00880-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 agosto, 2023
+
+Última revisión 
+10 agosto, 2023
+
+CVE 
+CVE-2023-39209 
+CVE-2023-39214 
+CVE-2023-39213 
+CVE-2023-39212 
+CVE-2023-39211
+
+CVE-2023-39210 
+CVE-2023-39218 
+CVE-2023-39217 
+CVE-2023-39216 
+CVE-2023-36535
+
+CVE-2023-36534 
+CVE-2023-36533 
+CVE-2023-36532 
+CVE-2023-36541 
+CVE-2023-36540

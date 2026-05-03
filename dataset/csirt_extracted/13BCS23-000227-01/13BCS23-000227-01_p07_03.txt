@@ -1,0 +1,23 @@
+Source: 13BCS23-000227-01.pdf | Page: 7 | Image: 13BCS23-000227-01_p07_03 (569x460px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta a Banco Falabella 
+Alerta de seguridad cibernética 
+8FPH23-00886-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 septiembre, 2023
+
+Última revisión 
+5 septiembre, 2023

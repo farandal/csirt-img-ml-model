@@ -1,0 +1,23 @@
+Source: 13BCS23-000226-01.pdf | Page: 8 | Image: 13BCS23-000226-01_p08_01 (550x478px)
+------------------------------------------------------------
+CSIRT alerta de nueva página fraudulenta que suplanta al Banco de Chile 
+Alerta de seguridad cibernética 
+8FFR23-01513-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+31 agosto, 2023
+
+Última revisión 
+31 agosto, 2023

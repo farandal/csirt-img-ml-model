@@ -1,0 +1,24 @@
+Source: 13BCS23-000221-01.pdf | Page: 4 | Image: 13BCS23-000221-01_p04_01 (879x662px)
+------------------------------------------------------------
+CSIRT alerta de nueva página fraudulenta que suplanta inicio de sesión en 
+Microsoft Outlook 
+Alerta de seguridad cibernética 
+8FFR23-01469-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 julio, 2023
+
+Última revisión 
+24 julio, 2023

@@ -1,0 +1,24 @@
+Source: 13BCS23-000232-01.pdf | Page: 5 | Image: 13BCS23-000232-01_p05_02 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con falso aviso de emails pendientes 
+de entrega 
+Alerta de seguridad cibernética 
+8FPH23-00899-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 octubre, 2023
+
+Última revisión 
+12 octubre, 2023

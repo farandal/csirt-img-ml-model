@@ -1,0 +1,23 @@
+Source: 13BCS23-000238-01.pdf | Page: 11 | Image: 13BCS23-000238-01_p11_01 (640x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidad crítica que afecta a FortiSIEM 
+Alerta de seguridad cibernética 
+9VSA23-00936-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 noviembre, 2023
+
+Última revisión 
+21 noviembre, 2023

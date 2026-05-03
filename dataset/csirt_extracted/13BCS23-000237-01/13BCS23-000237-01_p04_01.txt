@@ -1,0 +1,24 @@
+Source: 13BCS23-000237-01.pdf | Page: 4 | Image: 13BCS23-000237-01_p04_01 (782x535px)
+------------------------------------------------------------
+CSIRT alerta de una nueva campaña de phishing con falso mensaje de cuenta de 
+correos 
+Alerta de seguridad cibernética 
+8FPH23-00907-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 noviembre, 2023
+
+Última revisión 
+15 noviembre, 2023

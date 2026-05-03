@@ -1,0 +1,12 @@
+Source: 13BCS23-000234-01.pdf | Page: 6 | Image: 13BCS23-000234-01_p06_01 (407x407px)
+------------------------------------------------------------
+Alerta de seguridad de la información | Explotación de 
+vulnerabilidad en Cisco IOS XE 
+ 
+Compartimos la información dada a conocer por Cisco de la amenaza 
+que supone la explotación activa de la vulnerabilidad CVE-2023-20198, 
+que afecta a su software Cisco IOS XE. Este sistema operativo es 
+fundamental en el funcionamiento de numerosos productos usados por 
+miles de organizaciones en el mundo, incluyendo a Chile. 
+ 
+Los detalles: https://csirt.gob.cl/noticias/10cnd23-00113-01/

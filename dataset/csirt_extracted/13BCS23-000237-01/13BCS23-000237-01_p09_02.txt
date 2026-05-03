@@ -1,0 +1,23 @@
+Source: 13BCS23-000237-01.pdf | Page: 9 | Image: 13BCS23-000237-01_p09_02 (860x644px)
+------------------------------------------------------------
+CSIRT alerta de un nuevo sitio fraudulento que suplanta a Dr. Martens 
+Alerta de seguridad cibernética 
+8FFR23-01560-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 noviembre, 2023
+
+Última revisión 
+13 noviembre, 2023

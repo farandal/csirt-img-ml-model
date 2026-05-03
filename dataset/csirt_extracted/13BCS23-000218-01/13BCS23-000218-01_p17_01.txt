@@ -1,0 +1,23 @@
+Source: 13BCS23-000218-01.pdf | Page: 17 | Image: 13BCS23-000218-01_p17_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de nuevas vulnerabilidades en Google Chrome 114 
+Alerta de seguridad cibernética 
+9VSA23-00855-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 junio, 2023
+
+Última revisión 
+30 junio, 2023

@@ -1,0 +1,38 @@
+Source: 13BCS23-000236-01.pdf | Page: 10 | Image: 13BCS23-000236-01_p10_01 (720x516px)
+------------------------------------------------------------
+CSIRT alerta de una nueva campaña de phishing con malware, que suplanta a la 
+Universidad de Chile 
+Alerta de seguridad cibernética 
+2CMV23-00433-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 noviembre, 2023
+
+Última revisión 
+7 noviembre, 2023
+
+Indicadores de compromiso 
+URL-Dominio 
+https://drive.google[.]com/uc?export=download&id=1R4xBOHz985Aknw3ujsQ6N
+pAXJ3vbaqp7
+
+https://doc-00-c4-
+docs.googleusercontent[.]com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mb
+p1/thoc2tionc5fg4pm29mmucd39cal2chm/1699284900000/1546056742636732
+8879/*/1R4xBOHz985Aknw3ujsQ6NpAXJ3vbaqp7?e=download&uuid=d16c2812-
+aea1-4b95-bd02-485c17e0d88a
+
+https://drive.google[.]com/uc?export=download&id=1R2oKSmimiwjQppJp7FLYW
+k5PfZXuKfGc

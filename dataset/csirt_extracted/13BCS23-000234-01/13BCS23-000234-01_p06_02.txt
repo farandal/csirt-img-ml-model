@@ -1,0 +1,10 @@
+Source: 13BCS23-000234-01.pdf | Page: 6 | Image: 13BCS23-000234-01_p06_02 (467x467px)
+------------------------------------------------------------
+Alerta de seguridad de la información | IOC de ransomware en GTD 
+(actualización) 
+ 
+Fuimos informados por la empresa GTD sobre un ransomware que 
+afectó parte de sus plataformas IaaS durante la mañana del lunes 23 de 
+octubreGracias a una muestra compartida por GTD, en el CSIRT 
+hallamos una serie de indicadores de compromiso, los que 
+compartimos en https://csirt.gob.cl/noticias/10cnd23-00115-03/.

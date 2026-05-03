@@ -1,0 +1,23 @@
+Source: 13BCS23-000224-01.pdf | Page: 7 | Image: 13BCS23-000224-01_p07_04 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de una nueva página fraudulenta que suplanta al Registro Civil 
+Alerta de seguridad cibernética 
+8FFR23-01497-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 agosto, 2023
+
+Última revisión 
+17 agosto, 2023

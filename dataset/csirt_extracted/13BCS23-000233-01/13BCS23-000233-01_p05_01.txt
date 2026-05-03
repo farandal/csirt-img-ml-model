@@ -1,0 +1,24 @@
+Source: 13BCS23-000233-01.pdf | Page: 5 | Image: 13BCS23-000233-01_p05_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas por Fortinet en varios 
+de sus productos 
+Alerta de seguridad cibernética 
+9VSA23-00918-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 octubre, 2023
+
+Última revisión 
+10 octubre, 2023

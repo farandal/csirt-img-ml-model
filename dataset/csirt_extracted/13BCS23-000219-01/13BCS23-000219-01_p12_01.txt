@@ -1,0 +1,31 @@
+Source: 13BCS23-000219-01.pdf | Page: 12 | Image: 13BCS23-000219-01_p12_01 (636x590px)
+------------------------------------------------------------
+CSIRT comparte información de nuevas vulnerabilidades parchadas por Fortinet 
+para FortiOS y FortiProxy 
+Alerta de seguridad cibernética 
+9VSA23-00860-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 julio, 2023
+
+Última revisión 
+12 julio, 2023
+
+CVE 
+CVE-2023-33308 
+CVE-2023-33306
+
+CVE-2023-28001 
+CVE-2023-27997

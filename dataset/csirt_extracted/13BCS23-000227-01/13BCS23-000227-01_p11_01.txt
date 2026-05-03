@@ -1,0 +1,31 @@
+Source: 13BCS23-000227-01.pdf | Page: 11 | Image: 13BCS23-000227-01_p11_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas en Apache SuperSet 
+2.1.1 
+Alerta de seguridad cibernética 
+9VSA23-00892-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 septiembre, 2023
+
+Última revisión 
+7 septiembre, 2023
+
+CVE 
+CVE-2023-39265 
+CVE-2023-37941
+
+CVE-2023-36388 
+CVE-2023-30776

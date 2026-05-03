@@ -1,0 +1,23 @@
+Source: 13BCS23-000222-01.pdf | Page: 8 | Image: 13BCS23-000222-01_p08_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte nuevas vulnerabilidades parchadas por Atlassian 
+Alerta de seguridad cibernética 
+9VSA23-00874-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 julio, 2023
+
+Última revisión 
+28 julio, 2023

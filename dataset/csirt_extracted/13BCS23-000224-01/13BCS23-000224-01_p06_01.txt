@@ -1,0 +1,23 @@
+Source: 13BCS23-000224-01.pdf | Page: 6 | Image: 13BCS23-000224-01_p06_01 (503x312px)
+------------------------------------------------------------
+CSIRT alerta de nueva página fraudulenta que suplanta a Ripley 
+Alerta de seguridad cibernética 
+8FFR23-01492-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 agosto, 2023
+
+Última revisión 
+14 agosto, 2023

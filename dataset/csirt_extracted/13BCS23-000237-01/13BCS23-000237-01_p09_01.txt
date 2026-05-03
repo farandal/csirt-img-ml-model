@@ -1,0 +1,23 @@
+Source: 13BCS23-000237-01.pdf | Page: 9 | Image: 13BCS23-000237-01_p09_01 (833x637px)
+------------------------------------------------------------
+CSIRT alerta de una nueva página fraudulenta que suplanta a H&M 
+Alerta de seguridad cibernética 
+8FFR23-01559-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 noviembre, 2023
+
+Última revisión 
+13 noviembre, 2023

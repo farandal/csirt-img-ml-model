@@ -1,0 +1,20 @@
+Source: 13BCS23-000223-01.pdf | Page: 9 | Image: 13BCS23-000223-01_p09_01 (594x549px)
+------------------------------------------------------------
+CSIRT alerta de ataques de fuerza bruta contra SMTP 
+Alerta de seguridad cibernética 
+4IIA22-00069-01
+
+Clase de alerta 
+Intentos de Intrusión
+
+Tipo de incidente 
+Intentos de acceso – Fuerza bruta
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de agosto de 2023
+
+Última revisión 
+10 de agosto de 2023
