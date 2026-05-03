@@ -1,0 +1,24 @@
+Source: 13BCS22-000171-01.pdf | Page: 11 | Image: 13BCS22-000171-01_p11_01 (716x291px)
+------------------------------------------------------------
+CSIRT alerta de campañas de phishing con malware en falso documento de 
+pago 
+Alerta de seguridad cibernética 
+2CMV22-00315-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de agosto de 2022
+
+Última revisión 
+10 de agosto de 2022

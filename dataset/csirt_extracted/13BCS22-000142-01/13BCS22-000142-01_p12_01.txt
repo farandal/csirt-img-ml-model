@@ -1,0 +1,27 @@
+Source: 13BCS22-000142-01.pdf | Page: 12 | Image: 13BCS22-000142-01_p12_01 (188x174px)
+------------------------------------------------------------
+CSIRT advierte vulnerabilidad en la plataforma SolarWinds 
+Alerta de seguridad cibernética 
+9VSA21-00555-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de enero de 2022
+
+Última revisión 
+20 de enero de 2022
+
+CVE 
+CVE-2021-35247 
+Fabricante

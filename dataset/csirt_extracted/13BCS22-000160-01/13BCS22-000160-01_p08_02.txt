@@ -1,0 +1,59 @@
+Source: 13BCS22-000160-01.pdf | Page: 8 | Image: 13BCS22-000160-01_p08_02 (603x559px)
+------------------------------------------------------------
+CSIRT informa sobre vulnerabilidades en productos de Cisco 
+Alerta de seguridad cibernética 
+9VSA22-00643-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de mayo de 2022
+
+Última revisión 
+19 de mayo de 2022
+
+CVE 
+CVE-2022-20797 
+CVE-2022-20806 
+CVE-2022-20807 
+CVE-2022-20809 
+CVE-2022-20802 
+CVE-2022-20666 
+CVE-2022-20667 
+CVE-2022-20668
+
+CVE-2022-20765 
+CVE-2022-20759 
+CVE-2022-20681 
+CVE-2022-20677 
+CVE-2022-20718 
+CVE-2022-20719 
+CVE-2022-20720
+
+CVE-2022-20721 
+CVE-2022-20722 
+CVE-2022-20723 
+CVE-2022-20724 
+CVE-2022-20725 
+CVE-2022-20726 
+CVE-2022-20727
+
+Fabricante
+
+Cisco 
+Productos afectados 
+Cisco Secure Network Analytics anteriores a 7.4.1. 
+Cisco Expressway Series y Cisco TelePresence VCS 14.0 y anteriores. 
+Cisco Enterprise Chat and Email (ECE) anteriores a 12.6(1) ES2. 
+Cisco CSPC 2.10.0.2 y anteriores. 
+Cisco ASA anteriores 9.12.4.38, 9.14.4, 9.15.1.21, 9.16.2.14 y 9.17.7.

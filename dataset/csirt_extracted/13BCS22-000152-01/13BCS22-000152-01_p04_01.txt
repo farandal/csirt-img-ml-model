@@ -1,0 +1,23 @@
+Source: 13BCS22-000152-01.pdf | Page: 4 | Image: 13BCS22-000152-01_p04_01 (486x359px)
+------------------------------------------------------------
+CSIRT alerta de malware con falsa factura 
+Alerta de seguridad cibernética 
+2CMV21-00293-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de marzo de 2021
+
+Última revisión 
+28 de marzo de 2021

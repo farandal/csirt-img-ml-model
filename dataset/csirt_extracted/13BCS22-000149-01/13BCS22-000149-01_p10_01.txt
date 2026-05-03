@@ -1,0 +1,28 @@
+Source: 13BCS22-000149-01.pdf | Page: 10 | Image: 13BCS22-000149-01_p10_01 (431x400px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades críticas en Firefox 
+Alerta de seguridad cibernética 
+9VSA22-00584-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de marzo de 2022
+
+Última revisión 
+7 de marzo de 2022
+
+CVE 
+CVE-2022-26485 
+CVE-2022-26486 
+Fabricante

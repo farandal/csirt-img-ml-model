@@ -1,0 +1,27 @@
+Source: 13BCS22-000146-01.pdf | Page: 7 | Image: 13BCS22-000146-01_p07_01 (569x527px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidad grave en Apache Cassandra 
+Alerta de seguridad cibernética 
+9VSA21-00579-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de febrero de 2022
+
+Última revisión 
+17 de febrero de 2022
+
+CVE 
+CVE-2021-44521 
+Fabricante

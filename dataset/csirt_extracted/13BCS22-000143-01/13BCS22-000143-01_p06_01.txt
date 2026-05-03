@@ -1,0 +1,28 @@
+Source: 13BCS22-000143-01.pdf | Page: 6 | Image: 13BCS22-000143-01_p06_01 (188x174px)
+------------------------------------------------------------
+CSIRT informa vulnerabilidades en Red Hat AMQ Streams 
+Alerta de seguridad cibernética 
+9VSA22-00558-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de enero de 2022
+
+Última revisión 
+21 de enero de 2022
+
+CVE 
+CVE-2021-45105 
+CVE-2021-38153 
+Fabricante

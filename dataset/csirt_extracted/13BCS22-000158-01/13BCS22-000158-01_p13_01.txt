@@ -1,0 +1,37 @@
+Source: 13BCS22-000158-01.pdf | Page: 13 | Image: 13BCS22-000158-01_p13_01 (696x645px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en Intel Optane 
+Alerta de seguridad cibernética 
+9VSA22-00636-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de mayo de 2022
+
+Última revisión 
+11 de mayo de 2022
+
+CVE 
+CVE-2021-33077 
+CVE-2021-33078 
+CVE-2021-33080
+
+CVE-2021-33074 
+CVE-2021-33069 
+CVE-2021-33075
+
+CVE-2021-33083 
+CVE-2021-33082
+
+Fabricante

@@ -1,0 +1,32 @@
+Source: 13BCS22-000160-01.pdf | Page: 10 | Image: 13BCS22-000160-01_p10_01 (611x567px)
+------------------------------------------------------------
+CSIRT alerta vulnerabilidades en Zoom 
+Alerta de seguridad cibernética 
+9VSA22-00646-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de mayo de 2022
+
+Última revisión 
+25 de mayo de 2022
+
+CVE 
+CVE-2022-22784 
+CVE-2022-22785
+
+CVE-2022-22786 
+CVE-2022-22787
+
+Fabricante

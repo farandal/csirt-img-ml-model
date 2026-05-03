@@ -1,0 +1,23 @@
+Source: 13BCS22-000162-01.pdf | Page: 4 | Image: 13BCS22-000162-01_p04_01 (680x588px)
+------------------------------------------------------------
+CSIRT informa sitio web falso de Outlook web 
+Alerta de seguridad cibernética 
+8FFR22-01086-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+3 de junio de 2022
+
+Última revisión 
+3 de junio de 2022

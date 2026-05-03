@@ -1,0 +1,23 @@
+Source: 13BCS22-000157-01.pdf | Page: 5 | Image: 13BCS22-000157-01_p05_02 (654x598px)
+------------------------------------------------------------
+CSIRT advierte phishing a través de Facebook Messenger 
+Alerta de seguridad cibernética 
+8FPH22-00520-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+4 de mayo de 2022
+
+Última revisión 
+4 de mayo de 2022

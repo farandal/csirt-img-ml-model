@@ -1,0 +1,71 @@
+Source: 13BCS22-000162-01.pdf | Page: 9 | Image: 13BCS22-000162-01_p09_01 (611x567px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades de Android para junio 2022 
+Alerta de seguridad cibernética 
+9VSA22-00653-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de junio de 2022
+
+Última revisión 
+7 de junio de 2022
+
+CVE 
+CVE-2021-39691 
+CVE-2022-20006 
+CVE-2022-20125 
+CVE-2022-20138 
+CVE-2021-39624 
+CVE-2022-20130 
+CVE-2022-20127 
+CVE-2022-20140 
+CVE-2022-20145 
+CVE-2022-20124 
+CVE-2022-20126 
+CVE-2022-20133 
+CVE-2022-20134 
+CVE-2022-20135
+
+CVE-2022-20137 
+CVE-2022-20142 
+CVE-2022-20144 
+CVE-2022-20147 
+CVE-2022-20123 
+CVE-2022-20131 
+CVE-2022-20129 
+CVE-2022-20143 
+CVE-2021-4154 
+CVE-2022-20141 
+CVE-2022-24958 
+CVE-2022-25258 
+CVE-2022-25258 
+CVE-2022-20132
+
+CVE-2022-20132 
+CVE-2022-20136 
+CVE-2022-21745 
+CVE-2022-20210 
+CVE-2021-35083 
+CVE-2021-35102 
+CVE-2021-35111 
+CVE-2022-22082 
+CVE-2022-22083 
+CVE-2022-22084 
+CVE-2022-22085 
+CVE-2022-22086 
+CVE-2022-22087 
+CVE-2022-22090
+
+Fabricante

@@ -1,0 +1,45 @@
+Source: 13BCS22-000153-01.pdf | Page: 8 | Image: 13BCS22-000153-01_p08_02 (431x400px)
+------------------------------------------------------------
+CSIRT alerta de nuevas vulnerabilidades críticas en productos VMware 
+Alerta de seguridad cibernética 
+9VSA22-00608-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de abril de 2022
+
+Última revisión 
+5 de abril de 2022
+
+CVE 
+CVE-2022-22965   -   CVE-2022-22948   -   CVE-2022-22943 
+CVE-2022-22951   -   CVE-2022-22952   -   CVE-2022-22943 
+CVE-2022-22944   -   CVE-2022-22945 
+Fabricante
+
+VMware 
+Productos afectados 
+CVE-2022-22965 
+Tanzu Application Service: https://network.pivotal.io/products/elastic-
+runtime/ 
+Tanzu Operations Manager: 
+https://network.tanzu.vmware.com/products/ops-manager 
+VMware TKGI: https://network.pivotal.io/products/pivotal-container-service/ 
+ 
+CVE-2022-22948 
+VMware vCenter Server (vCenter Server) 
+VMware Cloud Foundation (Cloud Foundation) 
+ 
+CVE-2022-22951 y CVE-2022-22952 
+VMware Carbon Black App Control (AppC)

@@ -1,0 +1,31 @@
+Source: 13BCS22-000148-01.pdf | Page: 5 | Image: 13BCS22-000148-01_p05_02 (431x400px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidades críticas en productos de Cisco 
+Alerta de seguridad cibernética 
+9VSA22-00582-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Bajo
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+3 de marzo de 2022
+
+Última revisión 
+3 de marzo de 2022
+
+CVE 
+CVE-2022-20754 
+CVE-2022-20755 
+CVE-2022-20756 
+CVE-2022-20762 
+CVE-2022-20765 
+Fabricante

@@ -1,0 +1,28 @@
+Source: 13BCS22-000163-01.pdf | Page: 5 | Image: 13BCS22-000163-01_p05_01 (469x435px)
+------------------------------------------------------------
+CSIRT advierte de vulnerabilidades que afectan a Drupal 
+Alerta de seguridad cibernética 
+9VSA22-00654-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de junio de 2022
+
+Última revisión 
+14 de junio de 2022
+
+CVE 
+CVE-2022-31042  
+CVE-2022-31043 
+Fabricante

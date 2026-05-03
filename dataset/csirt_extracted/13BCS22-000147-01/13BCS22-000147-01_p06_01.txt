@@ -1,0 +1,28 @@
+Source: 13BCS22-000147-01.pdf | Page: 6 | Image: 13BCS22-000147-01_p06_01 (569x527px)
+------------------------------------------------------------
+CSIRT alerta de una nueva vulnerabilidad crítica en Adobe 
+Commerce y Magento 
+Alerta de seguridad cibernética 
+9VSA22-00580-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de febrero de 2022
+
+Última revisión 
+21 de febrero de 2022
+
+CVE 
+CVE-2022-24087 
+Fabricante

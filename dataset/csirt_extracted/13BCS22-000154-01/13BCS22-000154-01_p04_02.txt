@@ -1,0 +1,23 @@
+Source: 13BCS22-000154-01.pdf | Page: 4 | Image: 13BCS22-000154-01_p04_02 (604x590px)
+------------------------------------------------------------
+CSIRT informa phishing con falsa recarga del Banco Itaú 
+Alerta de seguridad cibernética 
+8FPH22-00511-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de abril de 2022
+
+Última revisión 
+12 de abril de 2022

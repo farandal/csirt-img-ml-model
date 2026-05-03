@@ -1,0 +1,24 @@
+Source: 13BCS22-000145-01.pdf | Page: 4 | Image: 13BCS22-000145-01_p04_01 (837x647px)
+------------------------------------------------------------
+CSIRT advierte phishing con falsos puntos para canjear del Banco 
+Itaú 
+Alerta de seguridad cibernética 
+8FPH22-00470-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 de febrero de 2022
+
+Última revisión 
+8 de febrero de 2022

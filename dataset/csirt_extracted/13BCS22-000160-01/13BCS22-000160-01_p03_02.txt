@@ -1,0 +1,39 @@
+Source: 13BCS22-000160-01.pdf | Page: 3 | Image: 13BCS22-000160-01_p03_02 (712x737px)
+------------------------------------------------------------
+CSIRT advierte campaña de phishing con malware suplantando al 
+Ministerio de Transportes 
+Alerta de seguridad cibernética 
+2CMV21-00300-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 de mayo de 2022
+
+Última revisión 
+26 de mayo de 2022
+
+Indicadores de compromiso 
+SHA256 
+078e67fd81467f42d9ce1d65904e9dea2a84cab29975815ec7a03fdc2c740cc1 
+9830bd16aedd4387da7bbe79c4e036b60b005df5d2964626c10be2d30257c35f 
+33d4ef958d813f813d0bc789726d7503200bf280caceb4667d99a144e634dbfd 
+bb85e4530ccd6355b3ef3506548b4f513bea844d1af37a69624c9c455521c70f 
+3242e0a736ef8ac90430a9f272ff30a81e2afc146fcb84a25c6e56e8192791e4 
+69bea5a467e532fbc06965b0d15f0bfbe5245c9f4f5009a3b4854762cb7454d4 
+3242e0a736ef8ac90430a9f272ff30a81e2afc146fcb84a25c6e56e8192791e4 
+5c8c5586ccb204e4c0826e2bfd883985c7c7cff83c2bb4295d7bb4a69a1e57b8 
+c4fa0cda59435c48dd1ea003e9739a12a1c69c934d8ffcf1a522e16110e3d33c 
+IoC URL 
+famelic[.]com 
+csie.npu.edu[.]tw

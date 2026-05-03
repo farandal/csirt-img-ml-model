@@ -1,0 +1,49 @@
+Source: 13BCS22-000156-01.pdf | Page: 10 | Image: 13BCS22-000156-01_p10_01 (469x435px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en productos Cisco 
+Alerta de seguridad cibernética 
+9VSA22-00626-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de abril de 2022
+
+Última revisión 
+28 de abril de 2022
+
+CVE 
+CVE-2022-20746 
+CVE-2022-20751 
+CVE-2022-20757 
+CVE-2022-20743 
+CVE-2022-20759 
+CVE-2022-20742 
+CVE-2022-20745
+
+CVE-2022-20760 
+CVE-2022-20737 
+CVE-2022-20715 
+CVE-2022-20767 
+CVE-2022-20681 
+CVE-2022-20729 
+CVE-2022-20730
+
+CVE-2022-20748 
+CVE-2022-20627 
+CVE-2022-20628 
+CVE-2022-20629 
+CVE-2022-20740 
+CVE-2022-20744
+
+Fabricante

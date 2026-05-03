@@ -1,0 +1,24 @@
+Source: 13BCS22-000173-01.pdf | Page: 4 | Image: 13BCS22-000173-01_p04_01 (724x439px)
+------------------------------------------------------------
+CSIRT alerta por campaña de phishing que contiene el malware Agent 
+Tesla 
+Alerta de seguridad cibernética 
+2CMV22-00328-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de agosto de 2022
+
+Última revisión 
+22 de agosto de 2022

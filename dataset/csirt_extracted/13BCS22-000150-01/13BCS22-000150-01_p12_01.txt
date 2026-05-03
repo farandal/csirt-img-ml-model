@@ -1,0 +1,63 @@
+Source: 13BCS22-000150-01.pdf | Page: 12 | Image: 13BCS22-000150-01_p12_01 (569x527px)
+------------------------------------------------------------
+CSIRT alerta de nuevas vulnerabilidades en el kernel de Linux 
+Alerta de seguridad cibernética 
+9VSA22-00596-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de marzo de 2022
+
+Última revisión 
+15 de marzo de 2022
+
+CVE 
+CVE-2022-0847 
+CVE-2022-26966 
+Fabricante
+
+Varios, que basan sus productos en el kernel de Linux 
+Productos afectados 
+Aquellos que usen Linux kernel en versiones anteriores a 5.16.12. 
+ 
+Algunos de los más populares son: 
+Red Hat 
+Red Hat Virtualization 4 for Red Hat Enterprise Linux 8 
+Red Hat Enterprise Linux 8 
+Red Hat Enterprise Linux 8.2 Extended Update Support 
+Red Hat Enterprise Linux 8.4 Extended Update Support 
+Red Hat Enterprise Linux 8 
+Red Hat Enterprise Linux 8.1 Update Services for SAP Solutions 
+Red Hat Enterprise Linux 8.2 Extended Update Support 
+Red Hat ya anunció parches para todos estos productos 
+afectados 
+ 
+QNAP NAS: QTS 5.0.x y QuTS hero h5.0.x 
+ 
+SUSE 
+SUSE Linux Enterprise Micro 5.1 
+En proceso de parche 
+SUSE Linux Enterprise Server for SAP Applications 12 SP5 
+SUSE Linux Enterprise Server for SAP Applications 12 SP5 
+Parchados 
+SUSE Linux Enterprise Desktop 15 SP4 
+SUSE Linux Enterprise Desktop 15 SP4 
+SUSE Linux Enterprise High Performance Computing 15 SP4 
+SUSE Linux Enterprise High Performance Computing 15 SP4 
+SUSE Linux Enterprise High Performance Computing 15 SP4 
+SUSE Linux Enterprise Module for Basesystem 15 SP4 
+SUSE Linux Enterprise Module for Basesystem 15 SP4 
+SUSE Linux Enterprise Module for Development Tools 15 SP4 
+SUSE Linux Enterprise Module for Development Tools 15 SP4 
+SUSE Linux Enterprise Module for Public Cloud 15 SP4

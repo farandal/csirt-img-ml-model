@@ -1,0 +1,30 @@
+Source: 13BCS22-000157-01.pdf | Page: 8 | Image: 13BCS22-000157-01_p08_01 (469x435px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidad crítica en Microsoft Edge 
+Alerta de seguridad cibernética 
+9VSA22-00627-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+3 de mayo de 2022
+
+Última revisión 
+3 de mayo de 2022
+
+CVE 
+CVE-2022-1314   -   CVE-2022-1313   -   CVE-2022-1312 
+CVE-2022-1310   -   CVE-2022-1308   -   CVE-2022-1307 
+CVE-2022-1306   -   CVE-2022-1305   -   CVE-2022-1364 
+CVE-2022-1309 
+Fabricante

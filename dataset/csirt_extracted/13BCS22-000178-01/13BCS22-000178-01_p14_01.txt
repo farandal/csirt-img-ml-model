@@ -1,0 +1,30 @@
+Source: 13BCS22-000178-01.pdf | Page: 14 | Image: 13BCS22-000178-01_p14_01 (595x551px)
+------------------------------------------------------------
+CSIRT alerta de nuevas vulnerabilidades en BIND 9 
+Alerta de seguridad cibernética 
+9VSA22-00705-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de septiembre de 2022
+
+Última revisión 
+23 de septiembre de 2022
+
+CVE 
+CVE-2022-2906 
+CVE-2022-3080 
+CVE-2022-38177 
+CVE-2022-38178 
+Fabricantes

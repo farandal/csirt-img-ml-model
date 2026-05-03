@@ -1,0 +1,42 @@
+Source: 13BCS22-000143-01.pdf | Page: 5 | Image: 13BCS22-000143-01_p05_02 (188x174px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades de Cisco Snort Modbus Denial of Service 
+Vulnerability 
+Alerta de seguridad cibernética 
+9VSA22-00557-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Medio
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de enero de 2022
+
+Última revisión 
+21 de enero de 2022
+
+CVE 
+CVE-2022-20685 
+Fabricante
+
+Cisco 
+Productos afectados 
+Esta vulnerabilidad afecta a todas las versiones del proyecto Snort de código 
+abierto anteriores a la versión 2.9.18 y la versión 3.1.0.100. 
+ 
+La vulnerabilidad afecta a los siguientes productos de Cisco si ejecutan una 
+versión vulnerable del software de Cisco: 
+ 
+Software de cibervisión 
+Software Firepower Threat Defense (FTD) – Todas las plataformas 
+Software de la serie Meraki MX 
+Esta vulnerabilidad afecta a los siguientes productos de Cisco si ejecutan una 
+versión anterior a la primera versión corregida de Cisco Unified Threat

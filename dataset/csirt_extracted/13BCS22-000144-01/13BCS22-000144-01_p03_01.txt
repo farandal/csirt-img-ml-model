@@ -1,0 +1,30 @@
+Source: 13BCS22-000144-01.pdf | Page: 3 | Image: 13BCS22-000144-01_p03_01 (263x173px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+28 de enero de 2022
+
+Última revisión 
+28 de enero de 2022
+
+CSIRT informa falso sitio web del Banco Falabella 
+Alerta 
+de 
+seguridad
+
+8FFR22-01052-01
+
+cibernética

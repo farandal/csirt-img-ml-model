@@ -1,0 +1,72 @@
+Source: 13BCS22-000168-01.pdf | Page: 8 | Image: 13BCS22-000168-01_p08_02 (262x243px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades entregadas por Oracle (CPU julio 2022) 
+Alerta de seguridad cibernética 
+9VSA22-00678-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de julio de 2022
+
+Última revisión 
+21 de julio de 2022
+
+CVE  
+CVE-2018-1273 
+CVE-2018-25032 
+CVE-2019-0219 
+CVE-2019-0220 
+CVE-2019-0227 
+CVE-2019-10082 
+CVE-2019-10086 
+CVE-2019-17495 
+CVE-2019-20916 
+CVE-2020-10683 
+CVE-2020-11022 
+CVE-2020-11023 
+CVE-2020-11987 
+CVE-2020-14343 
+CVE-2020-17521
+
+CVE-2021-43797 
+CVE-2021-43859 
+CVE-2021-44832 
+CVE-2021-45943 
+CVE-2022-0778 
+CVE-2022-0839 
+CVE-2022-1154 
+CVE-2022-1271 
+CVE-2022-1292 
+CVE-2022-21428 
+CVE-2022-21429 
+CVE-2022-21432 
+CVE-2022-21439 
+CVE-2022-21455 
+CVE-2022-21500
+
+CVE-2022-21557 
+CVE-2022-21558 
+CVE-2022-21559 
+CVE-2022-21560 
+CVE-2022-21561 
+CVE-2022-21562 
+CVE-2022-21563 
+CVE-2022-21564 
+CVE-2022-21565 
+CVE-2022-21566 
+CVE-2022-21567 
+CVE-2022-21568 
+CVE-2022-21569 
+CVE-2022-21570 
+CVE-2022-21571

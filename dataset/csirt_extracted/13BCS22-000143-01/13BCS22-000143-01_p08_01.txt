@@ -1,0 +1,27 @@
+Source: 13BCS22-000143-01.pdf | Page: 8 | Image: 13BCS22-000143-01_p08_01 (188x174px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidad en IBM Security SOAR 
+Alerta de seguridad cibernética 
+9VSA22-00561-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Medio
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de enero de 2022
+
+Última revisión 
+24 de enero de 2022
+
+CVE 
+CVE-2021-29785 
+Fabricante

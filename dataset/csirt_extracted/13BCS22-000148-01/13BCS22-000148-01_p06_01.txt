@@ -1,0 +1,31 @@
+Source: 13BCS22-000148-01.pdf | Page: 6 | Image: 13BCS22-000148-01_p06_01 (431x400px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en PJSIP 
+Alerta de seguridad cibernética 
+9VSA22-00583-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+3 de marzo de 2022
+
+Última revisión 
+3 de marzo de 2022
+
+CVE 
+CVE-2021-43299 
+CVE-2021-43300 
+CVE-2021-43301 
+CVE-2021-43302 
+CVE-2021-43303 
+Fabricante

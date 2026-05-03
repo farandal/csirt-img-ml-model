@@ -1,0 +1,24 @@
+Source: 13BCS22-000172-01.pdf | Page: 7 | Image: 13BCS22-000172-01_p07_01 (722x611px)
+------------------------------------------------------------
+CSIRT advierte phishing con malware con dirección de correo de 
+Indonesia 
+Alerta de seguridad cibernética 
+2CMV22-00323-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de agosto de 2021
+
+Última revisión 
+17 de agosto de 2021

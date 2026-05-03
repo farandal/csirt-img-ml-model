@@ -1,0 +1,46 @@
+Source: 13BCS22-000174-01.pdf | Page: 8 | Image: 13BCS22-000174-01_p08_01 (595x551px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidad grave en Cisco Secure Web Appliance 
+Alerta de seguridad cibernética 
+9VSA22-00699-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+31 de agosto de 2022
+
+Última revisión 
+31 de agosto de 2022
+
+CVE 
+CVE-2022-3038 
+CVE-2022-3039 
+CVE-2022-3040 
+CVE-2022-3041 
+CVE-2022-3042 
+CVE-2022-3043 
+CVE-2022-3044 
+CVE-2022-3045 
+CVE-2022-3046
+
+CVE-2022-3047 
+CVE-2022-3048 
+CVE-2022-3049 
+CVE-2022-3050 
+CVE-2022-3051 
+CVE-2022-3052 
+CVE-2022-3053 
+CVE-2022-3054 
+CVE-2022-3055
+
+Fabricantes

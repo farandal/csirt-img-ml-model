@@ -1,0 +1,27 @@
+Source: 13BCS22-000170-01.pdf | Page: 4 | Image: 13BCS22-000170-01_p04_01 (603x559px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidad crítica en Atlassian Confluence 
+Alerta de seguridad cibernética 
+9VSA22-00682-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+1 de agosto de 2022
+
+Última revisión 
+1 de agosto de 2022
+
+CVE 
+CVE-2022-26138 
+Fabricantes

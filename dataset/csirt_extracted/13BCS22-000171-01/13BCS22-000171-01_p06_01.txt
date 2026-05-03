@@ -1,0 +1,23 @@
+Source: 13BCS22-000171-01.pdf | Page: 6 | Image: 13BCS22-000171-01_p06_01 (681x487px)
+------------------------------------------------------------
+CSIRT alerta phishing que suplanta al Banco de Chile 
+Alerta de seguridad cibernética 
+8FPH22-00573-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de agosto de 2022
+
+Última revisión 
+9 de agosto de 2022

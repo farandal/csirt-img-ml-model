@@ -1,0 +1,23 @@
+Source: 13BCS22-000178-01.pdf | Page: 6 | Image: 13BCS22-000178-01_p06_01 (501x345px)
+------------------------------------------------------------
+CSIRT alerta de sitio fraudulento que suplanta a Microsoft Outlook 
+Alerta de seguridad cibernética 
+8FFR22-01100-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de septiembre de 2022
+
+Última revisión 
+23 de septiembre de 2022

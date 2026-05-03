@@ -1,0 +1,27 @@
+Source: 13BCS22-000144-01.pdf | Page: 11 | Image: 13BCS22-000144-01_p11_01 (188x174px)
+------------------------------------------------------------
+CSIRT informe de vulnerabilidades en Apache Log4j 
+Alerta de seguridad cibernética 
+9VSA22-00571-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Medio
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 de febrero de 2022
+
+Última revisión 
+2 de febrero de 2022
+
+CVE 
+CVE-2021-44832 
+Fabricante

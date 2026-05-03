@@ -1,0 +1,97 @@
+Source: 13BCS22-000145-01.pdf | Page: 5 | Image: 13BCS22-000145-01_p05_01 (569x527px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades informadas por Microsoft en su 
+Update Tuesday Febrero 2022 
+Alerta de seguridad cibernética 
+9VSA22-00575-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de febrero de 2022
+
+Última revisión 
+9 de febrero de 2022
+
+CVE 
+CVE-2022-23254 
+CVE-2022-21986 
+CVE-2022-21965 
+CVE-2022-23276 
+CVE-2022-23280 
+CVE-2022-23274 
+CVE-2022-23273 
+CVE-2022-23272 
+CVE-2022-23271 
+CVE-2022-23269 
+CVE-2022-23256 
+CVE-2022-23255 
+CVE-2022-23252 
+CVE-2022-22003 
+CVE-2022-22005 
+CVE-2022-22004
+
+CVE-2022-22002 
+CVE-2022-22001 
+CVE-2022-22000 
+CVE-2022-21999 
+CVE-2022-21998 
+CVE-2022-21997 
+CVE-2022-21996 
+CVE-2022-21995 
+CVE-2022-21994 
+CVE-2022-21993 
+CVE-2022-21992 
+CVE-2022-21991 
+CVE-2022-21989 
+CVE-2022-21988 
+CVE-2022-21987 
+CVE-2022-22716
+
+CVE-2022-22709 
+CVE-2022-21968 
+CVE-2022-21957 
+CVE-2022-21981 
+CVE-2022-21984 
+CVE-2022-22718 
+CVE-2022-21985 
+CVE-2022-22717 
+CVE-2022-22715 
+CVE-2022-22712 
+CVE-2022-21974 
+CVE-2022-21971 
+CVE-2022-21927 
+CVE-2022-21926 
+CVE-2022-21844 
+CVE-2022-22710
+
+Fabricante
+
+Microsoft 
+Productos afectados 
+HEVC Video Extensions 
+Microsoft Dynamics 365 (on-premises) version 9.0, version 8.2 
+Microsoft Teams Admin Center 
+Microsoft Teams for Android, for iOS 
+Microsoft SharePoint Foundation 2013 Service Pack 1 
+Microsoft SharePoint Server Subscription Edition 
+Microsoft SharePoint Server 2019 
+Microsoft SharePoint Enterprise Server 2016 
+Windows 10 Version 21H2 for x64-based Systems 
+Windows 10 Version 21H2 for ARM64-based Systems 
+Windows 10 Version 21H2 for 32-bit Systems 
+Windows 11 for ARM64-based Systems 
+Windows 11 for x64-based Systems 
+Windows Server, version 20H2 (Server Core Installation) 
+Windows 10 Version 20H2 for ARM64-based Systems 
+Windows 10 Version 20H2 for 32-bit Systems

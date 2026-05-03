@@ -1,0 +1,27 @@
+Source: 13BCS22-000179-01.pdf | Page: 10 | Image: 13BCS22-000179-01_p10_01 (571x561px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing que apunta a clientes 
+Santander 
+Alerta de seguridad cibernética 
+8FPH22-00609-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+04 de octubre de 2022
+
+Última revisión 
+04 de octubre de 2022
+
+Indicadores de compromiso 
+URL sitio redirección

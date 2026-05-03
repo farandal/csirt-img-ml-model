@@ -1,0 +1,23 @@
+Source: 13BCS22-000160-01.pdf | Page: 6 | Image: 13BCS22-000160-01_p06_01 (750x629px)
+------------------------------------------------------------
+CSIRT informa activación de página falsa de tienda de mochilas 
+Alerta de seguridad cibernética 
+8FFR22-01085-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de mayo de 2022
+
+Última revisión 
+25 de mayo de 2022

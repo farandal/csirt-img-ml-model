@@ -1,0 +1,36 @@
+Source: 13BCS22-000177-01.pdf | Page: 4 | Image: 13BCS22-000177-01_p04_02 (714x388px)
+------------------------------------------------------------
+CSIRT alerta de phishing en falsa repuesta a puesto laboral 
+Alerta de seguridad cibernética 
+2CMV22-00348-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de septiembre de 2022
+
+Última revisión 
+14 de septiembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+Curriculum Vitae Rita 
+Correo de Salida 
+vipechi@gmail.com 
+SHA256   
+Nombre: Curr�culum Vitae Rita.zip
+
+SHA256: 
+95cec8fc25e5a9779e991f002c78a786c3dd9354acbb0820f90528e9ac39f043 
+ 
+Nombre: Currículum Vitae Rita.ex

@@ -1,0 +1,30 @@
+Source: 13BCS22-000151-01.pdf | Page: 14 | Image: 13BCS22-000151-01_p14_02 (431x400px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en impresoras HP 
+Alerta de seguridad cibernética 
+9VSA22-00599-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de marzo de 2022
+
+Última revisión 
+24 de marzo de 2022
+
+CVE 
+CVE-2022-24291 
+CVE-2022-24292 
+CVE-2022-24293 
+CVE-2022-24294 
+Fabricante

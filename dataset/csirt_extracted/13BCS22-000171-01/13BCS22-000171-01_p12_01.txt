@@ -1,0 +1,28 @@
+Source: 13BCS22-000171-01.pdf | Page: 12 | Image: 13BCS22-000171-01_p12_01 (469x435px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades en productos de Bosch 
+Alerta de seguridad cibernética 
+9VSA22-00685-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 de agosto de 2022
+
+Última revisión 
+8 de agosto de 2022
+
+CVE 
+CVE-2022-36301 
+CVE-2022-36302 
+Fabricantes

@@ -1,0 +1,30 @@
+Source: 13BCS22-000149-01.pdf | Page: 16 | Image: 13BCS22-000149-01_p16_01 (431x400px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades de alto riesgo en productos Cisco 
+Alerta de seguridad cibernética 
+9VSA22-00590-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de marzo de 2022
+
+Última revisión 
+10 de marzo de 2022
+
+CVE 
+CVE-2021-1577 
+CVE-2021-1579 
+CVE-2021-1580 
+CVE-2021-1581 
+Fabricante

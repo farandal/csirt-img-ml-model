@@ -1,0 +1,21 @@
+Source: 13BCS22-000149-01.pdf | Page: 7 | Image: 13BCS22-000149-01_p07_01 (688x453px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+4 de marzo de 2022
+
+Última revisión 
+4 de marzo de 2022

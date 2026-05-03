@@ -1,0 +1,39 @@
+Source: 13BCS22-000150-01.pdf | Page: 8 | Image: 13BCS22-000150-01_p08_02 (569x527px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades en el kernel de Linux 
+Alerta de seguridad cibernética 
+9VSA22-00592-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de marzo de 2022
+
+Última revisión 
+14 de marzo de 2022
+
+CVE 
+CVE-2022-25636 
+Fabricante
+
+Varios, que basan sus productos en el kernel de Linux 
+Productos afectados 
+Linux 5.4 a 5.6.10 
+ 
+Red Hat: 
+Este problema afecta los paquetes del kernel de Linux enviados 
+con Red Hat Enterprise Linux 8.3 GA en adelante. Las versiones 
+anteriores de Red Hat Enterprise Linux no se ven afectadas. 
+ 
+Productos SUSE: 
+SUSE Linux Enterprise Desktop 15 SP3

@@ -1,0 +1,39 @@
+Source: 13BCS22-000172-01.pdf | Page: 8 | Image: 13BCS22-000172-01_p08_02 (759x395px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing con malware Agent Tesla 
+Alerta de seguridad cibernética 
+2CMV22-00325-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de agosto de 2021
+
+Última revisión 
+18 de agosto de 2021
+
+Indicadores de compromiso 
+Asunto 
+Standard Quote Request Acknowledgement. 
+Correo de Salida 
+@helioserralharia.com 
+SHA256   
+Nombre:              Quotation.zip 
+SHA256: 
+7ef97e0b7a5de9da7c45613fbee89aefd46c2217ec16f965a5d843715a4
+5be7d 
+ 
+Nombre:              1XF06zRaiW1O4z5.exe 
+SHA256: 
+9e3b838c5f8a0e399b16d7120d2f23b0ddd90439f60e79d0657fb8da32
+d3340c

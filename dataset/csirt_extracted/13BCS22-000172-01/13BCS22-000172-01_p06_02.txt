@@ -1,0 +1,35 @@
+Source: 13BCS22-000172-01.pdf | Page: 6 | Image: 13BCS22-000172-01_p06_02 (722x611px)
+------------------------------------------------------------
+CSIRT alerta campaña de phishing con malware que suplanta a Kaktüs 
+Çiçekçilik 
+Alerta de seguridad cibernética 
+2CMV22-00322-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de agosto de 2021
+
+Última revisión 
+17 de agosto de 2021
+
+Indicadores de compromiso 
+Asunto 
+RFQ – (PB0743) 
+Correo de Salida 
+@kaktuscicekcilik.com 
+SHA256   
+Nombre:              Pago del saldo.zip 
+SHA256:               
+1c9136738bbf4fc6d0065925255846c00bc0b6192c892b19cd8b38b226
+576ca9

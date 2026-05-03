@@ -1,0 +1,75 @@
+Source: 13BCS22-000168-01.pdf | Page: 14 | Image: 13BCS22-000168-01_p14_01 (262x243px)
+------------------------------------------------------------
+CSIRT alerta de nuevas vulnerabilidades en productos Cisco 
+Alerta de seguridad cibernética 
+9VSA22-00679-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de julio de 2022
+
+Última revisión 
+21 de julio de 2022
+
+CVE  
+CVE-2022-20857 
+CVE-2022-20858 
+CVE-2022-20861 
+CVE-2022-20860 
+CVE-2022-20873 
+CVE-2022-20874 
+CVE-2022-20875 
+CVE-2022-20876 
+CVE-2022-20877 
+CVE-2022-20878 
+CVE-2022-20879 
+CVE-2022-20880 
+CVE-2022-20881 
+CVE-2022-20882 
+CVE-2022-20883 
+CVE-2022-20884
+
+CVE-2022-20885 
+CVE-2022-20886 
+CVE-2022-20887 
+CVE-2022-20888 
+CVE-2022-20889 
+CVE-2022-20890 
+CVE-2022-20891 
+CVE-2022-20892 
+CVE-2022-20893 
+CVE-2022-20894 
+CVE-2022-20895 
+CVE-2022-20896 
+CVE-2022-20897 
+CVE-2022-20898 
+CVE-2022-20899
+
+CVE-2022-20900 
+CVE-2022-20901 
+CVE-2022-20902 
+CVE-2022-20903 
+CVE-2022-20904 
+CVE-2022-20910 
+CVE-2022-20911 
+CVE-2022-20912 
+CVE-2022-20906 
+CVE-2022-20907 
+CVE-2022-20908 
+CVE-2022-20909 
+CVE-2022-20913 
+CVE-2022-20916 
+CVE-2022-20733
+
+Fabricante

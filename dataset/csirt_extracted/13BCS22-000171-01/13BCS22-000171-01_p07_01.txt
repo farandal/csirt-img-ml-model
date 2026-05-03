@@ -1,0 +1,23 @@
+Source: 13BCS22-000171-01.pdf | Page: 7 | Image: 13BCS22-000171-01_p07_01 (601x274px)
+------------------------------------------------------------
+CSIRT advierte phishing con malware con falsos informes 
+Alerta de seguridad cibernética 
+2CMV22-00308-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de agosto de 2022
+
+Última revisión 
+5 de agosto de 2022

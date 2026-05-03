@@ -1,0 +1,23 @@
+Source: 13BCS22-000177-01.pdf | Page: 5 | Image: 13BCS22-000177-01_p05_02 (501x342px)
+------------------------------------------------------------
+CSIRT alerta de sitio falso que suplanta a Microsoft One Drive 
+Alerta de seguridad cibernética 
+8FFR22-01096-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de septiembre de 2022
+
+Última revisión 
+20 de septiembre de 2022

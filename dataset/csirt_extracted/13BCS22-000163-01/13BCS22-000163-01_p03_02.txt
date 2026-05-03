@@ -1,0 +1,23 @@
+Source: 13BCS22-000163-01.pdf | Page: 3 | Image: 13BCS22-000163-01_p03_02 (659x471px)
+------------------------------------------------------------
+CSIRT informa página web que suplanta a Netflix 
+Alerta de seguridad cibernética 
+8FFR22-01088-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de junio de 2022
+
+Última revisión 
+13 de junio de 2022

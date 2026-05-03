@@ -1,0 +1,56 @@
+Source: 13BCS22-000177-01.pdf | Page: 3 | Image: 13BCS22-000177-01_p03_01 (578x253px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware que suplanta a 
+entidad municipal 
+Alerta de seguridad cibernética 
+2CMV22-00346-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de septiembre de 2022
+
+Última revisión 
+21 de septiembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+(sin asunto) 
+Correo de salida 
+egis.lolol@gmail.com 
+SHA256   
+Doc 02321- Aviso de pago.xlsx 
+SHA256:      
+187f085ad4f062f5ca8faf70d7b096fd7f274e5aef00808a56d0f557aaf90ee2 
+ 
+Document_iXRMjTBCuC_2.zip 
+SHA256: 
+8d02bd62d1e1f6c1e71ab8c5133933ce58b908a6bf01130877320c2c2f
+9a7ac1 
+ 
+Document_iXRMjTBCuC.zip 
+SHA256: 
+11c48b78a99bace6753b56701d4f17a39c300ad1fd3b511679907b2906
+14a263 
+ 
+Document.pdf.rar  
+SHA256: 
+2315c1385b4bedcc4f7fe0b08a383450c873ba81033e7ef347697c4032c
+d78a8 
+ 
+Document.pdf.scr  
+SHA256: 
+dc7ef7b92c427b3e04afe4cb73ce3b766c1e53b24d1cf68e96a3785840c
+fe0fb 
+ 
+annotation.UnsupportedAppUsage.module10.exe

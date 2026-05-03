@@ -1,0 +1,23 @@
+Source: 13BCS22-000156-01.pdf | Page: 7 | Image: 13BCS22-000156-01_p07_01 (661x773px)
+------------------------------------------------------------
+CSIRT advierte phishing con falsos puntos del Banco Itaú 
+Alerta de seguridad cibernética 
+8FPH22-00515-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de abril de 2022
+
+Última revisión 
+22 de abril de 2022

@@ -1,0 +1,29 @@
+Source: 13BCS22-000150-01.pdf | Page: 9 | Image: 13BCS22-000150-01_p09_01 (569x527px)
+------------------------------------------------------------
+CSIRT advierte vulnerabilidades en Veeam Backup & Replication 
+Alerta de seguridad cibernética 
+9VSA22-00593-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de marzo de 2022
+
+Última revisión 
+15 de marzo de 2022
+
+CVE 
+CVE-2022-26500 
+CVE-2022-26501 
+CVE-2022-26504 
+Fabricante

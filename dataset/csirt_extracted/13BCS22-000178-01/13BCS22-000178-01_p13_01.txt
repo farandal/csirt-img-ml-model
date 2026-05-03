@@ -1,0 +1,76 @@
+Source: 13BCS22-000178-01.pdf | Page: 13 | Image: 13BCS22-000178-01_p13_01 (595x551px)
+------------------------------------------------------------
+CSIRT alerta de nuevas vulnerabilidades en Android 
+Alerta de seguridad cibernética 
+9VSA22-00704-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de septiembre de 2022
+
+Última revisión 
+23 de septiembre de 2022
+
+CVE 
+CVE-2022-22822 
+CVE-2022-23852 
+CVE-2022-23990 
+CVE-2022-25314 
+CVE-2022-20218 
+CVE-2022-20392 
+CVE-2022-20393 
+CVE-2022-20197 
+CVE-2022-20395 
+CVE-2022-20398 
+CVE-2022-20396 
+CVE-2022-20399 
+CVE-2021-4083 
+CVE-2022-29582 
+CVE-2021-0697 
+CVE-2021-0942
+
+CVE-2021-0943 
+CVE-2022-26447 
+CVE-2021-0871 
+CVE-2022-20385 
+CVE-2022-20386 
+CVE-2022-20387 
+CVE-2022-20388 
+CVE-2022-20389 
+CVE-2022-20390 
+CVE-2022-20391 
+CVE-2022-25708 
+CVE-2022-22066 
+CVE-2022-22074 
+CVE-2022-22081 
+CVE-2022-22089 
+CVE-2022-22091
+
+CVE-2022-22092 
+CVE-2022-22093 
+CVE-2022-22094 
+CVE-2022-25669 
+CVE-2022-25686 
+CVE-2022-25688 
+CVE-2022-25690 
+CVE-2022-25696 
+CVE-2022-20385 
+CVE-2022-20386 
+CVE-2022-20387 
+CVE-2022-20388 
+CVE-2022-20389 
+CVE-2022-20390 
+CVE-2022-20391
+
+Fabricantes

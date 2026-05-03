@@ -1,0 +1,24 @@
+Source: 13BCS22-000173-01.pdf | Page: 9 | Image: 13BCS22-000173-01_p09_01 (817x363px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing con malware que simula oferta 
+laboral 
+Alerta de seguridad cibernética 
+2CMV22-00332-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de agosto de 2022
+
+Última revisión 
+23 de agosto de 2022

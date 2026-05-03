@@ -1,0 +1,28 @@
+Source: 13BCS22-000160-01.pdf | Page: 8 | Image: 13BCS22-000160-01_p08_01 (618x573px)
+------------------------------------------------------------
+CSIRT alerta de dos vulnerabilidades en plugins de WordPress 
+Alerta de seguridad cibernética 
+9VSA22-00642-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de mayo de 2022
+
+Última revisión 
+19 de mayo de 2022
+
+CVE 
+CVE-2022-1654 
+CVE-2021-25094 
+Fabricante

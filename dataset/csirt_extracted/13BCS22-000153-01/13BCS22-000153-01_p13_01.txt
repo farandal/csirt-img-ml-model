@@ -1,0 +1,27 @@
+Source: 13BCS22-000153-01.pdf | Page: 13 | Image: 13BCS22-000153-01_p13_01 (431x400px)
+------------------------------------------------------------
+CSIRT informa de vulnerabilidad en productos de Palo Alto 
+Alerta de seguridad cibernética 
+9VSA22-00612-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de abril de 2022
+
+Última revisión 
+7 de abril de 2022
+
+CVE 
+CVE-2022-0778 
+Fabricante

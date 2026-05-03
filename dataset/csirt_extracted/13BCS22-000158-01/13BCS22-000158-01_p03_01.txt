@@ -1,0 +1,23 @@
+Source: 13BCS22-000158-01.pdf | Page: 3 | Image: 13BCS22-000158-01_p03_01 (780x634px)
+------------------------------------------------------------
+CSIRT informa de sitio fraudulento de Microsoft 
+Alerta de seguridad cibernética 
+8FFR22-01081-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de mayo de 2022
+
+Última revisión 
+12 de mayo de 2022

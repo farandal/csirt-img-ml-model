@@ -1,0 +1,23 @@
+Source: 13BCS22-000177-01.pdf | Page: 6 | Image: 13BCS22-000177-01_p06_02 (501x318px)
+------------------------------------------------------------
+CSIRT alerta de sitio fraudulento que suplanta a Serfonac 
+Alerta de seguridad cibernética 
+8FFR22-01099-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de septiembre de 2022
+
+Última revisión 
+20 de septiembre de 2022

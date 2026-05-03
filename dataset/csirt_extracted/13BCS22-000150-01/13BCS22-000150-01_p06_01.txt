@@ -1,0 +1,25 @@
+Source: 13BCS22-000150-01.pdf | Page: 6 | Image: 13BCS22-000150-01_p06_01 (716x456px)
+------------------------------------------------------------
+CSIRT advierte sitio web que suplanta a radio Cooperativa 
+Alerta de seguridad cibernética 
+8FFR22-01063-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o
+
+Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de marzo de 2022
+
+Última revisión 
+16 de marzo de 2022

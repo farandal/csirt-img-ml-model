@@ -1,0 +1,29 @@
+Source: 13BCS22-000143-01.pdf | Page: 8 | Image: 13BCS22-000143-01_p08_02 (188x174px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades en Apple WatchOS 
+Alerta de seguridad cibernética 
+9VSA22-00562-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de enero de 2022
+
+Última revisión 
+24 de enero de 2022
+
+CVE 
+CVE-2022-22584    -    CVE-2022-22578    -    CVE-2022-22585 
+CVE-2022-22593    -    CVE-2022-22590    -    CVE-2022-22592 
+CVE-2022-22589    -    CVE-2022-22594 
+Fabricante

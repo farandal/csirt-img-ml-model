@@ -1,0 +1,32 @@
+Source: 13BCS22-000175-01.pdf | Page: 4 | Image: 13BCS22-000175-01_p04_01 (584x261px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de phishing que incluye malware de tipo 
+remcos 
+Alerta de seguridad cibernética 
+2CMV22-00341-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de septiembre de 2022
+
+Última revisión 
+5 de septiembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+RE: Nota de aviso de pago del 01.09.2022 
+Correo de Salida 
+sales@g-watchs.top 
+SHA256   
+Nombre:              Proforma y Nota de Aviso de Pago del 09.02.2022.arj

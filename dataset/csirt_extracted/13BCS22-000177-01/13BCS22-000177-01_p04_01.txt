@@ -1,0 +1,31 @@
+Source: 13BCS22-000177-01.pdf | Page: 4 | Image: 13BCS22-000177-01_p04_01 (722x477px)
+------------------------------------------------------------
+CSIRT alerta de nuevo phishing que suplanta a compañía mexicana 
+Alerta de seguridad cibernética 
+2CMV22-00347-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de septiembre de 2022
+
+Última revisión 
+22 de septiembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+RE: ORDEN DE COMPRA 045190 
+Correo de Salida 
+facturas@lusen.com.mx 
+SHA256   
+Nombre: ORDEN DE COMPRA 045190.xlsx

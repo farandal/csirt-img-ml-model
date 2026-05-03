@@ -1,0 +1,28 @@
+Source: 13BCS22-000150-01.pdf | Page: 11 | Image: 13BCS22-000150-01_p11_01 (569x527px)
+------------------------------------------------------------
+CSIRT alerta de nueva vulnerabilidad en algunas versiones de 
+OpenSSL 
+Alerta de seguridad cibernética 
+9VSA22-00595-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de marzo de 2022
+
+Última revisión 
+15 de marzo de 2022
+
+CVE 
+CVE-2022-0778 
+Fabricante

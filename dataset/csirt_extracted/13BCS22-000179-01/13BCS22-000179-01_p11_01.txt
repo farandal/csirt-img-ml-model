@@ -1,0 +1,29 @@
+Source: 13BCS22-000179-01.pdf | Page: 11 | Image: 13BCS22-000179-01_p11_01 (595x551px)
+------------------------------------------------------------
+CSIRT alerta ante dos vulnerabilidades zero day en Microsoft Exchange 
+Server 
+Alerta de seguridad cibernética 
+9VSA22-00712-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 de septiembre de 2022
+
+Última revisión 
+30 de septiembre de 2022
+
+CVE 
+CVE-2022-41040 
+CVE-2022-41082 
+Fabricantes

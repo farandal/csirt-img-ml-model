@@ -1,0 +1,21 @@
+Source: 13BCS22-000151-01.pdf | Page: 4 | Image: 13BCS22-000151-01_p04_01 (636x464px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+23 de marzo de 2022
+
+Última revisión 
+23 de marzo de 2022

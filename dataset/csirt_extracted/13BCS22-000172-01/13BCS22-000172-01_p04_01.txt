@@ -1,0 +1,83 @@
+Source: 13BCS22-000172-01.pdf | Page: 4 | Image: 13BCS22-000172-01_p04_01 (560x341px)
+------------------------------------------------------------
+CSIRT alerta de phishing con malware que suplanta a YSA Mexicana 
+Alerta de seguridad cibernética 
+2CMV21-00319-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de agosto de 2021
+
+Última revisión 
+12 de agosto de 2021
+
+Indicadores de compromiso 
+Asunto 
+RE: [EXTERNAL] RE: RE: Nuevo orden 
+Correo de Salida 
+@ysamexicana.com 
+URL que se encuentran en la campaña 
+slot999.site hagsahoy.com 
+howdyart.com  
+orders-marketplace.com 
+ranaa.email  
+masterlink.guru  
+archershut.com  
+weikumcommunications.com 
+dphardmoney.com  
+shjyutie.com  
+vivaberlin.net  
+mycto.today 
+curvygirlugc.com  
+otnmp.cfd  
+alwrists.com  
+propercandlecompany.com 
+allindustry-bg.com  
+theyoungbizacademy.com 
+expand658170.com  
+leslainesdumouchon.com 
+suptisa.com  
+picnic-in-andong.com  
+wanligui.com  
+cesarjunaro.com 
+kuxita.xyz  
+simpkecpr.com  
+microsoftsecuritys.com
+
+familysafehidingplaces.com 
+centericehockey.com  
+appleidd.info  
+igctsansculottism.sbs 
+guiaestilosaude.online  
+happysscribe.com  
+tizzbizz.com  
+qcorretor.com 
+baremaster.online  
+liputanlima.com  
+ontherighttrack.systems 
+zzza002.xyz 
+k-aashirwaad.com 
+stillwatersagawork.com 
+skindoze.com  
+asdjmhfg.xyz 
+refaccionariafgnogales.com 
+hunn.protlland.group  
+homebizen.com 
+newszi.xyz  
+nicetimecafe.net  
+qdbs.cloud ebtl.wtf 
+dchasss.com  
+kijangjantan.tech  
+elegant-story.com 
+glimtmedia.com

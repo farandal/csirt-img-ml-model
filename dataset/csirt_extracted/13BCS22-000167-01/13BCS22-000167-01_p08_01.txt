@@ -1,0 +1,30 @@
+Source: 13BCS22-000167-01.pdf | Page: 8 | Image: 13BCS22-000167-01_p08_01 (603x559px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades de alto riesgo en productos Fortinet 
+Alerta de seguridad cibernética 
+9VSA22-00672-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 de julio de 2022
+
+Última revisión 
+8 de julio de 2022
+
+CVE  
+CVE-2021-43072 
+CVE-2021-41031 
+CVE-2022-30302 
+CVE-2022-26117 
+Fabricante

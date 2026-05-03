@@ -1,0 +1,52 @@
+Source: 13BCS22-000167-01.pdf | Page: 7 | Image: 13BCS22-000167-01_p07_01 (603x559px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades críticas de Cisco 
+Alerta de seguridad cibernética 
+9VSA22-00671-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 de julio de 2022
+
+Última revisión 
+8 de julio de 2022
+
+CVE 
+CVE-2022-20812 
+CVE-2022-20813 
+CVE-2022-20808 
+CVE-2022-20752 
+CVE-2022-20862 
+CVE-2022-20859 
+CVE-2022-20768 
+CVE-2022-20815
+
+CVE-2022-20800 
+CVE-2022-20791 
+CVE-2022-20651 
+CVE-2022-20666 
+CVE-2022-20667 
+CVE-2022-20668 
+CVE-2022-20669 
+CVE-2022-20670
+
+CVE-2022-20671 
+CVE-2022-20672 
+CVE-2022-20673 
+CVE-2022-20674 
+CVE-2022-20828 
+CVE-2022-20829 
+CVE-2022-20802
+
+Fabricantes

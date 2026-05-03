@@ -1,0 +1,39 @@
+Source: 13BCS22-000172-01.pdf | Page: 13 | Image: 13BCS22-000172-01_p13_01 (603x559px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en Google Chrome 
+Alerta de seguridad cibernética 
+9VSA22-00692-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de agosto de 2022
+
+Última revisión 
+18 de agosto de 2022
+
+CVE 
+CVE-2022-2856 
+CVE-2022-2852 
+CVE-2022-2854 
+CVE-2022-2855 
+CVE-2022-2857 
+CVE-2022-2858
+
+CVE-2022-2853 
+CVE-2022-2856 
+CVE-2022-2859 
+CVE-2022-2860 
+CVE-2022-2861
+
+Fabricantes

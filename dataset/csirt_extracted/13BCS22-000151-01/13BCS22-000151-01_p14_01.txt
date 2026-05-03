@@ -1,0 +1,32 @@
+Source: 13BCS22-000151-01.pdf | Page: 14 | Image: 13BCS22-000151-01_p14_01 (431x400px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en McAfee ePO 
+Alerta de seguridad cibernética 
+9VSA22-00598-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Bajo
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de marzo de 2022
+
+Última revisión 
+23 de marzo de 2022
+
+CVE 
+CVE-2022-0842 
+CVE-2022-0857 
+CVE-2022-0858 
+CVE-2022-0859 
+CVE-2022-0861 
+CVE-2022-0862 
+Fabricante

@@ -1,0 +1,23 @@
+Source: 13BCS22-000152-01.pdf | Page: 15 | Image: 13BCS22-000152-01_p15_02 (292x407px)
+------------------------------------------------------------
+CSIRT advierte phishing que suplanta al Banco Ripley 
+Alerta de seguridad cibernética 
+8FPH22-00495-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de marzo de 2022
+
+Última revisión 
+28 de marzo de 2022

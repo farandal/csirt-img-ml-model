@@ -1,0 +1,29 @@
+Source: 13BCS22-000174-01.pdf | Page: 7 | Image: 13BCS22-000174-01_p07_02 (595x551px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades en WordPress CMS 
+Alerta de seguridad cibernética 
+9VSA22-00698-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+31 de agosto de 2022
+
+Última revisión 
+31 de agosto de 2022
+
+CVE 
+CVE-pendiente 
+CVE-pendiente 
+CVE-pendiente 
+Fabricantes

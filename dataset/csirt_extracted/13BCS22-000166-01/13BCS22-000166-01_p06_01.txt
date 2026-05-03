@@ -1,0 +1,49 @@
+Source: 13BCS22-000166-01.pdf | Page: 6 | Image: 13BCS22-000166-01_p06_01 (469x435px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas Firefox 102 
+Alerta de seguridad cibernética 
+9VSA22-00669-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+4 de julio de 2022
+
+Última revisión 
+4 de julio de 2022
+
+CVE 
+CVE-2022-34470 
+CVE-2022-34468 
+CVE-2022-34479 
+CVE-2022-34484 
+CVE-2022-34482 
+CVE-2022-34483 
+CVE-2022-34476
+
+CVE-2022-34481 
+CVE-2022-34474 
+CVE-2022-34469 
+CVE-2022-34471 
+CVE-2022-34472 
+CVE-2022-34478 
+CVE-2022-2200
+
+CVE-2022-34480 
+CVE-2022-34477 
+CVE-2022-34475 
+CVE-2022-34473 
+CVE-2022-34484 
+CVE-2022-34485
+
+Fabricantes

@@ -1,0 +1,51 @@
+Source: 13BCS22-000153-01.pdf | Page: 9 | Image: 13BCS22-000153-01_p09_01 (431x400px)
+------------------------------------------------------------
+CSIRT comparte información de Cisco sobre vulnerabilidad Spring4Shell 
+Alerta de seguridad cibernética 
+9VSA22-00609-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de abril de 2022
+
+Última revisión 
+5 de abril de 2022
+
+CVE 
+CVE-2022-22965 
+Fabricante
+
+Cisco 
+Productos afectados 
+Productos confirmados por Cisco como afectados hasta el momento de la 
+redacción de este documento: 
+Cisco Crosswork Optimization Engine 
+Cisco Crosswork Zero Touch Provisioning (ZTP) 
+Cisco Edge Intelligence 
+ 
+Productos en investigación por Cisco (la empresa irá actualizando a 
+continuación a medida que confirma o descarta que los siguientes productos 
+estén afectados por Spring4Shell): 
+Cisco Application-Oriented Networking Healthcare Services Extensions 
+Cisco Continuous Deployment and Automation Framework 
+Cisco Ultra Cloud Core – Network Respository Function 
+Cisco Ultra Cloud Core – User Plane Function 
+Cisco CX Cloud Agent Software 
+Cisco Extensible Network Controller (XNC) 
+Cisco Network Insights for Data Center 
+Cisco Nexus Dashboard Data Broker, formerly Cisco Nexus Data Broker 
+Cisco Nexus Insights 
+Cisco Wide Area Application Services (WAAS) 
+Cisco Adaptive Security Appliance (ASA) 
+Cisco Firepower Management Center (FMC)

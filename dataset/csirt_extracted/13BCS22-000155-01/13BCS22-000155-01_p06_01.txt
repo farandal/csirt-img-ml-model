@@ -1,0 +1,27 @@
+Source: 13BCS22-000155-01.pdf | Page: 6 | Image: 13BCS22-000155-01_p06_01 (469x435px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidad crítica en Apache Struts 
+Alerta de seguridad cibernética 
+9VSA22-00620-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de abril de 2022
+
+Última revisión 
+14 de abril de 2022
+
+CVE 
+CVE-2021-31805 
+Fabricante

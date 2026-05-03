@@ -1,0 +1,30 @@
+Source: 13BCS22-000174-01.pdf | Page: 5 | Image: 13BCS22-000174-01_p05_02 (694x525px)
+------------------------------------------------------------
+CSIRT alerta ante nueva campaña de phishing con malware 
+Alerta de seguridad cibernética 
+2CMV22-00338-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+1 de septiembre de 2022
+
+Última revisión 
+1 de septiembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+m/v da tong yun agency appointment for discharging operations 
+Correo de Salida 
+liuhs@coscol.com.cn 
+SHA256

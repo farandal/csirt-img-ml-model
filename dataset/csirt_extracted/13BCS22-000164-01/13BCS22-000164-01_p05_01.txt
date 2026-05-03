@@ -1,0 +1,23 @@
+Source: 13BCS22-000164-01.pdf | Page: 5 | Image: 13BCS22-000164-01_p05_01 (455x560px)
+------------------------------------------------------------
+CSIRT advierte phishing con falso IFE laboral disponible 
+Alerta de seguridad cibernética 
+8FPH22-00542-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de junio de 2022
+
+Última revisión 
+17 de junio de 2022

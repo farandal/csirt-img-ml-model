@@ -1,0 +1,23 @@
+Source: 13BCS21-00099-01.pdf | Page: 6 | Image: 13BCS21-00099-01_p06_02 (443x554px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing suplantando al BancoEstado 
+Alerta de seguridad cibernética 
+8FPH21-00380-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de marzo de 2021
+
+Última revisión 
+23 de marzo de 2021

@@ -1,0 +1,46 @@
+Source: 13BCS22-000178-01.pdf | Page: 4 | Image: 13BCS22-000178-01_p04_01 (717x462px)
+------------------------------------------------------------
+CSIRT alerta de nuevo phishing que suplanta a compañía mexicana 
+Alerta de seguridad cibernética 
+2CMV22-00350-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 de septiembre de 2022
+
+Última revisión 
+26 de septiembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+PO 2209-0651 
+Correo de Salida 
+kim@merperle.shop 
+SHA256   
+Nombre: PO 2209-0651.zip 
+SHA256:
+ 
+1808ff7039d835ecfd81803d6c1f8e6115e63c6df76fc94095d7
+
+bb7de1060cda 
+Nombre: PO 2209-0651.exe 
+SHA256:
+ 
+c56318c1a198033aa2b413978062cd8ecc805cac7951551b9c
+
+d8be94b3350a3c 
+Nombre: Hsmpqaej.exe 
+SHA256:
+ 
+fa163f94d25970b412b0bbb5a233af3e7d79f63fe843ea3df90

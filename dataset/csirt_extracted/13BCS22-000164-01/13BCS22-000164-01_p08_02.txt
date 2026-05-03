@@ -1,0 +1,27 @@
+Source: 13BCS22-000164-01.pdf | Page: 8 | Image: 13BCS22-000164-01_p08_02 (608x564px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidad en Citrix ADM 
+Alerta de seguridad cibernética 
+9VSA22-00660-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de junio de 2022
+
+Última revisión 
+17 de junio de 2022
+
+CVE 
+CVE-2022-27511 
+Fabricante

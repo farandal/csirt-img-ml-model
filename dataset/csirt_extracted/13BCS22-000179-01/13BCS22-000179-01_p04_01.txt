@@ -1,0 +1,36 @@
+Source: 13BCS22-000179-01.pdf | Page: 4 | Image: 13BCS22-000179-01_p04_01 (788x426px)
+------------------------------------------------------------
+CSIRT alerta de phishing con falsa solicitud de cotización 
+Alerta de seguridad cibernética 
+2CMV22-00354-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+03 de octubre de 2022
+
+Última revisión 
+03 de octubre de 2022
+
+Indicadores de compromiso 
+Asunto 
+Solicitud de cotización
+
+Correo de Salida 
+juanmorales@gmail.com 
+SHA256   
+Nombre: Solicitud de cotizacion.zip 
+SHA256: 
+def80745672b71f12f1abb6e98c4e4ca8ed86937bd34f6990702162e65
+814d58 
+Nombre: Solicitud de cotizacion.exe

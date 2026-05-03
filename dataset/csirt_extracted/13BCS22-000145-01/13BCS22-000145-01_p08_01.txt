@@ -1,0 +1,44 @@
+Source: 13BCS22-000145-01.pdf | Page: 8 | Image: 13BCS22-000145-01_p08_01 (569x527px)
+------------------------------------------------------------
+CSIRT alerta de nuevas vulnerabilidades en productos de Adobe 
+Alerta de seguridad cibernética 
+9VSA21-00576-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de febrero de 2022
+
+Última revisión 
+10 de febrero de 2022
+
+CVE 
+CVE-2022-23203 
+CVE-2022-23186 
+CVE-2022-23189 
+CVE-2022-23190 
+CVE-2022-23191
+
+CVE-2022-23192 
+CVE-2022-23193 
+CVE-2022-23194 
+CVE-2022-23195 
+CVE-2022-23196
+
+CVE-2022-23197 
+CVE-2022-23198 
+CVE-2022-23199 
+CVE-2022-23188 
+CVE-2022-23200
+
+Fabricante

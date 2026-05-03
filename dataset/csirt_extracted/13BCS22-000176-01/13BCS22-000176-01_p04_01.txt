@@ -1,0 +1,23 @@
+Source: 13BCS22-000176-01.pdf | Page: 4 | Image: 13BCS22-000176-01_p04_01 (748x487px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing que suplanta a Matsa 
+Alerta de seguridad cibernética 
+2CMV22-00345-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de septiembre de 2022
+
+Última revisión 
+14 de septiembre de 2022

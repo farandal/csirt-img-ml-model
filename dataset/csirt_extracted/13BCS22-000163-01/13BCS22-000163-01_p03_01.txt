@@ -1,0 +1,23 @@
+Source: 13BCS22-000163-01.pdf | Page: 3 | Image: 13BCS22-000163-01_p03_01 (660x550px)
+------------------------------------------------------------
+CSIRT informa página falsa de Zimbra web 
+Alerta de seguridad cibernética 
+8FFR22-01087-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de junio de 2022
+
+Última revisión 
+10 de junio de 2022

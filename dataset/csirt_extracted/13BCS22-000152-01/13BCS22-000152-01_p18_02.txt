@@ -1,0 +1,23 @@
+Source: 13BCS22-000152-01.pdf | Page: 18 | Image: 13BCS22-000152-01_p18_02 (449x329px)
+------------------------------------------------------------
+CSIRT advierte phishing usurpando la identidad del BancoEstado 
+Alerta de seguridad cibernética 
+8FPH22-00501-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+31 de marzo de 2022
+
+Última revisión 
+31 de marzo de 2022

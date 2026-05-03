@@ -1,0 +1,31 @@
+Source: 13BCS22-000151-01.pdf | Page: 10 | Image: 13BCS22-000151-01_p10_01 (765x349px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+21 de marzo de 2022
+
+Última revisión 
+21 de marzo de 2022
+
+CSIRT advierte campaña de malware que suplanta a la Tesorería 
+General de la República 
+Alerta 
+de 
+seguridad
+
+2CMV21-00286-01
+
+cibernética

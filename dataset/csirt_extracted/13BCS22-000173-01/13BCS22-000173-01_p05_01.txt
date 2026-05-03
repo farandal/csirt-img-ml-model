@@ -1,0 +1,23 @@
+Source: 13BCS22-000173-01.pdf | Page: 5 | Image: 13BCS22-000173-01_p05_01 (565x592px)
+------------------------------------------------------------
+CSIRT alerta por phishing que suplanta a laboratorio AC Farma 
+Alerta de seguridad cibernética 
+2CMV22-00329-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de agosto de 2021
+
+Última revisión 
+23 de agosto de 2021

@@ -1,0 +1,30 @@
+Source: 13BCS22-000143-01.pdf | Page: 3 | Image: 13BCS22-000143-01_p03_01 (246x193px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+24 de enero de 2022
+
+Última revisión 
+24 de enero de 2022
+
+CSIRT informa sitio web falso de Microsoft 
+Alerta 
+de 
+seguridad
+
+8FFR22-01050-01
+
+cibernética

@@ -1,0 +1,52 @@
+Source: 13BCS22-000152-01.pdf | Page: 26 | Image: 13BCS22-000152-01_p26_02 (569x527px)
+------------------------------------------------------------
+CSIRT informa sobre vulnerabilidades parchadas en Google 
+Chrome 100 
+Alerta de seguridad cibernética 
+9VSA22-00604-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de marzo de 2022
+
+Última revisión 
+15 de marzo de 2022
+
+CVE 
+CVE-2022-1125 
+CVE-2022-1127 
+CVE-2022-1128 
+CVE-2022-1129 
+CVE-2022-1130 
+CVE-2022-1131 
+CVE-2022-1132
+
+CVE-2022-1133 
+CVE-2022-1134 
+CVE-2022-1135 
+CVE-2022-1136 
+CVE-2022-1137 
+CVE-2022-1138 
+CVE-2022-1139
+
+CVE-2022-1141 
+CVE-2022-1142 
+CVE-2022-1143 
+CVE-2022-1144 
+CVE-2022-1145 
+CVE-2022-1146
+
+Fabricante
+
+Google

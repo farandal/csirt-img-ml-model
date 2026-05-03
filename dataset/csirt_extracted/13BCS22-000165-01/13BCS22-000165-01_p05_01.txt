@@ -1,0 +1,62 @@
+Source: 13BCS22-000165-01.pdf | Page: 5 | Image: 13BCS22-000165-01_p05_01 (469x435px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en dispositivos industriales de varios 
+proveedores 
+Alerta de seguridad cibernética 
+9VSA22-00666-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de junio de 2022
+
+Última revisión 
+24 de junio de 2022
+
+CVE 
+Emerson 
+CVE-2022-29957 
+CVE-2022-29962 
+CVE-2022-29963 
+CVE-2022-29964 
+CVE-2022-29969 
+CVE-2022-29960 
+CVE-2022-29961 
+CVE-2022-29954 
+CVE-2022-29955 
+CVE-2022-29956 
+CVE-2022-30260 
+CVE-2022-30267 
+CVE-2022-30262 
+CVE-2022-30261 
+CVE-2022-30264 
+CVE-2022-30266 
+CVE-2022-30263 
+CVE-2022-30265 
+CVE-2022-30268 
+Honeywell 
+CVE-2022-30312 
+CVE-2022-30313 
+CVE-2022-30314 
+CVE-2022-30315 
+CVE-2022-30316 
+CVE-2022-30317 
+CVE-2022-30318 
+CVE-2022-30319 
+CVE-2022-30320  
+JTEKT 
+CVE-2022-29951 
+CVE-2022-29958 
+Bently Nevada 
+CVE-2022-29952 
+CVE-2022-29953

@@ -1,0 +1,23 @@
+Source: 13BCS21-00099-01.pdf | Page: 6 | Image: 13BCS21-00099-01_p06_01 (448x495px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de phishing simulando ser banco 
+Alerta de seguridad cibernética 
+8FPH21-00379-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de marzo de 2021
+
+Última revisión 
+22 de marzo de 2021

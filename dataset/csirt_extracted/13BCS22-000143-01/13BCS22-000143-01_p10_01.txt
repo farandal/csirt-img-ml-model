@@ -1,0 +1,27 @@
+Source: 13BCS22-000143-01.pdf | Page: 10 | Image: 13BCS22-000143-01_p10_01 (188x174px)
+------------------------------------------------------------
+CSIRT informa vulnerabilidad en Log Analysis, componente Apache Log4j 
+Alerta de seguridad cibernética 
+9VSA22-00565-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de enero de 2022
+
+Última revisión 
+27 de enero de 2022
+
+CVE 
+CVE-2021-44228 
+Fabricante

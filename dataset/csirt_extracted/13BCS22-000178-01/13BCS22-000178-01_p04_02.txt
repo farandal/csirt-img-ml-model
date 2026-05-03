@@ -1,0 +1,31 @@
+Source: 13BCS22-000178-01.pdf | Page: 4 | Image: 13BCS22-000178-01_p04_02 (764x407px)
+------------------------------------------------------------
+CSIRT alerta campaña de malware con falsos documentos de pago 
+Alerta de seguridad cibernética 
+2CMV22-00351-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de septiembre de 2022
+
+Última revisión 
+27 de septiembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+Re: re: factura proforma 
+Correo de Salida 
+v.bustos@rsg.cl 
+SHA256   
+Nombre: RSG USD17309_txt_______.zip

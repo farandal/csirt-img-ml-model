@@ -1,0 +1,30 @@
+Source: 13BCS22-000143-01.pdf | Page: 9 | Image: 13BCS22-000143-01_p09_01 (188x174px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades en Apple Safari 
+Alerta de seguridad cibernética 
+9VSA22-00563-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de enero de 2022
+
+Última revisión 
+27 de enero de 2022
+
+CVE 
+CVE-2022-22590 
+CVE-2022-22592 
+CVE-2022-22589 
+CVE-2022-22594 
+Fabricante

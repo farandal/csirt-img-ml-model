@@ -1,0 +1,23 @@
+Source: 13BCS22-000166-01.pdf | Page: 5 | Image: 13BCS22-000166-01_p05_02 (526x517px)
+------------------------------------------------------------
+CSIRT advierte phishing que suplanta a una oficina de correos 
+Alerta de seguridad cibernética 
+8FPH22-00553-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de julio de 2022
+
+Última revisión 
+7 de julio de 2022

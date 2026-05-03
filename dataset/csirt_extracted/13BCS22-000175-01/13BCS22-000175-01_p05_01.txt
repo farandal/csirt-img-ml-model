@@ -1,0 +1,24 @@
+Source: 13BCS22-000175-01.pdf | Page: 5 | Image: 13BCS22-000175-01_p05_01 (766x528px)
+------------------------------------------------------------
+CSIRT alerta ante nueva campaña de phishing que suplanta a empresa 
+eléctrica 
+Alerta de seguridad cibernética 
+2CMV22-00342-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de septiembre de 2021
+
+Última revisión 
+7 de septiembre de 2021

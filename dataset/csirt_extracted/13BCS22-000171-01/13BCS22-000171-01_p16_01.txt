@@ -1,0 +1,66 @@
+Source: 13BCS22-000171-01.pdf | Page: 16 | Image: 13BCS22-000171-01_p16_01 (469x435px)
+------------------------------------------------------------
+CSIRT comparte nuevas vulnerabilidades de Cisco 
+Alerta de seguridad cibernética 
+9VSA22-00687-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+ 
+10 de agosto de 2022
+
+Última revisión 
+10 de agosto de 2022
+
+CVE 
+CVE-2022-20798 
+CVE-2022-20869 
+CVE-2022-20816 
+CVE-2022-20914 
+CVE-2022-20820 
+CVE-2022-20852 
+CVE-2022-20827 
+CVE-2022-20841 
+CVE-2022-20842 
+CVE-2021-1585 
+CVE-2022-20713 
+CVE-2022-20829 
+CVE-2022-20866 
+CVE-2022-20715 
+Fabricante
+
+Cisco 
+Productos afectados 
+RV160 VPN Routers 
+RV160W Wireless-AC VPN Routers 
+RV260 VPN Routers 
+RV260P VPN Routers with PoE 
+RV260W Wireless-AC VPN Routers 
+RV340 Dual WAN Gigabit VPN Routers 
+RV340W Dual WAN Gigabit Wireless-AC VPN Routers 
+RV345 Dual WAN Gigabit VPN Routers 
+RV345P Dual WAN Gigabit POE VPN Routers 
+Cisco Secure Email and Web Manager 
+Cisco ASA Software Release 
+Cisco FTD Software Release 
+ASA 5506-X with FirePOWER Services 
+ASA 5506H-X with FirePOWER Services 
+ASA 5506W-X with FirePOWER Services 
+ASA 5508-X with FirePOWER Services 
+ASA 5516-X with FirePOWER Services 
+Firepower 1000 Series Next-Generation Firewall 
+Firepower 2100 Series Security Appliances 
+Firepower 4100 Series Security Appliances 
+Firepower 9300 Series Security Appliances 
+Secure Firewall 3100

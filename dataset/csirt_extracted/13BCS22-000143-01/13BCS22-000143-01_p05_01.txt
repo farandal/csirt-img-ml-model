@@ -1,0 +1,28 @@
+Source: 13BCS22-000143-01.pdf | Page: 5 | Image: 13BCS22-000143-01_p05_01 (188x174px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades de Cisco RCM para Cisco StarOS 
+Alerta de seguridad cibernética 
+9VSA22-00556-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de enero de 2022
+
+Última revisión 
+21 de enero de 2022
+
+CVE 
+CVE-2022-20649 
+CVE-2022-20648 
+Fabricante

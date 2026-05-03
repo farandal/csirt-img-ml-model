@@ -1,0 +1,54 @@
+Source: 13BCS22-000149-01.pdf | Page: 13 | Image: 13BCS22-000149-01_p13_01 (431x400px)
+------------------------------------------------------------
+CSIRT alerta vulnerabilidades en productos de SAP 
+Alerta de seguridad cibernética 
+9VSA22-00586-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de marzo de 2022
+
+Última revisión 
+9 de marzo de 2022
+
+CVE 
+CVE-2022-22536   -   CVE-2021-24396   -   CVE-2022-26101 
+CVE-2022-22542   -   CVE-2022-24395   -   CVE-2022-23497 
+CVE-2022-26104   -   CVE-2022-24395   -   CVE-2022-24397 
+CVE-2022-26104   -   CVE-2022-26102   -  CVE-2021-24399 
+CVE-2022-22547   -   CVE-2022-24398   -  CVE-2022-26100 
+CVE-2022-26103 
+Fabricante
+
+SAP 
+Productos afectados 
+SAP Web Dispatcher, Versions -7.49, 7.53, 7.77, 7.81, 7.85, 7.22EXT, 7.86, 
+7.87. 
+SAP Content Server, Version -7.53. 
+SAP NetWeaver and ABAP Platform, Versions -KERNEL 7.22, 8.04, 7.49, 7.53, 
+7.77, 7.81, 7.85, 7.86, 7.87, KRNL64UC 8.04, 7.22, 7.22EXT, 7.49, 7.53, 
+KRNL64NUC 7.22, 7.22EXT, 7.49. 
+Simple Diagnostics Agent 1.0. 
+Fiori Launchpad, Versions 754, 755, 756. 
+SAP-JEE, Version 6.40 
+SAP-JEECOR, Versions 6.40, 7.00, 7.01. 
+SERVERCORE, Versions 7.10, 7.11, 7.20, 7.30, 7.31. 
+SAPS/4HANA (Supplier Factsheet and Enterprise Search for Business Partner, 
+Supplier and Customer), Versions -104 a 106. 
+SAP NetWeaver Enterprise Portal, Versions 7.10, 7.11, 7.20, 7.30, 7.31, 7.40, 
+7.50 
+SAP Financial Consolidation, Version10.1. 
+SAP NetWeaver Application Server for ABAP, Versions700, 701, 702, 731. 
+SAP Focused Run, Versions 200, 300. 
+Simple Diagnostics Agent, Versions=>1.0, < 1.58.

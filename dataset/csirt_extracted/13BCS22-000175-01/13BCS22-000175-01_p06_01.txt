@@ -1,0 +1,27 @@
+Source: 13BCS22-000175-01.pdf | Page: 6 | Image: 13BCS22-000175-01_p06_01 (597x414px)
+------------------------------------------------------------
+CSIRT alerta ante nueva campaña de phishing que suplanta al 
+BancoEstado 
+Alerta de seguridad cibernética 
+8FPH22-00583-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 de septiembre de 2022
+
+Última revisión 
+6 de septiembre de 2022
+
+Indicadores de compromiso 
+URL sitio redirección

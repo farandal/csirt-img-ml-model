@@ -1,0 +1,24 @@
+Source: 13BCS22-000164-01.pdf | Page: 3 | Image: 13BCS22-000164-01_p03_01 (514x425px)
+------------------------------------------------------------
+CSIRT advierte campaña de phishing con adjuntos que contienen 
+malware 
+Alerta de seguridad cibernética 
+2CMV21-00302-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de junio de 2022
+
+Última revisión 
+17 de junio de 2022

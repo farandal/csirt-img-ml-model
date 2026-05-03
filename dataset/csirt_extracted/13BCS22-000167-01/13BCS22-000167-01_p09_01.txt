@@ -1,0 +1,125 @@
+Source: 13BCS22-000167-01.pdf | Page: 9 | Image: 13BCS22-000167-01_p09_01 (603x559px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades del Update Tuesday julio 2022 de 
+Microsoft 
+Alerta de seguridad cibernética 
+9VSA22-00674-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de julio de 2022
+
+Última revisión 
+12 de julio de 2022
+
+CVE  
+CVE-2022-22048 
+CVE-2022-22047 
+CVE-2022-23825 
+CVE-2022-33672 
+CVE-2022-33671 
+CVE-2022-33669 
+CVE-2022-33668 
+CVE-2022-33667 
+CVE-2022-33666 
+CVE-2022-33665 
+CVE-2022-33664 
+CVE-2022-33663 
+CVE-2022-33662 
+CVE-2022-33661 
+CVE-2022-33660 
+CVE-2022-33659 
+CVE-2022-33658 
+CVE-2022-33657 
+CVE-2022-33656 
+CVE-2022-33655 
+CVE-2022-33654 
+CVE-2022-33653 
+CVE-2022-33652 
+CVE-2022-33651 
+CVE-2022-23816 
+CVE-2022-33650 
+CVE-2022-33643 
+CVE-2022-33642
+
+CVE-2022-33632 
+CVE-2022-22050 
+CVE-2022-22049 
+CVE-2022-30187 
+CVE-2022-33678 
+CVE-2022-33677 
+CVE-2022-33676 
+CVE-2022-33675 
+CVE-2022-33674 
+CVE-2022-33673 
+CVE-2022-33641 
+CVE-2022-33637 
+CVE-2022-27776 
+CVE-2022-33633 
+CVE-2022-22045 
+CVE-2022-22043 
+CVE-2022-22042 
+CVE-2022-22041 
+CVE-2022-22040 
+CVE-2022-22039 
+CVE-2022-22038 
+CVE-2022-22037 
+CVE-2022-22036 
+CVE-2022-22034 
+CVE-2022-22031 
+CVE-2022-22029 
+CVE-2022-22028 
+CVE-2022-22027
+
+CVE-2022-22026 
+CVE-2022-22025 
+CVE-2022-22024 
+CVE-2022-22023 
+CVE-2022-22022 
+CVE-2022-30226 
+CVE-2022-30225 
+CVE-2022-30224 
+CVE-2022-30223 
+CVE-2022-30222 
+CVE-2022-30220 
+CVE-2022-30216 
+CVE-2022-30215 
+CVE-2022-30214 
+CVE-2022-30213 
+CVE-2022-30212 
+CVE-2022-30211 
+CVE-2022-30209 
+CVE-2022-30208 
+CVE-2022-30206 
+CVE-2022-30205 
+CVE-2022-30203 
+CVE-2022-30202 
+CVE-2022-30181 
+CVE-2022-22711 
+CVE-2022-33644 
+CVE-2022-30221 
+CVE-2022-21845
+
+Fabricante
+
+Microsoft 
+Productos afectados 
+Azure Site Recovery VMWare to Azure 
+Azure Storage Blobs client library for .NET 
+Azure Storage Blobs client library for Java 
+Azure Storage Blobs client library for Python 
+Azure Storage Queues client library for .NET 
+Azure Storage Queues client library for Python 
+Microsoft 365 Apps for Enterprise for 32-bit Systems 
+Microsoft 365 Apps for Enterprise for 64-bit Systems

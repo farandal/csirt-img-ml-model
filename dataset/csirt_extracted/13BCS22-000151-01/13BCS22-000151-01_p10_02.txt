@@ -1,0 +1,32 @@
+Source: 13BCS22-000151-01.pdf | Page: 10 | Image: 13BCS22-000151-01_p10_02 (680x473px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+21 de marzo de 2022
+
+Última revisión 
+21 de marzo de 2022
+
+Indicadores de compromiso 
+IP 
+[203.115.100.91] 
+SHA256 
+3316B967FFBE7806CCEC9E58C7991092BFD7BA35C8433B8D66B
+D2818AF6FB66B 
+10D9650FF8F30F631DC5708F91171569A5EC1BFD00EBEF8856B
+C6C3F25CAEBCB 
+3242E0A736EF8AC90430A9F272FF30A81E2AFC146FCB84A25C6
+E56E8192791E4

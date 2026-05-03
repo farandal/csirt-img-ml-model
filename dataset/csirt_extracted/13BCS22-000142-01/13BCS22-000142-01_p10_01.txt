@@ -1,0 +1,27 @@
+Source: 13BCS22-000142-01.pdf | Page: 10 | Image: 13BCS22-000142-01_p10_01 (188x174px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades de tres complementos de WordPress 
+Alerta de seguridad cibernética 
+9VSA21-00551-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de enero de 2022
+
+Última revisión 
+18 de enero de 2022
+
+CVE 
+CVE-2022-0215 
+Fabricante

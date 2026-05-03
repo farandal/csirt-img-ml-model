@@ -1,0 +1,23 @@
+Source: 13BCS22-000163-01.pdf | Page: 4 | Image: 13BCS22-000163-01_p04_01 (643x635px)
+------------------------------------------------------------
+CSIRT advierte phishing con falsa cuenta bloqueada 
+Alerta de seguridad cibernética 
+8FPH22-00541-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de junio de 2022
+
+Última revisión 
+14 de junio de 2022

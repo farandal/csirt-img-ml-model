@@ -1,0 +1,58 @@
+Source: 13BCS22-000169-01.pdf | Page: 6 | Image: 13BCS22-000169-01_p06_02 (262x243px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades de alto riesgo en productos Fortinet 
+Alerta de seguridad cibernética 
+9VSA22-00681-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de julio de 2022
+
+Última revisión 
+28 de julio de 2022
+
+CVE  
+CVE-2022-21540 
+CVE-2022-21541 
+CVE-2022-21549 
+CVE-2022-34169 
+CVE-2022-34265 
+CVE-2018-25032
+
+CVE-2021-3634 
+CVE-2021-40528 
+CVE-2022-1271 
+CVE-2022-22576 
+CVE-2022-27774 
+CVE-2022-27776
+
+CVE-2022-27782 
+CVE-2022-29526 
+CVE-2022-29824 
+CVE-2022-28346 
+CVE-2022-28347 
+CVE-2022-31107
+
+Fabricante
+
+RedHat 
+Productos afectados 
+Red Hat Ansible Automation Platform 2.1 x86_64 
+Red Hat CodeReady Linux Builder for ARM 64 – Extended Update Support 
+8.4 aarch64 
+Red Hat CodeReady Linux Builder for ARM 64 – Extended Update Support 
+8.6 aarch64 
+Red Hat CodeReady Linux Builder for ARM 64 – Extended Update Support 
+9.0 aarch64 
+Red Hat CodeReady Linux Builder for ARM 64 8 aarch64

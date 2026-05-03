@@ -1,0 +1,23 @@
+Source: 13BCS22-000171-01.pdf | Page: 7 | Image: 13BCS22-000171-01_p07_02 (631x373px)
+------------------------------------------------------------
+CSIRT advierte phishing con malware que suplanta a Heinz Glas 
+Alerta de seguridad cibernética 
+2CMV22-00309-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de agosto de 2022
+
+Última revisión 
+9 de agosto de 2022

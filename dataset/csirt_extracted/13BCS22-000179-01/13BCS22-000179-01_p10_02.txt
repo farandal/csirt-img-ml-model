@@ -1,0 +1,24 @@
+Source: 13BCS22-000179-01.pdf | Page: 10 | Image: 13BCS22-000179-01_p10_02 (570x283px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing con mensaje por falso envío 
+retenido 
+Alerta de seguridad cibernética 
+8FPH22-00610-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+06 de octubre de 2022
+
+Última revisión 
+06 de octubre de 2022

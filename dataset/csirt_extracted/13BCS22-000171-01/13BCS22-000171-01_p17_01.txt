@@ -1,0 +1,32 @@
+Source: 13BCS22-000171-01.pdf | Page: 17 | Image: 13BCS22-000171-01_p17_01 (469x435px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades en Apache Traffic Server 
+Alerta de seguridad cibernética 
+9VSA22-00688-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+ 
+10 de agosto de 2022
+
+Última revisión 
+10 de agosto de 2022
+
+CVE 
+CVE-2021-37150 
+CVE-2022-25763 
+CVE-2022-28129 
+CVE-2022-31780 
+CVE-2022-31778 
+Fabricante

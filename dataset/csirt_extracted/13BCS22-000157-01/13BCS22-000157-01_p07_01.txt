@@ -1,0 +1,23 @@
+Source: 13BCS22-000157-01.pdf | Page: 7 | Image: 13BCS22-000157-01_p07_01 (605x398px)
+------------------------------------------------------------
+CSIRT advierte phishing con malware suplantando a TGR 
+Alerta de seguridad cibernética 
+2CMV21-00297-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+4 de mayo de 2022
+
+Última revisión 
+4 de mayo de 2022

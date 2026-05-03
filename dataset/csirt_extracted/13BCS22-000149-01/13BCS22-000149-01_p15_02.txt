@@ -1,0 +1,41 @@
+Source: 13BCS22-000149-01.pdf | Page: 15 | Image: 13BCS22-000149-01_p15_02 (431x400px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidades en productos de Intel 
+Alerta de seguridad cibernética 
+9VSA22-00589-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de marzo de 2022
+
+Última revisión 
+10 de marzo de 2022
+
+CVE 
+CVE-2021-33150 
+CVE-2022-0001 
+CVE-2022-0002 
+Fabricante
+
+Intel 
+Productos afectados 
+6th Gen Intel® Core™ Processors 
+7th Gen Intel® Core Processors 
+8th Gen Intel® Core™ Processors 
+10th Gen Intel® Core™ Processors 
+Intel Atom® processor A series 
+Intel Atom® processor C3000 Automated Driving series 
+Intel Atom® processor C3000 series 
+Intel Atom® processor X E3900 series 
+Intel® 100 series chipset

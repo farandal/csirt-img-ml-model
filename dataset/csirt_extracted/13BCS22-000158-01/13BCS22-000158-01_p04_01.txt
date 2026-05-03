@@ -1,0 +1,23 @@
+Source: 13BCS22-000158-01.pdf | Page: 4 | Image: 13BCS22-000158-01_p04_01 (583x654px)
+------------------------------------------------------------
+CSIRT advierte phishing con falsa cuenta suspendida 
+Alerta de seguridad cibernética 
+8FPH22-00521-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 de mayo de 2022
+
+Última revisión 
+6 de mayo de 2022

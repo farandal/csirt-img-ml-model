@@ -1,0 +1,23 @@
+Source: 13BCS22-000162-01.pdf | Page: 5 | Image: 13BCS22-000162-01_p05_02 (466x574px)
+------------------------------------------------------------
+CSIRT alerta de phishing con falso concurso que suplanta a CGE 
+Alerta de seguridad cibernética 
+8FPH22-00537-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+3 de junio de 2022
+
+Última revisión 
+3 de junio de 2022

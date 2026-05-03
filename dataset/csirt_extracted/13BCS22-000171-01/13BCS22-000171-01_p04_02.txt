@@ -1,0 +1,23 @@
+Source: 13BCS22-000171-01.pdf | Page: 4 | Image: 13BCS22-000171-01_p04_02 (769x288px)
+------------------------------------------------------------
+CSIRT advierte phishing que suplanta al correo Zimbra 
+Alerta de seguridad cibernética 
+8FPH22-00570-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de agosto de 2022
+
+Última revisión 
+9 de agosto de 2022

@@ -1,0 +1,34 @@
+Source: 13BCS22-000172-01.pdf | Page: 3 | Image: 13BCS22-000172-01_p03_02 (685x365px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de phishing con malware Agent Tesla 
+Alerta de seguridad cibernética 
+2CMV22-00318-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de agosto de 2021
+
+Última revisión 
+12 de agosto de 2021
+
+Indicadores de compromiso 
+Asunto 
+ORDEN DE COMPRA N°4290 
+Correo de Salida 
+@copreser.cl 
+SHA256   
+Nombre:              OC4290.zip 
+SHA256: 
+b973f50e52f7c0b09b3570e42646b3318e6714a8befd18eafa7012d3d2
+4e620f

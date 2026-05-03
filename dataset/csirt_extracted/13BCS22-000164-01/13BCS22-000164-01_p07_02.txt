@@ -1,0 +1,23 @@
+Source: 13BCS22-000164-01.pdf | Page: 7 | Image: 13BCS22-000164-01_p07_02 (898x686px)
+------------------------------------------------------------
+CSIRT alerta phishing con falsa cuenta inhabilitada 
+Alerta de seguridad cibernética 
+8FPH22-00547-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de junio de 2022
+
+Última revisión 
+23 de junio de 2022

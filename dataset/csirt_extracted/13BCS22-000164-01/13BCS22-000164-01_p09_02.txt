@@ -1,0 +1,44 @@
+Source: 13BCS22-000164-01.pdf | Page: 9 | Image: 13BCS22-000164-01_p09_02 (608x564px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidades en Siemens SINEC NMS 
+Alerta de seguridad cibernética 
+9VSA22-00662-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de junio de 2022
+
+Última revisión 
+20 de junio de 2022
+
+CVE 
+CVE-2021-33722 
+CVE-2021-33723 
+CVE-2021-33724 
+CVE-2021-33725 
+CVE-2021-33726
+
+CVE-2021-33727 
+CVE-2021-33728 
+CVE-2021-33729 
+CVE-2021-33730 
+CVE-2021-33731
+
+CVE-2021-33732 
+CVE-2021-33733 
+CVE-2021-33734 
+CVE-2021-33735 
+CVE-2021-33736
+
+Fabricante

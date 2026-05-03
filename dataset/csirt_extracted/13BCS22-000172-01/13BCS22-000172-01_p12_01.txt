@@ -1,0 +1,36 @@
+Source: 13BCS22-000172-01.pdf | Page: 12 | Image: 13BCS22-000172-01_p12_01 (603x559px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades en Zimbra 
+Alerta de seguridad cibernética 
+9VSA22-00690-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de agosto de 2022
+
+Última revisión 
+12 de agosto de 2022
+
+CVE 
+CVE-2022-2068 
+CVE-2022-37044 
+CVE-2022-37042 
+CVE-2022-37041
+
+CVE-2022-24407 
+CVE-2022-37043 
+CVE-2022-27924 
+CVE-2022-27925
+
+Fabricantes

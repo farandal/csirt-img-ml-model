@@ -1,0 +1,31 @@
+Source: 13BCS22-000142-01.pdf | Page: 4 | Image: 13BCS22-000142-01_p04_01 (242x304px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+14 de enero de 2022
+
+Última revisión 
+14 de enero de 2022
+
+CSIRT advierte phishing con falso concurso del Supermercado 
+Tottus 
+Alerta 
+de 
+seguridad
+
+8FPH21-00465-01
+
+cibernética

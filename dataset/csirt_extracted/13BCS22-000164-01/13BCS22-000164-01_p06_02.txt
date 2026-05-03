@@ -1,0 +1,23 @@
+Source: 13BCS22-000164-01.pdf | Page: 6 | Image: 13BCS22-000164-01_p06_02 (670x737px)
+------------------------------------------------------------
+CSIRT alerta de phishing que suplanta a Netflix 
+Alerta de seguridad cibernética 
+8FPH22-00545-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de junio de 2022
+
+Última revisión 
+22 de junio de 2022

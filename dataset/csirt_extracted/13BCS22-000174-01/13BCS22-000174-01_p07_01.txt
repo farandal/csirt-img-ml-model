@@ -1,0 +1,28 @@
+Source: 13BCS22-000174-01.pdf | Page: 7 | Image: 13BCS22-000174-01_p07_01 (595x551px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidad crítica en Bitbucket de Atlassian 
+Alerta de seguridad cibernética 
+9VSA22-00697-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 de agosto de 2022
+
+Última revisión 
+30 de agosto de 2022
+
+CVE 
+CVE-2022-36804
+
+Fabricantes

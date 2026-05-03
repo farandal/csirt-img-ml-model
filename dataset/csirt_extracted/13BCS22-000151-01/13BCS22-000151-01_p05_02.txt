@@ -1,0 +1,33 @@
+Source: 13BCS22-000151-01.pdf | Page: 5 | Image: 13BCS22-000151-01_p05_02 (702x585px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+21 de marzo de 2022
+
+Última revisión 
+21 de marzo de 2022
+
+Indicadores de compromiso 
+URL sitio redirección 
+https://bit[.]ly/disponible_cupo 
+https://jeffiekaysanders[.]com/chile1.php 
+URL sitio falso 
+https://lggin-hnncochile.cl-lgnin[.]buzz/1647873442/bcochile-
+web/persona/login/index.html/login 
+IP 
+[144.217.129.197] 
+[172.67.200.96] 
+Enlaces para revisar el informe:

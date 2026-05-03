@@ -1,0 +1,27 @@
+Source: 13BCS22-000175-01.pdf | Page: 9 | Image: 13BCS22-000175-01_p09_02 (595x551px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidad grave en la app de TikTok para Android 
+Alerta de seguridad cibernética 
+9VSA22-00698-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de septiembre de 2022
+
+Última revisión 
+5 de septiembre de 2022
+
+CVE 
+CVE-2022-28799 
+Fabricantes

@@ -1,0 +1,23 @@
+Source: 13BCS22-000172-01.pdf | Page: 3 | Image: 13BCS22-000172-01_p03_01 (457x411px)
+------------------------------------------------------------
+CSIRT advierte de phishing que menciona falsa conversación telefónica 
+Alerta de seguridad cibernética 
+2CMV22-00317-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de agosto de 2021
+
+Última revisión 
+11 de agosto de 2021

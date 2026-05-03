@@ -1,0 +1,23 @@
+Source: 13BCS22-000179-01.pdf | Page: 8 | Image: 13BCS22-000179-01_p08_01 (574x435px)
+------------------------------------------------------------
+CSIRT alerta de página que suplanta a Microsoft 
+Alerta de seguridad cibernética 
+8FFR22-01110-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+05 de octubre de 2022
+
+Última revisión 
+05 de octubre de 2022

@@ -1,0 +1,29 @@
+Source: 13BCS22-000178-01.pdf | Page: 16 | Image: 13BCS22-000178-01_p16_01 (595x551px)
+------------------------------------------------------------
+CSIRT comparte nuevas vulnerabilidades en WhatsApp y WhatsApp for 
+Business 
+Alerta de seguridad cibernética 
+9VSA22-00709-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de septiembre de 2022
+
+Última revisión 
+27 de septiembre de 2022
+
+CVE 
+CVE-2022-36934 
+CVE-2022-27492 
+Fabricantes

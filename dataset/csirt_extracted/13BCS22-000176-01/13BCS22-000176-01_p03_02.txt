@@ -1,0 +1,35 @@
+Source: 13BCS22-000176-01.pdf | Page: 3 | Image: 13BCS22-000176-01_p03_02 (691x363px)
+------------------------------------------------------------
+CSIRT advierte de campaña de phishing que suplanta a firma chilena con 
+falso pago 
+Alerta de seguridad cibernética 
+2CMV22-00344-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de septiembre de 2022
+
+Última revisión 
+13 de septiembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+PEDIDO Nº 5975 
+Correo de Salida 
+angie.acalo@kupfer.cl 
+SHA256   
+Nombre:              PEDIDO Nº 5975.exe 
+SHA256:               
+16d20b33c5a1cadda1acc1d383d7c96e9bf57ee847aa9c4ed2561b1171
+b45306

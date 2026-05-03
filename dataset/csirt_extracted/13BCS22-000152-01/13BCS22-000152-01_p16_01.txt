@@ -1,0 +1,24 @@
+Source: 13BCS22-000152-01.pdf | Page: 16 | Image: 13BCS22-000152-01_p16_01 (489x448px)
+------------------------------------------------------------
+CSIRT informa phishing vía WhatsApp que suplanta al Banco 
+Santander 
+Alerta de seguridad cibernética 
+8FPH22-00496-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de marzo de 2022
+
+Última revisión 
+28 de marzo de 2022

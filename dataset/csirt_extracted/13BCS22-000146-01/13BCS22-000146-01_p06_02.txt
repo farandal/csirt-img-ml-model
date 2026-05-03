@@ -1,0 +1,35 @@
+Source: 13BCS22-000146-01.pdf | Page: 6 | Image: 13BCS22-000146-01_p06_02 (569x527px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades graves en productos WMware 
+Alerta de seguridad cibernética 
+9VSA21-00578-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de febrero de 2022
+
+Última revisión 
+16 de febrero de 2022
+
+CVE 
+CVE-2021-22040 
+CVE-2021-22041
+
+CVE-2021-22042 
+CVE-2021-22043
+
+CVE-2021-22050 
+CVE-2022-22945
+
+Fabricante

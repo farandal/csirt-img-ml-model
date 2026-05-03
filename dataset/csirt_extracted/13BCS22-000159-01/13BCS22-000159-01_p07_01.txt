@@ -1,0 +1,27 @@
+Source: 13BCS22-000159-01.pdf | Page: 7 | Image: 13BCS22-000159-01_p07_01 (469x435px)
+------------------------------------------------------------
+CSIRT alerta de nueva vulnerabilidad de día cero en productos Apple 
+Alerta de seguridad cibernética 
+9VSA22-00638-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de mayo de 2022
+
+Última revisión 
+16 de mayo de 2022
+
+CVE 
+CVE-2022-22675 
+Fabricante

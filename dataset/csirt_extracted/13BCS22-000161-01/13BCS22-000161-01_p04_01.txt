@@ -1,0 +1,23 @@
+Source: 13BCS22-000161-01.pdf | Page: 4 | Image: 13BCS22-000161-01_p04_01 (583x630px)
+------------------------------------------------------------
+CSIRT advierte phishing que suplanta al Banco Estado 
+Alerta de seguridad cibernética 
+8FPH22-00534-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 de mayo de 2022
+
+Última revisión 
+30 de mayo de 2022

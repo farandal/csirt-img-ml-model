@@ -1,0 +1,23 @@
+Source: 13BCS22-000157-01.pdf | Page: 6 | Image: 13BCS22-000157-01_p06_01 (532x376px)
+------------------------------------------------------------
+CSIRT advierte campaña con malware que suplanta a la TGR 
+Alerta de seguridad cibernética 
+2CMV21-00296-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 de mayo de 2022
+
+Última revisión 
+2 de mayo de 2022

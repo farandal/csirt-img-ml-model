@@ -1,0 +1,100 @@
+Source: 13BCS22-000156-01.pdf | Page: 8 | Image: 13BCS22-000156-01_p08_01 (469x435px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidades en productos de Red Hat 
+Alerta de seguridad cibernética 
+9VSA22-00624-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de abril de 2022
+
+Última revisión 
+27 de abril de 2022
+
+CVE 
+CVE-2022-29599 
+CVE-2021-44716 
+CVE-2022-21426 
+CVE-2022-21434 
+CVE-2022-21443 
+CVE-2022-21476 
+CVE-2022-21496 
+CVE-2021-4083 
+CVE-2022-0492 
+CVE-2022-25636 
+CVE-2021-4083 
+CVE-2022-0492 
+CVE-2022-21426 
+CVE-2022-21434 
+CVE-2022-21443 
+CVE-2022-21476 
+CVE-2022-21496
+
+CVE-2022-25636 
+CVE-2022-22965 
+CVE-2021-4028 
+CVE-2021-4083 
+CVE-2021-20288 
+CVE-2021-43859 
+CVE-2021-45960 
+CVE-2021-46143 
+CVE-2022-0778 
+CVE-2022-22720 
+CVE-2022-22822 
+CVE-2022-22823 
+CVE-2022-22824 
+CVE-2022-22825 
+CVE-2022-22826 
+CVE-2022-22827 
+CVE-2022-23852
+
+CVE-2022-25173 
+CVE-2022-25174 
+CVE-2022-25175 
+CVE-2022-25176 
+CVE-2022-25177 
+CVE-2022-25178 
+CVE-2022-25179 
+CVE-2022-25180 
+CVE-2022-25181 
+CVE-2022-25182 
+CVE-2022-25183 
+CVE-2022-25184 
+CVE-2022-25235 
+CVE-2022-25236 
+CVE-2022-25315 
+CVE-2022-0435 
+CVE-2022-0852
+
+Fabricante
+
+Red Hat 
+Productos afectados 
+Red Hat Enterprise Linux for Power, little endian: 7 
+Red Hat Enterprise Linux for Power, big endian: 7 
+Red Hat Enterprise Linux for IBM z Systems: 7 
+Red Hat Enterprise Linux for Scientific Computing: 7 
+Red Hat Enterprise Linux Desktop: 7 
+Red Hat Enterprise Linux Workstation: 7 
+Red Hat Enterprise Linux Server: 7 
+Red Hat Gluster Storage Web Administration (for RHEL Server) 3.1 x86_64 
+Red Hat OpenShift Container Platform 3.11 x86_64 
+Red Hat OpenShift Container Platform for Power 3.11 ppc64le 
+Red Hat OpenShift Container Platform 3.10 x86_64 
+Red Hat OpenShift Container Platform 3.9 x86_64 
+Red Hat OpenShift Container Platform 4.8 for RHEL 8 x86_64 
+Red Hat OpenShift Container Platform for Power 4.8 for RHEL 8 ppc64le 
+Red Hat OpenShift Container Platform for IBM Z and LinuxONE 4.8 for RHEL 8 
+s390x 
+Red Hat OpenShift Container Platform 4.8 for RHEL 8 x86_64

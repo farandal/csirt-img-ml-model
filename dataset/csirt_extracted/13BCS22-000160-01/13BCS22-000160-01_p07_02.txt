@@ -1,0 +1,23 @@
+Source: 13BCS22-000160-01.pdf | Page: 7 | Image: 13BCS22-000160-01_p07_02 (703x771px)
+------------------------------------------------------------
+CSIRT advierte phishing que suplanta al Banco Itaú 
+Alerta de seguridad cibernética 
+8FPH22-00532-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 de mayo de 2022
+
+Última revisión 
+26 de mayo de 2022

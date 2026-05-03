@@ -1,0 +1,39 @@
+Source: 13BCS22-000170-01.pdf | Page: 5 | Image: 13BCS22-000170-01_p05_01 (603x559px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en productos VMware 
+Alerta de seguridad cibernética 
+9VSA22-00684-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 de agosto de 2022
+
+Última revisión 
+2 de agosto de 2022
+
+CVE 
+CVE-2022-31656 
+CVE-2022-31657 
+CVE-2022-31658 
+CVE-2022-31659
+
+CVE-2022-31660 
+CVE-2022-31661 
+CVE-2022-31662
+
+CVE-2022-31663 
+CVE-2022-31664 
+CVE-2022-31665
+
+Fabricantes

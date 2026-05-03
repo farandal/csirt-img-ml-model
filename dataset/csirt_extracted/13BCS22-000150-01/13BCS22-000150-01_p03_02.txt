@@ -1,0 +1,23 @@
+Source: 13BCS22-000150-01.pdf | Page: 3 | Image: 13BCS22-000150-01_p03_02 (642x454px)
+------------------------------------------------------------
+CSIRT advierte campaña con malware con falso documento 
+Alerta de seguridad cibernética 
+2CMV21-00283-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de marzo de 2021
+
+Última revisión 
+15 de marzo de 2021

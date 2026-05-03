@@ -1,0 +1,29 @@
+Source: 13BCS22-000175-01.pdf | Page: 8 | Image: 13BCS22-000175-01_p08_01 (830x489px)
+------------------------------------------------------------
+CSIRT alerta ante una nueva campaña de phishing con falso 
+concurso de Heineken 
+Alerta de seguridad cibernética 
+8FPH22-00587-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de septiembre de 2022
+
+Última revisión 
+7 de septiembre de 2022
+
+Indicadores de compromiso 
+Texto del mensaje 
+Sorteo Cerveza Heineken Oktoberfest 2022 
+URL sitio falso

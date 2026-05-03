@@ -1,0 +1,26 @@
+Source: 13BCS22-000176-01.pdf | Page: 6 | Image: 13BCS22-000176-01_p06_01 (742x408px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing con falso documento de pago 
+Alerta de seguridad cibernética 
+8FPH22-00590-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de septiembre de 2022
+
+Última revisión 
+14 de septiembre de 2022
+
+Indicadores de compromiso 
+URL sitio redirección

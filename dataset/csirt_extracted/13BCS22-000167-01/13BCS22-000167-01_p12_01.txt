@@ -1,0 +1,52 @@
+Source: 13BCS22-000167-01.pdf | Page: 12 | Image: 13BCS22-000167-01_p12_01 (603x559px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades que afectan a productos SAP 
+Alerta de seguridad cibernética 
+9VSA22-00676-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de julio de 2022
+
+Última revisión 
+13 de julio de 2022
+
+CVE  
+CVE-2022-35228 
+CVE-2022-32249 
+CVE-2022-28771 
+CVE-2022-31593 
+CVE-2022-29619 
+CVE-2022-22542 
+CVE-2022-29611 
+CVE-2022-35172
+
+CVE-2022-35170 
+CVE-2022-35225 
+CVE-2022-32247 
+CVE-2022-35224 
+CVE-2022-35227 
+CVE-2022-35169 
+CVE-2022-31591 
+CVE-2022-32246
+
+CVE-2022-31598 
+CVE-2022-31597 
+CVE-2022-35168 
+CVE-2022-32248 
+CVE-2022-31592 
+CVE-2022-35171 
+CVE-2022-31594
+
+Fabricante

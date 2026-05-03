@@ -1,0 +1,50 @@
+Source: 13BCS22-000164-01.pdf | Page: 10 | Image: 13BCS22-000164-01_p10_02 (606x562px)
+------------------------------------------------------------
+CSIRT advierte de vulnerabilidades en productos SAP 
+Alerta de seguridad cibernética 
+9VSA22-00664-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de junio de 2022
+
+Última revisión 
+22 de junio de 2022
+
+CVE 
+CVE-2022-27668 
+CVE-2022-31590 
+CVE-2022-29611 
+CVE-2022-29618
+
+CVE-2022-29612 
+CVE-2022-31589 
+CVE-2022-31595
+
+CVE-2022-29614 
+CVE-2022-29615 
+CVE-2022-31594
+
+Fabricante
+
+SAP 
+Productos afectados 
+SAP NetWeaver y ABAP Platform, Versions -KERNEL 7.49 a 7.88, 7.49, 
+KRNL64UC 7.49, SAP_ROUTER 7.53, 7.22 
+SAP PowerDesigner Proxy 16.7, Versions -16.7High7.8 
+SAP NetWeaver Application Server for ABAP and ABAP Platform,Version -
+700 a 788 
+SAP 3D Visual Enterprise Viewer, Version -9.0 
+SAP NetWeaver Development Infrastructure (Design Time Repository), 
+Versions -7.30, 7.31, 7.40, 7.50

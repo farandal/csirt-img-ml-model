@@ -1,0 +1,25 @@
+Source: 13BCS22-000152-01.pdf | Page: 20 | Image: 13BCS22-000152-01_p20_02 (392x361px)
+------------------------------------------------------------
+CSIRT informa suplantación del sitio web del Banco Itaú 
+Alerta de seguridad cibernética 
+8FFR22-01068-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o
+
+Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 de marzo de 2022
+
+Última revisión 
+30 de marzo de 2022

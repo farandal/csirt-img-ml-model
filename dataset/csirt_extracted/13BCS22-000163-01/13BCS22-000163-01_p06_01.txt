@@ -1,0 +1,66 @@
+Source: 13BCS22-000163-01.pdf | Page: 6 | Image: 13BCS22-000163-01_p06_01 (469x435px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades del Update Tuesday de Microsoft Junio 
+2022 
+Alerta de seguridad cibernética 
+9VSA22-00656-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de junio de 2022
+
+Última revisión 
+14 de junio de 2022
+
+CVE 
+CVE-2022-21123   -   CVE-2022-21125   -   CVE-2022-21127 
+CVE-2022-21166   -   CVE-2022-22018   -   CVE-2022-29111 
+CVE-2022-29119   -   CVE-2022-29143   -   CVE-2022-29149 
+CVE-2022-30131   -   CVE-2022-30132   -   CVE-2022-30135 
+CVE-2022-30136   -   CVE-2022-30137   -   CVE-2022-30139 
+CVE-2022-30140   -   CVE-2022-30141   -   CVE-2022-30142 
+CVE-2022-30143   -   CVE-2022-30145   -   CVE-2022-30146 
+CVE-2022-30147   -   CVE-2022-30148   -   CVE-2022-30149 
+CVE-2022-30150   -   CVE-2022-30151   -   CVE-2022-30152 
+CVE-2022-30153   -   CVE-2022-30154   -  CVE-2022-30155 
+CVE-2022-30157   -   CVE-2022-30158   -   CVE-2022-30159 
+CVE-2022-30160   -   CVE-2022-30161   -   CVE-2022-30162 
+CVE-2022-30163   -   CVE-2022-30164   -   CVE-2022-30165 
+CVE-2022-30166   -   CVE-2022-30167   -   CVE-2022-30168 
+CVE-2022-30171   -   CVE-2022-30172   -   CVE-2022-30173 
+CVE-2022-30174   -   CVE-2022-30177   -   CVE-2022-30178 
+CVE-2022-30179   -   CVE-2022-30180   -   CVE-2022-30184 
+CVE-2022-30188   -   CVE-2022-30189   -   CVE-2022-30193 
+CVE-2022-32230 
+Fabricante
+
+Microsoft 
+Productos afectados 
+.NET 6.0 
+.NET Core 3.1 
+AV1 Video Extension 
+Azure Automation State Configuration, DSC Extension 
+Azure Automation Update Management 
+Azure Diagnostics (LAD) 
+Azure Open Management Infrastructure 
+Azure Real Time Operating System 
+Azure Real Time Operating System GUIX 
+Azure Security Center 
+Azure Sentinel 
+Azure Service Fabric 
+Azure Stack Hub 
+Container Monitoring Solution 
+HEVC Video Extension 
+HEVC Video Extensions 
+Log Analytics Agent

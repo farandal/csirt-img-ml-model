@@ -1,0 +1,54 @@
+Source: 13BCS22-000178-01.pdf | Page: 3 | Image: 13BCS22-000178-01_p03_01 (736x376px)
+------------------------------------------------------------
+CSIRT alerta campaña de phishing que suplanta al SII 
+Alerta de seguridad cibernética 
+2CMV22-00349-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de septiembre de 2022
+
+Última revisión 
+23 de septiembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+✅  FACTURA – ERICA AMALIA , Notificacion Giro Folio 012210001 del 
+15/08/2022 – SII – – ( 984837087033  ) 
+Correo de salida 
+dukcapiltapinkab@server.tapinkab.go.id 
+SHA256   
+Nombre: FACTURA-IDSE-34ed1ecf.zip  
+SHA256: 
+cc83ecc8da9069f2e3be95cee116d722163a3d104769711285f1054368
+0849b3 
+Nombre: FACTURA-IDSE-34ed1ecf-1a2c-4d26-85ba-
+bc0014sffe5001s4d.msi 
+SHA256:
+ 
+9fbe66342de53d7ab1c7f3008bb8f5083c4400755903a27947
+
+e376da4661692a 
+Nombre: hyr7wehds.exe 
+SHA256:
+ 
+3242e0a736ef8ac90430a9f272ff30a81e2afc146fcb84a25c6e
+
+56e8192791e4 
+Nombre: dns-sd-documento-
+bajo______________________________________________________
+_______________________.exe 
+SHA256:
+ 
+6a27826b490457ccfecebaf98a01325cc1ccecc81917b156aa1

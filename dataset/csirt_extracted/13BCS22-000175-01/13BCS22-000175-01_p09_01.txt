@@ -1,0 +1,27 @@
+Source: 13BCS22-000175-01.pdf | Page: 9 | Image: 13BCS22-000175-01_p09_01 (595x551px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidad día cero en Google Chrome 
+Alerta de seguridad cibernética 
+9VSA22-00700-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de septiembre de 2022
+
+Última revisión 
+5 de septiembre de 2022
+
+CVE 
+CVE-2022-3075 
+Fabricantes

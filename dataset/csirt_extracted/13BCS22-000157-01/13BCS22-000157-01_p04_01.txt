@@ -1,0 +1,23 @@
+Source: 13BCS22-000157-01.pdf | Page: 4 | Image: 13BCS22-000157-01_p04_01 (543x572px)
+------------------------------------------------------------
+CSIRT informa phishing con falsa tarjeta bloqueada 
+Alerta de seguridad cibernética 
+8FPH22-00517-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 de mayo de 2022
+
+Última revisión 
+2 de mayo de 2022

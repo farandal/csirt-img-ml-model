@@ -1,0 +1,24 @@
+Source: 13BCS22-000152-01.pdf | Page: 3 | Image: 13BCS22-000152-01_p03_02 (486x359px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de phishing con malware que suplanta al 
+Banco Santander 
+Alerta de seguridad cibernética 
+2CMV21-00290-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de marzo de 2021
+
+Última revisión 
+28 de marzo de 2021

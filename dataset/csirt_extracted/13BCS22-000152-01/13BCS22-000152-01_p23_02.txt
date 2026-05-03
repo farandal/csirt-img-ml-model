@@ -1,0 +1,27 @@
+Source: 13BCS22-000152-01.pdf | Page: 23 | Image: 13BCS22-000152-01_p23_02 (569x527px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidad crítica en Sophos Firewall 
+Alerta de seguridad cibernética 
+9VSA22-00601-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de marzo de 2022
+
+Última revisión 
+14 de marzo de 2022
+
+CVE 
+CVE-2022-1040 
+Fabricante

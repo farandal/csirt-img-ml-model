@@ -1,0 +1,23 @@
+Source: 13BCS22-000171-01.pdf | Page: 8 | Image: 13BCS22-000171-01_p08_01 (607x389px)
+------------------------------------------------------------
+CSIRT informa phishing con malware suplantando a Solutionmarkers 
+Alerta de seguridad cibernética 
+2CMV22-00310-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de agosto de 2022
+
+Última revisión 
+9 de agosto de 2022

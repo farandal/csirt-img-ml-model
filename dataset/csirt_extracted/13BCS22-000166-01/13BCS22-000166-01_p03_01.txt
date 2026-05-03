@@ -1,0 +1,23 @@
+Source: 13BCS22-000166-01.pdf | Page: 3 | Image: 13BCS22-000166-01_p03_01 (892x684px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware Emotet 
+Alerta de seguridad cibernética 
+2CMV21-00305-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+05 de Julio de 2021
+
+Última revisión 
+05 de Julio de 2021

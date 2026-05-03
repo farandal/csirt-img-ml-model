@@ -1,0 +1,31 @@
+Source: 13BCS22-000153-01.pdf | Page: 6 | Image: 13BCS22-000153-01_p06_01 (670x286px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+7 de abril de 2022
+
+Última revisión 
+7 de abril de 2022
+
+CSIRT alerta phishing con falsa cuenta suspendida del Banco 
+Estado 
+Alerta 
+de 
+seguridad
+
+8FPH22-00507-01
+
+cibernética

@@ -1,0 +1,21 @@
+Source: 13BCS22-000153-01.pdf | Page: 4 | Image: 13BCS22-000153-01_p04_01 (685x730px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+1 de abril de 2022
+
+Última revisión 
+1 de abril de 2022

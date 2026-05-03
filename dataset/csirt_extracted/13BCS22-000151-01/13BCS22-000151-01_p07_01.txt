@@ -1,0 +1,30 @@
+Source: 13BCS22-000151-01.pdf | Page: 7 | Image: 13BCS22-000151-01_p07_01 (541x593px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento 
+original
+
+22 de marzo de 2022
+
+Última revisión 
+22 de marzo de 2022
+
+CSIRT advierte phishing que suplanta al Banco Santander 
+Alerta 
+de 
+seguridad
+
+8FPH22-00486-01
+
+cibernética

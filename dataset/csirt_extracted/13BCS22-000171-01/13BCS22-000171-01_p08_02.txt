@@ -1,0 +1,23 @@
+Source: 13BCS22-000171-01.pdf | Page: 8 | Image: 13BCS22-000171-01_p08_02 (729x376px)
+------------------------------------------------------------
+CSIRT informa campaña de phishing con malware con falsa orden de compra 
+Alerta de seguridad cibernética 
+2CMV22-00311-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de agosto de 2022
+
+Última revisión 
+10 de agosto de 2022

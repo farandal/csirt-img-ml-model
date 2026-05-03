@@ -1,0 +1,23 @@
+Source: 13BCS22-000178-01.pdf | Page: 8 | Image: 13BCS22-000178-01_p08_01 (657x624px)
+------------------------------------------------------------
+CSIRT alerta suplantanción de banco RBFCU de EE.UU. 
+Alerta de seguridad cibernética 
+8FFR22-01104-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 de septiembre de 2022
+
+Última revisión 
+29 de septiembre de 2022

@@ -1,0 +1,23 @@
+Source: 13BCS22-000155-01.pdf | Page: 3 | Image: 13BCS22-000155-01_p03_02 (501x437px)
+------------------------------------------------------------
+CSIRT informa página web falsa de Netflix 
+Alerta de seguridad cibernética 
+8FFR22-01076-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de abril de 2022
+
+Última revisión 
+19 de abril de 2022

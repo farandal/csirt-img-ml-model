@@ -1,0 +1,24 @@
+Source: 13BCS22-000167-01.pdf | Page: 6 | Image: 13BCS22-000167-01_p06_02 (647x508px)
+------------------------------------------------------------
+CSIRT alerta ante phishing que suplanta al BancoEstado con falsa 
+compra en Israel 
+Alerta de seguridad cibernética 
+8FPH22-00559-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de julio de 2022
+
+Última revisión 
+14 de julio de 2022

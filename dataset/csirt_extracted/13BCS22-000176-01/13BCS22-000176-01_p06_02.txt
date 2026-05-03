@@ -1,0 +1,51 @@
+Source: 13BCS22-000176-01.pdf | Page: 6 | Image: 13BCS22-000176-01_p06_02 (595x551px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades del Update Tuesday Microsoft 
+Septiembre 2022 
+Alerta de seguridad cibernética 
+9VSA22-00702-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de septiembre de 2022
+
+Última revisión 
+13 de septiembre de 2022
+
+CVE 
+CVE-2022-26929 
+CVE-2022-38013 
+CVE-2022-38009 
+CVE-2022-38008 
+CVE-2022-38007 
+CVE-2022-35803 
+CVE-2022-38011 
+CVE-2022-37959 
+CVE-2022-38006 
+CVE-2022-37958 
+CVE-2022-37964 
+CVE-2022-37963
+
+CVE-2022-37956 
+CVE-2022-37955 
+CVE-2022-37954 
+CVE-2022-34734 
+CVE-2022-34733 
+CVE-2022-34732 
+CVE-2022-34731 
+CVE-2022-34730 
+CVE-2022-34729 
+CVE-2022-34728 
+CVE-2022-34727 
+CVE-2022-34726

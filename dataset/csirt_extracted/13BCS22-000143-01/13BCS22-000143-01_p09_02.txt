@@ -1,0 +1,39 @@
+Source: 13BCS22-000143-01.pdf | Page: 9 | Image: 13BCS22-000143-01_p09_02 (188x174px)
+------------------------------------------------------------
+CSIRT advierte vulnerabilidad en pkexec de Polkit en distribuciones de Linux 
+Alerta de seguridad cibernética 
+9VSA22-00564-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de enero de 2022
+
+Última revisión 
+27 de enero de 2022
+
+CVE 
+CVE-2021-4034 
+Fabricante
+
+Polkit 
+Productos afectados 
+Red Hat Enterprise Linux 6 
+Red Hat Enterprise Linux 7 
+Red Hat Enterprise Linux 8 
+Red Hat Virtualización 4 
+ 
+Cualquier producto de Red Hat compatible con Red Hat Enterprise Linux 
+(incluido RHEL CoreOS). Esto incluye: contenedores de productos que se 
+basan en RHEL y envían el paquete polkit y productos que extraen paquetes 
+del canal RHEL (Red Hat OpenShift Container Platform, Red Hat OpenStack

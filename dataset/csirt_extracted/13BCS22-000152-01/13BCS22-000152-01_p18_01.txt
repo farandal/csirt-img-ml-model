@@ -1,0 +1,23 @@
+Source: 13BCS22-000152-01.pdf | Page: 18 | Image: 13BCS22-000152-01_p18_01 (402x398px)
+------------------------------------------------------------
+CSIRT alerta de phishing con falso aumento de cupo de la tarjeta 
+Alerta de seguridad cibernética 
+8FPH22-00500-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+31 de marzo de 2022
+
+Última revisión 
+31 de marzo de 2022

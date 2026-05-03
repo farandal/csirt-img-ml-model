@@ -1,0 +1,29 @@
+Source: 13BCS22-000166-01.pdf | Page: 6 | Image: 13BCS22-000166-01_p06_02 (603x559px)
+------------------------------------------------------------
+CSIRT informa actualización Google Chrome 103 
+Alerta de seguridad cibernética 
+9VSA22-00667-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de julio de 2022
+
+Última revisión 
+5 de julio de 2022
+
+CVE  
+CVE-2022-2294 
+CVE-2022-2295 
+CVE-2022-2296 
+Fabricante

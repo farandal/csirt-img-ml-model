@@ -1,0 +1,28 @@
+Source: 13BCS22-000172-01.pdf | Page: 12 | Image: 13BCS22-000172-01_p12_02 (603x559px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en Android 
+Alerta de seguridad cibernética 
+9VSA22-00691-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de agosto de 2022
+
+Última revisión 
+18 de agosto de 2022
+
+CVE 
+CVE-2022-32894 
+CVE-2022-32893 
+Fabricantes

@@ -1,0 +1,24 @@
+Source: 13BCS22-000161-01.pdf | Page: 3 | Image: 13BCS22-000161-01_p03_02 (702x567px)
+------------------------------------------------------------
+CSIRT advierte phishing con falso envío suplantando a CorreosChile 
+Alerta de seguridad cibernética 
+8FPH22-00533-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 de mayo de 2022
+
+Última revisión 
+ 
+30 de mayo de 2022

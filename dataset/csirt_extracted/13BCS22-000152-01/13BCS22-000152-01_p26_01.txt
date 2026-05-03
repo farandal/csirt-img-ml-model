@@ -1,0 +1,27 @@
+Source: 13BCS22-000152-01.pdf | Page: 26 | Image: 13BCS22-000152-01_p26_01 (569x527px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidad crítica de SonicWall 
+Alerta de seguridad cibernética 
+9VSA22-00603-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 de marzo de 2022
+
+Última revisión 
+30 de marzo de 2022
+
+CVE 
+CVE-2022-22274 
+Fabricante

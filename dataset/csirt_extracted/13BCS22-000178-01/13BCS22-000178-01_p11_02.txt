@@ -1,0 +1,43 @@
+Source: 13BCS22-000178-01.pdf | Page: 11 | Image: 13BCS22-000178-01_p11_02 (774x514px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing suplantando SuperClave del 
+Santander 
+Alerta de seguridad cibernética 
+8FPH22-00602-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 de septiembre de 2022
+
+Última revisión 
+29 de septiembre de 2022
+
+Indicadores de compromiso 
+URL sitio redirección
+
+https://nam10.safelinks[.]protection.outlook.com/?url=https%3A
+%2F%2Flinkprotect.cudasvc.com%2Furl%3Fa%3Dhttps%253a%25
+2f%252fmaletashere.com%252fsantander.php%26c%3DE%2C1%
+2Cpi5x7VmivpdtdPj6sgtXDyflj3-i_pAExn7-
+PKWLOIiwelDpWR8tdgyOb5VRSC_DwABkLxrYRS0Fl2vguRA2V4xrg
+fZRxwdTr0R_YRu2H1sVKUcLxUzD8X4%2C%26typo%3D1&data=0
+5%7C01%7Cwaleska.arteaga%40sea.gob.cl%7Cc91a54ca86644e8
+d006408daa001144f%7Cb71dc67ef57148469db81264f14ea88b
+%7C1%7C0%7C637998224384263779%7CUnknown%7CTWFpbG
+Zsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haW
+wiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=ja%2B1nuxuz7
+i75ZajkMHjm1pSDvC2qQov0hT5K3ZdfYc%3D&reserved=0 
+https://maletashere[.]com/santander.php 
+URL sitio falso 
+https://bancosantander-

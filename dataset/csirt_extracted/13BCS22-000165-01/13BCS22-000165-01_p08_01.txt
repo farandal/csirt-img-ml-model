@@ -1,0 +1,27 @@
+Source: 13BCS22-000165-01.pdf | Page: 8 | Image: 13BCS22-000165-01_p08_01 (469x435px)
+------------------------------------------------------------
+CSIRT alerta por vulnerabilidad crítica en OpenSSL 
+Alerta de seguridad cibernética 
+9VSA22-00667-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de junio de 2022
+
+Última revisión 
+28 de junio de 2022
+
+CVE 
+Vulnerabilidad que no cuenta con CVE 
+Fabricante

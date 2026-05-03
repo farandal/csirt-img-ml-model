@@ -1,0 +1,29 @@
+Source: 13BCS22-000142-01.pdf | Page: 10 | Image: 13BCS22-000142-01_p10_02 (188x174px)
+------------------------------------------------------------
+CSIRT informa de vulnerabilidades en Oracle Utilities Testing Accelerator 
+Alerta de seguridad cibernética 
+9VSA21-00552-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de enero de 2022
+
+Última revisión 
+19 de enero de 2022
+
+CVE 
+CVE-2021-29425    -    CVE-2021-33037    -    CVE-2021-36374 
+CVE-2021-4104      -    CVE-2021-36090    -    CVE-2021-22118 
+CVE-2021-2351      -     CVE-2021-39139   -    CVE-2020-13936 
+Fabricante

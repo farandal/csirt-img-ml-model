@@ -1,0 +1,38 @@
+Source: 13BCS22-000158-01.pdf | Page: 8 | Image: 13BCS22-000158-01_p08_01 (696x645px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en productos Red Hat 
+Alerta de seguridad cibernética 
+9VSA22-00630-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 de mayo de 2022
+
+Última revisión 
+6 de mayo de 2022
+
+CVE 
+CVE-2022-29909 
+CVE-2022-29917 
+CVE-2022-29911
+
+CVE-2022-29916 
+CVE-2022-29912 
+CVE-2022-29914
+
+CVE-2022-29913 
+CVE-2022-1520 
+CVE-2022-1271
+
+Fabricante

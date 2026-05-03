@@ -1,0 +1,34 @@
+Source: 13BCS22-000173-01.pdf | Page: 9 | Image: 13BCS22-000173-01_p09_02 (651x409px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de phishing con falso documento de pago 
+Alerta de seguridad cibernética 
+2CMV22-00333-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de agosto de 2022
+
+Última revisión 
+24 de agosto de 2022
+
+Indicadores de compromiso 
+Asunto 
+RE: [EXTERNAL] RE: RE: Pago 
+Correo de Salida 
+administracion@gmrc.pe 
+SHA256   
+Nombre:              Prueba de pago.zip 
+SHA256: 
+43b6e8a635ff8c8d01113d9a689ff6018a619aed975294123143af3545b
+c1e68

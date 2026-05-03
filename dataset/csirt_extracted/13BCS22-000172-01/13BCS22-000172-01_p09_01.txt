@@ -1,0 +1,24 @@
+Source: 13BCS22-000172-01.pdf | Page: 9 | Image: 13BCS22-000172-01_p09_01 (632x385px)
+------------------------------------------------------------
+CSIRT alerta de phishing con malware que conecta el equipo a una 
+botnet 
+Alerta de seguridad cibernética 
+2CMV22-00326-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de agosto de 2021
+
+Última revisión 
+17 de agosto de 2021
