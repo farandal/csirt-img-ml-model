@@ -1,0 +1,40 @@
+Source: 13BCS24-000247-01.pdf | Page: 12 | Image: 13BCS24-000247-01_p12_03 (1058x149px)
+------------------------------------------------------------
+CSIRT informa de nuevas actualizaciones en Splunk, incluyendo una de severidad 
+alta 
+Alerta de seguridad cibernética 
+9VSA24-00963-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 enero, 2024
+
+Última revisión 
+23 enero, 2024
+
+CVE 
+CVE-2024-23675 
+CVE-2024-23676
+
+CVE-2024-23677 
+CVE-2024-23678
+
+Fabricante 
+Splunk 
+Productos afectados 
+Splunk Enterprise for Windows 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00963-01/
+
+11

@@ -1,0 +1,37 @@
+Source: 13BCS24-000246-01.pdf | Page: 5 | Image: 13BCS24-000246-01_p05_01 (555x482px)
+------------------------------------------------------------
+CSIRT alerta de sitio fraudulento que suplanta a Microsoft 365 
+Alerta de seguridad cibernética 
+8FFR23-01630-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 enero, 2024
+
+Última revisión 
+12 enero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://larrainvial.larrainchile[.]biz/?M7=ap? 
+URL de redirección 
+https://na4.documents.adobe[.]com/public/esign?tsid=CBFCIBAACBSCTBABDUA
+AABACAABAARG 
+7SCg8yAbUlJiVPEnXjS16jmY-KVpr5PkBOS-
+JdrEvzVhnfG5CMKy7ZPY9a4_47hpyeLDtVf8JwP2m_ 
+5GLzcmPJD8lB54hHHO6T_s35qq_tWOtyA2revbEIqCyuVoRZ& 
+Dirección IP sitio falso 
+[92.205.180.240] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01630-01/

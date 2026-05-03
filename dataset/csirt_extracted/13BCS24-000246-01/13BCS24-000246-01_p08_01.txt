@@ -1,0 +1,41 @@
+Source: 13BCS24-000246-01.pdf | Page: 8 | Image: 13BCS24-000246-01_p08_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades en productos de QNAP 
+Alerta de seguridad cibernética 
+9VSA24-00953-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 enero, 2024
+
+Última revisión 
+15 enero, 2024
+
+CVE 
+CVE-2023-39296 
+CVE-2022-43634
+
+CVE-2023-41287 
+CVE-2023-41288
+
+CVE-2023-47559 
+CVE-2023-47560
+
+Fabricante 
+QNAP 
+Productos afectados 
+QTS versiones 5.1.x y QuTS hero versiones h5.1.x.  
+QuMagie 2.2.x 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00953-01/

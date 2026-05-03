@@ -1,0 +1,26 @@
+Source: 13BCS24-000245-01.pdf | Page: 5 | Image: 13BCS24-000245-01_p05_01 (730x472px)
+------------------------------------------------------------
+CSIRT alerta de nueva página fraudulenta que suplanta inicio de sesión de correo 
+electrónico 
+Alerta de seguridad cibernética 
+8FFR23-01629-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 enero, 2024
+
+Última revisión 
+8 enero, 2024
+
+4

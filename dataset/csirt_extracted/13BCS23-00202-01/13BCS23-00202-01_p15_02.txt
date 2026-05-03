@@ -1,0 +1,40 @@
+Source: 13BCS23-00202-01.pdf | Page: 15 | Image: 13BCS23-00202-01_p15_02 (1058x149px)
+------------------------------------------------------------
+CSIRT advierte campaña de phishing con malware que suplanta a Western Union 
+Alerta de seguridad cibernética 
+2CMV23-00406-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de marzo de 2023
+
+Última revisión 
+16 de marzo de 2023
+
+Indicadores de compromiso 
+Asunto 
+3-
+Tercera_Notificación_Del_Proceso_Llevado_En_Contra_Referencia_Nro°_29873
+893_21_Radicado_#93903030-32 
+Correo de Salida 
+luisa.9117.sierra@gmail.com 
+SHA256   
+ef4affb6a91e67cd7b1ee492589e18cf700653e6d6b32a66d5b1747ab861ef56 
+9472d7a4e6028ef04c5b1a1a57844a3198229bd209b68c1d3534123e4fad8fb2 
+3349be17dc030f34b0d2a9067897b91b45d87d585531fc108463be9174aab3c8 
+af3ebfddb7d9356ba8272014df8a10fed3c0ce25f17d0958e34daee4bef90b77 
+fd133ec88368b5125c6e886efc0f30e345eec49a887169a904601fb3c5e50dcf 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/CodigoMalicioso/blob/main/Phishing-
+Malware_2CMV23-00406-01.txt

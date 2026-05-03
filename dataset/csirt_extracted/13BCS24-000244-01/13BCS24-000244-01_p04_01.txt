@@ -1,0 +1,32 @@
+Source: 13BCS24-000244-01.pdf | Page: 4 | Image: 13BCS24-000244-01_p04_01 (641x595px)
+------------------------------------------------------------
+CSIRT alerta de nueva vulnerabilidad día cero en Apache OfBiz 
+Alerta de seguridad cibernética 
+9VSA23-00947-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 enero, 2024
+
+Última revisión 
+2 enero, 2024
+
+CVE 
+CVE-2023-51467 
+Fabricante 
+Apache 
+Productos afectados 
+Apache OfBiz, versiones anteriores a la 18.12.11. 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa23-00947-01/

@@ -1,0 +1,71 @@
+Source: 13BCS24-000246-01.pdf | Page: 11 | Image: 13BCS24-000246-01_p11_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades en Atlassian Confluence Data 
+Center and Server 
+Alerta de seguridad cibernética 
+9VSA24-00958-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 enero, 2024
+
+Última revisión 
+18 enero, 2024
+
+CVE 
+CVE-2022-42252 
+CVE-2023-22527 
+CVE-2020-25649 
+CVE-2022-44729 
+CVE-2021-40690 
+CVE-2023-46589 
+CVE-2023-3635 
+CVE-2023-22526 
+CVE-2024-21672 
+CVE-2024-21673
+
+CVE-2024-21674 
+CVE-2023-43642 
+CVE-2023-6481 
+CVE-2023-6378 
+CVE-2023-46589 
+CVE-2023-34455 
+CVE-2023-34454 
+CVE-2023-34453 
+CVE-2023-36478 
+CVE-2023-5072
+
+CVE-2023-36478 
+CVE-2023-39410 
+CVE-2020-26217 
+CVE-2017-7957 
+CVE-2022-4244 
+CVE-2018-10054 
+CVE-2023-5072 
+CVE-2023-46589 
+CVE-2022-40152
+
+Fabricante 
+Atlassian 
+Productos afectados 
+Bitbucket Data Center 
+Bitbucket Server 
+Bamboo Data Center and Server 
+Jira Data Center and Server 
+Jira Service Management Data Center and Server 
+Crowd Data Center and Server 
+Confluence Data Center 
+Confluence Server 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00958-01/

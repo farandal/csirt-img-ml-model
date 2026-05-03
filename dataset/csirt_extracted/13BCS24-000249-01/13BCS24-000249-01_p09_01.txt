@@ -1,0 +1,37 @@
+Source: 13BCS24-000249-01.pdf | Page: 9 | Image: 13BCS24-000249-01_p09_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades críticas en Cisco Expressway 
+Series 
+Alerta de seguridad cibernética 
+9VSA24-00973-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 febrero, 2024
+
+Última revisión 
+8 febrero, 2024
+
+CVE 
+CVE-2024-20252 
+CVE-2024-20254 
+CVE-2024-20255 
+Fabricante 
+WatchGuard 
+Productos afectados 
+Cisco Expressway Series 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00973-01/
+
+8

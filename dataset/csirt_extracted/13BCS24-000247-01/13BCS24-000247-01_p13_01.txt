@@ -1,0 +1,47 @@
+Source: 13BCS24-000247-01.pdf | Page: 13 | Image: 13BCS24-000247-01_p13_01 (641x595px)
+------------------------------------------------------------
+CSIRT informa vulnerabilidades «PixieFAIL» en interfaz UEFI TianoCore EDKII 
+Alerta de seguridad cibernética 
+9VSA24-00964-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 enero, 2024
+
+Última revisión 
+24 enero, 2024
+
+CVE 
+CVE-2023-45229 
+CVE-2023-45230 
+CVE-2023-45231 
+CVE-2023-45232
+
+CVE-2023-45233 
+CVE-2023-45234 
+CVE-2023-45235 
+CVE-2023-45236
+
+CVE-2023-45237 
+CVE-2022-36763 
+CVE-2022-36764 
+CVE-2022-36765
+
+Fabricante 
+TianoCore 
+Productos afectados 
+Al menos 23 proveedores afectados (entre ellos, productos de Lenovo, Intel, AMI, 
+Phoenix, Acer, e Insyde). 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00964-01/

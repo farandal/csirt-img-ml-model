@@ -1,0 +1,51 @@
+Source: 13BCS24-000247-01.pdf | Page: 14 | Image: 13BCS24-000247-01_p14_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas en Firefox 122 
+Alerta de seguridad cibernética 
+9VSA24-00966-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 enero, 2024
+
+Última revisión 
+25 enero, 2024
+
+CVE 
+CVE-2024-0741 
+CVE-2024-0742 
+CVE-2024-0743 
+CVE-2024-0744 
+CVE-2024-0745
+
+CVE-2024-0746 
+CVE-2024-0747 
+CVE-2024-0748 
+CVE-2024-0749 
+CVE-2024-0750
+
+CVE-2024-0751 
+CVE-2024-0752 
+CVE-2024-0753 
+CVE-2024-0754 
+CVE-2024-0755
+
+Fabricante 
+Mozilla 
+Productos afectados 
+Firefox, Firefox ESR y Thunderbird. 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00966-01/
+
+13

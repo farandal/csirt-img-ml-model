@@ -1,0 +1,81 @@
+Source: 13BCS24-000245-01.pdf | Page: 8 | Image: 13BCS24-000245-01_p08_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de actualización Microsoft Update Tuesday 2024 
+enero 
+Alerta de seguridad cibernética 
+9VSA24-00951-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 enero, 2024
+
+Última revisión 
+10 enero, 2024
+
+CVE 
+CVE-2024-0056 
+CVE-2024-21312 
+CVE-2024-0057 
+CVE-2024-21319 
+CVE-2024-20677 
+CVE-2024-21320 
+CVE-2024-21318 
+CVE-2024-21307 
+CVE-2024-21306 
+CVE-2024-21305 
+CVE-2024-20697 
+CVE-2022-35737 
+CVE-2024-20692 
+CVE-2024-20687 
+CVE-2024-20683
+
+CVE-2024-21316 
+CVE-2024-20660 
+CVE-2024-20652 
+CVE-2024-20658 
+CVE-2024-20656 
+CVE-2024-20653 
+CVE-2024-20674 
+CVE-2024-20672 
+CVE-2024-21325 
+CVE-2024-20666 
+CVE-2024-21310 
+CVE-2024-21314 
+CVE-2024-21313 
+CVE-2024-21311
+
+CVE-2024-21309 
+CVE-2024-20700 
+CVE-2024-20699 
+CVE-2024-20698 
+CVE-2024-20696 
+CVE-2024-20694 
+CVE-2024-20691 
+CVE-2024-20690 
+CVE-2024-20662 
+CVE-2024-20661 
+CVE-2024-20657 
+CVE-2024-20655 
+CVE-2024-20654 
+CVE-2024-20676
+
+Fabricante 
+Microsoft 
+Productos afectados 
+.NET 6.0 
+.NET 7.0 
+.NET 8.0 
+Azure Storage Mover Agent
+
+7

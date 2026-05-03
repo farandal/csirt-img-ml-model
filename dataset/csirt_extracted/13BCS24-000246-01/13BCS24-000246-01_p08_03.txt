@@ -1,0 +1,43 @@
+Source: 13BCS24-000246-01.pdf | Page: 8 | Image: 13BCS24-000246-01_p08_03 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información de actualizaciones de seguridad en Adobe 
+Substance 3D Stager 
+Alerta de seguridad cibernética 
+9VSA24-00954-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 enero, 2024
+
+Última revisión 
+16 enero, 2024
+
+CVE 
+CVE-2024-20710 
+CVE-2024-20711
+
+CVE-2024-20712 
+CVE-2024-20713
+
+CVE-2024-20714 
+CVE-2024-20715
+
+Fabricante 
+Adobe 
+Productos afectados 
+Adobe Substance 3D Stager 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00954-01/
+
+7

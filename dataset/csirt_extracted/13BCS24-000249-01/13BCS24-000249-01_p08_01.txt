@@ -1,0 +1,33 @@
+Source: 13BCS24-000249-01.pdf | Page: 8 | Image: 13BCS24-000249-01_p08_01 (641x595px)
+------------------------------------------------------------
+CSIRT informa de vulnerabilidad crítica en Mastodon 
+Alerta de seguridad cibernética 
+9VSA24-00971-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 febrero, 2024
+
+Última revisión 
+5 febrero, 2024
+
+CVE 
+CVE-2024-23832 
+Fabricante 
+Mastodon 
+Productos afectados 
+Mastodon versiones anteriores 3.5.17, 4.0.x anteriores a 4.0.13, 4.1.x anteriores 
+a 4.1.13, 7 4.2.x anteriores a 4.2.5. 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00971-01/

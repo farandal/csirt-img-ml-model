@@ -1,0 +1,41 @@
+Source: 13BCS23-00202-01.pdf | Page: 16 | Image: 13BCS23-00202-01_p16_02 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidad crítica en Atlassian Jira Service Management 
+Alerta de seguridad cibernética 
+9VSA23-00802-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de marzo de 2023
+
+Última revisión 
+10 de marzo de 2023
+
+CVE 
+CVE-2022-45861 
+CVE-2022-42476 
+CVE-2022-29056 
+CVE-2022-41329 
+CVE-2023-25605
+
+CVE-2023-25611 
+CVE-2022-39951 
+CVE-2022-41333 
+CVE-2023-23776 
+CVE-2022-22297
+
+CVE-2022-41328 
+CVE-2022-40676 
+CVE-2022-39953 
+CVE-2022-27490

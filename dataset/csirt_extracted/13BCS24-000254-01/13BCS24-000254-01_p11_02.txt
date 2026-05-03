@@ -1,0 +1,29 @@
+Source: 13BCS24-000254-01.pdf | Page: 11 | Image: 13BCS24-000254-01_p11_02 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de marzo, 2024
+
+Última revisión 
+11 de marzo, 2024
+
+Indicadores de compromiso 
+SHA256 
+e645209c1eb6e2bdb67197d8b8b4e72bcf12dcd76cc7008caf3dc11d80d60231d9
+e3a591c7151aeefe18a1d1c36ca895c7e91979ff491bfd7b629d4e5f4d1c89
+
+7d1a180a18af5266c0e996e4cb16556dcd9d421e7567853d10b3e83b24ac5525 
+4fb683b54680e47990aafcdffbec12fcf9ed6f4b5a02609dc79cb4ac1a223d8b
+
+10

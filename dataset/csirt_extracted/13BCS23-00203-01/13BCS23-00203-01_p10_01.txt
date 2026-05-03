@@ -1,0 +1,48 @@
+Source: 13BCS23-00203-01.pdf | Page: 10 | Image: 13BCS23-00203-01_p10_01 (641x595px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades parchadas en Mozilla Firefox 111 
+Alerta de seguridad cibernética 
+9VSA23-00806-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de marzo de 2023
+
+Última revisión 
+23 de marzo de 2023
+
+CVE 
+CVE-2023-28159 
+CVE-2023-25748 
+CVE-2023-25749 
+CVE-2023-25750 
+CVE-2023-25751
+
+CVE-2023-28160 
+CVE-2023-28164 
+CVE-2023-28161 
+CVE-2023-28162
+
+CVE-2023-25752 
+CVE-2023-28163 
+CVE-2023-28176 
+CVE-2023-28177
+
+Fabricantes 
+Mozilla 
+Productos afectados 
+Firefox 
+Firefox for Android 
+Enlaces para revisar el informe: 
+https://github.com/csirtcl/Vulnerabilidades/blob/main/9VSA23-00806-01.pdf

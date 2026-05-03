@@ -1,0 +1,33 @@
+Source: 13BCS24-000249-01.pdf | Page: 5 | Image: 13BCS24-000249-01_p05_01 (581x433px)
+------------------------------------------------------------
+CSIRT alerta de nuevo sitio fraudulento que suplanta a Columbia 
+Alerta de seguridad cibernética 
+8FFR23-01642-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 febrero, 2024
+
+Última revisión 
+2 febrero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://outdoorcolumbia[.]com 
+URL de redirección 
+N/A 
+Dirección IP sitio falso 
+[23.227.38.36] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01642-01/

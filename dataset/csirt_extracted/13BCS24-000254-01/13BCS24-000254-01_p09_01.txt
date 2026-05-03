@@ -1,0 +1,40 @@
+Source: 13BCS24-000254-01.pdf | Page: 9 | Image: 13BCS24-000254-01_p09_01 (641x595px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 marzo, 2024
+
+Última revisión 
+13 marzo, 2024
+
+CVE 
+CVE-2019-10744 
+CVE-2024-22127 
+CVE-2023-39439
+
+CVE-2023-44487 
+CVE-2023-50164 
+CVE-2024-22133
+
+CVE-2024-27902 
+CVE-2024-25644 
+CVE-2024-28163
+
+CVE-2024-25645 
+CVE-2024-27900
+
+CSIRT informa vulnerabilidades parchadas en Patch Tuesday de Adobe para 
+marzo 2024 
+Código de alerta 
+9VSA24-00986-01

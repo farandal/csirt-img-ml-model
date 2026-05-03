@@ -1,0 +1,42 @@
+Source: 13BCS24-000248-01.pdf | Page: 8 | Image: 13BCS24-000248-01_p08_02 (641x595px)
+------------------------------------------------------------
+CSIRT alerta de nueva vulnerabilidad crítica que afecta a Cisco Unified 
+Communications y Cisco Contact Center Solutions 
+Alerta de seguridad cibernética 
+9VSA24-00970-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 enero, 2024
+
+Última revisión 
+30 enero, 2024
+
+CVE 
+CVE-2024-20253 
+Fabricante 
+Cisco 
+Productos afectados 
+Unified Communications Manager (Unified CM) (CSCwd64245) 
+Unified Communications Manager IM & Presence Service (Unified CM IM&P) 
+(CSCwd64276) 
+Unified Communications Manager Session Management Edition (Unified CM 
+SME) (CSCwd64245) 
+Unified Contact Center Express (UCCX) (CSCwe18773) 
+Unity Connection (CSCwd64292) 
+Virtualized Voice Browser (VVB) (CSCwe18840) 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00970-01/
+
+7

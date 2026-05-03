@@ -1,0 +1,35 @@
+Source: 13BCS24-000249-01.pdf | Page: 5 | Image: 13BCS24-000249-01_p05_02 (514x484px)
+------------------------------------------------------------
+CSIRT alerta de nueva página fraudulenta que suplanta a Zimbra 
+Alerta de seguridad cibernética 
+8FFR23-01643-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 febrero, 2024
+
+Última revisión 
+6 febrero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://eventosllacolen[.]cl/today/zimbra 
+URL de redirección 
+N/A 
+Dirección IP sitio falso 
+[190.107.176.64] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01643-01/
+
+4

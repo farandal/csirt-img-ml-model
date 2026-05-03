@@ -1,0 +1,32 @@
+Source: 13BCS24-000245-01.pdf | Page: 8 | Image: 13BCS24-000245-01_p08_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de nueva vulnerabilidad crítica en Ivanti EPM 
+Alerta de seguridad cibernética 
+9VSA23-00950-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 enero, 2024
+
+Última revisión 
+5 enero, 2024
+
+CVE 
+CVE-2023-39336 
+Fabricante 
+Ivanti 
+Productos afectados 
+Ivanti EPM 2021/EPM 2022 anterior a 2022 Service Update 5 (SU5). 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa23-00950-01/

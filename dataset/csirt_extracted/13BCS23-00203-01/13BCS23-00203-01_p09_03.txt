@@ -1,0 +1,35 @@
+Source: 13BCS23-00203-01.pdf | Page: 9 | Image: 13BCS23-00203-01_p09_03 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en Adobe ColdFusion 
+Alerta de seguridad cibernética 
+9VSA23-00805-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de marzo de 2023
+
+Última revisión 
+17 de marzo de 2023
+
+CVE 
+CVE-2023-26359 
+CVE-2023-26360 
+CVE-2023-26361 
+Fabricantes 
+Adobe 
+Productos afectados 
+ColdFusion 2018 Update 15 y anteriores versiones. 
+ColdFusion 2021 Update 5 y versiones anteriores. 
+Enlaces para revisar el informe: 
+https://github.com/csirtcl/Vulnerabilidades/blob/main/9VSA23-00805-01.pdf

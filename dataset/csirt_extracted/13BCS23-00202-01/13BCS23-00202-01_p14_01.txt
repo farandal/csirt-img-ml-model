@@ -1,0 +1,41 @@
+Source: 13BCS23-00202-01.pdf | Page: 14 | Image: 13BCS23-00202-01_p14_01 (741x467px)
+------------------------------------------------------------
+CSIRT advierte campaña de phishing con malware con falsa factura pendiente de 
+pago 
+Alerta de seguridad cibernética 
+2CMV23-00404-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de marzo de 2023
+
+Última revisión 
+10 de marzo de 2023
+
+Indicadores de compromiso 
+Asunto 
+Reciba su Factura digital. Pago pendiente. 
+Correo de Salida 
+facturaenlinea@network.org 
+SHA256   
+74f711b89d63666185c0ec841257d297b3b250fffa70b7f19adc9ac673feeb28 
+cd38912cfb9229fb7edd3dd0fa109e727903c20445385b2d15749d2ab95d6309 
+806c48155540240aa973980549f0a96a989369be8fc5255d4dbc03f8e11a2fd4 
+eac572bed2d66ffc1f3f5c5372d53fe0bc3fab76599b5aea6fb013ea1adbcbab 
+4be77b79f83d9af63b7cf9b3e0ef1072ac0768260491c161fef118ce9618d8fe 
+98e4f904f7de1644e519d09371b8afcbbf40ff3bd56d76ce4df48479a4ab884b 
+1b4fb02896577539225fdc43508db518064796e045753d6c7b1d9e1a9f49a3f3 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/CodigoMalicioso/blob/main/Phishing-
+Malware_2CMV23-00404-01.txt

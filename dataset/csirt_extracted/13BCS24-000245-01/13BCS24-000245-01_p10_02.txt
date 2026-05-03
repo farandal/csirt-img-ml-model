@@ -1,0 +1,35 @@
+Source: 13BCS24-000245-01.pdf | Page: 10 | Image: 13BCS24-000245-01_p10_02 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidad parchada por Cisco en Unity 
+Connection 
+Alerta de seguridad cibernética 
+9VSA24-00952-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 enero, 2024
+
+Última revisión 
+11 enero, 2024
+
+CVE 
+CVE-2024-20272 
+Fabricante 
+Cisco 
+Productos afectados 
+Cisco Unity Connection 14, 12.5 y anteriores. 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa23-00952-01/
+
+9

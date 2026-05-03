@@ -1,0 +1,48 @@
+Source: 13BCS24-000247-01.pdf | Page: 13 | Image: 13BCS24-000247-01_p13_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de actualización Google Chrome 121 
+Alerta de seguridad cibernética 
+9VSA24-00965-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 enero, 2024
+
+Última revisión 
+18 enero, 2024
+
+CVE 
+CVE-2024-0807 
+CVE-2024-0812 
+CVE-2024-0808 
+CVE-2024-0810
+
+CVE-2024-0814 
+CVE-2024-0813 
+CVE-2024-0806 
+CVE-2024-0805
+
+CVE-2024-0804 
+CVE-2024-0811 
+CVE-2024-0809
+
+Fabricante 
+Google 
+Productos afectados 
+Google Chrome, todas las versiones anteriores a 121.0.6167.85 para Mac y Linux 
+y 121.0.6167.85/.86 para Windows. 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00965-01/
+
+12

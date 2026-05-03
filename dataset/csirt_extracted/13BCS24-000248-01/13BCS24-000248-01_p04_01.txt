@@ -1,0 +1,33 @@
+Source: 13BCS24-000248-01.pdf | Page: 4 | Image: 13BCS24-000248-01_p04_01 (685x572px)
+------------------------------------------------------------
+CSIRT alerta de nuevo sitio fraudulento que suplanta a BancoEstado 
+Alerta de seguridad cibernética 
+8FFR24-01638-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 enero, 2024
+
+Última revisión 
+29 enero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://cl-banco.estado-inicio[.]info 
+URL de redirección 
+N/A 
+Dirección IP sitio falso 
+[172.67.146.38] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01638-01/

@@ -1,0 +1,27 @@
+Source: 13BCS24-000254-01.pdf | Page: 8 | Image: 13BCS24-000254-01_p08_01 (641x595px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 marzo, 2024
+
+Última revisión 
+13 marzo, 2024
+
+CVE 
+CVE-2023-42789 
+CVE-2023-42790 
+CVE-2024-23112 
+CVE-2023-46717
+
+7

@@ -1,0 +1,37 @@
+Source: 13BCS24-000244-01.pdf | Page: 5 | Image: 13BCS24-000244-01_p05_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidad en FortiOS, FortiProxy y FortiPAM 
+Alerta de seguridad cibernética 
+9VSA23-00949-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+4 enero, 2024
+
+Última revisión 
+4 enero, 2024
+
+CVE 
+CVE-2023-36639 
+Fabricante 
+Fortinet 
+Productos afectados 
+FortiProxy 7.2.0 a 7.2.4 y 7.0.0 a 7.0.10 
+FortiOS: 7.4.0, 7.2.0 a 7.2.4 y 7.0.0 a 7.0.11, 6.4.0 a 6.4.12, 6.2.0 a 6.2.15. 6.0.0 a 
+6.0.17 
+FortiPAM: 1.0.0 a 1.0.3 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa23-00949-01/
+
+4

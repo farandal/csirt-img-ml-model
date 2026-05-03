@@ -1,0 +1,35 @@
+Source: 13BCS24-000247-01.pdf | Page: 5 | Image: 13BCS24-000247-01_p05_03 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de nuevo sitio fraudulento que suplanta a Banco Itaú 
+Alerta de seguridad cibernética 
+8FFR23-01637-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 enero, 2024
+
+Última revisión 
+24 enero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://bancaltauempresas[.]online/ 
+URL de redirección 
+N/A 
+Dirección IP sitio falso 
+[51.79.176.23] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01637-01/
+
+4

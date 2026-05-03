@@ -1,0 +1,32 @@
+Source: 13BCS23-00202-01.pdf | Page: 8 | Image: 13BCS23-00202-01_p08_02 (582x376px)
+------------------------------------------------------------
+CSIRT advierte sitio web falso que suplanta a Banco Itaú 
+Alerta de seguridad cibernética 
+8FFR23-01259-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de marzo de 2023
+
+Última revisión 
+14 de marzo de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+https://dev-alertpyitau.pantheonsite[.]io/ 
+Dirección IP 
+[23.185.0.3] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Falsificaci%C3%B3n%20de%20Regis
+tros%20o%20Identidad_8FFR23-01259-01.txt

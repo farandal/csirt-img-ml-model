@@ -1,0 +1,34 @@
+Source: 13BCS24-000254-01.pdf | Page: 4 | Image: 13BCS24-000254-01_p04_02 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de marzo, 2024
+
+Última revisión 
+12 de marzo, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://careclub.or[.]ke/zti/#{correo} 
+URL de redirección  
+https://www.google[.]is/amp/s/be%E3%80%82co%E3%80%82mz%2Fsgn%2F/K3
+YMYGVJ_224487825%2FY2NtYXJpbkBpbnRlcmlvci5nb2IuY2w= 
+https://be.co[.]mz/sgn//K3YMYGVJ_224487825/Y2NtYXJpbkBpbnRlcmlvci5nb2Iu
+Y2w= 
+Dirección IP sitio falso 
+[192.185.129.195] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8fph24-00939-01/
+
+3

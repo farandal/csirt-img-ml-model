@@ -1,0 +1,94 @@
+Source: 13BCS24-000246-01.pdf | Page: 9 | Image: 13BCS24-000246-01_p09_02 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información de nuevas vulnerabilidades publicadas por Juniper 
+Networks 
+Alerta de seguridad cibernética 
+9VSA24-00955-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 enero, 2024
+
+Última revisión 
+16 enero, 2024
+
+CVE 
+CVE-2016-2183 
+CVE-2019-17571 
+CVE-2020-9493 
+CVE-2021-44228 
+CVE-2021-44832 
+CVE-2022-22164 
+CVE-2022-23302 
+CVE-2022-23305 
+CVE-2022-23307 
+CVE-2023-26464 
+CVE-2023-36842 
+CVE-2024-21585 
+CVE-2024-21587 
+CVE-2024-21589 
+CVE-2024-21591 
+CVE-2024-21594
+
+CVE-2024-21595 
+CVE-2024-21597 
+CVE-2024-21599 
+CVE-2024-21600 
+CVE-2024-21601 
+CVE-2024-21602 
+CVE-2024-21603 
+CVE-2024-21604 
+CVE-2024-21606 
+CVE-2024-21607 
+CVE-2024-21611 
+CVE-2024-21612 
+CVE-2024-21613 
+CVE-2024-21614 
+CVE-2022-21699
+
+CVE-2020-0465 
+CVE-2020-0466 
+CVE-2021-0920 
+CVE-2021-26691 
+CVE-2021-34798 
+CVE-2021-3564 
+CVE-2021-3573 
+CVE-2021-3621 
+CVE-2021-3752 
+CVE-2021-39275 
+CVE-2021-4155 
+CVE-2021-44790 
+CVE-2022-0330 
+CVE-2022-22942 
+CVE-2024-21617
+
+Fabricante 
+Juniper Networks 
+Productos afectados 
+Juniper Networks Junos OS SRX Series y EX Series: 
+Junos OS versiones anteriores a la 20.4R3-S9 
+Junos OS 21.2 versiones anteriores a la 21.2R3-S7 
+Junos OS 21.3 versiones anteriores a la 21.3R3-S5 
+Junos OS 21.4 versiones anteriores a la 21.4R3-S5 
+Junos OS 22.1 versiones anteriores a la 22.1R3-S4 
+Junos OS 22.2 versiones anteriores a la 22.2R3-S3 
+Junos OS 22.3 versiones anteriores a la 22.3R3-S2 
+Junos OS 22.4 versiones anteriores a la 22.4R2-S2, 22.4R3. 
+Juniper Networks Security Director Insights anteriores a la 23.1R1. 
+Juniper Networks CTPView, versiones anteriores a la 9.1R5. 
+Routers Juniper Networks Session Smart Router anteriores al SSR-6.2.3-r2. 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00955-01/
+
+8

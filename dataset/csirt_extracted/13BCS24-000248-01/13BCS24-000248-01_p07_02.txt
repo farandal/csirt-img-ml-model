@@ -1,0 +1,37 @@
+Source: 13BCS24-000248-01.pdf | Page: 7 | Image: 13BCS24-000248-01_p07_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidad crítica en Ivanti Connect Secure 
+(ICS) VPN 
+Alerta de seguridad cibernética 
+9VSA24-00968-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 enero, 2024
+
+Última revisión 
+30 enero, 2024
+
+CVE 
+CVE-2023-46805 
+CVE-2024-21887 
+Fabricante 
+Ivanti 
+Productos afectados 
+Ivanti Connect Secure (ICS) 9.x, 22.x 
+Ivanti Policy Secure 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00968-01/
+
+6

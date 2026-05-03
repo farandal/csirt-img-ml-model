@@ -1,0 +1,37 @@
+Source: 13BCS23-00204-01.pdf | Page: 4 | Image: 13BCS23-00204-01_p04_01 (641x595px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en Cisco IOS, IOS XE 
+Alerta de seguridad cibernética 
+9VSA23-00807-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de marzo de 2023
+
+Última revisión 
+27 de marzo de 2023
+
+CVE 
+CVE-2023-20080 
+CVE-2023-20072 
+CVE-2023-20027 
+CVE-2023-20035
+
+CVE-2023-20065 
+CVE-2023-20067 
+CVE-2023-20081
+
+CVE-2023-20100 
+CVE-2023-20066 
+CVE-2023-20029

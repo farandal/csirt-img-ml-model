@@ -1,0 +1,39 @@
+Source: 13BCS24-000246-01.pdf | Page: 4 | Image: 13BCS24-000246-01_p04_01 (553x382px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware, que suplanta al Poder 
+Judicial 
+Alerta de seguridad cibernética 
+2CMV23-00439-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 enero, 2024
+
+Última revisión 
+12 enero, 2024
+
+Indicadores de compromiso 
+URL-Dominio 
+https://rao-romania[.]com/citacion/republicachilepoderjudicial/?hash={mail}  
+https://citrustalent[.]com/pk/citacionpoderjudicl.zip?999128620
+
+SHA256   
+5a77ae65d77068dee0b029678b84f0234c4788a4de45e8f6f2390b1f09c7cee4  
+a510907486ad34776ddc8c47e08ebd98e985ff9c41b7aede9c8cdd011160a17d 
+36a9e7f1c95b82ffb99743e0c5c4ce95d83c9a430aac59f84ef3cbfab6145068  
+e28e34fbdaff077669586dcdb4e10f0ba2ca6c9973ed4d372a5c3ec3b8ad20e7  
+7e643c188a1ee3b0251b7dfcab000b7c48fd840eff35189e8a45901852e3910a  
+192d51cd32647c1e7d5bc57560b4b6938caf5685bafa157edfc960d26a8e172a  
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/2cmv24-00439-01/

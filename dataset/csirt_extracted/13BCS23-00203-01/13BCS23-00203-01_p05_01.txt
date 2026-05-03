@@ -1,0 +1,39 @@
+Source: 13BCS23-00203-01.pdf | Page: 5 | Image: 13BCS23-00203-01_p05_01 (686x714px)
+------------------------------------------------------------
+CSIRT advierte sitio que suplanta a Microsoft 
+Alerta de seguridad cibernética 
+8FFR23-01266-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de marzo de 2023
+
+Última revisión 
+21 de marzo de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+https://cloudflare-
+ipfs[.]com/ipfs/Qmb4MYAt67BDH8LrDy8NNeaUk6MsxM6eqKAnq5KQrpM77V 
+https://pufferfish-plums-7rn7.squarespace[.]com/ 
+https://mandolin-bamboo-pj26.squarespace[.]com/ 
+https://bobcat-hexagon-m62r.squarespace[.]com/ 
+https://snobods.z13.web.core.windows[.]net/ 
+Dirección IP 
+198.49.23[.]177 
+104.17.64[.]14 
+52.239.170[.]65 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Falsificaci%C3%B3n%20de%20Regis
+tros%20o%20Identidad_8FFR23-01266-01.txt

@@ -1,0 +1,36 @@
+Source: 13BCS24-000246-01.pdf | Page: 5 | Image: 13BCS24-000246-01_p05_02 (498x483px)
+------------------------------------------------------------
+CSIRT alerta de nueva página fraudulenta que suplanta a Microsoft 
+Alerta de seguridad cibernética 
+8FFR23-01631-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 enero, 2024
+
+Última revisión 
+12 enero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://office-supportcenter-
+365.business/93453252/common/oauth2.0/login/off/ 
+URL de redirección 
+N/A 
+Dirección IP sitio falso 
+[104.21.37.254] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01631-01/
+
+4

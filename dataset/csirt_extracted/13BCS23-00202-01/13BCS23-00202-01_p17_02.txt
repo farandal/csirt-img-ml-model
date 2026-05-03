@@ -1,0 +1,51 @@
+Source: 13BCS23-00202-01.pdf | Page: 17 | Image: 13BCS23-00202-01_p17_02 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades del Update Tuesday de Microsoft marzo 2023 
+Alerta de seguridad cibernética 
+9VSA23-00803-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de marzo de 2023
+
+Última revisión 
+10 de marzo de 2023
+
+CVE 
+CVE-2023-1017 
+CVE-2023-1018 
+CVE-2023-21708 
+CVE-2023-22490 
+CVE-2023-22743 
+CVE-2023-23383 
+CVE-2023-23385 
+CVE-2023-23388
+
+CVE-2023-23409 
+CVE-2023-23410 
+CVE-2023-23411 
+CVE-2023-23412 
+CVE-2023-23413 
+CVE-2023-23414 
+CVE-2023-23415 
+CVE-2023-23416
+
+CVE-2023-24867 
+CVE-2023-24868 
+CVE-2023-24869 
+CVE-2023-24870 
+CVE-2023-24871 
+CVE-2023-24872 
+CVE-2023-24876 
+CVE-2023-24879

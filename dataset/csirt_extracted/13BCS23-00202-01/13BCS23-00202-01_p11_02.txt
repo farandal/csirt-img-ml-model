@@ -1,0 +1,34 @@
+Source: 13BCS23-00202-01.pdf | Page: 11 | Image: 13BCS23-00202-01_p11_02 (855x644px)
+------------------------------------------------------------
+CSIRT alerta campaña de phishing que suplanta a BancoEstado 
+Alerta de seguridad cibernética 
+8FPH23-00770-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de marzo de 2023
+
+Última revisión 
+13 de marzo de 2023
+
+Indicadores de compromiso 
+URL redirección 
+https://containd3structible[.]com/activacion/cuenta-ffca/ 
+URL sitio falso 
+https://nwmepsonpatito[.]club/1678739215/imagenes/_personas/home/default.
+asp 
+Dirección IP 
+[172.67.131.190] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Phishing_8FPH23-00770-01.txt

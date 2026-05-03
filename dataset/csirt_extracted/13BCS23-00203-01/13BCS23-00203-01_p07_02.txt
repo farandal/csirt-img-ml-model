@@ -1,0 +1,33 @@
+Source: 13BCS23-00203-01.pdf | Page: 7 | Image: 13BCS23-00203-01_p07_02 (895x608px)
+------------------------------------------------------------
+CSIRT alerta campaña de phishing que suplanta a BancoEstado 
+Alerta de seguridad cibernética 
+8FPH23-00777-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de marzo de 2023
+
+Última revisión 
+22 de marzo de 2023
+
+Indicadores de compromiso 
+URL redirección 
+https[:]//mapacontact[.]com/activacion/cuenta-vnrp/ 
+URL sitio falso 
+https[:]//patitotravel[.]com/1679509523/imagenes/_personas/home/default.asp 
+Dirección IP 
+[138.128.182.130] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Phishing_8FPH23-00777-01.txt

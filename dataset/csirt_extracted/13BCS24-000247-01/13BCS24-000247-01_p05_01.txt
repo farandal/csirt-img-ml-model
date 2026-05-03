@@ -1,0 +1,34 @@
+Source: 13BCS24-000247-01.pdf | Page: 5 | Image: 13BCS24-000247-01_p05_01 (563x486px)
+------------------------------------------------------------
+CSIRT alerta de nuevo sitio fraudulento que suplanta al Servicio de Impuestos 
+Internos 
+Alerta de seguridad cibernética 
+8FFR23-01636-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 enero, 2024
+
+Última revisión 
+12 enero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://zeusrsii-cl[.]info/ 
+URL de redirección 
+N/A 
+Dirección IP sitio falso 
+[172.67.205.138] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01636-01/

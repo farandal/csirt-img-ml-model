@@ -1,0 +1,31 @@
+Source: 13BCS23-00202-01.pdf | Page: 7 | Image: 13BCS23-00202-01_p07_04 (1058x149px)
+------------------------------------------------------------
+CSIRT informa de página web que suplanta a Reebok 
+Alerta de seguridad cibernética 
+8FFR23-01257-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de marzo de 2023
+
+Última revisión 
+13 de marzo de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+https://www.reebok-chile[.]com/ 
+Dirección IP 
+[165.231.154.138] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Falsificaci%C3%B3n%20de%20Regis

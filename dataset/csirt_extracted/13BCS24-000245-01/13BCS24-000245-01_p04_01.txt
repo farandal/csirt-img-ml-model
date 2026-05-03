@@ -1,0 +1,35 @@
+Source: 13BCS24-000245-01.pdf | Page: 4 | Image: 13BCS24-000245-01_p04_01 (582x309px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware, en este caso 
+Grandoeiro 
+Alerta de seguridad cibernética 
+2CMV23-00438-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 enero, 2024
+
+Última revisión 
+8 enero, 2024
+
+Indicadores de compromiso 
+URL-Dominio 
+https://espangmtes.westus2.cloudapp.azure[.]com/?25236754_966-
+108935108935=817902817902
+
+https://www.dropbox[.]com/scl/fi/j3m0poowjfq9zp9glmsal/ConsultPagZDFKMQX
+VtlvhipmbetpeegdfYNSU.zip?rlkey=2tjq03gyi6fe4jddmo8loiarr&dl=0  
+http://15.229.5[.]172:24163/KvMXecvipA.xml
+
+3

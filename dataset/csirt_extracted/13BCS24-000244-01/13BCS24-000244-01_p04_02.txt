@@ -1,0 +1,56 @@
+Source: 13BCS24-000244-01.pdf | Page: 4 | Image: 13BCS24-000244-01_p04_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas en Firefox 121 
+Alerta de seguridad cibernética 
+9VSA23-00948-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 enero, 2024
+
+Última revisión 
+2 enero, 2024
+
+CVE 
+CVE-2023-6856 
+CVE-2023-6135 
+CVE-2023-6865 
+CVE-2023-6857 
+CVE-2023-6858
+
+CVE-2023-6859 
+CVE-2023-6866 
+CVE-2023-6860 
+CVE-2023-6867
+
+CVE-2023-6861 
+CVE-2023-6868 
+CVE-2023-6869 
+CVE-2023-6870
+
+CVE-2023-6871 
+CVE-2023-6863 
+CVE-2023-6864 
+CVE-2023-6873
+
+Fabricante 
+Mozilla 
+Productos afectados 
+Firefox 120 
+Firefox ESR 115.5 
+Thunderbird 115.5 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa23-00948-01/
+
+3

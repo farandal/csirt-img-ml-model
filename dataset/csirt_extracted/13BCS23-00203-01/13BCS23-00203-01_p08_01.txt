@@ -1,0 +1,39 @@
+Source: 13BCS23-00203-01.pdf | Page: 8 | Image: 13BCS23-00203-01_p08_01 (610x432px)
+------------------------------------------------------------
+CSIRT advierte campaña de phishing con malware con falsa citación judicial 
+Alerta de seguridad cibernética 
+2CMV23-00406-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de marzo de 2023
+
+Última revisión 
+16 de marzo de 2023
+
+Indicadores de compromiso 
+Asunto 
+3-
+Tercera_Notificación_Del_Proceso_Llevado_En_Contra_Referencia_Nro°_29873
+893_21_Radicado_#93903030-32 
+Correo de Salida 
+luisa.9117.sierra@gmail.com 
+SHA256   
+d94424e9b0a9bb26db36fa4c44633ca0a312c03da3c2354264029be85b1eb830 
+0f25e73c85e2f183591d514636625fb5484b61ae309d5c3c3905cefbf29cce03 
+0f25e73c85e2f183591d514636625fb5484b61ae309d5c3c3905cefbf29cce03 
+bdd02b6a38a5d23d1a4c96fd33623cd727b5b4e40f178e50b349910e19ef4757 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/CodigoMalicioso/blob/main/Phishing-
+Malware_2CMV23-00406-01.txt

@@ -1,0 +1,35 @@
+Source: 13BCS24-000246-01.pdf | Page: 10 | Image: 13BCS24-000246-01_p10_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas en Google Chrome 
+Alerta de seguridad cibernética 
+9VSA24-00956-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 enero, 2024
+
+Última revisión 
+18 enero, 2024
+
+CVE 
+CVE-2024-0517 
+CVE-2024-0518 
+CVE-2024-0519 
+Fabricante 
+Google 
+Productos afectados 
+Google Chrome, todas las versiones anteriores a 120.0.6099.234 para Mac, 
+120.0.6099.224 para Linux y 120.0.6099.224/225 para Windows. 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00956-01/

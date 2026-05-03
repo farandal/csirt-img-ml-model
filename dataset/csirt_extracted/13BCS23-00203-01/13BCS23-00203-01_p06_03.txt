@@ -1,0 +1,32 @@
+Source: 13BCS23-00203-01.pdf | Page: 6 | Image: 13BCS23-00203-01_p06_03 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de página web que suplanta a Banco Falabella 
+Alerta de seguridad cibernética 
+8FFR23-01270-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de marzo de 2023
+
+Última revisión 
+23 de marzo de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+https[:]//bonos-emergencia.firebaseapp[.]com/acceso/plazo 
+Dirección IP 
+[199.36.158.100] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Falsificaci%C3%B3n%20de%20Regis
+tros%20o%20Identidad_8FFR23-01270-01.txt

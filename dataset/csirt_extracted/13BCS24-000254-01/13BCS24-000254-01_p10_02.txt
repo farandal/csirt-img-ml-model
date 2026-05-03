@@ -1,0 +1,21 @@
+Source: 13BCS24-000254-01.pdf | Page: 10 | Image: 13BCS24-000254-01_p10_02 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 marzo, 2024
+
+Última revisión 
+14 marzo, 2024
+
+9

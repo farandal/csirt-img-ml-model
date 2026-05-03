@@ -1,0 +1,57 @@
+Source: 13BCS24-000247-01.pdf | Page: 11 | Image: 13BCS24-000247-01_p11_01 (641x595px)
+------------------------------------------------------------
+CSIRT informa de actualizaciones iOS 17.3, iPadOS 17.3 de Apple, que incluyen 
+parches de seguridad 
+Alerta de seguridad cibernética 
+9VSA24-00961-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 enero, 2024
+
+Última revisión 
+23 enero, 2024
+
+CVE 
+CVE-2024-23212 
+CVE-2024-23218 
+CVE-2024-23208 
+CVE-2024-23207 
+CVE-2024-23223 
+CVE-2024-23219
+
+CVE-2024-23211 
+CVE-2024-23203 
+CVE-2024-23204 
+CVE-2024-23217 
+CVE-2024-23210 
+CVE-2024-23206
+
+CVE-2024-23213 
+CVE-2024-23214 
+CVE-2024-23222 
+CVE-2024-23215 
+CVE-2023-42916 
+CVE-2023-42917
+
+Fabricante 
+Apple 
+Productos afectados 
+iPhone XS y posteriores, iPad Pro 12.9-inch 3ra generación y posteriores, iPad Pro 
+11-inch 1ra generación y posteriores, iPad Air 3ra generación y posteriores, iPad 
+8va generación y posteriores, y iPad mini 5ta generación y posteriores. 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00961-01/
+
+10

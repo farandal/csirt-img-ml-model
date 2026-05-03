@@ -1,0 +1,32 @@
+Source: 13BCS23-00202-01.pdf | Page: 6 | Image: 13BCS23-00202-01_p06_02 (582x374px)
+------------------------------------------------------------
+CSIRT alerta de página web que suplanta a Pandora 
+Alerta de seguridad cibernética 
+8FFR23-01253-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de marzo de 2023
+
+Última revisión 
+13 de marzo de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+https://www.pandora-chile[.]com/ 
+Dirección IP 
+[196.196.101.105] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Falsificaci%C3%B3n%20de%20Regis
+tros%20o%20Identidad_8FFR23-01253-01.txt

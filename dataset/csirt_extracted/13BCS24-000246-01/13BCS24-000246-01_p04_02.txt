@@ -1,0 +1,44 @@
+Source: 13BCS24-000246-01.pdf | Page: 4 | Image: 13BCS24-000246-01_p04_02 (534x375px)
+------------------------------------------------------------
+CSIRT alerta de nuevo phishing con malware, que suplanta al SII 
+Alerta de seguridad cibernética 
+2CMV24-00440-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 enero, 2024
+
+Última revisión 
+12 enero, 2024
+
+Indicadores de compromiso 
+URL-Dominio 
+https://ccpt.gov[.]ng/wps/01923i6C/0D17F5S33/01F3083.php?hash=66322708-
+ezintloslagos@interior.gov.cl  
+https://jw-
+ict[.]l/330215B8F11/776T0231CC/02722.php?/mail/0/inbox/id/AQMkADAwATNi
+ZmYAZC1hNDU4LWRkADc2LTAwAi0wMAoARgAAA1kchXVlHz5CjfaazERwbi8HAN
+Hs14LD%2BI9Bt5SmE8UpN2gAAAIBDAAAA 
+https://silviza[.]cl/mail/F981233/UC1023IF8B/home.php?hash=G-O-V 
+SHA256   
+5a77ae65d77068dee0b029678b84f0234c4788a4de45e8f6f2390b1f09c7cee4  
+a510907486ad34776ddc8c47e08ebd98e985ff9c41b7aede9c8cdd011160a17d 
+36a9e7f1c95b82ffb99743e0c5c4ce95d83c9a430aac59f84ef3cbfab6145068  
+e28e34fbdaff077669586dcdb4e10f0ba2ca6c9973ed4d372a5c3ec3b8ad20e7  
+7e643c188a1ee3b0251b7dfcab000b7c48fd840eff35189e8a45901852e3910a  
+98c1f23e6e3176b902dd0446909a5065cbacbd4b3f15ea831d5b7ab01605bea6 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/2cmv24-00440-01/
+
+3

@@ -1,0 +1,83 @@
+Source: 13BCS24-000249-01.pdf | Page: 8 | Image: 13BCS24-000249-01_p08_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas en actualización de 
+seguridad de Android febrero 2024 
+Alerta de seguridad cibernética 
+9VSA24-00972-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 febrero, 2024
+
+Última revisión 
+6 febrero, 2024
+
+CVE 
+CVE-2024-0029 
+CVE-2024-0031 
+CVE-2024-0014 
+CVE-2024-0032 
+CVE-2024-0034 
+CVE-2024-0033 
+CVE-2024-0035 
+CVE-2024-0030 
+CVE-2024-0036 
+CVE-2024-0038 
+CVE-2024-0037 
+CVE-2024-0040 
+CVE-2023-40122 
+CVE.2023-40093 
+CVE-2023-5091
+
+CVE-2023-5249 
+CVE-2023-5643 
+CVE-2024-20011 
+CVE-2024-20006 
+CVE-2024-20007 
+CVE-2024-20009 
+CVE-2024-20010 
+CVE-2023-32842 
+CVE-2023-32841 
+CVE-2023-32843 
+CVE-2024-20003 
+CVE-2023-49667 
+CVE-2023-49668 
+CVE-2023-43513 
+CVE-2023-43516
+
+CVE-2023-43520 
+CVE-2023-43534 
+CVE-2023-33046 
+CVE-2023-33049 
+CVE-2023-33058 
+CVE-2023-33060 
+CVE-2023-33072 
+CVE-2023-33057 
+CVE-2023-33076 
+CVE-2023-43518 
+CVE-2023-43519 
+CVE-2023-43522 
+CVE-2023-43523 
+CVE-2023-43533 
+CVE-2023-43536
+
+Fabricante 
+Google 
+Productos afectados 
+Dispositivos con sistema operativo Android anteriores al 2024-02-01 security 
+patch level. 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00972-01/
+
+7

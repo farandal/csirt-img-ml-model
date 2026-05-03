@@ -1,0 +1,33 @@
+Source: 13BCS23-00203-01.pdf | Page: 6 | Image: 13BCS23-00203-01_p06_01 (693x638px)
+------------------------------------------------------------
+CSIRT alerta página web que suplanta a CorreosChile 
+Alerta de seguridad cibernética 
+8FFR23-01268-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de marzo de 2023
+
+Última revisión 
+22 de marzo de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+https[:]//unsla[.]org/CorreosChili/app/index.php?&userid=32e8e16f1b2f304b1f5
+f19c1fca2b265&ue=ff4c2bab217bfbdfa7cdeaa10f0e9053 
+Dirección IP 
+[190.92.141.191] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Falsificaci%C3%B3n%20de%20Regis
+tros%20o%20Identidad_8FFR23-01268-01.txt

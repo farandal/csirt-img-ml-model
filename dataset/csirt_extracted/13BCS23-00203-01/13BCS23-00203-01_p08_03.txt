@@ -1,0 +1,37 @@
+Source: 13BCS23-00203-01.pdf | Page: 8 | Image: 13BCS23-00203-01_p08_03 (1058x149px)
+------------------------------------------------------------
+CSIRT advierte campaña de phishing con malware que suplanta al Banco de Chile 
+Alerta de seguridad cibernética 
+2CMV23-00407-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de marzo de 2023
+
+Última revisión 
+21 de marzo de 2023
+
+Indicadores de compromiso 
+Asunto 
+Aviso de Transferencia de fondos 
+Correo de Salida 
+167933736637.9248.5108207612344084682@divabercom01.vdeploy.net 
+SHA256   
+7f9c328cddd0b8593519310ba0ff155312934c068cca6727fb8422762c7ef611 
+6fef888e6f662744463a37949ee1df183c279e42baf355319484293748ded41b 
+ad475a285edf2aa6ff28b845bb29f7bb0da366e5bf8ba1f4ad25ec4a16c440dc 
+96ad1146eb96877eab5942ae0736b82d8b5e2039a80d3d6932665c1a4c87dcf7 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/CodigoMalicioso/blob/main/Phishing-
+Malware_2CMV23-00407-01.txt

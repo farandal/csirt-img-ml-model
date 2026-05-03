@@ -1,0 +1,41 @@
+Source: 13BCS24-000248-01.pdf | Page: 6 | Image: 13BCS24-000248-01_p06_02 (578x326px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware, difundido en falsa 
+factura por vencer 
+Alerta de seguridad cibernética 
+2CMV24-00442-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 enero, 2024
+
+Última revisión 
+30 enero, 2024
+
+Indicadores de compromiso 
+URL-Dominio 
+https://windbender[.]com/conasetinfraccione/?hash={correo} 
+https://plataformaepimexicoenganchate[.]org/111xxx/conasetnotificacioninfra.zi
+p
+
+SHA256   
+c98da79639217f83596fe9959fcc15d907255e098b972dc00535858710204cd8  
+ac2e3c0663c9ce6f5791afbddbb0614d8417efd230b08a0d68f84b923999c0e7  
+d955856d80c8127ccd38b7a04be1b48984078e9e6416e3c1846b772956dda003 
+52f41817669af7ac55b1516894ee705245c3148f2997fa0e6617e9cc6353e41e 
+0831dbcb3799c9e36ea586582e8ef907dcefeb2045351d6774c7ad0ef02a9af2 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/2cmv24-00442-01/
+
+5

@@ -1,0 +1,51 @@
+Source: 13BCS24-000248-01.pdf | Page: 7 | Image: 13BCS24-000248-01_p07_01 (641x595px)
+------------------------------------------------------------
+CSIRT alerta de nueva vulnerabilidad crítica en Jenkins 
+Alerta de seguridad cibernética 
+9VSA24-00967-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 enero, 2024
+
+Última revisión 
+30 enero, 2024
+
+CVE 
+CVE-2024-23897 
+CVE-2024-23899 
+CVE-2024-23900 
+CVE-2024-23901
+
+CVE-2024-23902 
+CVE-2024-23903 
+CVE-2024-23904
+
+CVE-2024-23905 
+CVE-2023-6148 
+CVE-2023-6147
+
+Fabricante 
+Jenkins 
+Productos afectados 
+Jenkins weekly 2.441 y anteriores. 
+LTS 2.426.2 y anteriores. 
+Git server Plugin hasta e incluyendo 99.va_0826a_b_cdfa_d 
+GitLab Branch Source Plugin hasta e incluyendo 684.vea_fa_7c1e2fe3 
+Log Command Plugin hasta e incluyendo 1.0.2 
+Matrix Project Plugin hasta e incluyendo 822.v01b_8c85d16d2 
+Qualys Policy Compliance Scanning Connector Plugin hasta e incluyendo 1.0.5 
+Red Hat Dependency Analytics Plugin hasta e incluyendo 0.7.1 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00967-01/

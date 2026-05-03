@@ -1,0 +1,36 @@
+Source: 13BCS24-000246-01.pdf | Page: 11 | Image: 13BCS24-000246-01_p11_02 (641x595px)
+------------------------------------------------------------
+CSIRT informa de parche a vulnerabilidad crítica en VMware Aria Automation 
+Alerta de seguridad cibernética 
+9VSA24-00959-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 enero, 2024
+
+Última revisión 
+18 enero, 2024
+
+CVE 
+CVE-2023-34063 
+Fabricante 
+VMware 
+Productos afectados 
+VMware Aria Automation (antes vRealize Automation): 8.11.x, 8.12.x, 8.13.x y 
+8.14.x. 
+VMware Cloud Foundation (Aria Automation) 4.x y 5.x. 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00959-01/
+
+10

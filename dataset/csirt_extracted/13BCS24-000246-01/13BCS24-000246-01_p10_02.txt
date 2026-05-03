@@ -1,0 +1,41 @@
+Source: 13BCS24-000246-01.pdf | Page: 10 | Image: 13BCS24-000246-01_p10_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas para Citrix NetScaler 
+Alerta de seguridad cibernética 
+9VSA24-00957-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 enero, 2024
+
+Última revisión 
+18 enero, 2024
+
+CVE 
+CVE-2023-6548 
+CVE-2023-6549 
+Fabricante 
+Citrix 
+Productos afectados 
+NetScaler ADC and NetScaler Gateway 14.1 anteriores a 14.1-12.35 
+NetScaler ADC and NetScaler Gateway 13.1 anteriores a 13.1-51.15 
+NetScaler ADC and NetScaler Gateway 13.0 anteriores a 13.0-92.21 
+NetScaler ADC and NetScaler Gateway versión 12.1 (end-of-life) 
+NetScaler ADC 13.1-FIPS anteriores a 13.1-37.176 
+NetScaler ADC 12.1-FIPS anteriores a 12.1-55.302 
+NetScaler ADC 12.1-NDcPP anteriores a 12.1-55.302 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00957-01/
+
+9

@@ -1,0 +1,35 @@
+Source: 13BCS24-000246-01.pdf | Page: 6 | Image: 13BCS24-000246-01_p06_03 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de nuevo sitio fraudulento que suplanta a Banco de Chile 
+Alerta de seguridad cibernética 
+8FFR23-01633-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 enero, 2024
+
+Última revisión 
+17 enero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://app-mipass[.]com/ 
+URL de redirección 
+N/A 
+Dirección IP sitio falso 
+[172.67.159.237] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01633-01/
+
+5

@@ -1,0 +1,36 @@
+Source: 13BCS24-000248-01.pdf | Page: 4 | Image: 13BCS24-000248-01_p04_03 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de nueva página web fraudulenta que suplanta a BancoEstado 
+Alerta de seguridad cibernética 
+8FFR23-01639-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 enero, 2024
+
+Última revisión 
+29 enero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://patito.abdulazizalsebail[.]com/1706558611/imagenes/_personas/home/d
+efault.asp 
+URL de redirección 
+N/A 
+Dirección IP sitio falso 
+[83.149.93.194] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01639-01/
+
+3

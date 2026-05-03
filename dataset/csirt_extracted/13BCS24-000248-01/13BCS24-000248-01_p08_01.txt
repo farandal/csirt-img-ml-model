@@ -1,0 +1,36 @@
+Source: 13BCS24-000248-01.pdf | Page: 8 | Image: 13BCS24-000248-01_p08_01 (641x595px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades que afectan a productos de WatchGuard y 
+Panda Security 
+Alerta de seguridad cibernética 
+9VSA24-00969-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 enero, 2024
+
+Última revisión 
+30 enero, 2024
+
+CVE 
+CVE-2023-6330 
+CVE-2023-6331 
+CVE-2023-6332 
+Fabricante 
+WatchGuard 
+Productos afectados 
+Actualizar Panda Dome a la versión 22.02.01. 
+Actualizar WatchGuard EPDR y AD360 a 8.0.22.0023. 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00969-01/
