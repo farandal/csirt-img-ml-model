@@ -1,0 +1,24 @@
+Source: 13BCS22-000184-01_1.pdf | Page: 15 | Image: 13BCS22-000184-01_1_p15_01 (679x634px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de phishing que suplanta al Banco 
+Santander 
+Alerta de seguridad cibernética 
+8FPH22-00636-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de noviembre de 2022
+
+Última revisión 
+7 de noviembre de 2022

@@ -1,0 +1,48 @@
+Source: 13BCS22-000189-01.pdf | Page: 7 | Image: 13BCS22-000189-01_p07_02 (1058x148px)
+------------------------------------------------------------
+CSIRT alerta de 12 web falsas que suplantan a diversas marcas 
+Alerta de seguridad cibernética 
+8FFR22-01154-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de diciembre de 2022
+
+Última revisión 
+12 de diciembre de 2022
+
+Indicadores de compromiso 
+URL sitio falso 
+www.zapatoseccochile[.]com/ 
+www.caterpillarenchile[.]com/ 
+www.champion-chile[.]com/ 
+www.fila-chile[.]com/ 
+www.osiriszapatillaschile[.]com/ 
+www.doctormartenchile[.]com/ 
+www.lafumachile[.]com 
+https://www.danneroutletchile[.]com/ 
+www.ua-chile[.]com 
+www.vessichile[.]com/ 
+https://www.reebokchile-outlet[.]com/ 
+www.pranachile[.]com/ 
+Dirección IP 
+[196.245.249.94] [196.244.47.154] 
+[196.245.249.87] [196.196.38.178] 
+[196.245.249.83] [196.196.38.155] 
+[196.245.249.78] [165.231.154.44] 
+[196.245.249.66] [196196206150] 
+[196.244.47.79] 
+[165.231.152.143]
+
+6

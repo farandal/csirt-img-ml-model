@@ -1,0 +1,25 @@
+Source: 13BCS22-000189-01.pdf | Page: 20 | Image: 13BCS22-000189-01_p20_02 (1058x148px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidad crítica en Citrix ADC y Gateway 
+Alerta de seguridad cibernética 
+9VSA22-00755-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de diciembre de 2022
+
+Última revisión 
+14 de diciembre de 2022
+
+19

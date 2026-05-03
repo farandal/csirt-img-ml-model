@@ -1,0 +1,29 @@
+Source: 13BCS22-000184-01_1.pdf | Page: 16 | Image: 13BCS22-000184-01_1_p16_02 (694x669px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing que suplanta al BancoEstado 
+Alerta de seguridad cibernética 
+8FPH22-00639-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 de noviembre de 2022
+
+Última revisión 
+8 de noviembre de 2022
+
+Indicadores de compromiso 
+URL redirección
+
+https://servistado.info/Solicitud_Aprobada/cuenta-kicl/ 
+URL sitio falso

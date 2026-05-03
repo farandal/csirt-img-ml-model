@@ -1,0 +1,35 @@
+Source: 13BCS22-000185-01.pdf | Page: 5 | Image: 13BCS22-000185-01_p05_01 (614x480px)
+------------------------------------------------------------
+SIRT alerta ante campaña de phishing con malware, que suplanta a Visal 
+Alerta de seguridad cibernética 
+2CMV22-00389-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de noviembre de 2022
+
+Última revisión 
+17 de noviembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+Pago 
+Correo de Salida 
+hp0.wx16.mxox.live 
+SHA256   
+4d68da161b1af8576c9369c6eec16c3d03a5e8e64ca174bf7f8973ce930
+7e7dc
+
+ca7434f2057c0acfddc70e9cd0681aa277114b919574210e74f241c5b38
+21dd7

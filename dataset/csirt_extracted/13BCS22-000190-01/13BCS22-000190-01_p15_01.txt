@@ -1,0 +1,47 @@
+Source: 13BCS22-000190-01.pdf | Page: 15 | Image: 13BCS22-000190-01_p15_01 (641x595px)
+------------------------------------------------------------
+CSIRT alerta de varias vulnerabilidades que afectan a diversos productos de 
+VMware 
+Alerta de seguridad cibernética 
+9VSA22-00756-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de diciembre de 2022
+
+Última revisión 
+19 de diciembre de 2022
+
+CVE 
+CVE-2021-39144 
+CVE-2022-31678 
+CVE-2022-31685 
+CVE-2022-31686 
+CVE-2022-31687 
+CVE-2022-31688 
+CVE-2022-31689
+
+CVE-2022-31693 
+CVE-2022-31696 
+CVE-2022-31697 
+CVE-2022-31698 
+CVE-2022-31699 
+CVE-2022-31702
+
+CVE-2022-31703 
+CVE-2022-31700 
+CVE-2022-31701 
+CVE-2022-31705 
+CVE-2022-31707 
+CVE-2022-31708

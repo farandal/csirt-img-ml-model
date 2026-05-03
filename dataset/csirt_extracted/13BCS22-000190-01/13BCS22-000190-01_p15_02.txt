@@ -1,0 +1,32 @@
+Source: 13BCS22-000190-01.pdf | Page: 15 | Image: 13BCS22-000190-01_p15_02 (641x595px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades que afectan a Samba 
+Alerta de seguridad cibernética 
+9VSA22-00757-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de diciembre de 2022
+
+Última revisión 
+20 de diciembre de 2022
+
+CVE 
+CVE-2022-38023 
+CVE-2022-37966
+
+CVE-2022-37967 
+CVE-2022-45141
+
+14

@@ -1,0 +1,30 @@
+Source: 13BCS22-000185-01.pdf | Page: 13 | Image: 13BCS22-000185-01_p13_02 (604x591px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta al 
+BancoEstado 
+Alerta de seguridad cibernética 
+8FPH22-00651-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de noviembre de 2022
+
+Última revisión 
+17 de noviembre de 2022
+
+Indicadores de compromiso 
+URL redirección
+
+https://nhmwcotitostado[.]info/activacion/cuenta-ulen/ 
+URL sitio falso

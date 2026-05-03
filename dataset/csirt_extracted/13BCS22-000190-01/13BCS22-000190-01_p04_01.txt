@@ -1,0 +1,25 @@
+Source: 13BCS22-000190-01.pdf | Page: 4 | Image: 13BCS22-000190-01_p04_01 (639x463px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing con malware, que suplanta a Muff Trading 
+Alerta de seguridad cibernética 
+2CMV22-00394-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de diciembre de 2022
+
+Última revisión 
+19 de diciembre de 2022
+
+3

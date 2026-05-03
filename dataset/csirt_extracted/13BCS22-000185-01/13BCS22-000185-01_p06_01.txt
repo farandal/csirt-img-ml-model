@@ -1,0 +1,23 @@
+Source: 13BCS22-000185-01.pdf | Page: 6 | Image: 13BCS22-000185-01_p06_01 (555x416px)
+------------------------------------------------------------
+CSIRT alerta de página fraudulenta que suplanta login de PayPal 
+Alerta de seguridad cibernética 
+8FFR22-01135-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de noviembre de 2022
+
+Última revisión 
+10 de noviembre de 2022

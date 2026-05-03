@@ -1,0 +1,25 @@
+Source: 13BCS22-000190-01.pdf | Page: 6 | Image: 13BCS22-000190-01_p06_02 (647x606px)
+------------------------------------------------------------
+CSIRT alerta de una página fraudulenta que suplanta al Jumbo 
+Alerta de seguridad cibernética 
+8FFR22-01164-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de diciembre de 2022
+
+Última revisión 
+15 de diciembre de 2022
+
+5

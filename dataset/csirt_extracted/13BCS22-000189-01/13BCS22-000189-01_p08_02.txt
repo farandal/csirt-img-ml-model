@@ -1,0 +1,25 @@
+Source: 13BCS22-000189-01.pdf | Page: 8 | Image: 13BCS22-000189-01_p08_02 (641x499px)
+------------------------------------------------------------
+CSIRT alerta de sitios fraudulentos que suplantan a empresas como Doite 
+Alerta de seguridad cibernética 
+8FFR22-01156-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de diciembre de 2022
+
+Última revisión 
+12 de diciembre de 2022
+
+7

@@ -1,0 +1,25 @@
+Source: 13BCS23-000193-01.pdf | Page: 20 | Image: 13BCS23-000193-01_p20_03 (1058x149px)
+------------------------------------------------------------
+CSIRT informa vulnerabilidad parchada en antivirus de Avast, AVG, Avira y Norton 
+Alerta de seguridad cibernética 
+9VSA23-00771-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de enero de 2023
+
+Última revisión 
+12 de enero de 2023
+
+19

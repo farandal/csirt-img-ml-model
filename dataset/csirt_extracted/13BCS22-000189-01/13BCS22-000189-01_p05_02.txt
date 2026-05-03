@@ -1,0 +1,70 @@
+Source: 13BCS22-000189-01.pdf | Page: 5 | Image: 13BCS22-000189-01_p05_02 (1058x148px)
+------------------------------------------------------------
+CSIRT alerta de 44 páginas fraudulentas que suplantan a conocidas marcas 
+Alerta de seguridad cibernética 
+8FFR22-01153-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de diciembre de 2022
+
+Última revisión 
+12 de diciembre de 2022
+
+Indicadores de compromiso 
+URL sitio falso 
+www.schutzchile[.]com/ 
+https://www.merrellchile[.]com/ 
+www.drschollschile[.]com/ 
+www.propetchile[.]com/ 
+www.goldengooseoutletchile[.]com/ 
+www.goldengoosemchile[.]com 
+www.lowaenchile[.]com/ 
+https://www.salomonchilecl[.]com/ 
+https://www.alohaschile[.]com/ 
+www.furla-chile.com/ 
+www.lowachilecl[.]com/ 
+www.costadelmarchile[.]com/ 
+www.obozchile[.]com/ 
+www.oliverpeopleschile[.]com/ 
+www.persolchile[.]com/ 
+www.mauijimchile[.]com/ 
+www.zapatosmephistochile[.]com 
+www.merrellcl[.]com/ 
+https://www.pumachilecl[.]com/ 
+www.lasportiva-chile[.]com/ 
+www.pleaserchile[.]com/ 
+www.ryderwearchile[.]com/ 
+www.ropaobeychile[.]com/ 
+groundiesoutletchile[.]com/ 
+https://www.g-starchile[.]com/ 
+www.miumiuchile[.]com/ 
+www.chile-reebok.com/ 
+https://www.volcom-chile[.]com/ 
+outlettimberland-chile[.]com 
+https://www.tiendaskechersonlinechile[.]com/ 
+www.aloyoga-chile[.]com/ 
+https://www.botashunterchile[.]cl/ 
+www.quiksilverchile[.]com/ 
+www.gantchile[.]com/ 
+www.jordanofertachile[.]com/ 
+www.nobullchiletiendas[.]com/ 
+www.hunterbootchile[.]com/ 
+www.sebagochileoutlet[.]com/ 
+https://www.michaelkorschile[.]com/ 
+www.onrunnerchile[.]com/ 
+www.tiendapumachile[.]com/ 
+www.woolrichchile[.]com/
+
+4

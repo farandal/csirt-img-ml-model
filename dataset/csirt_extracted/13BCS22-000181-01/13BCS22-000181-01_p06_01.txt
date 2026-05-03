@@ -1,0 +1,23 @@
+Source: 13BCS22-000181-01.pdf | Page: 6 | Image: 13BCS22-000181-01_p06_01 (633x557px)
+------------------------------------------------------------
+CSIRT alerta ante página fraudulenta que suplanta login de empresa 
+Alerta de seguridad cibernética 
+8FFR22-01124-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de octubre de 2022
+
+Última revisión 
+17 de octubre de 2022

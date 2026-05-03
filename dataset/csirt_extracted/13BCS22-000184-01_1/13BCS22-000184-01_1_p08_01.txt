@@ -1,0 +1,40 @@
+Source: 13BCS22-000184-01_1.pdf | Page: 8 | Image: 13BCS22-000184-01_1_p08_01 (835x537px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta a Recoleta 
+Alerta de seguridad cibernética 
+2CMV22-00381-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de noviembre de 2022
+
+Última revisión 
+9 de noviembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+RE:
+
+Correo de Salida 
+paulo.sergio@aquilaexpress.com.br
+
+SHA256   
+33beb4235033cc961396d4f5e09b06d7fc980e373dd47123d2efe266a2
+b8ec65  
+2b704ae029e158e78a33489dfe8c3b8c843bfc3b9d248d54e58faebb99
+71d004  
+6157e20809d809be949b809c806dd933d4a4a34b3fae01db5e09c3dea
+3916b17  
+f7972e53d6a16c688cf26019209b36ca02e37cd0baf9c918c79fe55fa51a
+5ac6

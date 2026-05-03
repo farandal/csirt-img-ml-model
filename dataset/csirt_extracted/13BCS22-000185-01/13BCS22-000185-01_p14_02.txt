@@ -1,0 +1,64 @@
+Source: 13BCS22-000185-01.pdf | Page: 14 | Image: 13BCS22-000185-01_p14_02 (595x551px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades comunicadas por Cisco 
+Alerta de seguridad cibernética 
+9VSA22-00744-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de noviembre de 2022
+
+Última revisión 
+15 de noviembre de 2022
+
+CVE 
+CVE-2022-20947 
+CVE-2022-20946 
+CVE-2022-20924 
+CVE-2022-20927 
+CVE-2022-20745 
+CVE-2022-20854 
+CVE-2022-20918 
+CVE-2022-20826 
+CVE-2022-20949 
+CVE-2022-20925 
+CVE-2022-20926 
+CVE-2022-20934
+
+CVE-2022-20928 
+CVE-2022-20950 
+CVE-2022-20922 
+CVE-2022-20943 
+CVE-2022-20941 
+CVE-2022-20940 
+CVE-2022-20831 
+CVE-2022-20832 
+CVE-2022-20833 
+CVE-2022-20834 
+CVE-2022-20835 
+CVE-2022-20836
+
+CVE-2022-20838 
+CVE-2022-20839 
+CVE-2022-20840 
+CVE-2022-20843 
+CVE-2022-20872 
+CVE-2022-20905 
+CVE-2022-20932 
+CVE-2022-20935 
+CVE-2022-20936 
+CVE-2022-20713 
+CVE-2022-20938
+
+Fabricantes

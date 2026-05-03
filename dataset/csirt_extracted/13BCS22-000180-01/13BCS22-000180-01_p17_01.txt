@@ -1,0 +1,52 @@
+Source: 13BCS22-000180-01.pdf | Page: 17 | Image: 13BCS22-000180-01_p17_01 (595x551px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en varios productos de Adobe 
+Alerta de seguridad cibernética 
+9VSA22-00718-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de octubre 2022
+
+Última revisión 
+12 de octubre 2022
+
+CVE 
+CVE-2022-35712 
+CVE-2022-35690 
+CVE-2022-35711 
+CVE-2022-38418 
+CVE-2022-35710 
+CVE-2022-38423 
+CVE-2022-38419 
+CVE-2022-38420
+
+CVE-2022-38421 
+CVE-2022-38422 
+CVE-2022-42340 
+CVE-2022-38424 
+CVE-2022-42341 
+CVE-2022-38440 
+CVE-2022-38441 
+CVE-2022-38442
+
+CVE-2022-38444 
+CVE-2022-38445 
+CVE-2022-38446 
+CVE-2022-38447 
+CVE-2022-38448 
+CVE-2022-38450 
+CVE-2022-42339
+
+Fabricantes

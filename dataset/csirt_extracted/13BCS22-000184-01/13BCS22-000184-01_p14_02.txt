@@ -1,0 +1,26 @@
+Source: 13BCS22-000184-01.pdf | Page: 14 | Image: 13BCS22-000184-01_p14_02 (721x405px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing que suplanta login de email 
+Alerta de seguridad cibernética 
+8FPH22-00635-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de noviembre de 2022
+
+Última revisión 
+7 de noviembre de 2022
+
+Indicadores de compromiso 
+URL sitio redirección

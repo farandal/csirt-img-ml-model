@@ -1,0 +1,43 @@
+Source: 13BCS22-000184-01_1.pdf | Page: 10 | Image: 13BCS22-000184-01_1_p10_01 (782x482px)
+------------------------------------------------------------
+CSIRT alerta por campaña de phishing con malware, que suplanta a la 
+Municipalidad de Requínoa 
+Alerta de seguridad cibernética 
+2CMV22-00384-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de noviembre de 2022
+
+Última revisión 
+10 de noviembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+RE:
+
+Correo de Salida 
+giulianna@federaltraducoes.com.br
+
+SHA256   
+9283a997447b09f5c50f5c189eb66cf687065514181f22511fc80454d28
+c7784
+
+7d34bfd86fba89924215e960a2a68ca3de2e2ccdfb2a6e418517566dde
+151c15  
+78b7f834255ee4c7e897393c70172de692415c784bcaeedf1cd304fe1ce
+401e0
+
+4706e64a038f48eea70b17e8f597ed97c518ae07c20ade6f699f1149d60
+8e77d

@@ -1,0 +1,25 @@
+Source: 13BCS22-000191-01.pdf | Page: 5 | Image: 13BCS22-000191-01_p05_02 (508x493px)
+------------------------------------------------------------
+CSIRT alerta de página fraudulenta que suplanta a Cencosud Scotiabank 
+Alerta de seguridad cibernética 
+8FFR22-01178-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de diciembre de 2022
+
+Última revisión 
+27 de diciembre de 2022
+
+4

@@ -1,0 +1,25 @@
+Source: 13BCS22-000188-01.pdf | Page: 9 | Image: 13BCS22-000188-01_p09_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte nueva vulnerabilidad en Cacti 
+Alerta de seguridad cibernética 
+9VSA22-00751-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 de diciembre de 2022
+
+Última revisión 
+6 de diciembre de 2022
+
+8

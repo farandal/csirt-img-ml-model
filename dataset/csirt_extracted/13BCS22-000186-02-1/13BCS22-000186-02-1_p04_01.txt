@@ -1,0 +1,23 @@
+Source: 13BCS22-000186-02-1.pdf | Page: 4 | Image: 13BCS22-000186-02-1_p04_01 (539x399px)
+------------------------------------------------------------
+CSIRT advierte de sitio falso que suplanta a DHL 
+Alerta de seguridad cibernética 
+8FFR22-01138-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de noviembre de 2022
+
+Última revisión 
+21 de noviembre de 2022

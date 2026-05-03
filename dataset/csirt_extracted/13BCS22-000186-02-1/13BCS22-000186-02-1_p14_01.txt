@@ -1,0 +1,23 @@
+Source: 13BCS22-000186-02-1.pdf | Page: 14 | Image: 13BCS22-000186-02-1_p14_01 (641x595px)
+------------------------------------------------------------
+CSIRT informa de parches para vulnerabilidades en Atlassian BitBucket y Crowd 
+Alerta de seguridad cibernética 
+9VSA22-00747-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de noviembre de 2022
+
+Última revisión 
+22 de noviembre de 2022

@@ -1,0 +1,32 @@
+Source: 13BCS22-000185-01.pdf | Page: 14 | Image: 13BCS22-000185-01_p14_01 (595x551px)
+------------------------------------------------------------
+CSIRT comparte información sobre vulnerabilidades parchadas por Xcode 
+14.1 de Apple 
+Alerta de seguridad cibernética 
+9VSA22-00743-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+ 
+9 de noviembre de 2022
+
+Última revisión 
+9 de noviembre de 2022
+
+CVE 
+CVE-2022-29187 
+CVE-2022-39253 
+CVE-2022-39260 
+CVE-2022-42797 
+Fabricante

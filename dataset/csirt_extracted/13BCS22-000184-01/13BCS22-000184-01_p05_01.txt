@@ -1,0 +1,35 @@
+Source: 13BCS22-000184-01.pdf | Page: 5 | Image: 13BCS22-000184-01_p05_01 (681x634px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing con malware, que suplanta a DHL 
+Alerta de seguridad cibernética 
+2CMV22-00377-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de noviembre de 2022
+
+Última revisión 
+7 de noviembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+DHL Packing list Attached With Shipment Document BL,INV
+
+Correo de Salida 
+hp0.wx16.mxox.live 
+SHA256   
+c1cd4a1045851e4f1abd489ca80fe24188079a20d92b0151e98c4de7e1
+8086e2  
+3fea3f6495a47986f614e1c2f360b959b3a0bd49bba695b7e06eeb6500f
+dd6cf

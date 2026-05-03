@@ -1,0 +1,25 @@
+Source: 13BCS22-000188-01.pdf | Page: 4 | Image: 13BCS22-000188-01_p04_01 (639x574px)
+------------------------------------------------------------
+CSIRT alerta de phishing con malware, que suplanta al Portal de Trámites del MTT 
+Alerta de seguridad cibernética 
+2CMV22-00391-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de diciembre de 2022
+
+Última revisión 
+7 de diciembre de 2022
+
+3

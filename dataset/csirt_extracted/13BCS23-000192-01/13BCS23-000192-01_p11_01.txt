@@ -1,0 +1,31 @@
+Source: 13BCS23-000192-01.pdf | Page: 11 | Image: 13BCS23-000192-01_p11_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas para IBM Cloud Pak for 
+Business Automation 
+Alerta de seguridad cibernética 
+9VSA23-00762-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Medio
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de enero de 2023
+
+Última revisión 
+5 de enero de 2023
+
+CVE 
+CVE-2017-10355 
+CVE-2022-42920
+
+CVE-2022-42435 
+CVE-2022-2047

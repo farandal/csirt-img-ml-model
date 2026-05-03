@@ -1,0 +1,26 @@
+Source: 13BCS22-000186-02-1.pdf | Page: 14 | Image: 13BCS22-000186-02-1_p14_02 (641x595px)
+------------------------------------------------------------
+CSIRT informa de parches para vulnerabilidades en algunos productos Fortinet 
+Alerta de seguridad cibernética 
+9VSA22-00748-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de noviembre de 2022
+
+Última revisión 
+24 de noviembre de 2022
+
+1
+3

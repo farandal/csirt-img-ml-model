@@ -1,0 +1,63 @@
+Source: 13BCS22-000181-01.pdf | Page: 14 | Image: 13BCS22-000181-01_p14_02 (595x551px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en productos de Schneider Electric 
+Alerta de seguridad cibernética 
+9VSA22-00726-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de octubre de 2022
+
+Última revisión 
+18 de octubre de 2022
+
+CVE 
+CVE-2018-7240 
+CVE-2018-7241 
+CVE-2018-7242 
+CVE-2019-6843 
+CVE-2019-6844 
+CVE-2019-6846 
+CVE-2019-6847 
+CVE-2019-6841 
+CVE-2019-6842 
+CVE-2021-22789 
+CVE-2021-22790 
+CVE-2021-22791
+
+CVE-2021-22778 
+CVE-2021-22779 
+CVE-2021-22780 
+CVE-2021-22781 
+CVE-2021-22782 
+CVE-2020-12525 
+CVE-2022-37300 
+CVE-2021-22786 
+CVE-2021-44228 
+CVE-2021-45046 
+CVE-2021-45105 
+CVE-2021-4104
+
+CVE-2022-2463 
+CVE-2022-2464 
+CVE-2022-2465 
+CVE-2022-30790 
+CVE-2022-30552 
+CVE-2022-41666 
+CVE 2022-41667 
+CVE-2022-41668 
+CVE-2022-41669 
+CVE-2022-41670 
+CVE-2022-41671 
+CVE-2022-22727

@@ -1,0 +1,44 @@
+Source: 13BCS22-000185-01.pdf | Page: 9 | Image: 13BCS22-000185-01_p09_02 (561x330px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing por SMS que suplanta 
+al Banco Santander 
+Alerta de seguridad cibernética 
+8FPH22-00643-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de noviembre de 2022
+
+Última revisión 
+10 de noviembre de 2022
+
+Indicadores de compromiso 
+URL redirección
+
+http://rdkf[.]me/Z9mGog 
+https://lukygift[.]live/ips_cl/?cep=5TAaChbLAV6Fr2QTrMOz4YiZwHW0ikYS6-
+FLfbClB_vx-
+4tcL43VqVIBFidyKx1BfS9urhD2HqrvDcDyufSo9NFuPiEHyCwpdpWrC83TU9_1K3FVu0
+AdTOsB4gyfS3JtyuKsDiM_Py-oKVuYcuJYlhjAP7zI0rHLh0pTWh783l9Y_HmZAlfujkW2s-
+B5Dh-cbJeCXQQPmmWofA1yg4OsgAHLQJlx4cmBSLBRxWRb-Rd-3w3-
+hBRwmiHBXBcEIY4hJIktjbjQCMz4-
+cYjSfNLbWwQsLMQKMgwt8yPNqU8RY8L9kGdLCXYNvzublMq-
+SCg6NZYitbodGlK3rbSiQQu2narKLQT-SS8geOM4fTWtsE-uQkMmyB010ACjPlyxf-
+g&lptoken=16f668db044c332068f8 
+URL sitio falso
+
+https://www.securepagenow[.]com/?gra=6a7b5176&transaction_id=636
+c4b89ece13a0343f4040b&info1=1127_19-&info2=19- 
+IP 
+[172.67.178.246]

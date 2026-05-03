@@ -1,0 +1,38 @@
+Source: 13BCS22-000185-01.pdf | Page: 3 | Image: 13BCS22-000185-01_p03_01 (621x527px)
+------------------------------------------------------------
+CSIRT alerta por campaña de phishing con malware suplantando al 
+Gobierno de Colombia 
+Alerta de seguridad cibernética 
+2CMV22-00386-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de noviembre de 2022
+
+Última revisión 
+10 de noviembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+FOTO MULTA COMPARENDO N. º 2022-1404996-02147824-0214 
+Correo de Salida 
+system@aravfashion-it.co 
+SHA256   
+3f3007a39c377bc9950ae5a50e3554bcc7048ee5fe360c6fffe27802c599
+6cbd
+
+db43da863a30ccab8b9ef22d095d99cc35dcb6b2b00948c9a040b79abb
+48d4bf 
+24206ed80e794c58f551f647c94348709113eca7f1bd286aecc4adbb33e
+95a63

@@ -1,0 +1,26 @@
+Source: 13BCS23-000196-01.pdf | Page: 5 | Image: 13BCS23-000196-01_p05_03 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing por SMS (smishing) que suplanta a 
+CorreosChile 
+Alerta de seguridad cibernética 
+8FPH23-00734-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 de enero de 2023
+
+Última revisión 
+30 de enero de 2023
+
+4

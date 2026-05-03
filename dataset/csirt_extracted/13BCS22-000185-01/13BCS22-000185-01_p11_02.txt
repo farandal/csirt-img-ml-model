@@ -1,0 +1,31 @@
+Source: 13BCS22-000185-01.pdf | Page: 11 | Image: 13BCS22-000185-01_p11_02 (562x262px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing por SMS (smishing) que 
+suplanta a Chilexpress 
+Alerta de seguridad cibernética 
+8FPH22-00647-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de noviembre de 2022
+
+Última revisión 
+14 de noviembre de 2022
+
+Indicadores de compromiso 
+URL redirección
+
+https://bit[.]ly/3E6HrTR 
+https://r.chilexpress-sclb[.]live/r/k4o3ksn 
+URL sitio falso

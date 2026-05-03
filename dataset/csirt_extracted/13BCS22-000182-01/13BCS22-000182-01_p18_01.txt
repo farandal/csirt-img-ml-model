@@ -1,0 +1,50 @@
+Source: 13BCS22-000182-01.pdf | Page: 18 | Image: 13BCS22-000182-01_p18_01 (595x551px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades parchadas en iOS 16.1 y en iPadOS 16 
+Alerta de seguridad cibernética 
+9VSA22-00735-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 de octubre de 2022
+
+Última revisión 
+26 de octubre de 2022
+
+CVE 
+CVE-2022-42827 
+CVE-2022-42825 
+CVE-2022-32940 
+CVE-2022-42813 
+CVE-2022-32946 
+CVE-2022-32947 
+CVE-2022-42820
+
+CVE-2022-42806 
+CVE-2022-32924 
+CVE-2022-42808 
+CVE-2022-42827 
+CVE-2022-42829 
+CVE-2022-42830 
+CVE-2022-42831
+
+CVE-2022-42832 
+CVE-2022-42811 
+CVE-2022-32938 
+CVE-2022-42799 
+CVE-2022-42823 
+CVE-2022-42824 
+CVE-2022-32922
+
+Fabricantes

@@ -1,0 +1,26 @@
+Source: 13BCS22-000189-01.pdf | Page: 12 | Image: 13BCS22-000189-01_p12_02 (681x687px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing por WhatsApp, que suplanta a Banco 
+Ripley 
+Alerta de seguridad cibernética 
+8FPH22-00675-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de diciembre de 2022
+
+Última revisión 
+12 de diciembre de 2022
+
+11

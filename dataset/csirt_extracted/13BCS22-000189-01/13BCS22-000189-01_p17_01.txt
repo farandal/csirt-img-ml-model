@@ -1,0 +1,42 @@
+Source: 13BCS22-000189-01.pdf | Page: 17 | Image: 13BCS22-000189-01_p17_01 (582x540px)
+------------------------------------------------------------
+CSIRT alerta de nuevas vulnerabilidades que afectan a varios productos de Cisco 
+Alerta de seguridad cibernética 
+9VSA22-00752-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de diciembre de 2022
+
+Última revisión 
+13 de diciembre de 2022
+
+CVE 
+CVE-2022-20968 
+CVE-2022-20867 
+CVE-2022-20868 
+CVE-2022-20922 
+CVE-2022-20943
+
+CVE-2022-20956 
+CVE-2022-3602 
+CVE-2022-3786 
+CVE-2022-20961 
+CVE-2022-20963
+
+CVE-2022-20962 
+CVE-2022-20964 
+CVE-2022-20965 
+CVE-2022-20966 
+CVE-2022-20967

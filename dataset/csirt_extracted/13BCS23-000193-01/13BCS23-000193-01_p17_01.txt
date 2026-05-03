@@ -1,0 +1,59 @@
+Source: 13BCS23-000193-01.pdf | Page: 17 | Image: 13BCS23-000193-01_p17_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de Adobe sobre vulnerabilidades que recibieron 
+actualización de seguridad 
+Alerta de seguridad cibernética 
+9VSA23-00766-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de enero de 2023
+
+Última revisión 
+11 de enero de 2023
+
+CVE 
+CVE-2023-21579 
+CVE-2023-21581 
+CVE-2023-21585 
+CVE-2023-21586 
+CVE-2023-21604 
+CVE-2023-21605 
+CVE-2023-21606 
+CVE-2023-21607 
+CVE-2023-21608 
+CVE-2023-21609
+
+CVE-2023-21610 
+CVE-2023-21611 
+CVE-2023-21612 
+CVE-2023-21613 
+CVE-2023-21614 
+CVE-2023-21587 
+CVE-2023-21588 
+CVE-2023-21589 
+CVE-2023-21590 
+CVE-2023-21591
+
+CVE-2023-21592 
+CVE-2023-21594 
+CVE-2023-21595 
+CVE-2023-21596 
+CVE-2023-21597 
+CVE-2023-21598 
+CVE-2023-21599 
+CVE-2023-21601 
+CVE-2023-21603
+
+16

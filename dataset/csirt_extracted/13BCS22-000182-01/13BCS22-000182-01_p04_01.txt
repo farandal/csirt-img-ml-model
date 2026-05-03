@@ -1,0 +1,27 @@
+Source: 13BCS22-000182-01.pdf | Page: 4 | Image: 13BCS22-000182-01_p04_01 (741x497px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de phishing con falso documento comercial 
+Alerta de seguridad cibernética 
+2CMV22-00363-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de octubre de 2022
+
+Última revisión 
+21 de octubre de 2022
+
+Indicadores de compromiso 
+Asunto 
+S31030 – CTJV- Offer Request

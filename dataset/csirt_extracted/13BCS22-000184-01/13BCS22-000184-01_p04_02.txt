@@ -1,0 +1,43 @@
+Source: 13BCS22-000184-01.pdf | Page: 4 | Image: 13BCS22-000184-01_p04_02 (825x411px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware Emotet 
+Alerta de seguridad cibernética 
+2CMV22-00376-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de noviembre de 2022
+
+Última revisión 
+7 de noviembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+Catalina Mulet Díaz  
+Correo de Salida 
+antonio.mena@casamazatlan.mx
+
+SHA256   
+4a95813a931573eda14872be0e9197063dd86cda1e204ec48ebdf11bca
+a3c382  
+b9eee623a848474899bf25709dc654346c764143d45038ef055220da70
+119f0f
+
+1b53df69b2636b83de568a7c552fd1f08050048a88d97dcb7d5fe4bfc0c
+23a6e
+
+a43722e040c9e3abbe54902f4a298dde6fc4e4b81afc244205ad2fa47b6
+df7b8
+
+Enlaces para revisar el informe:

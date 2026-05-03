@@ -1,0 +1,25 @@
+Source: 13BCS22-000191-01.pdf | Page: 13 | Image: 13BCS22-000191-01_p13_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte nueva vulnerabilidad en GitHub 
+Alerta de seguridad cibernética 
+9VSA22-00759-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 de diciembre de 2022
+
+Última revisión 
+29 de diciembre de 2022
+
+12

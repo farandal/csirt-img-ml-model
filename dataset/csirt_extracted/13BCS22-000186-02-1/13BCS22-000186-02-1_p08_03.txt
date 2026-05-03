@@ -1,0 +1,25 @@
+Source: 13BCS22-000186-02-1.pdf | Page: 8 | Image: 13BCS22-000186-02-1_p08_03 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de web fraudulenta que suplanta login de Zimbra 
+Alerta de seguridad cibernética 
+8FPH22-00653-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de noviembre de 2022
+
+Última revisión 
+18 de noviembre de 2022
+
+7

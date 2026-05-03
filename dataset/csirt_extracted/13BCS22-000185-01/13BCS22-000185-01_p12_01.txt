@@ -1,0 +1,30 @@
+Source: 13BCS22-000185-01.pdf | Page: 12 | Image: 13BCS22-000185-01_p12_01 (676x634px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta al 
+BancoEstado 
+Alerta de seguridad cibernética 
+8FPH22-00648-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de noviembre de 2022
+
+Última revisión 
+15 de noviembre de 2022
+
+Indicadores de compromiso 
+URL redirección
+
+https://nmhpatito[.]info/Solicitud_Aprobada/cuenta-bini/ 
+URL sitio falso

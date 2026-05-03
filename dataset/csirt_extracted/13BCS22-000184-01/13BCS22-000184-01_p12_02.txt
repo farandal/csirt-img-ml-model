@@ -1,0 +1,23 @@
+Source: 13BCS22-000184-01.pdf | Page: 12 | Image: 13BCS22-000184-01_p12_02 (596x387px)
+------------------------------------------------------------
+CSIRT alerta sitio fraudulento que suplanta a Santa Isabel 
+Alerta de seguridad cibernética 
+8FFR22-01132-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 de noviembre de 2022
+
+Última revisión 
+8 de noviembre de 2022

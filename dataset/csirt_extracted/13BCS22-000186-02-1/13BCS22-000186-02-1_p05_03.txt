@@ -1,0 +1,25 @@
+Source: 13BCS22-000186-02-1.pdf | Page: 5 | Image: 13BCS22-000186-02-1_p05_03 (582x332px)
+------------------------------------------------------------
+CSIRT alerta ante sitio falso que suplanta al BancoEstado 
+Alerta de seguridad cibernética 
+8FFR22-01142-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de noviembre de 2022
+
+Última revisión 
+23 de noviembre de 2022
+
+4

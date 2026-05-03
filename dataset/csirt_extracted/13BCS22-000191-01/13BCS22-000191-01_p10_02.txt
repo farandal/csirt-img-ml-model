@@ -1,0 +1,25 @@
+Source: 13BCS22-000191-01.pdf | Page: 10 | Image: 13BCS22-000191-01_p10_02 (637x613px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta al Banco Santander 
+Alerta de seguridad cibernética 
+8FPH22-00692-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de diciembre de 2022
+
+Última revisión 
+27 de diciembre de 2022
+
+9

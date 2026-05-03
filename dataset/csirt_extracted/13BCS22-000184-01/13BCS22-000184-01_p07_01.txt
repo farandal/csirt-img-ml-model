@@ -1,0 +1,33 @@
+Source: 13BCS22-000184-01.pdf | Page: 7 | Image: 13BCS22-000184-01_p07_01 (744x433px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing con malware en falsa cotización 
+Alerta de seguridad cibernética 
+2CMV22-00379-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de noviembre de 2022
+
+Última revisión 
+7 de noviembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+COTIZACION ARTICULOS DE OFICINA PARA PRODUCCION 
+Correo de Salida 
+yazmin.sepulveda@alsea.com.mx
+
+SHA256   
+141db01f957472533d9791c5fb883b442d25d557497c0b6b94961fb643
+30a57f

@@ -1,0 +1,25 @@
+Source: 13BCS22-000189-01.pdf | Page: 9 | Image: 13BCS22-000189-01_p09_02 (641x377px)
+------------------------------------------------------------
+CSIRT alerta ante página fraudulenta que suplanta a Clarks 
+Alerta de seguridad cibernética 
+8FFR22-01158-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de diciembre de 2022
+
+Última revisión 
+12 de diciembre de 2022
+
+8

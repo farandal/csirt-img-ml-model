@@ -1,0 +1,25 @@
+Source: 13BCS23-000192-01.pdf | Page: 11 | Image: 13BCS23-000192-01_p11_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades informadas para distintos productos de Zoho 
+Alerta de seguridad cibernética 
+9VSA23-00763-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+4 de enero de 2023
+
+Última revisión 
+4 de enero de 2023
+
+10

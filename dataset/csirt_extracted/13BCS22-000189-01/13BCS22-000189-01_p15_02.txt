@@ -1,0 +1,25 @@
+Source: 13BCS22-000189-01.pdf | Page: 15 | Image: 13BCS22-000189-01_p15_02 (1058x148px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing que suplanta al BancoEstado 
+Alerta de seguridad cibernética 
+8FPH22-00680-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de diciembre de 2022
+
+Última revisión 
+14 de diciembre de 2022
+
+14

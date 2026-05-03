@@ -1,0 +1,58 @@
+Source: 13BCS23-000193-01.pdf | Page: 18 | Image: 13BCS23-000193-01_p18_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades que afectan a productos SAP y 
+que recibieron actualizaciones de seguridad 
+Alerta de seguridad cibernética 
+9VSA23-00768-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de enero de 2023
+
+Última revisión 
+11 de enero de 2023
+
+CVE 
+CVE-2022-41203 
+CVE-2022-41271 
+CVE-2022-41272 
+CVE-2023-0014
+
+CVE-2023-0023 
+CVE-2023-0015 
+CVE-2023-0022 
+CVE-2023-0018
+
+CVE-2023-0017 
+CVE-2023-0016 
+CVE-2023-0012 
+CVE-2023-0013
+
+Fabricantes 
+SAP 
+Productos afectados 
+SAP NetWeaver Process Integration (Messaging System) versión 7.50. 
+SAP NetWeaver Process Integration (User Defined Search) versión 7.50. 
+SAP NetWeaver ABAP Server and ABAP Platform 
+SAP BASIS 700, 701, 702, 710, 711, 730, 731, 740, 750, 751, 752, 753, 754, 755, 
+756, 757, KERNEL 7.22, 7.53, 7.77, 7.81, 7.85, 7.89, KRNL64UC 7.22, 7.22EXT, 
+7.53, KRNL64NUC 7.22, 7.22EXT. 
+SAP NetWeaver AS for ABAP and ABAP Platform, versiones 702, 731, 740, 750, 
+751, 752, 753, 754, 755, 756, 757. 
+SAP NetWeaver AS for Java, versión 7.50. 
+SAP BusinessObjects Business Intelligence Platform (Analysis edition for OLAP) 
+versiones 420, 430. 
+SAP BusinessObjects Business Intelligence Platform (Central management
+
+17

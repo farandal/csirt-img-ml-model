@@ -1,0 +1,28 @@
+Source: 13BCS22-000182-01.pdf | Page: 10 | Image: 13BCS22-000182-01_p10_01 (754x441px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de phishing con malware, que suplanta al 
+HSBC 
+Alerta de seguridad cibernética 
+2CMV22-00369-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de octubre de 2022
+
+Última revisión 
+27 de octubre de 2022
+
+Indicadores de compromiso 
+Asunto 
+Payment copy

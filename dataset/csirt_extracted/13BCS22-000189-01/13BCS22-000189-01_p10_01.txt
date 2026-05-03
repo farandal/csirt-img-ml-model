@@ -1,0 +1,23 @@
+Source: 13BCS22-000189-01.pdf | Page: 10 | Image: 13BCS22-000189-01_p10_01 (641x403px)
+------------------------------------------------------------
+CSIRT alerta ante sitio fraudulento que suplanta a Merrell 
+Alerta de seguridad cibernética 
+8FFR22-01159-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de diciembre de 2022
+
+Última revisión 
+12 de diciembre de 2022

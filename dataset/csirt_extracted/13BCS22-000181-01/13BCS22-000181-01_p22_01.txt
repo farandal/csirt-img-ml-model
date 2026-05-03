@@ -1,0 +1,27 @@
+Source: 13BCS22-000181-01.pdf | Page: 22 | Image: 13BCS22-000181-01_p22_01 (595x551px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidad crítica en Apache Commons Text 
+Alerta de seguridad cibernética 
+9VSA22-00730-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de octubre de 2022
+
+Última revisión 
+20 de octubre de 2022
+
+CVE 
+CVE-2022-42889 
+Fabricantes

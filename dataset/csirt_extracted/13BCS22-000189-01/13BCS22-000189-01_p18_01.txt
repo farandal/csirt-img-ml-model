@@ -1,0 +1,108 @@
+Source: 13BCS22-000189-01.pdf | Page: 18 | Image: 13BCS22-000189-01_p18_01 (582x540px)
+------------------------------------------------------------
+CSIRT comparte las vulnerabilidades entregadas por Microsoft en su Update 
+Tuesday de diciembre 
+Alerta de seguridad cibernética 
+9VSA22-00754-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de diciembre de 2022
+
+Última revisión 
+14 de diciembre de 2022
+
+CVE 
+CVE-2022-44687 
+CVE-2022-41089 
+CVE-2022-44702 
+CVE-2022-41094 
+CVE-2022-41076 
+CVE-2022-24480 
+CVE-2022-47213 
+CVE-2022-47212 
+CVE-2022-47211 
+CVE-2022-26806 
+CVE-2022-26805 
+CVE-2022-26804 
+CVE-2022-44713 
+CVE-2022-41127 
+CVE-2022-44710 
+CVE-2022-44707
+
+CVE-2022-44704 
+CVE-2022-44699 
+CVE-2022-44691 
+CVE-2022-44698 
+CVE-2022-44697 
+CVE-2022-44696 
+CVE-2022-44695 
+CVE-2022-44694 
+CVE-2022-44693 
+CVE-2022-44692 
+CVE-2022-44690 
+CVE-2022-44689 
+CVE-2022-44683 
+CVE-2022-44682 
+CVE-2022-44681 
+CVE-2022-44680
+
+CVE-2022-44679 
+CVE-2022-44677 
+CVE-2022-44678 
+CVE-2022-44676 
+CVE-2022-44675 
+CVE-2022-44674 
+CVE-2022-44673 
+CVE-2022-44671 
+CVE-2022-44670 
+CVE-2022-44669 
+CVE-2022-44668 
+CVE-2022-44667 
+CVE-2022-44666 
+CVE-2022-41121 
+CVE-2022-41077 
+CVE-2022-41074
+
+Fabricantes 
+Microsoft 
+Productos afectados 
+.NET 6.0 
+.NET 7.0 
+.NET Core 3.1 
+Azure Network Watcher VM Extension 
+Dynamics 365 Business Central 2019 Release Wave 2 (On-Premise) 
+Dynamics 365 Business Central Spring 2019 Update 
+Microsoft .NET Framework 2.0 Service Pack 2 
+Microsoft .NET Framework 3.0 Service Pack 2 
+Microsoft .NET Framework 3.5 
+Microsoft .NET Framework 3.5 AND 4.6/4.6.2 
+Microsoft .NET Framework 3.5 AND 4.7.2 
+Microsoft .NET Framework 3.5 AND 4.8 
+Microsoft .NET Framework 3.5 AND 4.8.1 
+Microsoft .NET Framework 3.5.1 
+Microsoft .NET Framework 4.6.2 
+Microsoft .NET Framework 4.6.2/4.7/4.7.1/4.7.2 
+Microsoft .NET Framework 4.8 
+Microsoft 365 Apps for Enterprise for 32-bit Systems 
+Microsoft 365 Apps for Enterprise for 64-bit Systems 
+Microsoft Dynamics 365 Business Central 2020 Release Wave 1 
+Microsoft Dynamics 365 Business Central 2020 Release Wave 2 
+Microsoft Dynamics 365 Business Central 2021 Release Wave 1 
+Microsoft Dynamics 365 Business Central 2021 Release Wave 2 
+Microsoft Dynamics 365 Business Central 2022 Release Wave 1 
+Microsoft Dynamics 365 Business Central 2022 Release Wave 2 
+Microsoft Dynamics NAV 2016
+
+17

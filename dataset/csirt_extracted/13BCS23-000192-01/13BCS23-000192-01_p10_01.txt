@@ -1,0 +1,40 @@
+Source: 13BCS23-000192-01.pdf | Page: 10 | Image: 13BCS23-000192-01_p10_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades que afectan a FortiADC y FortiTester 
+Alerta de seguridad cibernética 
+9VSA22-00760-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+4 de enero de 2023
+
+Última revisión 
+4 de enero de 2023
+
+CVE 
+CVE-2022-39947 
+CVE-2022-35845 
+Fabricantes 
+Fortinet 
+Productos afectados 
+FortiADC versión 7.0.0 a 7.0.2 
+FortiADC versión 6.2.0 a 6.2.3 
+FortiADC versión 6.1.0 a 6.1.6 
+FortiADC versión 6.0.0 a 6.0.4 
+FortiADC versión 5.4.0 a 5.4.5
+
+FortiTester versión 7.1.0 
+FortiTester versión 7.0 todas 
+FortiTester versión 4.0.0 a 4.2.0 
+FortiTester versión 2.3.0 a 3.9.1

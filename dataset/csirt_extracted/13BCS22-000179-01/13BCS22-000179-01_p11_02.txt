@@ -1,0 +1,28 @@
+Source: 13BCS22-000179-01.pdf | Page: 11 | Image: 13BCS22-000179-01_p11_02 (595x551px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidad crítica en Atlassian Bitbucket Server y Data 
+Center 
+Alerta de seguridad cibernética 
+9VSA22-00713-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+03 de octubre de 2022
+
+Última revisión 
+03 de octubre de 2022
+
+CVE 
+CVE-2022-36804 
+Fabricantes

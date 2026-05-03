@@ -1,0 +1,24 @@
+Source: 13BCS23-000193-01.pdf | Page: 18 | Image: 13BCS23-000193-01_p18_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas por Intel para oneAPI 
+Toolkit 
+Alerta de seguridad cibernética 
+9VSA23-00767-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de enero de 2023
+
+Última revisión 
+11 de enero de 2023

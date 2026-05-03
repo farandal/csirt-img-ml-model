@@ -1,0 +1,25 @@
+Source: 13BCS22-000187-01.pdf | Page: 6 | Image: 13BCS22-000187-01_p06_02 (640x670px)
+------------------------------------------------------------
+CSIRT alerta de página fraudulenta que suplanta a LinkedIn 
+Alerta de seguridad cibernética 
+8FFR22-01151-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 de noviembre de 2022
+
+Última revisión 
+29 de noviembre de 2022
+
+5

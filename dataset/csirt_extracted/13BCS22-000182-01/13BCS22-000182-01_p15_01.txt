@@ -1,0 +1,47 @@
+Source: 13BCS22-000182-01.pdf | Page: 15 | Image: 13BCS22-000182-01_p15_01 (595x551px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades en productos de F5 
+Alerta de seguridad cibernética 
+9VSA22-00731-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de octubre de 2022
+
+Última revisión 
+21 de octubre de 2022
+
+CVE 
+CVE-2022-36795 
+CVE-2022-41617 
+CVE-2022-41624 
+CVE-2022-41691 
+CVE-2022-41694 
+CVE-2022-41741
+
+CVE-2022-41742 
+CVE-2022-41743 
+CVE-2022-41770 
+CVE-2022-41780 
+CVE-2022-41787 
+CVE-2022-41806
+
+CVE-2022-41813 
+CVE-2022-41832 
+CVE-2022-41833 
+CVE-2022-41835 
+CVE-2022-41836 
+CVE-2022-41983
+
+Fabricante

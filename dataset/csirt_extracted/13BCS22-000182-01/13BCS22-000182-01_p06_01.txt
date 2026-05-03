@@ -1,0 +1,30 @@
+Source: 13BCS22-000182-01.pdf | Page: 6 | Image: 13BCS22-000182-01_p06_01 (733x600px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de phishing con malware que suplanta a la 
+TGR 
+Alerta de seguridad cibernética 
+2CMV22-00365-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de octubre de 2022
+
+Última revisión 
+24 de octubre de 2022
+
+Indicadores de compromiso 
+Asunto 
+Informacion ✫ TGR de factura electronica 
+Correo de Salida 
+viv@viv.az

@@ -1,0 +1,25 @@
+Source: 13BCS23-000193-01.pdf | Page: 7 | Image: 13BCS23-000193-01_p07_01 (641x398px)
+------------------------------------------------------------
+CSIRT alerta de página fraudulenta que simula ser un sitio de ventas online 
+Alerta de seguridad cibernética 
+8FFR23-01197-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de enero de 2023
+
+Última revisión 
+12 de enero de 2023
+
+6

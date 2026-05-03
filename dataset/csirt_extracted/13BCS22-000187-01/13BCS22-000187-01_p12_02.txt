@@ -1,0 +1,25 @@
+Source: 13BCS22-000187-01.pdf | Page: 12 | Image: 13BCS22-000187-01_p12_02 (1058x148px)
+------------------------------------------------------------
+CSIRT informa parche para nueva vulnerabilidad de Google Chrome 
+Alerta de seguridad cibernética 
+9VSA22-00749-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de noviembre de 2022
+
+Última revisión 
+28 de noviembre de 2022
+
+11

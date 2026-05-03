@@ -1,0 +1,24 @@
+Source: 13BCS23-000195-01.pdf | Page: 11 | Image: 13BCS23-000195-01_p11_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas por VMware para 
+vRealize Log Insight 
+Alerta de seguridad cibernética 
+9VSA23-00776-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 de enero de 2023
+
+Última revisión 
+26 de enero de 2023

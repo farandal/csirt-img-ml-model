@@ -1,0 +1,28 @@
+Source: 13BCS22-000185-01.pdf | Page: 16 | Image: 13BCS22-000185-01_p16_01 (595x551px)
+------------------------------------------------------------
+CSIRT alerta de nuevas vulnerabilidades en BIG-IP y BIG-IQ de F5 
+Alerta de seguridad cibernética 
+9VSA22-00746-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de noviembre de 2022
+
+Última revisión 
+17 de noviembre de 2022
+
+CVE 
+CVE-2022-41622  
+CVE-2022-41800 
+Fabricantes

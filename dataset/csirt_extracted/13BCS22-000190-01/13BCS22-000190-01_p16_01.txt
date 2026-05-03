@@ -1,0 +1,25 @@
+Source: 13BCS22-000190-01.pdf | Page: 16 | Image: 13BCS22-000190-01_p16_01 (641x595px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidad de riesgo medio en macOS 
+Alerta de seguridad cibernética 
+9VSA22-00758-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Medio
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de diciembre de 2022
+
+Última revisión 
+20 de diciembre de 2022
+
+15

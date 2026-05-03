@@ -1,0 +1,24 @@
+Source: 13BCS22-000184-01.pdf | Page: 14 | Image: 13BCS22-000184-01_p14_01 (719x208px)
+------------------------------------------------------------
+CSIRT alerta campaña de phishing por WhatsApp que suplanta a 
+Soprole 
+Alerta de seguridad cibernética 
+8FPH22-00634-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de noviembre de 2022
+
+Última revisión 
+5 de noviembre de 2022

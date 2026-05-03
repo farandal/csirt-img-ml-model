@@ -1,0 +1,44 @@
+Source: 13BCS22-000184-01_1.pdf | Page: 7 | Image: 13BCS22-000184-01_1_p07_02 (786x532px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing con malware, que suplanta a 
+Recoleta 
+Alerta de seguridad cibernética 
+2CMV22-00380-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de noviembre de 2022
+
+Última revisión 
+7 de noviembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+RE:
+
+Correo de Salida 
+alefi@laredologistica.com.br  
+SHA256   
+31b5df865e37e0984f064397bafac9579ad2a50467318e2949d258148f
+b1e59e  
+1be10e9a4e3ddb2ba28a3d1951a96ce11c65669edcee13fa937d3fbbed
+f21a01
+
+6a22b6a0b19dc7a5650f30e47e99380bc5bad683725e8a73622221122
+bf0b31d 
+968e02fbdf7a92c4f831564742c326960c1e25d70c71028f98852c83e80
+8fb4d
+
+cec081687f476a1310f4afe8e37ebf5db1f0e720c3f8110157679c242e0e
+3f31

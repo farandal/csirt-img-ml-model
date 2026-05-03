@@ -1,0 +1,23 @@
+Source: 13BCS22-000181-01.pdf | Page: 3 | Image: 13BCS22-000181-01_p03_01 (757x435px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing que suplanta a WOM 
+Alerta de seguridad cibernética 
+2CMV22-00359-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de octubre de 2022
+
+Última revisión 
+17 de octubre de 2022

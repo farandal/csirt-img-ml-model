@@ -1,0 +1,30 @@
+Source: 13BCS22-000182-01.pdf | Page: 7 | Image: 13BCS22-000182-01_p07_01 (721x469px)
+------------------------------------------------------------
+CSIRT alerta ante phishing con malware que suplanta a la Tesorería 
+General de la República 
+Alerta de seguridad cibernética 
+2CMV22-00366-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de octubre de 2022
+
+Última revisión 
+24 de octubre de 2022
+
+Indicadores de compromiso 
+Asunto 
+✅ FW: Informacion TGR de factura electronica 
+Correo de Salida 
+root@contactoclsii16.infomenoemail.com

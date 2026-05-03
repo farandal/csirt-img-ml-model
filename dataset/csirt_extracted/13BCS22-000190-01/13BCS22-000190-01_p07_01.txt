@@ -1,0 +1,23 @@
+Source: 13BCS22-000190-01.pdf | Page: 7 | Image: 13BCS22-000190-01_p07_01 (623x606px)
+------------------------------------------------------------
+CSIRT alerta de página fraudulenta que suplanta a SQM 
+Alerta de seguridad cibernética 
+8FFR22-01165-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de diciembre de 2022
+
+Última revisión 
+19 de diciembre de 2022

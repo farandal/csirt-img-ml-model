@@ -1,0 +1,23 @@
+Source: 13BCS23-000194-01.pdf | Page: 12 | Image: 13BCS23-000194-01_p12_01 (664x377px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing con malware, que suplanta al SII 
+Alerta de seguridad cibernética 
+2CMV23-00396-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de enero de 2023
+
+Última revisión 
+13 de enero de 2023

@@ -1,0 +1,23 @@
+Source: 13BCS23-000193-01.pdf | Page: 20 | Image: 13BCS23-000193-01_p20_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de una nueva vulnerabilidad que afecta a Cacti 
+Alerta de seguridad cibernética 
+9VSA23-00770-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de enero de 2023
+
+Última revisión 
+12 de enero de 2023

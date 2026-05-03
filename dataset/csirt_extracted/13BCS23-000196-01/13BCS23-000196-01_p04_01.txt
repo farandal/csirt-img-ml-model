@@ -1,0 +1,23 @@
+Source: 13BCS23-000196-01.pdf | Page: 4 | Image: 13BCS23-000196-01_p04_01 (670x583px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta al SII 
+Alerta de seguridad cibernética 
+8FPH23-00731-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de enero de 2023
+
+Última revisión 
+27 de enero de 2023

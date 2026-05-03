@@ -1,0 +1,25 @@
+Source: 13BCS22-000190-01.pdf | Page: 10 | Image: 13BCS22-000190-01_p10_03 (1058x148px)
+------------------------------------------------------------
+CSIRT alerta de 1.849 sitios fraudulentos que suplantan a populares marcas 
+Alerta de seguridad cibernética 
+8FFR22-01173-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de diciembre de 2022
+
+Última revisión 
+21 de diciembre de 2022
+
+9

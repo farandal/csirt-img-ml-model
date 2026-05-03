@@ -1,0 +1,110 @@
+Source: 13BCS22-000184-01_1.pdf | Page: 17 | Image: 13BCS22-000184-01_1_p17_01 (595x551px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades parchadas en el Update Tuesday de 
+Microsoft para Nov. 2022 
+Alerta de seguridad cibernética 
+9VSA22-00740-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 de noviembre de 2022
+
+Última revisión 
+8 de noviembre de 2022
+
+CVE 
+CVE-2022-23824 
+CVE-2022-37966 
+CVE-2022-37967 
+CVE-2022-37992 
+CVE-2022-38014 
+CVE-2022-38015 
+CVE-2022-38023 
+CVE-2022-39253 
+CVE-2022-39327 
+CVE-2022-41039 
+CVE-2022-41040 
+CVE-2022-41044 
+CVE-2022-41045 
+CVE-2022-41047 
+CVE-2022-41048 
+CVE-2022-41049 
+CVE-2022-41050 
+CVE-2022-41051 
+CVE-2022-41052 
+CVE-2022-41053 
+CVE-2022-41054 
+CVE-2022-41055 
+CVE-2022-41056
+
+CVE-2022-41057 
+CVE-2022-41058 
+CVE-2022-41060 
+CVE-2022-41061 
+CVE-2022-41062 
+CVE-2022-41063 
+CVE-2022-41064 
+CVE-2022-41066 
+CVE-2022-41073 
+CVE-2022-41078 
+CVE-2022-41079 
+CVE-2022-41080 
+CVE-2022-41082 
+CVE-2022-41085 
+CVE-2022-41086 
+CVE-2022-41088 
+CVE-2022-41090 
+CVE-2022-41091 
+CVE-2022-41092 
+CVE-2022-41093 
+CVE-2022-41095 
+CVE-2022-41096
+
+CVE-2022-41097 
+CVE-2022-41098 
+CVE-2022-41099 
+CVE-2022-41100 
+CVE-2022-41101 
+CVE-2022-41102 
+CVE-2022-41103 
+CVE-2022-41104 
+CVE-2022-41105 
+CVE-2022-41106 
+CVE-2022-41107 
+CVE-2022-41109 
+CVE-2022-41113 
+CVE-2022-41114 
+CVE-2022-41116 
+CVE-2022-41118 
+CVE-2022-41119 
+CVE-2022-41120 
+CVE-2022-41122 
+CVE-2022-41123 
+CVE-2022-41125 
+CVE-2022-41128
+
+Fabricante
+
+Microsoft 
+Productos afectados 
+Azure CLI 
+Azure CycleCloud 7 
+Azure CycleCloud 8 
+Azure EFLOW 
+Azure RTOS GUIX Studio 
+Microsoft .NET Framework 4.6.2 
+Microsoft .NET Framework 4.6.2/4.7/4.7.1/4.7.2 
+Microsoft .NET Framework 4.7.2 
+Microsoft .NET Framework 4.8 
+Microsoft .NET Framework 4.8.1

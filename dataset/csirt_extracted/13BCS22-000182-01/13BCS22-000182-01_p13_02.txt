@@ -1,0 +1,23 @@
+Source: 13BCS22-000182-01.pdf | Page: 13 | Image: 13BCS22-000182-01_p13_02 (724x421px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta a Zimbra 
+Alerta de seguridad cibernética 
+8FPH22-00627-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de octubre de 2022
+
+Última revisión 
+24 de octubre de 2022

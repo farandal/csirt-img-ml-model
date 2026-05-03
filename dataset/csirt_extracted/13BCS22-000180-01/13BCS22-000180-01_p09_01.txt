@@ -1,0 +1,23 @@
+Source: 13BCS22-000180-01.pdf | Page: 9 | Image: 13BCS22-000180-01_p09_01 (501x311px)
+------------------------------------------------------------
+CSIRT alerta de puerta fraudulenta que suplanta al Banco Santander 
+Alerta de seguridad cibernética 
+8FFR22-01123-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de octubre de 2022
+
+Última revisión 
+13 de octubre de 2022

@@ -1,0 +1,25 @@
+Source: 13BCS22-000186-02-1.pdf | Page: 4 | Image: 13BCS22-000186-02-1_p04_02 (557x337px)
+------------------------------------------------------------
+CSIRT alerta de página fraudulenta que suplanta a Adobe Acrobat 
+Alerta de seguridad cibernética 
+8FFR22-01139-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de noviembre de 2022
+
+Última revisión 
+23 de noviembre de 2022
+
+3

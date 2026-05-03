@@ -1,0 +1,23 @@
+Source: 13BCS23-000193-01.pdf | Page: 6 | Image: 13BCS23-000193-01_p06_01 (641x382px)
+------------------------------------------------------------
+CSIRT alerta de sitio fraudulento que suplanta a Adidas 
+Alerta de seguridad cibernética 
+8FFR23-01195-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de enero de 2023
+
+Última revisión 
+10 de enero de 2023

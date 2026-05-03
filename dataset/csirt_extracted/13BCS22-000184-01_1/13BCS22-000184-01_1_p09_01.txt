@@ -1,0 +1,30 @@
+Source: 13BCS22-000184-01_1.pdf | Page: 9 | Image: 13BCS22-000184-01_1_p09_01 (751x502px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de phishing con malware en falsa factura 
+Alerta de seguridad cibernética 
+2CMV22-00382-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de noviembre de 2022
+
+Última revisión 
+9 de noviembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+PAGO FACTURA N° 18269
+
+Correo de Salida 
+mchalloner@mainindustries.com

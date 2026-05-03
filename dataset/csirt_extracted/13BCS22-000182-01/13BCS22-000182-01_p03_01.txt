@@ -1,0 +1,77 @@
+Source: 13BCS22-000182-01.pdf | Page: 3 | Image: 13BCS22-000182-01_p03_01 (756x442px)
+------------------------------------------------------------
+CSIRT alerta ante phishing que suplanta a la Tesorería 
+Alerta de seguridad cibernética 
+2CMV22-00362-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de octubre de 2022
+
+Última revisión 
+21 de octubre de 2022
+
+Indicadores de compromiso 
+Asunto 
+Informacion TGR de factura electronica 
+Notificacion TGR 
+Correo de Salida 
+root@contactoclsii1.infomenoemail.com
+
+root@contactoclsii10.infomenoemail.com
+
+root@contactoclsii11.infomenoemail.com
+
+root@contactoclsii12.infomenoemail.com
+
+root@contactoclsii13.infomenoemail.com
+
+root@contactoclsii14.infomenoemail.com
+
+root@contactoclsii15.infomenoemail.com
+
+root@contactoclsii16.infomenoemail.com
+
+root@contactoclsii2.infomenoemail.com
+
+root@contactoclsii3.infomenoemail.com
+
+root@contactoclsii4.infomenoemail.com
+
+root@contactoclsii5.infomenoemail.com
+
+root@contactoclsii6.infomenoemail.com
+
+root@contactoclsii7.infomenoemail.com
+
+root@contactoclsii8.infomenoemail.com
+
+root@contactoclsii9.infomenoemail.com 
+SHA256   
+Nombre: 00F1S56789S0W1PAGO198CCS716.zip 
+SHA256: 
+4fd239fb48b377bf8ea5165548643bbf0bcc24183e0de92bd39bd0f85da
+53f8c 
+Nombre: 00F1S56789S0W1PAGO198CCS716.msi 
+SHA256: 
+ca4519fc650d94793df6cc7045548946c49dcfde58891d8afd1c38103a2
+97d12 
+Nombre: MSICA59.tmp 
+SHA256: 
+44ffc4959be0ddb18b02d59c75e78e3e721992e362a2f90cae19adb327
+1886b9 
+MSID0A8.tmp 
+SHA256: 
+02db56648dcefdbe8ed8801f52372370982b3be5660007012f96884db5
+c4eef7

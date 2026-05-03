@@ -1,0 +1,23 @@
+Source: 13BCS22-000182-01.pdf | Page: 5 | Image: 13BCS22-000182-01_p05_01 (764x526px)
+------------------------------------------------------------
+CSIRT alerta de phishing con falso váucher de pago 
+Alerta de seguridad cibernética 
+2CMV22-00364-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de octubre de 2022
+
+Última revisión 
+21 de octubre de 2022

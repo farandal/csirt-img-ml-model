@@ -1,0 +1,27 @@
+Source: 13BCS22-000180-01.pdf | Page: 17 | Image: 13BCS22-000180-01_p17_02 (595x551px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidad en PAN-OS 8.1 
+Alerta de seguridad cibernética 
+9VSA22-00719-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de octubre 2022
+
+Última revisión 
+12 de octubre 2022
+
+CVE 
+CVE-2022-0030 
+Fabricantes

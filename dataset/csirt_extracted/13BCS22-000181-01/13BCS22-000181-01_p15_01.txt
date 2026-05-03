@@ -1,0 +1,28 @@
+Source: 13BCS22-000181-01.pdf | Page: 15 | Image: 13BCS22-000181-01_p15_01 (595x551px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades corregidas el Chrome 106 
+Alerta de seguridad cibernética 
+9VSA22-00727-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de octubre de 2022
+
+Última revisión 
+18 de octubre de 2022
+
+CVE 
+CVE-2022-3445   -   CVE-2022-3446   -   CVE-2022-3447 
+CVE-2022-3448   -   CVE-2022-3449   -   CVE-2022-3450 
+Fabricantes

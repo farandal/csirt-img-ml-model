@@ -1,0 +1,27 @@
+Source: 13BCS22-000181-01.pdf | Page: 16 | Image: 13BCS22-000181-01_p16_01 (595x551px)
+------------------------------------------------------------
+CSIRT indica vulnerabilidades parchadas en WordPress 6.0.3. 
+Alerta de seguridad cibernética 
+9VSA22-00728-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de octubre de 2022
+
+Última revisión 
+19 de octubre de 2022
+
+CVE 
+Son 15, todas con CVE pendiente. 
+Fabricantes

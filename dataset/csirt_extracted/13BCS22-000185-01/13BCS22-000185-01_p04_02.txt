@@ -1,0 +1,34 @@
+Source: 13BCS22-000185-01.pdf | Page: 4 | Image: 13BCS22-000185-01_p04_02 (618x467px)
+------------------------------------------------------------
+CSIRT alerta nueva campaña de phishing que suplanta a International 
+Pheromone Systems 
+Alerta de seguridad cibernética 
+2CMV22-00388-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de noviembre de 2022
+
+Última revisión 
+16 de noviembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+RE: Overdue advance invoice n° 20220610 
+Correo de Salida 
+saed@prodeksqn.com
+
+SHA256   
+dfb468fae58c6ee797fb5fd0be45e66fb70faf272b818617b3c2d9c5a153
+a8b1

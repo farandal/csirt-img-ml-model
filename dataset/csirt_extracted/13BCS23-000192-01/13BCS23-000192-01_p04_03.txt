@@ -1,0 +1,25 @@
+Source: 13BCS23-000192-01.pdf | Page: 4 | Image: 13BCS23-000192-01_p04_03 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de nueva página fraudulenta que suplanta al Banco Itaú 
+Alerta de seguridad cibernética 
+8FFR22-01185-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 de diciembre de 2022
+
+Última revisión 
+30 de diciembre de 2022
+
+3

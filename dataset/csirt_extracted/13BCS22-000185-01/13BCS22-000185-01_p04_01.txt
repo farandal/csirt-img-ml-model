@@ -1,0 +1,42 @@
+Source: 13BCS22-000185-01.pdf | Page: 4 | Image: 13BCS22-000185-01_p04_01 (608x580px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware que suplanta al 
+Banco Santander 
+Alerta de seguridad cibernética 
+2CMV22-00387-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de noviembre de 2022
+
+Última revisión 
+14 de noviembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+Adjunto comprobante de transferencia 
+Correo de Salida 
+diversos@pinaseguros.es
+
+SHA256   
+678607d19a7a21422224bce7c253e6f1da0587f516e92b46162b13139e
+fa999d
+
+bb6a92b2c43488bf8d0310090aa4036b5e292c9ab5030c8ebdd1864cf0
+15f9ba
+
+8dc562cda7217a3a52db898243de3e2ed68b80e62ddcb8619545ed0b4
+e7f65a8  
+cd163c9574c86f211b519830a0bce9c3d74430acc64228215b2d992d9b
+39c7fc

@@ -1,0 +1,26 @@
+Source: 13BCS22-000181-01.pdf | Page: 7 | Image: 13BCS22-000181-01_p07_02 (706x433px)
+------------------------------------------------------------
+CSIRT alerta ante sitio fraudulento que suplanta la Banca Nazionale del 
+Lavoro 
+Alerta de seguridad cibernética 
+8FFR22-01126-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de octubre de 2022
+
+Última revisión 
+18 de octubre de 2022
+
+CSIRT alerta ante página fraudulenta que suplanta login de Microsoft

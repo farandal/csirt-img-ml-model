@@ -1,0 +1,23 @@
+Source: 13BCS22-000189-01.pdf | Page: 4 | Image: 13BCS22-000189-01_p04_01 (641x352px)
+------------------------------------------------------------
+CSIRT alerta de phishing con malware que suplanta a Pypco 
+Alerta de seguridad cibernética 
+2CMV22-00392-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de diciembre de 2022
+
+Última revisión 
+13 de diciembre de 2022

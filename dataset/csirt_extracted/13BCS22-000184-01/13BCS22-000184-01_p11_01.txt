@@ -1,0 +1,35 @@
+Source: 13BCS22-000184-01.pdf | Page: 11 | Image: 13BCS22-000184-01_p11_01 (705x507px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de phishing con malware, que suplanta a 
+Emasa 
+Alerta de seguridad cibernética 
+2CMV22-00385-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de noviembre de 2022
+
+Última revisión 
+10 de noviembre de 2022
+
+Indicadores de compromiso 
+Asunto 
+RE: FACTURA ADJUNTA CON SWIFT DE PAGO (MT103)
+
+Correo de Salida 
+ecommerce@emasa.cl
+
+SHA256   
+8d97cb1af2d4f226c632ba19bdb4275a6bcd7bde14331acdf6e0551263
+4e385f

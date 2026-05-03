@@ -1,0 +1,36 @@
+Source: 13BCS23-000195-01.pdf | Page: 10 | Image: 13BCS23-000195-01_p10_01 (666x559px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware, que suplanta a Autopase 
+Alerta de seguridad cibernética 
+2CMV23-00398-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de enero de 2023
+
+Última revisión 
+23 de enero de 2023
+
+Indicadores de compromiso 
+Asunto 
+Su tag está inhabilitado por deuda. 
+Correo de Salida 
+postmaster@ashley-howard.co.uk 
+SHA256   
+f669aba8e7621d7c21ad4553d6899311ecdff561fda86261a496a46c7604d4cc 
+d016b039526f23dcddeeac7c511bd7ef439177541504e2998e19d7892481aa7d 
+b753a9dc95ffc2fde9e31d8cbf7b44b59d25e393e7ad6a1effff6122011b4fef 
+~~
+
+9

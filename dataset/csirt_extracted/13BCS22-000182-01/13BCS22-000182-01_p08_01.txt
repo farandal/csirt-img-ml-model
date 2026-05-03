@@ -1,0 +1,52 @@
+Source: 13BCS22-000182-01.pdf | Page: 8 | Image: 13BCS22-000182-01_p08_01 (731x431px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing que suplanta a la TGR 
+Alerta de seguridad cibernética 
+2CMV22-00367-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de octubre de 2022
+
+Última revisión 
+27 de octubre de 2022
+
+Indicadores de compromiso 
+Asunto 
+FW: Informacion TGR de factura electronica 
+FW: Notificacion TGR 
+Correo de Salida 
+root@contactoclsii16.infomenoemail.com
+
+root@contactoclsii2.infomenoemail.com
+
+root@contactoclsii11.infomenoemail.com
+
+root@contactoclsii15.infomenoemail.com
+
+root@contactoclsii14.infomenoemail.com
+
+root@contactoclsii6.infomenoemail.com
+
+root@contactoclsii5.infomenoemail.com
+
+root@contactoclsii8.infomenoemail.com
+
+root@contactoclsii1.infomenoemail.com
+
+root@contactoclsii12.infomenoemail.com
+
+root@contactoclsii7.infomenoemail.com
+
+root@contactoclsii9.infomenoemail.com

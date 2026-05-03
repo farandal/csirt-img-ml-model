@@ -1,0 +1,37 @@
+Source: 13BCS23-000194-01.pdf | Page: 25 | Image: 13BCS23-000194-01_p25_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades parchadas en Mozilla Firefox y Firefox ESR 
+Alerta de seguridad cibernética 
+9VSA23-00775-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de enero de 2023
+
+Última revisión 
+18 de enero de 2023
+
+CVE 
+CVE-2023-23599 
+CVE-2023-23601 
+CVE-2023-23603
+
+CVE-2023-23602 
+CVE-2023-23605 
+CVE-2022-46871
+
+CVE-2022-46877 
+CVE-2023-23598
+
+24

@@ -1,0 +1,36 @@
+Source: 13BCS22-000189-01.pdf | Page: 9 | Image: 13BCS22-000189-01_p09_01 (641x399px)
+------------------------------------------------------------
+CSIRT alerta de cinco sitios web fraudulentos que suplantan a marcas como Lotto y 
+Reef 
+Alerta de seguridad cibernética 
+8FFR22-01157-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de diciembre de 2022
+
+Última revisión 
+12 de diciembre de 2022
+
+Indicadores de compromiso 
+URL sitio falso 
+www.reefchile[.]com/ 
+www.gymsharkchilestore[.]com/ 
+www.tommyhilfigerchileoutlet[.]com/ 
+www.lottochile[.]com/ 
+www.louboutinchile[.]com/ 
+Dirección IP 
+[104.160.4.254]
+
+[104.160.4.251]

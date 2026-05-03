@@ -1,0 +1,28 @@
+Source: 13BCS22-000181-01.pdf | Page: 5 | Image: 13BCS22-000181-01_p05_01 (759x352px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta a firma de 
+aceros 
+Alerta de seguridad cibernética 
+2CMV22-00361-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de octubre de 2022
+
+Última revisión 
+19 de octubre de 2022
+
+Indicadores de compromiso 
+Asunto 
+RE: Solicitud de proforma

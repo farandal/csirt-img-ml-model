@@ -1,0 +1,23 @@
+Source: 13BCS22-000182-01.pdf | Page: 11 | Image: 13BCS22-000182-01_p11_02 (751x459px)
+------------------------------------------------------------
+CSIRT alerta ante sitio fraudulento que suplanta el login de Microsoft 
+Alerta de seguridad cibernética 
+8FFR22-01129-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de octubre de 2022
+
+Última revisión 
+25 de octubre de 2022

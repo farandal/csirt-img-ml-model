@@ -1,0 +1,28 @@
+Source: 13BCS22-000182-01.pdf | Page: 17 | Image: 13BCS22-000182-01_p17_01 (595x551px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidades en Atlassian Jira Align 
+Alerta de seguridad cibernética 
+9VSA22-00734-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de octubre de 2022
+
+Última revisión 
+25 de octubre de 2022
+
+CVE 
+CVE-2022-36802 
+CVE-2022-36803 
+Fabricantes

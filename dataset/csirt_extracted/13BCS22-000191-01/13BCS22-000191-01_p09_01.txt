@@ -1,0 +1,23 @@
+Source: 13BCS22-000191-01.pdf | Page: 9 | Image: 13BCS22-000191-01_p09_01 (640x255px)
+------------------------------------------------------------
+CSIRT alerta una campaña de phishing que suplanta a Líder BCI 
+Alerta de seguridad cibernética 
+8FPH22-00689-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de diciembre de 2022
+
+Última revisión 
+23 de diciembre de 2022

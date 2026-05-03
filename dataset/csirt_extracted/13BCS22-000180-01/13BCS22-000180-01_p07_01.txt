@@ -1,0 +1,23 @@
+Source: 13BCS22-000180-01.pdf | Page: 7 | Image: 13BCS22-000180-01_p07_01 (501x368px)
+------------------------------------------------------------
+CSIRT alerta de página fraudulenta que suplanta al login de Adobe 
+Alerta de seguridad cibernética 
+8FFR22-01118-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de octubre de 2022
+
+Última revisión 
+12 de octubre de 2022

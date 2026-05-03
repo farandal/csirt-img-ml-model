@@ -1,0 +1,23 @@
+Source: 13BCS22-000185-01.pdf | Page: 6 | Image: 13BCS22-000185-01_p06_02 (552x362px)
+------------------------------------------------------------
+CSIRT alerta de sitio fraudulento que suplanta banco DCU de EE.UU. 
+Alerta de seguridad cibernética 
+8FFR22-01136-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de noviembre de 2022
+
+Última revisión 
+16 de noviembre de 2022

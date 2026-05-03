@@ -1,0 +1,29 @@
+Source: 13BCS22-000185-01.pdf | Page: 15 | Image: 13BCS22-000185-01_p15_01 (595x551px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades en Citrix Gateway y Citrix ADC 
+Alerta de seguridad cibernética 
+9VSA22-00745-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de noviembre de 2022
+
+Última revisión 
+15 de noviembre de 2022
+
+CVE 
+CVE-2022-27510 
+CVE-2022-27513 
+CVE-2022-27516 
+Fabricantes

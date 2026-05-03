@@ -1,0 +1,23 @@
+Source: 13BCS22-000190-01.pdf | Page: 6 | Image: 13BCS22-000190-01_p06_01 (637x678px)
+------------------------------------------------------------
+CSIRT alerta de una página fraudulenta que suplanta a Fonasa 
+Alerta de seguridad cibernética 
+8FFR22-01163-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de diciembre de 2022
+
+Última revisión 
+7 de diciembre de 2022

@@ -1,0 +1,23 @@
+Source: 13BCS22-000180-01.pdf | Page: 8 | Image: 13BCS22-000180-01_p08_01 (501x352px)
+------------------------------------------------------------
+CSIRT alerta de sitio fraudulento que suplanta a WebMail Mini 
+Alerta de seguridad cibernética 
+8FFR22-01121-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de octubre de 2022
+
+Última revisión 
+12 de octubre de 2022

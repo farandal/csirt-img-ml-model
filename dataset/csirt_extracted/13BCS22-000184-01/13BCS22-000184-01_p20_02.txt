@@ -1,0 +1,33 @@
+Source: 13BCS22-000184-01.pdf | Page: 20 | Image: 13BCS22-000184-01_p20_02 (595x551px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades en Workspace ONE Assist solution 
+Alerta de seguridad cibernética 
+9VSA22-00742-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de noviembre de 2022
+
+Última revisión 
+9 de noviembre de 2022
+
+CVE 
+CVE-2022-31685 
+CVE-2022-31686 
+CVE-2022-31687
+
+CVE-2022-31688 
+CVE-2022-31689
+
+Fabricantes
