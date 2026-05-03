@@ -1,0 +1,24 @@
+Source: 13BCS23-000214-01.pdf | Page: 23 | Image: 13BCS23-000214-01_p23_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades parchadas por VMware para Aria Operations for 
+Networks 
+Alerta de seguridad cibernética 
+9VSA23-00843-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de junio de 2023
+
+Última revisión 
+7 de junio de 2023

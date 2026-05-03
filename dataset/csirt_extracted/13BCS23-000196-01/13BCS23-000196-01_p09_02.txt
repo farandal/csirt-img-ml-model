@@ -1,0 +1,25 @@
+Source: 13BCS23-000196-01.pdf | Page: 9 | Image: 13BCS23-000196-01_p09_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidad crítica en QNAP NAS 
+Alerta de seguridad cibernética 
+9VSA23-00779-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+31 de enero de 2023
+
+Última revisión 
+31 de enero de 2023
+
+8

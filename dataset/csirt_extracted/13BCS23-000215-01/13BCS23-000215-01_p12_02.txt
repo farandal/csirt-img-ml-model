@@ -1,0 +1,28 @@
+Source: 13BCS23-000215-01.pdf | Page: 12 | Image: 13BCS23-000215-01_p12_02 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware, en email que suplanta al 
+BancoEstado 
+Alerta de seguridad cibernética 
+2CMV23-00418-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de junio de 2023
+
+Última revisión 
+9 de junio de 2023
+
+Indicadores de compromiso 
+URL-Dominio 
+http://savory.com[.]bd/imagify-backup/167_Hpxmebnuzgs

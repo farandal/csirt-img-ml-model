@@ -1,0 +1,23 @@
+Source: 13BCS23-000214-01.pdf | Page: 7 | Image: 13BCS23-000214-01_p07_02 (582x457px)
+------------------------------------------------------------
+CSIRT alerta de un sitio fraudulento que suplanta a Burton 
+Alerta de seguridad cibernética 
+8FFR23-01364-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 de junio de 2023
+
+Última revisión 
+2 de junio de 2023

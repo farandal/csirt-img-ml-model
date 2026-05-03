@@ -1,0 +1,24 @@
+Source: 13BCS23-000213-01.pdf | Page: 12 | Image: 13BCS23-000213-01_p12_03 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware, difundido a través de 
+falso aviso de pago 
+Alerta de seguridad cibernética 
+2CMV23-00416-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+31 de mayo de 2023
+
+Última revisión 
+31 de mayo de 2023

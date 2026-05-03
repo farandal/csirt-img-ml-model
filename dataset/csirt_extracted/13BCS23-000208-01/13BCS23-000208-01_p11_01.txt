@@ -1,0 +1,23 @@
+Source: 13BCS23-000208-01.pdf | Page: 11 | Image: 13BCS23-000208-01_p11_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades críticas para VMware Aria Operations for Logs 
+Alerta de seguridad cibernética 
+9VSA23-00821-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de abril de 2023
+
+Última revisión 
+21 de abril de 2023

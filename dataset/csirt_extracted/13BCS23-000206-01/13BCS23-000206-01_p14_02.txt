@@ -1,0 +1,24 @@
+Source: 13BCS23-000206-01.pdf | Page: 14 | Image: 13BCS23-000206-01_p14_02 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades parchadas en Sophos Web Alliance versión 
+4.3.10.4 
+Alerta de seguridad cibernética 
+9VSA23-00815-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de abril de 2023
+
+Última revisión 
+12 de abril de 2023

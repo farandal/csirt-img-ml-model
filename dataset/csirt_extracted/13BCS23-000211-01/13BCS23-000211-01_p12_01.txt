@@ -1,0 +1,36 @@
+Source: 13BCS23-000211-01.pdf | Page: 12 | Image: 13BCS23-000211-01_p12_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades informadas por Cisco para varios de sus switches 
+Alerta de seguridad cibernética 
+9VSA23-00834-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de mayo de 2023
+
+Última revisión 
+18 de mayo de 2023
+
+CVE 
+CVE-2023-20159 
+CVE-2023-20160 
+CVE-2023-20161
+
+CVE-2023-20189 
+CVE-2023-20024 
+CVE-2023-20156
+
+CVE-2023-20157 
+CVE-2023-20158 
+CVE-2023-20162

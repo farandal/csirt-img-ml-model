@@ -1,0 +1,23 @@
+Source: 13BCS23-000208-01.pdf | Page: 9 | Image: 13BCS23-000208-01_p09_02 (770x768px)
+------------------------------------------------------------
+CSIRT alerta ante nueva campaña de phishing que suplanta al Banco Ripley 
+Alerta de seguridad cibernética 
+8FPH23-00800-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de abril de 2023
+
+Última revisión 
+25 de abril de 2023

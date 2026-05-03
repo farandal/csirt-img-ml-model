@@ -1,0 +1,23 @@
+Source: 13BCS23-000214-01.pdf | Page: 20 | Image: 13BCS23-000214-01_p20_03 (592x383px)
+------------------------------------------------------------
+CSIRT alerta ante nuevo sitio fraudulento que suplanta a BancoEstado 
+Alerta de seguridad cibernética 
+8FPH23-00832-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 de junio de 2023
+
+Última revisión 
+7 de junio de 2023

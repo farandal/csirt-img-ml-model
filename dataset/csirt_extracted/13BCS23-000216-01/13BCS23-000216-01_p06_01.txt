@@ -1,0 +1,24 @@
+Source: 13BCS23-000216-01.pdf | Page: 6 | Image: 13BCS23-000216-01_p06_01 (582x472px)
+------------------------------------------------------------
+CSIRT alerta de nueva página fraudulenta que suplanta al Servicio de Impuestos 
+Internos 
+Alerta de seguridad cibernética 
+8FFR23-01415-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de junio de 2023
+
+Última revisión 
+22 de junio de 2023

@@ -1,0 +1,23 @@
+Source: 13BCS23-000205-01.pdf | Page: 7 | Image: 13BCS23-000205-01_p07_01 (641x595px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidad actualmente explotada en IBM Aspera Faspex 
+Alerta de seguridad cibernética 
+9VSA23-00808-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+3 de abril de 2023
+
+Última revisión 
+3 de abril de 2023

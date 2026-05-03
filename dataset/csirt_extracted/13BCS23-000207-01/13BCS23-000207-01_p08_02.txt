@@ -1,0 +1,23 @@
+Source: 13BCS23-000207-01.pdf | Page: 8 | Image: 13BCS23-000207-01_p08_02 (1058x149px)
+------------------------------------------------------------
+CSIRT advierte ante nueva página fraudulenta que suplanta a SQM 
+Alerta de seguridad cibernética 
+8FFR23-01292-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de abril de 2023
+
+Última revisión 
+20 de abril de 2023

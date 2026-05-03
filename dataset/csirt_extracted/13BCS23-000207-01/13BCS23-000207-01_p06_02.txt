@@ -1,0 +1,23 @@
+Source: 13BCS23-000207-01.pdf | Page: 6 | Image: 13BCS23-000207-01_p06_02 (582x467px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta a Codelco 
+Alerta de seguridad cibernética 
+8FFR23-01287-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de abril de 2023
+
+Última revisión 
+17 de abril de 2023

@@ -1,0 +1,23 @@
+Source: 13BCS23-000214-01.pdf | Page: 9 | Image: 13BCS23-000214-01_p09_03 (576x430px)
+------------------------------------------------------------
+CSIRT alerta de nuevo sitio fraudulento que suplanta a Brooks 
+Alerta de seguridad cibernética 
+8FFR23-01371-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+3 de junio de 2023
+
+Última revisión 
+3 de junio de 2023

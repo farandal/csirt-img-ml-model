@@ -1,0 +1,30 @@
+Source: 13BCS23-000211-01.pdf | Page: 10 | Image: 13BCS23-000211-01_p10_02 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware, difundido via una falsa 
+acta judicial y una supuesta retención de factura 
+Alerta de seguridad cibernética 
+2CMV23-00413-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de mayo de 2023
+
+Última revisión 
+17 de mayo de 2023
+
+Indicadores de compromiso 
+URL-Dominio 
+https://acortar[.]link/NCMHbI 
+https://acortar[.]link/zlbaw7 
+Iessecuador[.]con-ip.com:2434

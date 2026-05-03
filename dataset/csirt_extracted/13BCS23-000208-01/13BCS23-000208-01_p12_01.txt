@@ -1,0 +1,23 @@
+Source: 13BCS23-000208-01.pdf | Page: 12 | Image: 13BCS23-000208-01_p12_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidad crítica parchada por VMware 
+Alerta de seguridad cibernética 
+9VSA23-00823-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de abril de 2023
+
+Última revisión 
+27 de abril de 2023

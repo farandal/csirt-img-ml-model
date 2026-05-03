@@ -1,0 +1,23 @@
+Source: 13BCS23-000210-01.pdf | Page: 4 | Image: 13BCS23-000210-01_p04_04 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de nuevo sitio fraudulento que suplanta a Falabella 
+Alerta de seguridad cibernética 
+8FFR23-01310-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de mayo de 2023
+
+Última revisión 
+9 de mayo de 2023

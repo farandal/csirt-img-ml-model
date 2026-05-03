@@ -1,0 +1,97 @@
+Source: 13BCS23-000205-01.pdf | Page: 8 | Image: 13BCS23-000205-01_p08_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas por Cisco 
+Alerta de seguridad cibernética 
+9VSA23-00810-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de abril de 2023
+
+Última revisión 
+5 de abril de 2023
+
+CVE 
+CVE-2022-20812 
+CVE-2022-20959 
+CVE-2022-20813 
+CVE-2023-20064 
+CVE-2022-20797 
+CVE-2022-20952 
+CVE-2023-20113 
+CVE-2023-20099 
+CVE-2022-20956 
+CVE-2022-20964 
+CVE-2022-20965 
+CVE-2022-20966
+
+CVE-2022-20967 
+CVE-2023-20029 
+CVE-2023-20016 
+CVE-2023-20027 
+CVE-2023-20065 
+CVE-2023-20035 
+CVE-2023-20072 
+CVE-2023-20080 
+CVE-2023-20067 
+CVE-2023-20055 
+CVE-2023-20082 
+CVE-2023-20011
+
+CVE-2023-20113 
+CVE-2023-20029 
+CVE-2023-20016 
+CVE-2023-20027 
+CVE-2023-20065 
+CVE-2023-20035 
+CVE-2023-20072 
+CVE-2023-20080 
+CVE-2023-20067 
+CVE-2023-20055 
+CVE-2023-20082
+
+Fabricantes 
+Cisco 
+Productos afectados 
+Software Cisco Expressway Series y Cisco TelePresence VCS en configuración por 
+defecto. 
+ 
+Si utilizan software Cisco IOS XR: 
+ASR 9000 Series Aggregation Services Routers (64-bit) (CSCwd35552) 
+IOS XR White box (IOSXRWBD) (CSCwd35552) 
+IOS XRv 9000 Routers (CSCwd35552) 
+Network Convergence System (NCS) 540 Series Routers (CSCwd35552) 
+NCS 560 Series Routers (CSCwd35552) 
+NCS 1001 Series Routers (CSCwd35552) 
+NCS 1002 Series Routers (CSCwd35552) 
+NCS 1004 Series Routers (CSCwd35552) 
+NCS 4000 Series Routers (CSCwc97333) 
+NCS 5000 Series Routers (CSCwd35552) 
+NCS 5500 Series Routers (CSCwd35552) 
+NCS 5700 Series Routers (CSCwd35552) 
+NCS 6000 Series Routers (CSCwc97332) 
+ 
+Cisco Secure Network Analytics. 
+Cisco Secure Web Appliance, virtual y hardware. 
+Cisco Identity Services Engine (ISE). 
+Cisco APIC. 
+Cisco Cloud Network Controller. 
+Cisco SD-WAN vManage Software. 
+ 
+Si usan el Cisco IOS XE Software: 
+Catalyst 9200 Series Switches 
+Catalyst 9300 Series Switches 
+ 
+Si usan Cisco FXOS or Cisco UCS Manager Software: 
+Firepower 4100 Series

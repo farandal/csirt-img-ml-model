@@ -1,0 +1,37 @@
+Source: 13BCS23-000216-01.pdf | Page: 10 | Image: 13BCS23-000216-01_p10_01 (531x660px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware, que suplanta al Poder 
+Judicial 
+Alerta de seguridad cibernética 
+2CMV23-00419-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de junio de 2023
+
+Última revisión 
+20 de junio de 2023
+
+Indicadores de compromiso 
+URL-Dominio 
+https://jccrivelliabogadospublicidad.brazilsouth.cloudapp[.]azure.com/ 
+http://20.206.121[.]188/ 
+https://www.dropbox[.]com/s/dl/wdw1uk4rc4iihly/ 
+https://www.dropbox[.]com/s/dl/0thjroopb2nae4x/ 
+https://www.dropbox[.]com/s/dl/zl93ykl0jlz7dcr/ 
+http://ip-api[.]com/json 
+SHA256   
+58cfa0e09bc0acc1bc993045633ea70e3cd3797ff55d86045168fee3db2562e1 
+49123043ba4257cb61d00a931ea273f724a9cda06ec8eb107ddeab4d664ac88306
+04388f107d1ed9abbb13912e5cdc2f9a2da8d0e528fbb4546c23b2f08c6f15

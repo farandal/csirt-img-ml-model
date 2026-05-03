@@ -1,0 +1,32 @@
+Source: 13BCS23-000207-01.pdf | Page: 21 | Image: 13BCS23-000207-01_p21_01 (582x223px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware, con excusa de falsa 
+notificación de deuda 
+Alerta de seguridad cibernética 
+2CMV23-00409-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de abril de 2023
+
+Última revisión 
+14 de abril de 2023
+
+Indicadores de compromiso 
+URL-Dominio 
+https[:]//drive.google[.]com/uc?id=1cC8ZfcW5tnx4fkeim9vZqE4kTuqgolJC&expor
+t=download&authuser=0
+
+https[:]//pastebin[.]com/raw/fNYFJXVy  
+https[:]//paste[.]ee/d/Leoqz/0

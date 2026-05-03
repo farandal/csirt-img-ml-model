@@ -1,0 +1,28 @@
+Source: 13BCS23-000206-01.pdf | Page: 16 | Image: 13BCS23-000206-01_p16_01 (582x514px)
+------------------------------------------------------------
+CSIRT alerta de una nueva campaña de phishing con malware, que suplanta al SII 
+Alerta de seguridad cibernética 
+2CMV23-00408-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de abril de 2023
+
+Última revisión 
+13 de abril de 2023
+
+Indicadores de compromiso 
+URL-Dominio 
+https://siii-chile.com/ 
+https://www.grafoce.com/scripts/index.php?id=2

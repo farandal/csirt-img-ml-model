@@ -1,0 +1,25 @@
+Source: 13BCS23-000196-01.pdf | Page: 10 | Image: 13BCS23-000196-01_p10_01 (641x595px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades críticas en OpenEMR 
+Alerta de seguridad cibernética 
+9VSA23-00780-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 de febrero de 2023
+
+Última revisión 
+2 de febrero de 2023
+
+9

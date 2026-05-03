@@ -1,0 +1,49 @@
+Source: 13BCS23-000206-01.pdf | Page: 15 | Image: 13BCS23-000206-01_p15_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades parchadas en Mozilla Firefox 112, Firefox ESR 
+102.10 
+Alerta de seguridad cibernética 
+9VSA23-00816-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de abril de 2023
+
+Última revisión 
+12 de abril de 2023
+
+CVE 
+CVE-2023-29531 
+CVE-2023-29532 
+CVE-2023-29533 
+CVE-2023-29534 
+CVE-2023-29535 
+CVE-2023-29536 
+CVE-2023-29537
+
+CVE-2023-29538 
+CVE-2023-29539 
+CVE-2023-29540 
+CVE-2023-29541 
+CVE-2023-29542 
+CVE-2023-29543 
+CVE-2023-29544
+
+CVE-2023-29545 
+CVE-2023-29546 
+CVE-2023-29547 
+CVE-2023-29548 
+CVE-2023-29549 
+CVE-2023-29550 
+CVE-2023-29551

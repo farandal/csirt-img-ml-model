@@ -1,0 +1,126 @@
+Source: 13BCS23-000215-01.pdf | Page: 14 | Image: 13BCS23-000215-01_p14_02 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades parchadas en el Update Tuesday de Microsoft 
+para junio 2023 
+Alerta de seguridad cibernética 
+9VSA23-00843-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de junio de 2023
+
+Última revisión 
+14 de junio de 2023
+
+CVE 
+CVE-2023-32030 
+CVE-2023-29326 
+CVE-2023-24895 
+CVE-2023-24936 
+CVE-2023-29331 
+CVE-2023-24897 
+CVE-2023-29337 
+CVE-2023-33140 
+CVE-2023-29357 
+CVE-2023-33142 
+CVE-2023-29353 
+CVE-2023-32031 
+CVE-2023-28310 
+CVE-2023-33146 
+CVE-2023-33145 
+CVE-2023-33144 
+CVE-2023-21569 
+CVE-2023-21565 
+CVE-2023-33141 
+CVE-2023-27911 
+CVE-2023-33128 
+CVE-2023-32032 
+CVE-2023-33126 
+CVE-2023-33135 
+CVE-2023-29007 
+CVE-2023-25652
+
+CVE-2023-33139 
+CVE-2023-27910 
+CVE-2023-27909 
+CVE-2023-29012 
+CVE-2023-29011 
+CVE-2023-25815 
+CVE-2023-32024 
+CVE-2023-33137 
+CVE-2023-33133 
+CVE-2023-33132 
+CVE-2023-33131 
+CVE-2023-33130 
+CVE-2023-33129 
+CVE-2023-32029 
+CVE-2023-32022 
+CVE-2023-32021 
+CVE-2023-32020 
+CVE-2023-32019 
+CVE-2023-32018 
+CVE-2023-32017 
+CVE-2023-32016 
+CVE-2023-32015 
+CVE-2023-32014 
+CVE-2023-32013 
+CVE-2023-32012 
+CVE-2023-32011
+
+CVE-2023-32010 
+CVE-2023-32009 
+CVE-2023-32008 
+CVE-2023-29373 
+CVE-2023-29372 
+CVE-2023-29371 
+CVE-2023-29370 
+CVE-2023-29369 
+CVE-2023-29368 
+CVE-2023-29367 
+CVE-2023-29366 
+CVE-2023-29365 
+CVE-2023-29364 
+CVE-2023-29363 
+CVE-2023-29362 
+CVE-2023-29361 
+CVE-2023-29360 
+CVE-2023-29359 
+CVE-2023-29358 
+CVE-2023-29355 
+CVE-2023-29352 
+CVE-2023-29351 
+CVE-2023-29346 
+CVE-2023-24896 
+CVE-2023-24937 
+CVE-2023-24938
+
+Fabricantes 
+Microsoft 
+Productos afectados 
+.NET 6.0 
+.NET 7.0 
+Azure DevOps Server 2020.1.2 
+Azure DevOps Server 2022 
+Azure DevOps Server 2022.0.1 
+Dynamics 365 for Finance and Operations 
+Microsoft .NET Framework 2.0 Service Pack 2 
+Microsoft .NET Framework 3.0 Service Pack 2 
+Microsoft .NET Framework 3.5 
+Microsoft .NET Framework 3.5 and 4.6.2 
+Microsoft .NET Framework 3.5 AND 4.6.2/4.7/4.7.1/4.7.2 
+Microsoft .NET Framework 3.5 AND 4.7.2 
+Microsoft .NET Framework 3.5 AND 4.8 
+Microsoft .NET Framework 3.5 AND 4.8.1 
+Microsoft .NET Framework 3.5.1 
+Microsoft .NET Framework 4.6.2

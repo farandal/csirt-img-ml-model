@@ -1,0 +1,23 @@
+Source: 13BCS23-000215-01.pdf | Page: 13 | Image: 13BCS23-000215-01_p13_01 (641x595px)
+------------------------------------------------------------
+CSIRT informa de vulnerabilidad crítica parchada en VPN Fortinet SSL 
+Alerta de seguridad cibernética 
+9VSA23-00846-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de junio de 2023
+
+Última revisión 
+12 de junio de 2023

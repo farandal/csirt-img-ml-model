@@ -1,0 +1,23 @@
+Source: 13BCS23-000196-01.pdf | Page: 7 | Image: 13BCS23-000196-01_p07_01 (658x569px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta a BancoEstado 
+Alerta de seguridad cibernética 
+8FPH23-00737-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+31 de enero de 2023
+
+Última revisión 
+31 de enero de 2023

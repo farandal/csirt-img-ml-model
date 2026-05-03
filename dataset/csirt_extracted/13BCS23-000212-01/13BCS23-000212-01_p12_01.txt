@@ -1,0 +1,24 @@
+Source: 13BCS23-000212-01.pdf | Page: 12 | Image: 13BCS23-000212-01_p12_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidad que afecta algunos celulares Samsung con Android 
+11, 12 y 13 
+Alerta de seguridad cibernética 
+9VSA23-00835-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de mayo de 2023
+
+Última revisión 
+22 de mayo de 2023

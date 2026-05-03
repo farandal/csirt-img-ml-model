@@ -1,0 +1,28 @@
+Source: 13BCS23-000217-01.pdf | Page: 14 | Image: 13BCS23-000217-01_p14_03 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas en FortiNAC de 
+Fortinet, una crítica 
+Alerta de seguridad cibernética 
+9VSA23-00854-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 junio, 2023
+
+Última revisión 
+27 junio, 2023
+
+CVE 
+CVE-2023-33299 
+CVE-2023-33300

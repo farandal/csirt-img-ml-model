@@ -1,0 +1,23 @@
+Source: 13BCS23-000212-01.pdf | Page: 10 | Image: 13BCS23-000212-01_p10_01 (588x550px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta a CorreosChile 
+Alerta de seguridad cibernética 
+8FPH23-00820-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de mayo de 2023
+
+Última revisión 
+25 de mayo de 2023

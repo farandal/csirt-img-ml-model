@@ -1,0 +1,23 @@
+Source: 13BCS23-000210-01.pdf | Page: 5 | Image: 13BCS23-000210-01_p05_03 (582x430px)
+------------------------------------------------------------
+CSIRT alerta de una página fraudulenta que suplanta a Wisteria Clothing 
+Alerta de seguridad cibernética 
+8FFR23-01313-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de mayo de 2023
+
+Última revisión 
+9 de mayo de 2023

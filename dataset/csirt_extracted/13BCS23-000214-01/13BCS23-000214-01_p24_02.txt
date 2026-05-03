@@ -1,0 +1,23 @@
+Source: 13BCS23-000214-01.pdf | Page: 24 | Image: 13BCS23-000214-01_p24_02 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades críticas parchadas por Cisco 
+Alerta de seguridad cibernética 
+9VSA23-00845-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 de junio de 2023
+
+Última revisión 
+8 de junio de 2023

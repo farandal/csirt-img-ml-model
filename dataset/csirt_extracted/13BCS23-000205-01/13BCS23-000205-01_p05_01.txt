@@ -1,0 +1,23 @@
+Source: 13BCS23-000205-01.pdf | Page: 5 | Image: 13BCS23-000205-01_p05_01 (582x460px)
+------------------------------------------------------------
+CSIRT alerta página web que suplanta a Converse 
+Alerta de seguridad cibernética 
+8FFR23-01274-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 de abril de 2023
+
+Última revisión 
+6 de abril de 2023

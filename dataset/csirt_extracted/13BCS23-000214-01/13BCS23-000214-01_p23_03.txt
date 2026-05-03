@@ -1,0 +1,39 @@
+Source: 13BCS23-000214-01.pdf | Page: 23 | Image: 13BCS23-000214-01_p23_03 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidad en Microsoft ISS, que está siendo 
+explotada 
+Alerta de seguridad cibernética 
+9VSA23-00844-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 de junio de 2023
+
+Última revisión 
+8 de junio de 2023
+
+CVE 
+CVE-2023-34362 
+Fabricantes 
+Microsoft 
+Productos afectados 
+Microsoft ISS 
+MOVEit Transfer 2023.0.0 
+MOVEit Transfer 2022.1.x 
+MOVEit Transfer 2022.0.x
+
+MOVEit Transfer 2021.1.x 
+MOVEit Transfer 2021.0.x 
+MOVEit Transfer 2020.1.x 
+MOVEit Transfer 2020.0.x

@@ -1,0 +1,23 @@
+Source: 13BCS23-000212-01.pdf | Page: 13 | Image: 13BCS23-000212-01_p13_02 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte datos de vulnerabilidad crítica parchada por GitLab 
+Alerta de seguridad cibernética 
+9VSA23-00837-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de mayo de 2023
+
+Última revisión 
+25 de mayo de 2023

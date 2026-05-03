@@ -1,0 +1,49 @@
+Source: 13BCS23-000215-01.pdf | Page: 16 | Image: 13BCS23-000215-01_p16_02 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información de varias vulnerabilidades parchadas por Adobe 
+Alerta de seguridad cibernética 
+9VSA23-00849-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de junio de 2023
+
+Última revisión 
+14 de junio de 2023
+
+CVE 
+CVE-2023-29304 
+CVE-2023-29307 
+CVE-2023-29322 
+CVE-2023-29302 
+CVE-2023-29287 
+CVE-2023-29288
+
+CVE-2023-29289 
+CVE-2023-29290 
+CVE-2023-29291 
+CVE-2023-29292 
+CVE-2023-29293 
+CVE-2023-29294
+
+CVE-2023-29295 
+CVE-2023-29296 
+CVE-2023-29297 
+CVE-2023-22248 
+CVE-2023-29321
+
+Fabricantes 
+Adobe 
+Productos afectados 
+Adobe Experience Manager (AEM) 6.5.17.0 y anteriores.

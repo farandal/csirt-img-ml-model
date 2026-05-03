@@ -1,0 +1,35 @@
+Source: 13BCS23-000214-01.pdf | Page: 21 | Image: 13BCS23-000214-01_p21_02 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing con malware, que suplanta al SII 
+Alerta de seguridad cibernética 
+2CMV23-00417-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 de junio de 2023
+
+Última revisión 
+8 de junio de 2023
+
+Indicadores de compromiso 
+URL-Dominio 
+https://gscjgn[.]org/marzosiifact/nopagada/Factsii/
+
+https://cmg-technology[.]ro/zpnuevo/ 
+103.235.105[.]113  
+188.240.2[.]189
+
+50.116.72.199
+
+158.69.109.191
