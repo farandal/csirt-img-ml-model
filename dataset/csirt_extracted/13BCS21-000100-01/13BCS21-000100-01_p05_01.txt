@@ -1,0 +1,23 @@
+Source: 13BCS21-000100-01.pdf | Page: 5 | Image: 13BCS21-000100-01_p05_01 (443x372px)
+------------------------------------------------------------
+CSIRT alerta por web fraudulenta que suplanta al BancoEstado 
+Alerta de seguridad cibernética 
+8FFR21-00925-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+31 de marzo de 2021
+
+Última revisión 
+31 de marzo de 2021

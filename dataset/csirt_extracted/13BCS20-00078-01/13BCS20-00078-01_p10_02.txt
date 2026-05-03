@@ -1,0 +1,23 @@
+Source: 13BCS20-00078-01.pdf | Page: 10 | Image: 13BCS20-00078-01_p10_02 (431x373px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones obtenida de Samba 
+Alerta de seguridad cibernética 
+9VSA20-00307-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 de Octubre de 2020
+
+Última revisión 
+29 de Octubre de 2020

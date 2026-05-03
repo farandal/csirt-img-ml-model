@@ -1,0 +1,65 @@
+Source: 13BCS20-00076-01.pdf | Page: 9 | Image: 13BCS20-00076-01_p09_01 (431x377px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones liberadas por Microsoft 
+Alerta de seguridad cibernética 
+9VSA20-00302-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de Octubre de 2020
+
+Última revisión 
+14 de Octubre de 2020
+
+CVE 
+ADV200012                         CVE-2020-16928                           CVE-2020-16942 
+CVE-2020-16889                CVE-2020-16929                           CVE-2020-16947 
+CVE-2020-16896                CVE-2020-16930                           CVE-2020-16949 
+CVE-2020-16897                CVE-2020-16931                           CVE-2020-16954 
+CVE-2020-16901                CVE-2020-16932                           CVE-2020-16955 
+CVE-2020-16904                CVE-2020-16933                           CVE-2020-16957 
+CVE-2020-16914                CVE-2020-16934                           CVE-2020-16969 
+CVE-2020-16918                CVE-2020-16937                           CVE-2020-16995 
+CVE-2020-16919                CVE-2020-16938 
+CVE-2020-16921                CVE-2020-16941 
+Vulnerabilidades adicionales informadas 
+CVE-2020-0764                    CVE-2020-16905                           CVE-2020-16944 
+CVE-2020-1047                    CVE-2020-16907                           CVE-2020-16945 
+CVE-2020-1080                    CVE-2020-16908                           CVE-2020-16946 
+CVE-2020-1167                    CVE-2020-16909                           CVE-2020-16948 
+CVE-2020-1243                    CVE-2020-16910                           CVE-2020-16950 
+CVE-2020-16863                  CVE-2020-16911                           CVE-2020-16951 
+CVE-2020-16876                  CVE-2020-16912                           CVE-2020-16952 
+CVE-2020-16877                  CVE-2020-16913                           CVE-2020-16953 
+CVE-2020-16885                  CVE-2020-16915                           CVE-2020-16956 
+CVE-2020-16886                   CVE-2020-16916                           CVE-2020-16967 
+CVE-2020-16887                   CVE-2020-16920                           CVE-2020-16968 
+CVE-2020-16890                   CVE-2020-16922                           CVE-2020-16972 
+CVE-2020-16891                   CVE-2020-16923                           CVE-2020-16973 
+CVE-2020-16892                   CVE-2020-16924                           CVE-2020-16974 
+CVE-2020-16894                   CVE-2020-16927                           CVE-2020-16975 
+CVE-2020-16895                   CVE-2020-16935                           CVE-2020-16976 
+CVE-2020-16898                   CVE-2020-16936                           CVE-2020-16977 
+CVE-2020-16899                   CVE-2020-16939                           CVE-2020-16978 
+CVE-2020-16900                   CVE-2020-16940                           CVE-2020-16980 
+CVE-2020-16902                   CVE-2020-16943                           CVE-2020-17003 
+Fabricante 
+Microsoft 
+Productos afectados 
+3D Viewer 
+Adobe Flash Player 
+Azure Functions 
+Dynamics 365 Commerce 
+Microsoft .NET Framework 
+0 Service Pack 2

@@ -1,0 +1,23 @@
+Source: 13BCS20-00081-01.pdf | Page: 4 | Image: 13BCS20-00081-01_p04_01 (431x235px)
+------------------------------------------------------------
+CSIRT advierte de portal que suplanta a página de inicio de red social 
+Alerta de seguridad cibernética 
+8FFR20-00828-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de Noviembre de 2020
+
+Última revisión 
+14 de Noviembre de 2020

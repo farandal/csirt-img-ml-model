@@ -1,0 +1,23 @@
+Source: 13BCS20-00085-02.pdf | Page: 10 | Image: 13BCS20-00085-02_p10_01 (188x159px)
+------------------------------------------------------------
+CSIRT advierte phishing por actualización de cuenta en sitio de streaming 
+Alerta de seguridad cibernética 
+8FPH20-00338-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+09 de Diciembre de 2020
+
+Última revisión 
+09 de Diciembre de 2020

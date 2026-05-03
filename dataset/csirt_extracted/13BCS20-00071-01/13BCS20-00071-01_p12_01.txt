@@ -1,0 +1,23 @@
+Source: 13BCS20-00071-01.pdf | Page: 12 | Image: 13BCS20-00071-01_p12_01 (431x286px)
+------------------------------------------------------------
+CSIRT informa sobre sitio de suplantación de cuentas de correos 
+Alerta de seguridad cibernética 
+8FFR20-00696-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+09 de Septiembre de 2020
+
+Última revisión 
+09 de Septiembre de 2020

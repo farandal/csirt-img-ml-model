@@ -1,0 +1,76 @@
+Source: 13BCS21-000105-01.pdf | Page: 14 | Image: 13BCS21-000105-01_p14_02 (449x417px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en distintos productos de Cisco 
+Alerta de seguridad cibernética 
+9VSA21-00441-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 de mayo de 2021
+
+Última revisión 
+6 de mayo de 2021
+
+CVE 
+CVE-2021-1497 
+CVE-2021-1498 
+CVE-2021-1275 
+CVE-2021-1468 
+CVE-2021-1505 
+CVE-2021-1506 
+CVE-2021-1508 
+CVE-2021-1426 
+CVE-2021-1427 
+CVE-2021-1428 
+CVE-2021-1429 
+CVE-2021-1430 
+CVE-2021-1496 
+CVE-2021-1363 
+CVE-2021-1365
+
+CVE-2021-1284 
+CVE-2021-1421 
+CVE-2021-1400 
+CVE-2021-1401 
+CVE-2021-1509 
+CVE-2021-1510 
+CVE-2021-1511 
+CVE-2021-1513 
+CVE-2021-1490 
+CVE-2021-1438 
+CVE-2021-1507 
+CVE-2021-1486 
+CVE-2021-1478 
+CVE-2021-1532
+
+CVE-2021-1447 
+CVE-2021-1234 
+CVE-2021-1535 
+CVE-2021-1514 
+CVE-2021-1512 
+CVE-2021-1515 
+CVE-2021-1520 
+CVE-2021-1521 
+CVE-2021-1499 
+CVE-2021-1516 
+CVE-2021-1530 
+CVE-2021-1519 
+CVE-2020-3347 
+CVE-2021-1493
+
+Fabricante 
+Cisco 
+Productos afectados 
+Cisco HyperFlex HX 
+Cisco AnyConnect Secure Mobility Client for Windows

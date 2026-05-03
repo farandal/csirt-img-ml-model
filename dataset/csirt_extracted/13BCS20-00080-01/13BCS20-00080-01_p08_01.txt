@@ -1,0 +1,67 @@
+Source: 13BCS20-00080-01.pdf | Page: 8 | Image: 13BCS20-00080-01_p08_01 (431x376px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones de Microsoft en su martes de parche 
+Alerta de seguridad cibernética 
+9VSA20-00319-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de Noviembre de 2020
+
+Última revisión 
+10 de Noviembre de 2020
+
+CVE 
+CVE-2020-16970    -    CVE-2020-17000    -    CVE-2020-17069 
+CVE-2020-16979    -    CVE-2020-17004    -    CVE-2020-17071 
+CVE-2020-16981    -    CVE-2020-17013    -    CVE-2020-17078 
+CVE-2020-16982    -    CVE-2020-17017    -    CVE-2020-17079 
+CVE-2020-16983    -    CVE-2020-17019    -    CVE-2020-17081 
+CVE-2020-16984    -    CVE-2020-17020    -    CVE-2020-17082 
+CVE-2020-16985    -    CVE-2020-17029    -    CVE-2020-17086 
+CVE-2020-16986    -    CVE-2020-17030    -    CVE-2020-17101 
+CVE-2020-16987    -    CVE-2020-17036    -    CVE-2020-17102 
+CVE-2020-16988    -    CVE-2020-17045    -    CVE-2020-17105 
+CVE-2020-16989    -    CVE-2020-17049    -    CVE-2020-17106 
+CVE-2020-16990    -    CVE-2020-17056    -    CVE-2020-17107 
+CVE-2020-16991    -    CVE-2020-17062    -    CVE-2020-17108 
+CVE-2020-16992    -    CVE-2020-17063    -    CVE-2020-17109 
+CVE-2020-16993    -    CVE-2020-17064    -    CVE-2020-17110 
+CVE-2020-16994    -    CVE-2020-17065    -    CVE-2020-17113 
+CVE-2020-16997    -    CVE-2020-17066    -    CVE-2020-16999                           
+CVE-2020-17067 
+Vulnerabilidades adicionales informadas 
+CVE-2020-17042    -    CVE-2020-17060    -    CVE-2020-17028 
+CVE-2020-17051    -    CVE-2020-17061    -    CVE-2020-17076 
+CVE-2020-17052    -    CVE-2020-17068    -    CVE-2020-17087 
+CVE-2020-17048    -    CVE-2020-17073    -    CVE-2020-17090 
+CVE-2020-17058    -    CVE-2020-17074    -    CVE-2020-17100 
+CVE-2020-17053    -    CVE-2020-17075    -    CVE-2020-17104 
+CVE-2020-17022    -    CVE-2020-17037    -    CVE-2020-17070 
+CVE-2020-17023    -    CVE-2020-17044    -    CVE-2020-17088 
+CVE-2020-17001    -    CVE-2020-17041    -    CVE-2020-17077 
+CVE-2020-17007    -    CVE-2020-1325      -     CVE-2020-17016 
+CVE-2020-17011    -    CVE-2020-1599      -     CVE-2020-17025 
+CVE-2020-17014    -    CVE-2020-16998    -     CVE-2020-17040 
+CVE-2020-17018    -    CVE-2020-17005    -     CVE-2020-17021 
+CVE-2020-17024    -    CVE-2020-17006    -     CVE-2020-17055 
+CVE-2020-17026    -    CVE-2020-17010    -     CVE-2020-17085 
+CVE-2020-17031    -    CVE-2020-17012    -     CVE-2020-17083 
+CVE-2020-17032    -    CVE-2020-17027    -     CVE-2020-17084 
+CVE-2020-17033    -    CVE-2020-17034    -     CVE-2020-17091 
+CVE-2020-17035    -    CVE-2020-17038    -     CVE-2020-17046 
+CVE-2020-17043    -    CVE-2020-17047    -      CVE-2020-17015 
+CVE-2020-17054    -    CVE-2020-17057 
+Fabricante 
+Microsoft

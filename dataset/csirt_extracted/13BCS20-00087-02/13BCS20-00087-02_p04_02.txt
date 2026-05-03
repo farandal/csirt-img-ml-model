@@ -1,0 +1,23 @@
+Source: 13BCS20-00087-02.pdf | Page: 4 | Image: 13BCS20-00087-02_p04_02 (188x119px)
+------------------------------------------------------------
+CSIRT advierte sitio falso de gestor de información 
+Alerta de seguridad cibernética 
+8FFR20-00862-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 de Diciembre de 2020
+
+Última revisión 
+30 de Diciembre de 2020

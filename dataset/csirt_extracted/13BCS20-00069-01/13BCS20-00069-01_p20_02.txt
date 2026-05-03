@@ -1,0 +1,23 @@
+Source: 13BCS20-00069-01.pdf | Page: 20 | Image: 13BCS20-00069-01_p20_02 (431x275px)
+------------------------------------------------------------
+CSIRT informa sobre phishing por problemas en cuenta de streaming 
+Alerta de seguridad cibernética 
+8FPH20-00302-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 de Agosto de 2020
+
+Última revisión 
+26 de Agosto de 2020

@@ -1,0 +1,23 @@
+Source: 13BCS20-00069-01.pdf | Page: 19 | Image: 13BCS20-00069-01_p19_02 (431x505px)
+------------------------------------------------------------
+CSIRT advierte campaña de phishing por clave caducada 
+Alerta de seguridad cibernética 
+8FPH20-00300-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 de Agosto de 2020
+
+Última revisión 
+26 de Agosto de 2020

@@ -1,0 +1,40 @@
+Source: 13BCS20-00082-01.pdf | Page: 4 | Image: 13BCS20-00082-01_p04_02 (188x163px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades que afectan a Mozilla Firefox 
+Alerta de seguridad cibernética 
+9VSA20-00323-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de Noviembre de 2020
+
+Última revisión 
+19 de Noviembre de 2020
+
+CVE 
+CVE-2020-26951    -    CVE-2020-26952    -    CVE-2020-16012 
+CVE-2020-26953    -    CVE-2020-26954    -    CVE-2020-26955 
+CVE-2020-26956    -    CVE-2020-26957    -    CVE-2020-26958 
+CVE-2020-26959    -    CVE-2020-26960    -    CVE-2020-15999 
+CVE-2020-26961    -    CVE-2020-26962    -    CVE-2020-26963 
+CVE-2020-26964    -    CVE-2020-26965    -    CVE-2020-26966 
+CVE-2020-26967    -    CVE-2020-26968    -    CVE-2020-26969 
+Fabricante 
+Mozilla 
+Productos afectados 
+La vulnerabilidad afecta al explorador web Firefox Mozilla versiones 
+anteriores a la 83. 
+La vulnerabilidad afecta al explorador web Firefox Mozilla ESR versiones 
+anteriores a la 78.5. 
+La vulnerabilidad afecta al cliente de correo Mozilla Thunderbird versiones

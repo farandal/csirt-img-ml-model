@@ -1,0 +1,23 @@
+Source: 13BCS20-00085-02.pdf | Page: 6 | Image: 13BCS20-00085-02_p06_01 (188x161px)
+------------------------------------------------------------
+CSIRT advierte sitio de empresa de mensajería falsa 
+Alerta de seguridad cibernética 
+8FFR20-00850-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de Diciembre de 2020
+
+Última revisión 
+14 de Diciembre de 2020

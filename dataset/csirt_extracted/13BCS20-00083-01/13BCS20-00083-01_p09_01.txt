@@ -1,0 +1,23 @@
+Source: 13BCS20-00083-01.pdf | Page: 9 | Image: 13BCS20-00083-01_p09_01 (188x163px)
+------------------------------------------------------------
+CSIRT comparte mitigación para vulnerabilidad de FortiOS 
+Alerta de seguridad cibernética 
+9VSA20-00328-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de Noviembre de 2020
+
+Última revisión 
+28 de Noviembre de 2020

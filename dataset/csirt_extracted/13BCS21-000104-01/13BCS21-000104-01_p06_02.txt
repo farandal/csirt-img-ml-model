@@ -1,0 +1,65 @@
+Source: 13BCS21-000104-01.pdf | Page: 6 | Image: 13BCS21-000104-01_p06_02 (449x417px)
+------------------------------------------------------------
+CSIRT alerta ante vulnerabilidades en varios productos Oracle 
+Alerta de seguridad cibernética 
+9VSA21-00429-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de abril de 2021
+
+Última revisión 
+23 de abril de 2021
+
+CVE 
+CVE-2020-24750 
+CVE-2020-11979 
+CVE-2020-5421 
+CVE-2020-13954 
+CVE-2020-13871 
+CVE-2020-24750 
+CVE-2020-28052 
+CVE-2020-11612 
+CVE-2019-0228 
+CVE-2019-3900
+
+CVE-2020-17527 
+CVE-2020-25649 
+CVE-2020-11987 
+CVE-2021-22112 
+CVE-2019-10086 
+CVE-2020-11987 
+CVE-2020-28052 
+CVE-2020-10188 
+CVE-2020-24750
+
+CVE-2020-8203 
+CVE-2020-1971 
+CVE-2020-27218 
+CVE-2020-8203 
+CVE-2020-17521 
+CVE-2020-11022 
+CVE-2019-12423 
+CVE-2020-1927 
+CVE-2020-27193 
+CVE-2020-11022
+
+Fabricante 
+Oracle 
+Productos afectados 
+Oracle Communications Calendar Server: 8.0 
+Oracle Communications Unified Inventory Management 7.3.4 a 7.4.1. 
+Oracle Communications Design Studio: 7.4.2. 
+Oracle Communications Messaging Server: 8.1. 
+Oracle Communications Performance Intelligence Center Software: 10.4.0.3

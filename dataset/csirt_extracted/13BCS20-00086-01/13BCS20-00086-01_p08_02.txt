@@ -1,0 +1,23 @@
+Source: 13BCS20-00086-01.pdf | Page: 8 | Image: 13BCS20-00086-01_p08_02 (431x375px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades de VMware 
+Alerta de seguridad cibernética 
+9VSA20-00343-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de Diciembre de 2020
+
+Última revisión 
+16 de Diciembre de 2020

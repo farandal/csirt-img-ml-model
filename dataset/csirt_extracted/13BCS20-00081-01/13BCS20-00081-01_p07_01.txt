@@ -1,0 +1,23 @@
+Source: 13BCS20-00081-01.pdf | Page: 7 | Image: 13BCS20-00081-01_p07_01 (432x583px)
+------------------------------------------------------------
+CSIRT advierte de phishing bancario por verificación de cuenta 
+Alerta de seguridad cibernética 
+8FPH20-00326-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de Noviembre de 2020
+
+Última revisión 
+10 de Noviembre de 2020

@@ -1,0 +1,23 @@
+Source: 13BCS20-00085-02.pdf | Page: 13 | Image: 13BCS20-00085-02_p13_01 (188x163px)
+------------------------------------------------------------
+CSIRT comparte mitigaciones entregadas por Cisco 
+Alerta de seguridad cibernética 
+9VSA20-00336-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de Diciembre de 2020
+
+Última revisión 
+11 de Diciembre de 2020

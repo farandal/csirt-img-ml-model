@@ -1,0 +1,23 @@
+Source: 13BCS20-00085-02.pdf | Page: 12 | Image: 13BCS20-00085-02_p12_01 (188x163px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades obtenidas de Haxx 
+Alerta de seguridad cibernética 
+9VSA20-00334-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de Diciembre de 2020
+
+Última revisión 
+10 de Diciembre de 2020

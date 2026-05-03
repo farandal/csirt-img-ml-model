@@ -1,0 +1,23 @@
+Source: 13BCS20-00082-01.pdf | Page: 3 | Image: 13BCS20-00082-01_p03_01 (188x107px)
+------------------------------------------------------------
+CSIRT informa de página bancaria falsa 
+Alerta de seguridad cibernética 
+8FFR20-00834-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de Noviembre de 2020
+
+Última revisión 
+19 de Noviembre de 2020

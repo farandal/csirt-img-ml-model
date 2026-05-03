@@ -1,0 +1,23 @@
+Source: 13BCS20-00073-01.pdf | Page: 9 | Image: 13BCS20-00073-01_p09_02 (430x430px)
+------------------------------------------------------------
+CSIRT advierte de campaña de ingeniería social por falsa oferta laboral 
+Alerta de seguridad cibernética 
+3RIS20-00011-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Ingeniería Social
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de Septiembre de 2020
+
+Última revisión 
+22 de Septiembre de 2020

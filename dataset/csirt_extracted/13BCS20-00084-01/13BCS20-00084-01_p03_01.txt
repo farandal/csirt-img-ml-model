@@ -1,0 +1,23 @@
+Source: 13BCS20-00084-01.pdf | Page: 3 | Image: 13BCS20-00084-01_p03_01 (431x300px)
+------------------------------------------------------------
+CSIRT informa de sitio de pago en línea fraudulento 
+Alerta de seguridad cibernética 
+8FFR20-00843-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+09 de Diciembre de 2020
+
+Última revisión 
+09 de Diciembre de 2020

@@ -1,0 +1,23 @@
+Source: 13BCS20-00084-01.pdf | Page: 5 | Image: 13BCS20-00084-01_p05_01 (431x359px)
+------------------------------------------------------------
+CSIRT advierte phishing con falso programa de gobierno 
+Alerta de seguridad cibernética 
+8FPH20-00335-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+09 de Diciembre de 2020
+
+Última revisión 
+09 de Diciembre de 2020

@@ -1,0 +1,23 @@
+Source: 13BCS20-00069-01.pdf | Page: 23 | Image: 13BCS20-00069-01_p23_02 (492x425px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones obtenidas de VMWare 
+Alerta de seguridad cibernética 
+9VSA20-00292-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de Agosto de 2020
+
+Última revisión 
+24 de Agosto de 2020

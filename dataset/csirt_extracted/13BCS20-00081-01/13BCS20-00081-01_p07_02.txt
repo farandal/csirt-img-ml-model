@@ -1,0 +1,23 @@
+Source: 13BCS20-00081-01.pdf | Page: 7 | Image: 13BCS20-00081-01_p07_02 (430x556px)
+------------------------------------------------------------
+CSIRT advierte phishing por reactivación de tarjeta de coordenadas 
+Alerta de seguridad cibernética 
+8FPH20-00327-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de Noviembre de 2020
+
+Última revisión 
+16 de Noviembre de 2020

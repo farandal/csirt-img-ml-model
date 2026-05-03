@@ -1,0 +1,23 @@
+Source: 13BCS20-00086-01.pdf | Page: 5 | Image: 13BCS20-00086-01_p05_02 (431x177px)
+------------------------------------------------------------
+CSIRT informa phishing para realizar una supuesta transacción 
+Alerta de seguridad cibernética 
+8FPH20-00343-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de Diciembre de 2020
+
+Última revisión 
+22 de Diciembre de 2020

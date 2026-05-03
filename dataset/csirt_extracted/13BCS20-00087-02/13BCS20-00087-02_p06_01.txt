@@ -1,0 +1,23 @@
+Source: 13BCS20-00087-02.pdf | Page: 6 | Image: 13BCS20-00087-02_p06_01 (188x151px)
+------------------------------------------------------------
+CSIRT advierte phishing por suspensión de cuenta en sitio de streaming 
+Alerta de seguridad cibernética 
+8FPH20-00345-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de Diciembre de 2020
+
+Última revisión 
+28 de Diciembre de 2020

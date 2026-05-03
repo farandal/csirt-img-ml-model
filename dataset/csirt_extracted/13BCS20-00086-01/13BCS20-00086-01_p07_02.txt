@@ -1,0 +1,46 @@
+Source: 13BCS20-00086-01.pdf | Page: 7 | Image: 13BCS20-00086-01_p07_02 (431x375px)
+------------------------------------------------------------
+CSIRT comparte mitigaciones obtenidas por Android 
+Alerta de seguridad cibernética 
+9VSA20-00341-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de Diciembre de 2020
+
+Última revisión 
+18 de Diciembre de 2020
+
+CVE 
+CVE-2020-0099    -    CVE-2020-0294    -    CVE-2020-0440 
+CVE-2020-0459    -    CVE-2020-0464    -    CVE-2020-0467 
+CVE-2020-0468    -    CVE-2020-0469    -    CVE-2020-0458 
+CVE-2020-0470    -    CVE-2020-0460    -    CVE-2020-0463 
+CVE-2020-15802  -    CVE-2020-0444    -    CVE-2020-0465 
+CVE-2020-0466    -    CVE-2020-0016    -    CVE-2020-0019 
+CVE-2020-0455    -    CVE-2020-0456    -    CVE-2020-0457 
+CVE-2020-11225  -    CVE-2020-11146  -   CVE-2020-11167 
+CVE-2020-11185  -   CVE-2020-11217  -    CVE-2020-3685 
+CVE-2020-3686    -    CVE-2020-3691    -    CVE-2020-11136 
+CVE-2020-11137  -   CVE-2020-11138   -   CVE-2020-11139 
+CVE-2020-11140  -   CVE-2020-11143   -   CVE-2020-11119 
+CVE-2020-11144  -   CVE-2020-11145  -    CVE-2020-11179 
+CVE-2020-11197  -   CVE-2020-11200  -    CVE-2020-11212 
+CVE-2020-11213  -   CVE-2020-11214  -    CVE-2020-11215 
+CVE-2020-11216 
+Fabricante 
+Android 
+Productos afectados 
+Dispositivos con el sistema operativo Android. 
+Enlaces para revisar el informe:

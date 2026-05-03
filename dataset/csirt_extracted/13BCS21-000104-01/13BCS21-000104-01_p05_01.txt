@@ -1,0 +1,23 @@
+Source: 13BCS21-000104-01.pdf | Page: 5 | Image: 13BCS21-000104-01_p05_01 (440x390px)
+------------------------------------------------------------
+CSIRT alerta por phishing con email que suplanta a Netflix 
+Alerta de seguridad cibernética 
+8FPH21-00395-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 de abril de 2021
+
+Última revisión 
+26 de abril de 2021

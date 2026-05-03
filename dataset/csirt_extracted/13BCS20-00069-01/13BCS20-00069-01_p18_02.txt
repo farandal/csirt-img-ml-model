@@ -1,0 +1,23 @@
+Source: 13BCS20-00069-01.pdf | Page: 18 | Image: 13BCS20-00069-01_p18_02 (431x327px)
+------------------------------------------------------------
+CSIRT advierte de phishing por saturación de correo 
+Alerta de seguridad cibernética 
+8FPH20-00298-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de Agosto de 2020
+
+Última revisión 
+21 de Agosto de 2020

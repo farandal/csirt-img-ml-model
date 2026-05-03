@@ -1,0 +1,23 @@
+Source: 13BCS20-00077-01.pdf | Page: 4 | Image: 13BCS20-00077-01_p04_02 (431x239px)
+------------------------------------------------------------
+CSIRT advierte de tres páginas web que suplantan sitio de correo electrónico 
+Alerta de seguridad cibernética 
+8FFR20-00801-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de Octubre de 2020
+
+Última revisión 
+18 de Octubre de 2020

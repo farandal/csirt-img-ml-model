@@ -1,0 +1,72 @@
+Source: 13BCS21-000106-01.pdf | Page: 7 | Image: 13BCS21-000106-01_p07_02 (449x417px)
+------------------------------------------------------------
+CSIRT advierte de vulnerabilidades compartidas por Microsoft 
+Alerta de seguridad cibernética 
+9VSA21-00443-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de mayo de 2021
+
+Última revisión 
+11 de mayo de 2021
+
+CVE 
+CVE-2021-26419 
+CVE-2020-24588 
+CVE-2020-24587 
+CVE-2021-31204 
+CVE-2021-26422 
+CVE-2021-26421 
+CVE-2021-31936 
+CVE-2021-31214 
+CVE-2021-31213 
+CVE-2021-31211 
+CVE-2021-31209 
+CVE-2021-31200 
+CVE-2021-31208 
+CVE-2021-31207 
+CVE-2021-31205
+
+CVE-2021-31193 
+CVE-2021-31192 
+CVE-2021-31191 
+CVE-2021-31190 
+CVE-2021-31188 
+CVE-2021-31187 
+CVE-2021-31186 
+CVE-2021-31185 
+CVE-2021-31184 
+CVE-2021-31182 
+CVE-2021-31181 
+CVE-2021-31180 
+CVE-2021-31179 
+CVE-2021-31178 
+CVE-2021-31177
+
+CVE-2021-31173 
+CVE-2021-31172 
+CVE-2021-31171 
+CVE-2021-31170 
+CVE-2021-31169 
+CVE-2021-31168 
+CVE-2021-31167 
+CVE-2021-31166 
+CVE-2021-31165 
+CVE-2021-26418 
+CVE-2021-28479 
+CVE-2021-28478 
+CVE-2021-28476 
+CVE-2021-28474 
+CVE-2021-28461

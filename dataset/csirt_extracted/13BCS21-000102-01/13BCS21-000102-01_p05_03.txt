@@ -1,0 +1,29 @@
+Source: 13BCS21-000102-01.pdf | Page: 5 | Image: 13BCS21-000102-01_p05_03 (442x387px)
+------------------------------------------------------------
+CSIRT alerta por sitio fraudulento que suplanta a la radio Bio Bio 
+Alerta de seguridad cibernética 
+8FFR21-00930-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de abril de 2021
+
+Última revisión 
+12 de abril de 2021
+
+Indicadores de compromiso 
+URL sitio falso 
+https://www.wealthmaster[.]us/cl-biobio-farkas 
+IP 
+[159.65.217.87]

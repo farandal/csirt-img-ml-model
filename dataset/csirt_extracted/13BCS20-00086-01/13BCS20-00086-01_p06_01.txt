@@ -1,0 +1,23 @@
+Source: 13BCS20-00086-01.pdf | Page: 6 | Image: 13BCS20-00086-01_p06_01 (431x209px)
+------------------------------------------------------------
+CSIRT advierte phishing de abono del 10% de la AFP 
+Alerta de seguridad cibernética 
+8FPH20-00344-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de Diciembre de 2020
+
+Última revisión 
+22 de Diciembre de 2020

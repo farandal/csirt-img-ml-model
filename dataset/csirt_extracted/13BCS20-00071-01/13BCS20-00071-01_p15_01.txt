@@ -1,0 +1,23 @@
+Source: 13BCS20-00071-01.pdf | Page: 15 | Image: 13BCS20-00071-01_p15_01 (431x375px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones obtenidas de Google para Chrome 
+Alerta de seguridad cibernética 
+9VSA20-00296-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+07 de Septiembre de 2020
+
+Última revisión 
+07 de Septiembre de 2020

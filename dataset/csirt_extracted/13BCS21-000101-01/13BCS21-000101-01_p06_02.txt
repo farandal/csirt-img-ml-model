@@ -1,0 +1,23 @@
+Source: 13BCS21-000101-01.pdf | Page: 6 | Image: 13BCS21-000101-01_p06_02 (446x333px)
+------------------------------------------------------------
+CSIRT alerta ante campaña de phishing que suplanta a DHL 
+Alerta de seguridad cibernética 
+8FPH21-00387-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+                  7 de abril de 2021
+
+Última revisión 
+7 de abril de 2021

@@ -1,0 +1,23 @@
+Source: 13BCS20-00080-01.pdf | Page: 3 | Image: 13BCS20-00080-01_p03_01 (431x377px)
+------------------------------------------------------------
+CSIRT advierte de suplantación de sitio de pagos en línea 
+Alerta de seguridad cibernética 
+8FFR20-00820-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+07 de Noviembre de 2020
+
+Última revisión 
+07 de Noviembre de 2020

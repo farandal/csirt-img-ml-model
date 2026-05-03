@@ -1,0 +1,23 @@
+Source: 13BCS20-00071-01.pdf | Page: 13 | Image: 13BCS20-00071-01_p13_02 (431x469px)
+------------------------------------------------------------
+CSIRT advierte de phishing bancario por promoción de pago de tarjeta 
+Alerta de seguridad cibernética 
+8FPH20-00304-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+08 de Septiembre de 2020
+
+Última revisión 
+08 de Septiembre de 2020

@@ -1,0 +1,23 @@
+Source: 13BCS20-00087-02.pdf | Page: 7 | Image: 13BCS20-00087-02_p07_01 (188x163px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidad obtenida por SolarWinds 
+Alerta de seguridad cibernética 
+9VSA20-00346-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de Diciembre de 2020
+
+Última revisión 
+28 de Diciembre de 2020

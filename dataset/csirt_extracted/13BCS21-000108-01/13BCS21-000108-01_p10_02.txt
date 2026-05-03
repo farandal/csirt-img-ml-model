@@ -1,0 +1,28 @@
+Source: 13BCS21-000108-01.pdf | Page: 10 | Image: 13BCS21-000108-01_p10_02 (449x417px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en Trend Micro Home Security Network 
+Alerta de seguridad cibernética 
+9VSA21-00448-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de mayo de 2021
+
+Última revisión 
+25 de mayo de 2021
+
+CVE 
+CVE-2021-32457 
+CVE-2021-32458 
+CVE-2021-32459

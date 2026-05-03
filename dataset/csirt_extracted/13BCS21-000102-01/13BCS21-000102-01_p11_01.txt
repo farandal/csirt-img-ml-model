@@ -1,0 +1,53 @@
+Source: 13BCS21-000102-01.pdf | Page: 11 | Image: 13BCS21-000102-01_p11_01 (449x417px)
+------------------------------------------------------------
+CSIRT alerta de distintas vulnerabilidades en productos de Cisco 
+Alerta de seguridad cibernética 
+9VSA21-00419-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de abril de 2021
+
+Última revisión 
+11 de abril de 2021
+
+CVE 
+CVE-2021-3449 
+CVE-2021-3450 
+CVE-2021-1137 
+CVE-2021-1479 
+CVE-2021-1480 
+CVE-2021-1459 
+CVE-2021-1472 
+CVE-2021-1473 
+CVE-2021-1251 
+CVE-2021-1308 
+CVE-2021-1309 
+CVE-2021-1362 
+CVE-2021-1386 
+CVE-2021-1485
+
+CVE-2021-1467 
+CVE-2021-1420 
+CVE-2021-1474 
+CVE-2021-1475 
+CVE-2021-1413 
+CVE-2021-1414 
+CVE-2021-1415 
+CVE-2021-1463  
+CVE-2021-1380 
+CVE-2021-1407 
+CVE-2021-1408 
+CVE-2021-1399 
+CVE-2021-1406

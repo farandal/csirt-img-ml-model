@@ -1,0 +1,44 @@
+Source: 13BCS20-00071-01.pdf | Page: 15 | Image: 13BCS20-00071-01_p15_02 (430x374px)
+------------------------------------------------------------
+CSIRT comparte mitigaciones obtenidas de Microsoft 
+Alerta de seguridad cibernética 
+9VSA20-00297-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+09 de Septiembre de 2020
+
+Última revisión 
+09 de Septiembre de 2020
+
+CVE 
+CVE-2020-0664               CVE-2020-1097               CVE-2020-1592 
+CVE-2020-0856               CVE-2020-1119               CVE-2020-1594 
+CVE-2020-0875               CVE-2020-1193               CVE-2020-1596 
+CVE-2020-0914               CVE-2020-1210               CVE-2020-16851 
+CVE-2020-0921               CVE-2020-1218               CVE-2020-16852 
+CVE-2020-0928               CVE-2020-1224               CVE-2020-16853 
+CVE-2020-0941               CVE-2020-1250               CVE-2020-16854 
+CVE-2020-0989               CVE-2020-1256               CVE-2020-16855 
+CVE-2020-1031               CVE-2020-1332               CVE-2020-16879 
+CVE-2020-1033               CVE-2020-1335               CVE-2020-16884 
+CVE-2020-1083               CVE-2020-1338               CVE-2020-1091          
+CVE-2020-1589 
+Vulnerabilidades adicionales informadas 
+CVE-2020-0648               CVE-2020-1053               CVE-2020-1460 
+CVE-2020-0718               CVE-2020-1057               CVE-2020-1471 
+CVE-2020-0761               CVE-2020-1074               CVE-2020-1482 
+CVE-2020-0766               CVE-2020-1098               CVE-2020-1491 
+CVE-2020-0782               CVE-2020-1115               CVE-2020-1506 
+CVE-2020-0790               CVE-2020-1122               CVE-2020-1507

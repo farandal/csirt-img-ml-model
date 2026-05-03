@@ -1,0 +1,23 @@
+Source: 13BCS20-00078-01.pdf | Page: 9 | Image: 13BCS20-00078-01_p09_02 (431x372px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones obtenidas de Mozilla 
+Alerta de seguridad cibernética 
+9VSA20-00311-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 de Octubre de 2020
+
+Última revisión 
+26 de Octubre de 2020

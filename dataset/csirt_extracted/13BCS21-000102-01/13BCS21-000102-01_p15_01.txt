@@ -1,0 +1,43 @@
+Source: 13BCS21-000102-01.pdf | Page: 15 | Image: 13BCS21-000102-01_p15_01 (449x417px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidad en diversos productos de SAP 
+Alerta de seguridad cibernética 
+9VSA21-00422-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de abril de 2021
+
+Última revisión 
+13 de abril de 2021
+
+CVE 
+CVE-2021-27602 
+CVE-2021-21482 
+CVE-2021-21483 
+CVE-2021-27608 
+CVE-2021-21485 
+CVE-2021-27598 
+CVE-2021-27603 
+CVE-2021-27599 
+CVE-2021-27604
+
+CVE-2021-27600 
+CVE-2021-27601 
+CVE-2021-27609 
+CVE-2021-21492 
+CVE-2021-27605 
+Actualización de CVE-2021-21481 
+Actualización de CVE-2020-26832 
+Actualización de CVE-2021-21491

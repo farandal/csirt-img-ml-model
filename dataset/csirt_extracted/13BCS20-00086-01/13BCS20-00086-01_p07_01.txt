@@ -1,0 +1,23 @@
+Source: 13BCS20-00086-01.pdf | Page: 7 | Image: 13BCS20-00086-01_p07_01 (431x375px)
+------------------------------------------------------------
+CSIRT comparte mitigaciones obtenidas de F5 Networks 
+Alerta de seguridad cibernética 
+9VSA20-00340-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de Diciembre de 2020
+
+Última revisión 
+18 de Diciembre de 2020

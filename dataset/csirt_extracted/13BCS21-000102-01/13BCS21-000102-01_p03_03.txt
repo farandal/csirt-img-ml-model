@@ -1,0 +1,23 @@
+Source: 13BCS21-000102-01.pdf | Page: 3 | Image: 13BCS21-000102-01_p03_03 (452x289px)
+------------------------------------------------------------
+CSIRT alerta por campaña de phishing con falsa factura de Masterduct 
+Alerta de seguridad cibernética 
+2CMV21-00169-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de abril de 2021
+
+Última revisión 
+14 de abril de 2021

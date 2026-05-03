@@ -1,0 +1,23 @@
+Source: 13BCS20-00080-01.pdf | Page: 7 | Image: 13BCS20-00080-01_p07_02 (431x376px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones obtenidas de Wireshark 
+Alerta de seguridad cibernética 
+9VSA20-00318-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+05 de Noviembre de 2020
+
+Última revisión 
+05 de Noviembre de 2020

@@ -1,0 +1,48 @@
+Source: 13BCS21-000108-01.pdf | Page: 9 | Image: 13BCS21-000108-01_p09_01 (449x417px)
+------------------------------------------------------------
+CSIRT advierte de vulnerabilidades en productos de Red Hat 
+Alerta de seguridad cibernética 
+9VSA21-00446-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de mayo de 2021
+
+Última revisión 
+24 de mayo de 2021
+
+CVE 
+CVE-2015-8011 
+CVE-2020-15586 
+CVE-2020-16845 
+CVE-2020-25648 
+CVE-2020-25692 
+CVE-2020-27813 
+CVE-2020-27827
+
+CVE-2020-28362 
+CVE-2020-35498 
+CVE-2021-20305 
+CVE-2021-21290 
+CVE-2021-21295 
+CVE-2021-25215 
+CVE-2021-30465
+
+CVE-2021-3114 
+CVE-2021-3115 
+CVE-2021-3121 
+CVE-2021-31921 
+CVE-2021-3424 
+CVE-2021-3461 
+CVE-2021-3557

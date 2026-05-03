@@ -1,0 +1,23 @@
+Source: 13BCS20-00085-02.pdf | Page: 11 | Image: 13BCS20-00085-02_p11_01 (188x187px)
+------------------------------------------------------------
+CSIRT advierte phishing de SúperClave bloqueada 
+Alerta de seguridad cibernética 
+8FPH20-00340-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de Diciembre de 2020
+
+Última revisión 
+14 de Diciembre de 2020

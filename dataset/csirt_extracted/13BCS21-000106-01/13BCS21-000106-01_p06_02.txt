@@ -1,0 +1,23 @@
+Source: 13BCS21-000106-01.pdf | Page: 6 | Image: 13BCS21-000106-01_p06_02 (445x199px)
+------------------------------------------------------------
+CSIRT alerta por sitio fraudulento que suplanta al Banco de Chile 
+Alerta de seguridad cibernética 
+8FPH21-00401-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de mayo de 2021
+
+Última revisión 
+11 de mayo de 2021

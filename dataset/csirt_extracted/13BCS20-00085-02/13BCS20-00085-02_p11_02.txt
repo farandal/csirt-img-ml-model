@@ -1,0 +1,23 @@
+Source: 13BCS20-00085-02.pdf | Page: 11 | Image: 13BCS20-00085-02_p11_02 (188x261px)
+------------------------------------------------------------
+CSIRT informa phishing de cuenta temporalmente suspendida 
+Alerta de seguridad cibernética 
+8FPH20-00341-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de Diciembre de 2020
+
+Última revisión 
+15 de Diciembre de 2020

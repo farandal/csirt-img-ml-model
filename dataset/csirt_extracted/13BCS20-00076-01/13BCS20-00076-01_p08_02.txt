@@ -1,0 +1,23 @@
+Source: 13BCS20-00076-01.pdf | Page: 8 | Image: 13BCS20-00076-01_p08_02 (430x466px)
+------------------------------------------------------------
+CSIRT advierte phishing bancario por transferencia de beneficios social 
+Alerta de seguridad cibernética 
+8FPH20-00314-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de Octubre de 2020
+
+Última revisión 
+14 de Octubre de 2020

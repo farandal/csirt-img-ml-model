@@ -1,0 +1,23 @@
+Source: 13BCS20-00083-01.pdf | Page: 8 | Image: 13BCS20-00083-01_p08_02 (188x87px)
+------------------------------------------------------------
+CSIRT informa de malware con supuesta factura para pago 
+Alerta de seguridad cibernética 
+2CMV20-00109-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de Noviembre de 2020
+
+Última revisión 
+27 de Noviembre de 2020

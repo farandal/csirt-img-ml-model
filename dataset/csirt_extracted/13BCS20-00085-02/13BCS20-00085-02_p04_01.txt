@@ -1,0 +1,23 @@
+Source: 13BCS20-00085-02.pdf | Page: 4 | Image: 13BCS20-00085-02_p04_01 (188x115px)
+------------------------------------------------------------
+CSIRT informa sitio fraudulento de almacenamiento de archivos 
+Alerta de seguridad cibernética 
+8FFR20-00846-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de Diciembre de 2020
+
+Última revisión 
+11 de Diciembre de 2020

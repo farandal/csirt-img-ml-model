@@ -1,0 +1,23 @@
+Source: 13BCS21-000104-01.pdf | Page: 9 | Image: 13BCS21-000104-01_p09_01 (449x417px)
+------------------------------------------------------------
+CSIRT alerta por vulnerabilidad crítica en Citrix ShareFile 
+Alerta de seguridad cibernética 
+9VSA21-00432-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de abril de 2021
+
+Última revisión 
+28 de abril de 2021

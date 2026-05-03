@@ -1,0 +1,23 @@
+Source: 13BCS20-00071-01.pdf | Page: 14 | Image: 13BCS20-00071-01_p14_01 (428x372px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones de WhatsApp 
+Alerta de seguridad cibernética 
+9VSA20-00294-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+04 de Septiembre de 2020
+
+Última revisión 
+04 de Septiembre de 2020

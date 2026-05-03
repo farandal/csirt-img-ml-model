@@ -1,0 +1,23 @@
+Source: 13BCS20-00086-01.pdf | Page: 10 | Image: 13BCS20-00086-01_p10_01 (431x376px)
+------------------------------------------------------------
+CSIRT advierte campaña de malware con falsa factura 
+Alerta de seguridad cibernética 
+2CMV20-00120-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de Diciembre de 2020
+
+Última revisión 
+17 de Diciembre de 2020

@@ -1,0 +1,23 @@
+Source: 13BCS20-00084-01.pdf | Page: 4 | Image: 13BCS20-00084-01_p04_02 (430x548px)
+------------------------------------------------------------
+CSIRT advierte phishing por cierre de cuenta 
+Alerta de seguridad cibernética 
+8FPH20-00334-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+07 de Diciembre de 2020
+
+Última revisión 
+07 de Diciembre de 2020

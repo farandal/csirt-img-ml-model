@@ -1,0 +1,23 @@
+Source: 13BCS20-00083-01.pdf | Page: 7 | Image: 13BCS20-00083-01_p07_02 (188x82px)
+------------------------------------------------------------
+CSIRT informa phishing con supuesta actualización bancaria 
+Alerta de seguridad cibernética 
+8FPH20-00331-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de Noviembre de 2020
+
+Última revisión 
+27 de Noviembre de 2020

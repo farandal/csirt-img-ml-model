@@ -1,0 +1,40 @@
+Source: 13BCS21-000103-01.pdf | Page: 7 | Image: 13BCS21-000103-01_p07_01 (449x417px)
+------------------------------------------------------------
+CSIRT alerta de vulnerabilidades en Mozilla Thunderbird y Firefox 
+Alerta de seguridad cibernética 
+9VSA21-00425-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de abril de 2021
+
+Última revisión 
+20 de abril de 2021
+
+CVE 
+CVE-2021-23994 
+CVE-2021-23995 
+CVE-2021-23998 
+CVE-2021-23961 
+CVE-2021-23999 
+CVE-2021-24002 
+CVE-2021-29945
+
+CVE-2021-29946 
+CVE-2021-29948 
+CVE-2021-23996 
+CVE-2021-23997 
+CVE-2021-24000 
+CVE-2021-24001 
+CVE-2021-29947

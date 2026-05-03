@@ -1,0 +1,23 @@
+Source: 13BCS20-00069-01.pdf | Page: 21 | Image: 13BCS20-00069-01_p21_02 (431x374px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones obtenidas de Google 
+Alerta de seguridad cibernética 
+9VSA20-00288-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de Agosto de 2020
+
+Última revisión 
+21 de Agosto de 2020

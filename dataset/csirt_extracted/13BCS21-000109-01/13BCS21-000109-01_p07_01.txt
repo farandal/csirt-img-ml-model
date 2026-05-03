@@ -1,0 +1,23 @@
+Source: 13BCS21-000109-01.pdf | Page: 7 | Image: 13BCS21-000109-01_p07_01 (440x222px)
+------------------------------------------------------------
+CSIRT advierte de campaña de phishing del tipo «príncipe nigeriano» 
+Alerta de seguridad cibernética 
+8FPH21-00403-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de mayo de 2021
+
+Última revisión 
+28 de mayo de 2021

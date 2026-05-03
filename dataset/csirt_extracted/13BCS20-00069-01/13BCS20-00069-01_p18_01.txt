@@ -1,0 +1,23 @@
+Source: 13BCS20-00069-01.pdf | Page: 18 | Image: 13BCS20-00069-01_p18_01 (430x296px)
+------------------------------------------------------------
+CSIRT advierte de phishing de empresa de correos 
+Alerta de seguridad cibernética 
+8FPH20-00297-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de Agosto de 2020
+
+Última revisión 
+20 de Agosto de 2020

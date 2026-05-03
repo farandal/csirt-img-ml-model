@@ -1,0 +1,23 @@
+Source: 13BCS20-00081-01.pdf | Page: 8 | Image: 13BCS20-00081-01_p08_01 (430x184px)
+------------------------------------------------------------
+CSIRT advierte de smishing por bloqueo de tarjeta 
+Alerta de seguridad cibernética 
+8FPH20-00328-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de Noviembre de 2020
+
+Última revisión 
+16 de Noviembre de 2020

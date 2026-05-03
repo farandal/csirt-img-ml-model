@@ -1,0 +1,36 @@
+Source: 13BCS21-000109-01.pdf | Page: 9 | Image: 13BCS21-000109-01_p09_01 (449x417px)
+------------------------------------------------------------
+CSIRT alerta por vulnerabilidades de alto riesgo en Mozilla Firefox 
+Alerta de seguridad cibernética 
+9VSA21-00451-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+1 de junio de 2021
+
+Última revisión 
+1 de junio de 2021
+
+CVE 
+CVE-2021-29964 
+CVE-2021-29967 
+CVE-2021-29966
+
+CVE-2021-29965 
+CVE-2021-29960 
+CVE-2021-29961
+
+CVE-2021-29963 
+CVE-2021-29959 
+CVE-2021-29962

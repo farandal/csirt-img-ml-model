@@ -1,0 +1,23 @@
+Source: 13BCS20-00083-01.pdf | Page: 6 | Image: 13BCS20-00083-01_p06_01 (188x107px)
+------------------------------------------------------------
+CSIRT advierte portal falso de plataforma de firma electrónica 
+Alerta de seguridad cibernética 
+8FFR20-00842-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 de Noviembre de 2020
+
+Última revisión 
+30 de Noviembre de 2020

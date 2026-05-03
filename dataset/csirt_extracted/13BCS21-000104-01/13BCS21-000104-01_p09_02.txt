@@ -1,0 +1,72 @@
+Source: 13BCS21-000104-01.pdf | Page: 9 | Image: 13BCS21-000104-01_p09_02 (449x417px)
+------------------------------------------------------------
+CSIRT advierte de vulnerabilidades en varios productos de Red Hat 
+Alerta de seguridad cibernética 
+9VSA21-00433-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 de abril de 2021
+
+Última revisión 
+29 de abril de 2021
+
+CVE 
+CVE-2021-20305 
+CVE-2019-3884 
+CVE-2020-6829 
+CVE-2020-8566 
+CVE-2020-12400 
+CVE-2020-12403 
+CVE-2020-14372 
+CVE-2020-15157 
+CVE-2020-25632 
+CVE-2020-25647 
+CVE-2020-25658 
+CVE-2020-27749
+
+CVE-2020-27779 
+CVE-2020-28362 
+CVE-2021-3121 
+CVE-2021-3449 
+CVE-2021-3450 
+CVE-2021-20225 
+CVE-2021-20233 
+CVE-2021-20305 
+CVE-2020-25648 
+CVE-2020-25692 
+CVE-2021-3449 
+CVE-2021-3450
+
+CVE-2020-25678 
+CVE-2021-3139 
+CVE-2020-12723 
+CVE-2021-23961 
+CVE-2021-23994 
+CVE-2021-23995 
+CVE-2021-23998 
+CVE-2021-23999 
+CVE-2021-24002 
+CVE-2021-29945 
+CVE-2021-29946 
+CVE-2021-29948
+
+Fabricante 
+Red Hat 
+Productos afectados 
+thunderbird (Red Hat package): 78.3.1-1.el7_9 al 78.9.1-1.el7_9 
+Red Hat Enterprise Linux for x86_64 8 x86_64 
+Red Hat Enterprise Linux for IBM z Systems 8 s390x 
+Red Hat Enterprise Linux for Power, little endian 8 ppc64le 
+Red Hat Enterprise Linux for ARM 64 8 aarch64

@@ -1,0 +1,23 @@
+Source: 13BCS20-00077-01.pdf | Page: 11 | Image: 13BCS20-00077-01_p11_01 (431x377px)
+------------------------------------------------------------
+CSIRT comparte mitigaciones obtenidas de Google para explorador Chrome 
+Alerta de seguridad cibernética 
+9VSA20-00303-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de Octubre de 2020
+
+Última revisión 
+15 de Octubre de 2020

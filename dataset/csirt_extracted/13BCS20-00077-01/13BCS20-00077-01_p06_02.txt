@@ -1,0 +1,23 @@
+Source: 13BCS20-00077-01.pdf | Page: 6 | Image: 13BCS20-00077-01_p06_02 (431x348px)
+------------------------------------------------------------
+CSIRT advierte de web que suplanta a servicio de correo electrónico 
+Alerta de seguridad cibernética 
+8FFR20-00805-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de Octubre de 2020
+
+Última revisión 
+20 de Octubre de 2020

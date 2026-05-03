@@ -1,0 +1,65 @@
+Source: 13BCS20-00084-01.pdf | Page: 8 | Image: 13BCS20-00084-01_p08_01 (431x375px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones de vulnerabilidades de Microsoft 
+Alerta de seguridad cibernética 
+9VSA20-00333-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+03 de Diciembre de 2020
+
+Última revisión 
+03 de Diciembre de 2020
+
+CVE 
+CVE-2020-16996    -    CVE-2020-17124    -    CVE-2020-17142 
+CVE-2020-17094    -    CVE-2020-17125    -    CVE-2020-17143 
+CVE-2020-17095    -    CVE-2020-17126    -    CVE-2020-17144 
+CVE-2020-17096    -    CVE-2020-17127    -    CVE-2020-17147 
+CVE-2020-17098    -    CVE-2020-17128    -    CVE-2020-17148 
+CVE-2020-17099    -    CVE-2020-17129    -    CVE-2020-17152 
+CVE-2020-17115    -    CVE-2020-17130    -    CVE-2020-17153 
+CVE-2020-17119    -    CVE-2020-17132    -    CVE-2020-17156 
+CVE-2020-17120    -    CVE-2020-17133    -    CVE-2020-17158 
+CVE-2020-17121    -    CVE-2020-17138    -    CVE-2020-17160 
+CVE-2020-17122    -    CVE-2020-17140    -    CVE-2020-17123                           
+CVE-2020-17141 
+Vulnerabilidades adicionales informadas: 
+ADV200013            -    CVE-2020-17002    -    CVE-2020-17135 
+CVE-2020-16958    -   CVE-2020-17089    -    CVE-2020-17136 
+CVE-2020-16959    -    CVE-2020-17092    -    CVE-2020-17137 
+CVE-2020-16960    -    CVE-2020-17097    -    CVE-2020-17139 
+CVE-2020-16961    -    CVE-2020-17103    -    CVE-2020-17145 
+CVE-2020-16962    -    CVE-2020-17117    -    CVE-2020-17150 
+CVE-2020-16963    -    CVE-2020-17118    -    CVE-2020-17159 
+CVE-2020-16964    -    CVE-2020-17131    -    CVE-2020-16971                           
+CVE-2020-17134 
+Fabricante 
+Microsoft 
+Productos afectados 
+Azure DevOps Server 
+2019 Update 1.1 
+0.1 
+2020 
+Azure SDK for Java 
+Azure Sphere 
+C SDK for Azure IoT 
+ChakraCore 
+Dynamics 365 for Finance and Operations 
+Microsoft 365 Apps for Enterprise (para sistemas 32-bit y 64-bit) 
+Microsoft Dynamics 365 (on-premises) versiones 8.2 y 9.0 
+Microsoft Dynamics NAV 2015 
+Microsoft Edge (EdgeHTML-based) 
+Microsoft Edge for Android 
+Microsoft Excel

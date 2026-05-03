@@ -1,0 +1,23 @@
+Source: 13BCS20-00072-01.pdf | Page: 16 | Image: 13BCS20-00072-01_p16_01 (430x542px)
+------------------------------------------------------------
+CSIRT advierte phishing de supuesto crédito pre aprobado 
+Alerta de seguridad cibernética 
+8FPH20-00307-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de Septiembre de 2020
+
+Última revisión 
+15 de Septiembre de 2020

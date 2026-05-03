@@ -1,0 +1,23 @@
+Source: 13BCS20-00087-02.pdf | Page: 3 | Image: 13BCS20-00087-02_p03_02 (186x101px)
+------------------------------------------------------------
+CSIRT informa sitio fraudulento de herramienta de software 
+Alerta de seguridad cibernética 
+8FFR20-00860-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de Diciembre de 2020
+
+Última revisión 
+28 de Diciembre de 2020

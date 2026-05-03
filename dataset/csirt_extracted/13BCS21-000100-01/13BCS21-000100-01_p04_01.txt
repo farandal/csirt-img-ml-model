@@ -1,0 +1,23 @@
+Source: 13BCS21-000100-01.pdf | Page: 4 | Image: 13BCS21-000100-01_p04_01 (443x261px)
+------------------------------------------------------------
+CSIRT alerta por campañas de phishing y comparte IOC para monitoreo 
+Alerta de seguridad cibernética 
+2CMV21-00160-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+31 de marzo de 2021
+
+Última revisión 
+31 de marzo de 2021
