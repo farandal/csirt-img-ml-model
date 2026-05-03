@@ -1,0 +1,41 @@
+Source: 13BCS23-000262-01.pdf | Page: 6 | Image: 13BCS23-000262-01_p06_01 (737x368px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de mayo de 2024
+
+Última revisión 
+9 de mayo de 2024
+
+CVE, puntaje CVSS y EPSS al momento de la publicación 
+CVE-2024-21793 
+7.5 
+0.04%
+
+CVE-2024-26026 
+7.5 
+0.04%
+
+Fabricante 
+F5 
+Productos afectados 
+F5 BIG-IP Next Central Manager
+
+Desde 20.0.1 y anteriores a 20.2.0 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/vsa24-01012/
+
+ArubaOS - Vulnerabilidades 
+Código de alerta 
+VSA24-01013

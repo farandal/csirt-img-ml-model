@@ -1,0 +1,34 @@
+Source: 13BCS23-000242-01.pdf | Page: 10 | Image: 13BCS23-000242-01_p10_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de una nueva vulnerabilidad de día cero parchada 
+para Google Chrome 
+Alerta de seguridad cibernética 
+9VSA23-00945-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 diciembre, 2023
+
+Última revisión 
+21 diciembre, 2023
+
+CVE 
+CVE-2023-7024 
+Fabricante 
+Google Chrome 
+Productos afectados 
+Google Chrome, todas las versiones anteriores a la 1 20.0.6099.129 para Mac y 
+Linux y 120.0.6099.129/130 para Windows. 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa23-00945-01/

@@ -1,0 +1,33 @@
+Source: 13BCS23-000242-01.pdf | Page: 5 | Image: 13BCS23-000242-01_p05_02 (576x486px)
+------------------------------------------------------------
+CSIRT alerta de nuevo sitio fraudulento que suplanta a Hunter 
+Alerta de seguridad cibernética 
+8FFR23-01601-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 diciembre, 2023
+
+Última revisión 
+19 diciembre, 2023
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://www.bagsmodsa[.]shop/ 
+Dirección IP sitio falso 
+[45.141.156.98] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01601-01/
+
+4

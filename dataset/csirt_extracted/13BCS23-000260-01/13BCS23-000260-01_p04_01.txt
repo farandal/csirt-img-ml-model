@@ -1,0 +1,31 @@
+Source: 13BCS23-000260-01.pdf | Page: 4 | Image: 13BCS23-000260-01_p04_01 (800x533px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de abril de 2024
+
+Última revisión 
+23 de abril de 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://blueexpress.superman-url.buzz/slot 
+Dirección IP sitio falso 
+[162.62.53.33] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01680/
+
+Blue Express - Falsificación 
+Código de alerta 
+FFR24-01681

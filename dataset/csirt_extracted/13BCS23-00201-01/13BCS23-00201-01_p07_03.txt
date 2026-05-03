@@ -1,0 +1,31 @@
+Source: 13BCS23-00201-01.pdf | Page: 7 | Image: 13BCS23-00201-01_p07_03 (582x368px)
+------------------------------------------------------------
+CSIRT informa de página web que suplanta al Banco de Chile 
+Alerta de seguridad cibernética 
+8FFR23-01247-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 de marzo de 2023
+
+Última revisión 
+8 de marzo de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+https://is.gd/BancoChile 
+https://portal.persona.bancochile.cl.leadscop[.]com/1678304999/bchile-
+web/persona/login/index.html/login 
+Dirección IP 
+[68.66.216.59]

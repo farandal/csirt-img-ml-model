@@ -1,0 +1,23 @@
+Source: 13BCS23-000239-01.pdf | Page: 7 | Image: 13BCS23-000239-01_p07_02 (582x443px)
+------------------------------------------------------------
+CSIRT alerta de un nuevo sitio fraudulento que suplanta a Cencosud Scotiabank 
+Alerta de seguridad cibernética 
+8FFR23-01589-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 noviembre, 2023
+
+Última revisión 
+29 noviembre, 2023

@@ -1,0 +1,36 @@
+Source: 13BCS23-000242-01.pdf | Page: 4 | Image: 13BCS23-000242-01_p04_01 (585x361px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta a BancoEstado 
+Alerta de seguridad cibernética 
+8FPH23-00915-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 diciembre, 2023
+
+Última revisión 
+19 diciembre, 2023
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://patito.cdxblocker.ru[.]com/1702998746/imagenes/_personas/home/defa
+ult.asp 
+URL de redirección  
+https://procontroltotal[.]com/activacion/cuenta-ajwh/ 
+Dirección IP sitio falso 
+[154.26.158.144} 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8fph23-00915-01/
+
+3

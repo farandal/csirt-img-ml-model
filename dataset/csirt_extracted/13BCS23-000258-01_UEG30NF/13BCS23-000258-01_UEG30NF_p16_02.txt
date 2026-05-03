@@ -1,0 +1,93 @@
+Source: 13BCS23-000258-01_UEG30NF.pdf | Page: 16 | Image: 13BCS23-000258-01_UEG30NF_p16_02 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de abril de 2024
+
+Última revisión 
+11 de abril de 2024
+
+CVE y puntaje CVSS 
+CVE-2024-27899 
+8.8
+
+CVE-2024-25646 
+7.7
+
+CVE-2024-27901 
+7.2
+
+CVE-2024-30218 
+6.5
+
+CVE-2024-28167 
+6.5
+
+CVE-2022-29613 
+6.5
+
+CVE-2023-40306 
+6.1
+
+CVE-2024-27898 
+5.3
+
+CVE-2024-30214 
+4.8
+
+CVE-2024-30215 
+4.8
+
+CVE-2024-30216 
+4.3
+
+CVE-2024-30217 
+4.3
+
+Fabricante 
+SAP 
+Productos afectados 
+SAP NetWeaver AS Java User Management Engine 
+SERVERCORE 7.50 
+J2EE-APPS 7.50 
+UMEADMIN 7.50 
+SAP BusinessObjects Web Intelligence 
+4.2 
+4.3 
+SAP Asset Accounting 
+SAP_APPL 600 
+SAP_FIN617 
+SAP_FIN 618 
+SAP_FIN700 
+SAP Edge Integration Cell 
+Anteriores a 8.13.5 
+SAP NetWeaver AS ABAP and ABAP Platform 
+KRNL64NUC 7.22 
+KRNL64NUC 7.22EXT 
+KRNL64UC 7.22 
+KRNL64UC 7.22EXT 
+KRNL64UC 7.53 
+KERNEL 7.22 
+KERNEL 7.53 
+KERNEL 7.77 
+KERNEL 7.85 
+KERNEL 7.89 
+KERNEL 7.54 
+KERNEL 7.93 
+SAP Group Reporting Data Collection (Enter Package Data) 
+S4CORE 104 
+S4CORE 105 
+S4CORE 106
+
+15

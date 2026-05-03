@@ -1,0 +1,87 @@
+Source: 13BCS23-000260-01.pdf | Page: 16 | Image: 13BCS23-000260-01_p16_01 (831x468px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de abril de 2024
+
+Última revisión 
+25 de abril de 2024
+
+CVE, CVSS y EPSS 
+CVE-2024-3832 
+ 
+0.05%
+
+CVE-2024-3833 
+ 
+0.05%
+
+CVE-2024-3914 
+ 
+0.05%
+
+CVE-2024-3834 
+8.8 
+0.06%
+
+CVE-2024-3837 
+8.8 
+0.06%
+
+CVE-2024-3838 
+5.5 
+0.05%
+
+CVE-2024-3839 
+6.5 
+0.05%
+
+CVE-2024-3840 
+ 
+0.05%
+
+CVE-2024-3841 
+ 
+0.05%
+
+CVE-2024-3843 
+ 
+0.05%
+
+CVE-2024-3844 
+ 
+0.05%
+
+CVE-2024-3845 
+ 
+0.05%
+
+CVE-2024-3846 
+ 
+0.05%
+
+CVE-2024-3847 
+ 
+0.05%
+
+Fabricante 
+Google 
+Productos afectados 
+Google Chrome anterior a la version 124.0.6367.60/.61 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/vsa24-01008/
+
+Mozilla Firefox - Vulnerabilidades 
+Código de alerta 
+VSA24-01009

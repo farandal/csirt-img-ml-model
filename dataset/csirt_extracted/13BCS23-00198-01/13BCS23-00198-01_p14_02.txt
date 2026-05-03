@@ -1,0 +1,26 @@
+Source: 13BCS23-00198-01.pdf | Page: 14 | Image: 13BCS23-00198-01_p14_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades en la biblioteca de escaneo de terceros ClamAV 
+de Cisco 
+Alerta de seguridad cibernética 
+9VSA23-00789-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de febrero de 2023
+
+Última revisión 
+16 de febrero de 2023
+
+13

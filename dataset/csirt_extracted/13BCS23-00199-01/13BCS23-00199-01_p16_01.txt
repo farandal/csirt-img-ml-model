@@ -1,0 +1,23 @@
+Source: 13BCS23-00199-01.pdf | Page: 16 | Image: 13BCS23-00199-01_p16_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades y mitigaciones en FortiWeb 
+Alerta de seguridad cibernética 
+9VSA23-00792-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de febrero de 2023
+
+Última revisión 
+20 de febrero de 2023

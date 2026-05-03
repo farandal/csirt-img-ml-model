@@ -1,0 +1,25 @@
+Source: 13BCS23-00199-01.pdf | Page: 15 | Image: 13BCS23-00199-01_p15_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidad en FortiWan 
+Alerta de seguridad cibernética 
+9VSA23-00791-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de febrero de 2023
+
+Última revisión 
+17 de febrero de 2023
+
+14

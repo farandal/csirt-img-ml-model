@@ -1,0 +1,25 @@
+Source: 13BCS23-00198-01.pdf | Page: 5 | Image: 13BCS23-00198-01_p05_03 (1058x149px)
+------------------------------------------------------------
+CSIRT advierte sitio fraudulento del Banco Estado 
+Alerta de seguridad cibernética 
+8FFR23-01210-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de febrero de 2023
+
+Última revisión 
+15 de febrero de 2023
+
+4

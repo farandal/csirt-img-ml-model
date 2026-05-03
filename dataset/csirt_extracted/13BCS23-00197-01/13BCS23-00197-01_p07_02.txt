@@ -1,0 +1,26 @@
+Source: 13BCS23-00197-01.pdf | Page: 7 | Image: 13BCS23-00197-01_p07_02 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta a BancoEstado con falso 
+crédito Fogape 
+Alerta de seguridad cibernética 
+8FPH23-00744-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de febrero de 2023
+
+Última revisión 
+9 de febrero de 2023
+
+6

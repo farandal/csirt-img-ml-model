@@ -1,0 +1,32 @@
+Source: 13BCS23-00200-01.pdf | Page: 6 | Image: 13BCS23-00200-01_p06_01 (641x563px)
+------------------------------------------------------------
+CSIRT advierte sitio web que suplanta a The North Face 
+Alerta de seguridad cibernética 
+8FFR23-01229-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de febrero de 2023
+
+Última revisión 
+27 de febrero de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+http[:]//www.nfcl[.]shop/ 
+Dirección IP 
+[172.67.132.98] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Falsificaci%C3%B3n%20de%20Regis
+tros%20o%20Identidad_8FFR23-01229-01.txt

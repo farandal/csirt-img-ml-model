@@ -1,0 +1,33 @@
+Source: 13BCS23-000253-01.pdf | Page: 6 | Image: 13BCS23-000253-01_p06_01 (733x545px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+4 de marzo, 2024
+
+Última revisión 
+4 de marzo, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://www.login-portal-bancochile-cl-login-portal-bancochile-
+cl.techintersections[.]online/1709564331/bancochile-
+web/persona/login/index.html/login 
+Dirección IP sitio falso 
+[43.250.249.65] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01656-01/
+
+CSIRT advierte nuevo sitio falso que suplanta a Prana 
+Código de alerta 
+8FFR23-01657-01

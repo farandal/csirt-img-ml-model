@@ -1,0 +1,32 @@
+Source: 13BCS23-000252-01.pdf | Page: 7 | Image: 13BCS23-000252-01_p07_01 (747x601px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 febrero, 2024
+
+Última revisión 
+28 febrero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://portal-mlbanncochile.skillio[.]online/1709123716/bchile-
+web/persona/login/index.html/login 
+Dirección IP sitio falso 
+[162.241.85.202] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01650-01/
+
+CSIRT advierte nuevo sitio falso que suplanta al Banco de Chile 
+Código de alerta 
+8FFR23-01651-01

@@ -1,0 +1,36 @@
+Source: 13BCS23-000262-01.pdf | Page: 5 | Image: 13BCS23-000262-01_p05_01 (714x547px)
+------------------------------------------------------------
+BancoEstado - Phishing 
+Alerta de seguridad cibernética 
+FPH24-00957
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 de mayo de 2024
+
+Última revisión 
+6 de mayo de 2024
+
+Indicadores de compromiso 
+Asunto email 
+CUENTA SUSPENDIDA 
+URL del sitio falso 
+https://patito.larissakovalchuk.com/1715002357/imagenes/_personas/home/def
+ault.asp 
+URL sitio redirección 
+https://temucoproduce.com/activacion/cuenta-nldo/ 
+Dirección IP sitio falso 
+[122.201.66.57] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/fph24-00957/

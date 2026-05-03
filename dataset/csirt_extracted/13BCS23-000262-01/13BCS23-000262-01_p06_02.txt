@@ -1,0 +1,67 @@
+Source: 13BCS23-000262-01.pdf | Page: 6 | Image: 13BCS23-000262-01_p06_02 (737x368px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de mayo de 2024
+
+Última revisión 
+9 de mayo de 2024
+
+CVE y EPSS al momento de la publicación 
+CVE-2024-23706 
+ 
+0.04%
+
+CVE-2024-0024
+
+CVE-2024-0025
+
+CVE-2024-23705
+
+CVE-2024-23708
+
+CVE-2024-0043
+
+CVE-2024-23707
+
+CVE-2024-23709
+
+CVE-2023-4622
+
+CVE-2023-6363 
+CVE-2024-1067
+
+CVE-2024-1395
+
+CVE-2023-32871
+
+CVE-2023-32873
+
+CVE-2024-20056
+
+CVE-2024-20057
+
+CVE-2024-21471
+
+CVE-2024-21475
+
+CVE-2024-23351
+
+CVE-2024-23354
+
+CVE-2023-33119
+
+CVE-2023-43529
+
+5

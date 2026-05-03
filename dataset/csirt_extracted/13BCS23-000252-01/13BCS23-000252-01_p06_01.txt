@@ -1,0 +1,35 @@
+Source: 13BCS23-000252-01.pdf | Page: 6 | Image: 13BCS23-000252-01_p06_01 (744x652px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 febrero, 2024
+
+Última revisión 
+27 febrero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://2clic[.]cl/hash/mrcashontoday/nkgznkgznkgznkgznkgz/{mail_base64} 
+URL de redirección 
+https://pub-
+6d14884aef4340699713f62a9bfcaa8d[.]r2.dev/myeubkhjgfsdhfjbvyugjkyutdghcb
+xgfdhjkhliyufgcxfdhgfjkh.html# 
+Dirección IP sitio falso 
+[104.18.3.35] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01647-01/
+
+CSIRT advierte nuevo sitio falso que suplanta a Blue Express 
+Código de alerta 
+8FFR23-01648-01

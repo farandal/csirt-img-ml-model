@@ -1,0 +1,39 @@
+Source: 13BCS23-000257-01.pdf | Page: 7 | Image: 13BCS23-000257-01_p07_01 (641x595px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 marzo, 2024
+
+Última revisión 
+28 marzo, 2024
+
+CVE 
+CVE-2023-4408
+
+Fabricante 
+BIND 
+Productos afectados 
+9.0.0 a 9.16.45 
+9.18.0 a 9.18.21 
+9.19.0 a 9.19.19 
+9.9.3-S1 a 9.11.37-S1 
+9.16.8-S1 a 9.11.37-S1 
+9.16.8-S1 a 9.16.45-S1 
+9.18.11-S1 a 9.18.21-S1 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/9vsa24-00992/
+
+ZX Utils - Vulnerabilidad 
+Código de alerta 
+VSA24-00993

@@ -1,0 +1,29 @@
+Source: 13BCS23-000264-01.pdf | Page: 6 | Image: 13BCS23-000264-01_p06_03 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de mayo de 2024
+
+Última revisión 
+20 de mayo de 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://www.timberland-chile.cl 
+Dirección IP sitio falso 
+[172.67.148.127] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01686/
+
+5

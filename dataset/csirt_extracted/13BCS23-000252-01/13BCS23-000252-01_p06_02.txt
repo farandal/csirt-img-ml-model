@@ -1,0 +1,31 @@
+Source: 13BCS23-000252-01.pdf | Page: 6 | Image: 13BCS23-000252-01_p06_02 (533x466px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 febrero, 2024
+
+Última revisión 
+27 febrero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://bluexpre.inparx[.]top/slot 
+Dirección IP sitio falso 
+[162.62.53.33] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01648-01/
+
+CSIRT advierte nuevo sitio falso que suplanta a Amazon 
+Código de alerta 
+8FFR23-01649-01

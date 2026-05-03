@@ -1,0 +1,38 @@
+Source: 13BCS23-000255-01.pdf | Page: 9 | Image: 13BCS23-000255-01_p09_01 (641x595px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 marzo, 2024
+
+Última revisión 
+19 marzo, 2024
+
+CVE 
+CVE-2024-20320 
+CVE-2024-20327 
+CVE-2024-20318
+
+CVE-2023-20236 
+CVE-2024-20262
+
+CVE-2024-20315 
+CVE-2024-20322
+
+CVE-2024-20266 
+CVE-2024-20319
+
+CSIRT comparte información de vulnerabilidades parchadas en Google Chrome 
+123 
+Código de alerta 
+9VSA24-00989-01

@@ -1,0 +1,24 @@
+Source: 13BCS23-000239-01.pdf | Page: 8 | Image: 13BCS23-000239-01_p08_02 (794x372px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta al SII, difundiendo el 
+malware Mekotio 
+Alerta de seguridad cibernética 
+2CMV23-00437-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 noviembre, 2023
+
+Última revisión 
+28 noviembre, 2023

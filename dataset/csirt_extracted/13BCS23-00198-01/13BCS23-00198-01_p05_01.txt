@@ -1,0 +1,23 @@
+Source: 13BCS23-00198-01.pdf | Page: 5 | Image: 13BCS23-00198-01_p05_01 (641x404px)
+------------------------------------------------------------
+CSIRT alerta de página fraudulenta que suplanta a Columbia 
+Alerta de seguridad cibernética 
+8FFR23-01209-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de febrero de 2023
+
+Última revisión 
+14 de febrero de 2023

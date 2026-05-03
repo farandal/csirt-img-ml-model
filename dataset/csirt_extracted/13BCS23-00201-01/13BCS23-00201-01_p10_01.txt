@@ -1,0 +1,34 @@
+Source: 13BCS23-00201-01.pdf | Page: 10 | Image: 13BCS23-00201-01_p10_01 (582x428px)
+------------------------------------------------------------
+CSIRT informa campaña de phishing que suplanta a BancoEstado 
+Alerta de seguridad cibernética 
+8FPH23-00767-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de marzo de 2023
+
+Última revisión 
+9 de marzo de 2023
+
+Indicadores de compromiso 
+URL redirección 
+https://apply.mituniversity.edu[.]in/activacion/banca-en-linea/ 
+URL sitio falso 
+https://underfilehomestado[.]top/1678193232/imagenes/_personas/home/defa
+ult.asp 
+Dirección IP  
+[202.89.39.2] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Phishing_8FPH23-00767-01.txt

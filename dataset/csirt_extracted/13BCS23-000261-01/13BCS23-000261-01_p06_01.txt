@@ -1,0 +1,34 @@
+Source: 13BCS23-000261-01.pdf | Page: 6 | Image: 13BCS23-000261-01_p06_01 (747x562px)
+------------------------------------------------------------
+Zimbra - Phishing 
+Alerta de seguridad cibernética 
+FPH24-00956
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 de abril de 2024
+
+Última revisión 
+30 de abril de 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://ipfs.io/ipfs/bafybeih4wwljr3lg6fxunpfgmjpqlwhihybtxvvbn5wesic6ii6wdjiz
+fm/eso.com.mk.htm 
+Dirección IP sitio falso 
+[209.94.90.1] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/fph24-00956/
+
+5

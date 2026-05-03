@@ -1,0 +1,31 @@
+Source: 13BCS23-000243-01-.pdf | Page: 11 | Image: 13BCS23-000243-01-_p11_02 (736x506px)
+------------------------------------------------------------
+CSIRT advierte nuevo sitio falso que suplanta a Essentials 
+Alerta de seguridad cibernética 
+8FFR23-01626-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 diciembre, 2023
+
+Última revisión 
+27 diciembre, 2023
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://essentialshoodiechile[.]com/ 
+Dirección IP sitio falso 
+[196.196.192.136] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01626-01/

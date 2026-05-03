@@ -1,0 +1,34 @@
+Source: 13BCS23-000259-01.pdf | Page: 8 | Image: 13BCS23-000259-01_p08_02 (831x468px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de abril de 2024
+
+Última revisión 
+17 de abril de 2024
+
+CVE 
+CVE-2024-31497 
+Fabricante 
+Varios 
+Productos afectados 
+PuTTY 0.68 a 0.80 
+FileZilla 3.24.1 a 3.66.5 
+WinSCP 5.9.5 a 6.3.2 
+TortoiseGit 2.4.0.2 a 2.15.0 
+TortoiseSVN 1.10.0 a 1.14.6 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/vsa24-01003/
+
+7

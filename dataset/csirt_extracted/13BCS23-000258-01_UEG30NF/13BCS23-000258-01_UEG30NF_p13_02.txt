@@ -1,0 +1,58 @@
+Source: 13BCS23-000258-01_UEG30NF.pdf | Page: 13 | Image: 13BCS23-000258-01_UEG30NF_p13_02 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de abril de 2024
+
+Última revisión 
+10 de abril de 2024
+
+CVE y puntaje CVSS 
+CVE-2023-45590 
+9.4
+
+CVE-2024-21756 
+8.6
+
+CVE-2024-21755 
+8.6
+
+CVE-2024-23671 
+7.9
+
+CVE-2023-45588 
+7.8
+
+CVE-2024-31492 
+7.8
+
+CVE-2023-41677 
+7.5
+
+CVE-2023-48784 
+6.1
+
+CVE-2024-23662 
+5
+
+Fabricante 
+Fortinet 
+Productos afectados 
+FortiClientLinux 
+7.2.0 
+7.0.6 a 7.0.10 
+7.0.3 a 7.0.4 
+FortiOS
+
+12

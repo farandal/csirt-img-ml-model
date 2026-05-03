@@ -1,0 +1,41 @@
+Source: 13BCS23-000252-01.pdf | Page: 9 | Image: 13BCS23-000252-01_p09_01 (641x595px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 febrero, 2024
+
+Última revisión 
+29 febrero, 2024
+
+CVE 
+CVE-2024-20321 
+Fabricante 
+Cisco 
+Productos afectados 
+Conmutadores Cisco Nexus serie 3600 y a las tarjetas de línea Cisco Nexus 9500 
+serie R si ejecutan una versión vulnerable del software Cisco NX-OS y tienen 
+funcionalidad BGP con al menos un vecino BGP (par) configurado con un Valor 
+del sistema autónomo (AS) y tienen uno de los siguientes ID de producto de 
+Cisco:  
+N3K-C36180YC-R 
+N3K-C3636C-R 
+N9K-X9624D-R2 
+N9K-X9636C-R 
+N9K-X9636C-RX 
+N9K-X9636Q-R 
+N9K-X96136YC-R 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00980-01/
+
+8

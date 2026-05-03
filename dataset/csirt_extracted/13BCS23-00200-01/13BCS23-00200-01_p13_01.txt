@@ -1,0 +1,34 @@
+Source: 13BCS23-00200-01.pdf | Page: 13 | Image: 13BCS23-00200-01_p13_01 (570x588px)
+------------------------------------------------------------
+CSIRT alerta campaña de phishing que suplanta al Banco Ripley  
+Alerta de seguridad cibernética 
+8FPH23-00761-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de febrero de 2023
+
+Última revisión 
+28 de febrero de 2023
+
+Indicadores de compromiso 
+URL redirección 
+https://bit[.]ly/3IYb3X7?l=www.bancoripley.cl 
+https://sam-tech[.]jp/bancoripley/cuenta-fvrq/ 
+URL sitio falso 
+https://web.banco-ripleycl.awadgallery.co[.]uk/1677608708/login 
+Dirección IP 
+[148.113.159.144] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Phishing_8FPH23-00761-01.txt

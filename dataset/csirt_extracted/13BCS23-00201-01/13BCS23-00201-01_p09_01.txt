@@ -1,0 +1,34 @@
+Source: 13BCS23-00201-01.pdf | Page: 9 | Image: 13BCS23-00201-01_p09_01 (717x590px)
+------------------------------------------------------------
+CSIRT alerta de campaña de smishing que suplanta a BancoEstado 
+Alerta de seguridad cibernética 
+8FPH23-00764-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 de marzo de 2023
+
+Última revisión 
+6 de marzo de 2023
+
+Indicadores de compromiso 
+URL redirección 
+https[:]//contawebnwm[.]com/activacion/cuenta-wwnq/ 
+URL sitio falso 
+https[:]//nwmepsonpatito[.]top/1678107788/imagenes/_personas/home/default
+.asp 
+Dirección IP 
+[172.67.173.125] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Phishing_8FPH23-00764-01.txt

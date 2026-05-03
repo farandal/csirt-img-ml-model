@@ -1,0 +1,51 @@
+Source: 13BCS23-000265-01.pdf | Page: 8 | Image: 13BCS23-000265-01_p08_01 (821x413px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 de mayo de 2024
+
+Última revisión 
+30 de mayo de 2024
+
+CVE y puntaje CVSS y EPSS al momento de la publicación 
+CVE-2024-24919        7.5          1.85% 
+Fabricante 
+Check Point 
+Productos afectados 
+Check Point Remote Access VPN
+
+R80.20.x, R80.20SP (EOL), R80.40 (EOL), R81, R81.10, R81.10.x y 
+R81.20 
+Quantum Security Gateway  
+R80.20.x, R80.20SP (EOL), R80.40 (EOL), R81, R81.10, R81.10.x y 
+R81.20 
+CloudGuard Network Security
+
+R80.20.x, R80.20SP (EOL), R80.40 (EOL), R81, R81.10, R81.10.x y 
+R81.20 
+Quantum Maestro  
+R80.20.x, R80.20SP (EOL), R80.40 (EOL), R81, R81.10, R81.10.x y 
+R81.20 
+Quantum Scalable Chassis
+
+R80.20.x, R80.20SP (EOL), R80.40 (EOL), R81, R81.10, R81.10.x y 
+R81.20 
+Quantum Spark Gateways
+
+R80.20.x, R80.20SP (EOL), R80.40 (EOL), R81, R81.10, R81.10.x y 
+R81.20 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/vsa24-01022/
+
+7

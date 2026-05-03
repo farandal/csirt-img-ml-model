@@ -1,0 +1,24 @@
+Source: 13BCS23-000241-01.pdf | Page: 5 | Image: 13BCS23-000241-01_p05_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de nuevas vulnerabilidades parchadas en Google 
+Chrome 120 
+Alerta de seguridad cibernética 
+9VSA23-00941-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+7 diciembre, 2023
+
+Última revisión 
+7 diciembre, 2023

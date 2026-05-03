@@ -1,0 +1,63 @@
+Source: 13BCS23-000265-01.pdf | Page: 6 | Image: 13BCS23-000265-01_p06_01 (682x600px)
+------------------------------------------------------------
+Falso email llamando a cambiar contraseña - Phishing 
+Alerta de seguridad cibernética 
+FPH24-00960
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de mayo de 2024
+
+Última revisión 
+27 de mayo de 2024
+
+Indicadores de compromiso 
+URL redirección 
+http://suf-ksa.com/web/CBS/index.php?email={Correoelectronico} 
+URL del sitio falso 
+http://suf-ksa.com/web/CBS/dood? 
+Dirección IP sitio falso 
+[162.215.249.101] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/fph24-00960/
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de mayo de 2024
+
+Última revisión 
+28 de mayo de 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://cloudflare-
+ipfs.com/ipfs/bafkreifsywq3tkrz26zoy7afydj73vkbnsd4jrqg7qyntoe7m4xibpdvyq?
+filename=Login-INBOX%2520%25281%2529last.html#{Correoelectronico} 
+Dirección IP sitio falso 
+[45.137.22.144] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/fph24-00961/
+
+5

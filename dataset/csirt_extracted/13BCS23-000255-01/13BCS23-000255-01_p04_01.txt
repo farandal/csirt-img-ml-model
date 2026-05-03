@@ -1,0 +1,36 @@
+Source: 13BCS23-000255-01.pdf | Page: 4 | Image: 13BCS23-000255-01_p04_01 (582x378px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de marzo, 2024
+
+Última revisión 
+20 de marzo, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://correos-cl-seguimiento.correos-
+cl[.]sbs/seguimiento/seguimiento/seguimiento.html 
+URL de redirección  
+https://del-
+norte[.]autos/correos?https://www.correos.cl/documents/20123/33943275/ 
+Dirección IP sitio falso 
+[104.21.4.92] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8fph24-00940-01/
+
+CSIRT alerta de una nueva campaña de phishing que suplanta al Servicio de Salud 
+Metropolitana Oriente 
+Código de alerta 
+8FPH24-00941-01

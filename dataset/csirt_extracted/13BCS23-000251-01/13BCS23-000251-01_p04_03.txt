@@ -1,0 +1,34 @@
+Source: 13BCS23-000251-01.pdf | Page: 4 | Image: 13BCS23-000251-01_p04_03 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing en falso aviso de cambio de 
+contraseña 
+Alerta de seguridad cibernética 
+8FPH24-00930-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 febrero, 2024
+
+Última revisión 
+16 febrero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://share.formbold[.]com/6M7G7 
+Dirección IP sitio falso 
+[172.67.160.57] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8fph24-00930-01/
+
+3

@@ -1,0 +1,32 @@
+Source: 13BCS23-00200-01.pdf | Page: 8 | Image: 13BCS23-00200-01_p08_01 (640x509px)
+------------------------------------------------------------
+CSIRT alerta sitio web falso de Vans 
+Alerta de seguridad cibernética 
+8FFR23-01233-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de febrero de 2023
+
+Última revisión 
+28 de febrero de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+https://www.cl-vans[.]shop/ 
+Dirección IP 
+[104.21.6.155] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Falsificaci%C3%B3n%20de%20Regis
+tros%20o%20Identidad_8FFR23-01233-01.txt

@@ -1,0 +1,33 @@
+Source: 13BCS23-00199-01.pdf | Page: 14 | Image: 13BCS23-00199-01_p14_02 (1058x149px)
+------------------------------------------------------------
+CSIRT advierte campaña de phishing con malware que suplanta al Tribunal 
+Supremo 
+Alerta de seguridad cibernética 
+2CMV23-00400-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de febrero de 2023
+
+Última revisión 
+21 de febrero de 2023
+
+Indicadores de compromiso 
+Asunto 
+Invitación de la Corte
+
+Correo de Salida 
+Ana.k@tribunalsupremo.com
+
+13

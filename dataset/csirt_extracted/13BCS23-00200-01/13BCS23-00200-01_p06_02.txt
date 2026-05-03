@@ -1,0 +1,35 @@
+Source: 13BCS23-00200-01.pdf | Page: 6 | Image: 13BCS23-00200-01_p06_02 (641x553px)
+------------------------------------------------------------
+CSIRT alerta página web que suplanta a BancoEstado 
+Alerta de seguridad cibernética 
+8FFR23-01230-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de febrero de 2023
+
+Última revisión 
+27 de febrero de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+https://is[.]gd/ojfa8m 
+https://inicio.bancoestado-cl[.]com/login 
+Dirección IP 
+[172.67.171.139] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Falsificaci%C3%B3n%20de%20Regis
+tros%20o%20Identidad_8FFR23-01230-01.txt
+
+5

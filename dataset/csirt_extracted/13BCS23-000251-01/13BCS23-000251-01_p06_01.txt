@@ -1,0 +1,33 @@
+Source: 13BCS23-000251-01.pdf | Page: 6 | Image: 13BCS23-000251-01_p06_01 (722x612px)
+------------------------------------------------------------
+CSIRT advierte nuevo sitio falso que suplanta a Armani Exchange 
+Alerta de seguridad cibernética 
+8FFR23-01645-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 febrero, 2024
+
+Última revisión 
+21 febrero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://www.armaniexchange-chile[.]com 
+Dirección IP sitio falso 
+[196.196.192.140] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01645-01/
+
+5

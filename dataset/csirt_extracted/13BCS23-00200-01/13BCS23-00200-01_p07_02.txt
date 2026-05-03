@@ -1,0 +1,35 @@
+Source: 13BCS23-00200-01.pdf | Page: 7 | Image: 13BCS23-00200-01_p07_02 (580x569px)
+------------------------------------------------------------
+CSIRT alerta de página web que suplanta a Publimetro 
+Alerta de seguridad cibernética 
+8FFR23-01232-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de febrero de 2023
+
+Última revisión 
+28 de febrero de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+https://zarinazira[.]com/?subid2=649023540604&subid3=www.csirt.gob.cl&gclid
+=EAIaIQobChMIx57109q4_QIVUtz9BR14vwL_EAEYASAAEgK7iPD_BwE 
+Dirección IP 
+[104.21.4.23] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Falsificaci%C3%B3n%20de%20Regis
+tros%20o%20Identidad_8FFR23-01232-01.txt
+
+6

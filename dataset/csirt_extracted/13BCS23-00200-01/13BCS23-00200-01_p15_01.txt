@@ -1,0 +1,38 @@
+Source: 13BCS23-00200-01.pdf | Page: 15 | Image: 13BCS23-00200-01_p15_01 (641x454px)
+------------------------------------------------------------
+CSIRT advierte campaña de phishing con malware que suplanta a la Fiscalía 
+General de la República 
+Alerta de seguridad cibernética 
+2CMV23-00401-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de febrero de 2023
+
+Última revisión 
+24 de febrero de 2023
+
+Indicadores de compromiso 
+Asunto 
+Mensaje importante! ID:   (205969) 
+Correo de Salida 
+root@vghj27.adslmails.com 
+SHA256   
+8c2e2fede8c77f25b1555daf88461e0346c76218cba0ed6ada937c303e5cd8e8 
+68f74d929f9a07e87fa3927a1f762d9ce8611532345c2bc4c6e443dbfcbe24e8 
+be9f858306daf9c886fbe579db2f788a21a5531c7d0028b6d663fac43ffaeb0c 
+447670a3d9e3843a7d1758eb77842c8b5a9cd817ee1bc335c5adce43df64fa8b 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/CodigoMalicioso/blob/main/Phishing-
+Malware_2CMV23-00401-01.txt

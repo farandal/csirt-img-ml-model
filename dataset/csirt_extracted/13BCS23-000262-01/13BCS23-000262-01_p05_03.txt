@@ -1,0 +1,37 @@
+Source: 13BCS23-000262-01.pdf | Page: 5 | Image: 13BCS23-000262-01_p05_03 (1058x149px)
+------------------------------------------------------------
+BancoEstado - Phishing 
+Alerta de seguridad cibernética 
+FPH24-00958
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 de mayo de 2024
+
+Última revisión 
+6 de mayo de 2024
+
+Indicadores de compromiso 
+Asunto email 
+EmaiI Service Request - Action Alert for interior.gob.cl FINALWARNING!!! 
+URL del sitio falso 
+https://cloudflare-
+ipfs.com/ipfs/bafybeidihzirgfqlcmm3hlceu4wshnbxk5m7cjrraps73rzwwam2rtpho
+m/login-update%20%281%29.html#{Correoelectronico} 
+Dirección IP sitio falso 
+[104.17.96.13] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/fph24-00958/
+
+4

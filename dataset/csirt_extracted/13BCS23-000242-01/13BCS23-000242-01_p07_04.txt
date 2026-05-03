@@ -1,0 +1,35 @@
+Source: 13BCS23-000242-01.pdf | Page: 7 | Image: 13BCS23-000242-01_p07_04 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta nuevo sitio fraudulento que suplanta a Banco Consorcio 
+Alerta de seguridad cibernética 
+8FFR23-01607-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 diciembre, 2023
+
+Última revisión 
+20 diciembre, 2023
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://servicioscoconsorcioempresas[.]com/1703097711/empresas/login 
+Dirección IP sitio falso 
+[51.79.176.23] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01607-01/
+
+CSIRT alerta de nuevo sitio fraudulento que suplanta a Stussy
+
+6

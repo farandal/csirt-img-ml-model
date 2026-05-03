@@ -1,0 +1,43 @@
+Source: 13BCS23-000261-01.pdf | Page: 7 | Image: 13BCS23-000261-01_p07_01 (836x470px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 de mayo de 2024
+
+Última revisión 
+2 de mayo de 2024
+
+CVE, puntaje CVSS y EPSS al momento de la publicación 
+CVE-2024-4058 
+8.8 
+0.04%
+
+CVE-2024-4059 
+6.5 
+0.04%
+
+CVE-2024-4060 
+8.8 
+0.04%
+
+Fabricante 
+Google 
+Productos afectados 
+Google Chrome 124 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/vsa24-01010/
+
+ArubaOS - Vulnerabilidades 
+Código de alerta 
+VSA24-01011

@@ -1,0 +1,32 @@
+Source: 13BCS23-00201-01.pdf | Page: 8 | Image: 13BCS23-00201-01_p08_02 (1058x149px)
+------------------------------------------------------------
+CSIRT advierte sitio web falso que suplanta a Empresas Copec 
+Alerta de seguridad cibernética 
+8FFR23-01248-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de marzo de 2023
+
+Última revisión 
+9 de marzo de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+https://www.lavozcalchaqui[.]com/ 
+Dirección IP 
+[172.67.203.208] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Falsificaci%C3%B3n%20de%20Regis
+tros%20o%20Identidad_8FFR23-01248-01.txt

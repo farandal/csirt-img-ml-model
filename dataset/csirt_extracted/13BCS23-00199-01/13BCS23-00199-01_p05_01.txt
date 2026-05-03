@@ -1,0 +1,23 @@
+Source: 13BCS23-00199-01.pdf | Page: 5 | Image: 13BCS23-00199-01_p05_01 (664x639px)
+------------------------------------------------------------
+CSIRT advierte sitio web que suplanta a Colloky 
+Alerta de seguridad cibernética 
+8FFR23-01215-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de febrero de 2023
+
+Última revisión 
+17 de febrero de 2023

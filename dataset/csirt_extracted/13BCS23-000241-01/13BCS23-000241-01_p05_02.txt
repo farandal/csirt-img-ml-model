@@ -1,0 +1,26 @@
+Source: 13BCS23-000241-01.pdf | Page: 5 | Image: 13BCS23-000241-01_p05_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades parchadas por Apple para varios 
+dispositivos 
+Alerta de seguridad cibernética 
+9VSA23-00942-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 diciembre, 2023
+
+Última revisión 
+12 diciembre, 2023
+
+4

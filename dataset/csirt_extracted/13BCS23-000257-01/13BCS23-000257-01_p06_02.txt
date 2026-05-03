@@ -1,0 +1,28 @@
+Source: 13BCS23-000257-01.pdf | Page: 6 | Image: 13BCS23-000257-01_p06_02 (670x314px)
+------------------------------------------------------------
+Alerta General - Phishing 
+Alerta de seguridad cibernética 
+FPH24-00944
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 de abril de 2024
+
+Última revisión 
+2 de abril de 2024
+
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/fph24-00945/
+
+5

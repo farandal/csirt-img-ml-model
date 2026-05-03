@@ -1,0 +1,31 @@
+Source: 13BCS23-000243-01-.pdf | Page: 6 | Image: 13BCS23-000243-01-_p06_02 (732x497px)
+------------------------------------------------------------
+CSIRT advierte sitio falso que suplanta a Trapstar 
+Alerta de seguridad cibernética 
+8FFR23-01611-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 diciembre, 2023
+
+Última revisión 
+22 diciembre, 2023
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://www.trapstarchiletienda[.]com 
+Dirección IP sitio falso 
+[165.231.10.33] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01611-01/

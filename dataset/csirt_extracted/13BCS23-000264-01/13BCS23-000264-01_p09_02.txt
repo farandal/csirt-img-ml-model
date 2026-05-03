@@ -1,0 +1,67 @@
+Source: 13BCS23-000264-01.pdf | Page: 9 | Image: 13BCS23-000264-01_p09_02 (737x368px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de mayo de 2024
+
+Última revisión 
+23 de mayo de 2024
+
+CVE y CVSS al momento de la publicación 
+CVE-2024-29822 
+9.6
+
+CVE-2024-29823 
+9.6
+
+CVE-2024-29824 
+9.6
+
+CVE-2024-29825 
+9.6
+
+CVE-2024-29826 
+9.6
+
+CVE-2024-29827 
+9.6
+
+CVE-2024-29828 
+8.4
+
+CVE-2024-29829 
+8.4
+
+CVE-2024-29830 
+8.4
+
+CVE-2024-29846 
+8.4
+
+CVE-2024-29848 
+7.2
+
+Fabricante 
+Ivanti 
+Productos afectados 
+Ivanti Endpoint Manager (EPM)
+
+2022 SU5 y anteriores 
+Ivanti Avalanche
+
+6.4.3.602 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/vsa24-01020
+
+8

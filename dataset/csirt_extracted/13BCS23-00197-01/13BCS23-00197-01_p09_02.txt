@@ -1,0 +1,25 @@
+Source: 13BCS23-00197-01.pdf | Page: 9 | Image: 13BCS23-00197-01_p09_02 (641x595px)
+------------------------------------------------------------
+CSIRT informa de vulnerabilidad severa en BIG-IP de F5 
+Alerta de seguridad cibernética 
+9VSA23-00782-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+3 de febrero de 2023
+
+Última revisión 
+3 de febrero de 2023
+
+8

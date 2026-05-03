@@ -1,0 +1,35 @@
+Source: 13BCS23-000252-01.pdf | Page: 5 | Image: 13BCS23-000252-01_p05_01 (738x487px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 febrero, 2024
+
+Última revisión 
+29 febrero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://wwwstcursomasxfors[.]com/1709230736/imagenes/_personas/home/def
+ault.asp 
+URL redirección 
+https://unloackrtmconders[.]com/activacion/cuenta-nioj/ 
+https://bestad0[.]cf/personas_bancoestado/ 
+Dirección IP sitio falso 
+[198.27.78.113] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8fph24-00935-01/
+
+CSIRT advierte nuevo sitio falso que suplanta a ABCDIN 
+Código de alerta 
+8FFR23-01646-01

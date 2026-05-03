@@ -1,0 +1,35 @@
+Source: 13BCS23-00201-01.pdf | Page: 7 | Image: 13BCS23-00201-01_p07_02 (582x479px)
+------------------------------------------------------------
+CSIRT alerta de sitio web falso de Líder 
+Alerta de seguridad cibernética 
+8FFR23-01246-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 de marzo de 2023
+
+Última revisión 
+8 de marzo de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+http://w.attractpant[.]cyou/0830al9_RUBERlRkW31kAxsHbFh9D0lYFQ1BNVIFMA
+0bXDQmaz4eFl0eEVs6HFMDSAkjekUgaAg6VAkgFAtEXR5eIQka?pngw167830307
+3349 
+https://i7ko6bz[.]cn/n07edqly/liderclwy/?_t=1678304603129#1678304604274 
+Dirección IP 
+[104.21.1.9] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Falsificaci%C3%B3n%20de%20Regis
+tros%20o%20Identidad_8FFR23-01246-01.txt

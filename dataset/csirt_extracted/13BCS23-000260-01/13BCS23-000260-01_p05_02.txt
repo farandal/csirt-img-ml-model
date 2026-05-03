@@ -1,0 +1,33 @@
+Source: 13BCS23-000260-01.pdf | Page: 5 | Image: 13BCS23-000260-01_p05_02 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de abril de 2024
+
+Última revisión 
+24 de abril de 2024
+
+Indicadores de compromiso 
+Asunto 
+Tu factura esta por vencer 
+Correo de salida 
+cobranzas@email.claro.com 
+SHA256 
+4c03891763e6c40c8610017c97a2611d8a4178803eee14b2fc7749819020168b 
+f05ca75ef01264185e8669b7818de091fc06d574deecc5af07f5645314e380cd
+
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/cmv24-00459/
+
+4

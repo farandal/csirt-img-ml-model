@@ -1,0 +1,32 @@
+Source: 13BCS23-000252-01.pdf | Page: 7 | Image: 13BCS23-000252-01_p07_02 (746x601px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 febrero, 2024
+
+Última revisión 
+28 febrero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://wvvwsoporte-mlbancochile-cl.downtownarena[.]in/1709124826/bchile-
+web/persona/login/index.html/login 
+Dirección IP sitio falso 
+[216.137.176.69] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01651-01/
+
+CSIRT advierte nuevo sitio falso que suplanta a Microsoft Outlook 
+Código de alerta 
+8FFR23-01652-01

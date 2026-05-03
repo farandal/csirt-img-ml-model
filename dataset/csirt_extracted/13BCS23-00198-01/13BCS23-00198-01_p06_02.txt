@@ -1,0 +1,25 @@
+Source: 13BCS23-00198-01.pdf | Page: 6 | Image: 13BCS23-00198-01_p06_02 (641x370px)
+------------------------------------------------------------
+CSIRT avierte sitio falso que suplanta a Skechers 
+Alerta de seguridad cibernética 
+8FFR23-01212-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de febrero de 2023
+
+Última revisión 
+16 de febrero de 2023
+
+5

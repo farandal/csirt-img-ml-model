@@ -1,0 +1,31 @@
+Source: 13BCS23-000257-01.pdf | Page: 4 | Image: 13BCS23-000257-01_p04_02 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+1 abril, 2024
+
+Última revisión 
+1 abril, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+http://flabel3772[.z}ya.me/?i=1 
+URL de redirección 
+https://cancelar-compra-4falabella[.]weebly.com/ 
+Dirección IP sitio falso 
+[185.27.134.144] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01675/
+
+3

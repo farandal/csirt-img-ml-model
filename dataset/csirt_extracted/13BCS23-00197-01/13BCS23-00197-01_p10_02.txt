@@ -1,0 +1,25 @@
+Source: 13BCS23-00197-01.pdf | Page: 10 | Image: 13BCS23-00197-01_p10_02 (641x595px)
+------------------------------------------------------------
+CSIRT informa de vulnerabilidad en OpenSSH server (sshd) 
+Alerta de seguridad cibernética 
+9VSA23-00784-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 de febrero de 2023
+
+Última revisión 
+6 de febrero de 2023
+
+9

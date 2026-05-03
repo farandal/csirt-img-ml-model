@@ -1,0 +1,32 @@
+Source: 13BCS23-000255-01.pdf | Page: 5 | Image: 13BCS23-000255-01_p05_01 (582x431px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de marzo, 2024
+
+Última revisión 
+19 de marzo, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://www.liderbciserviciosfinancieroscl[.]site/ 
+Dirección IP sitio falso 
+[154.41.250.28] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01664-01/
+
+CSIRT informa de nuevo sitio fraudulento que suplanta al Servicio de Impuestos 
+Internos (SII) 
+Código de alerta 
+8FFR24-01665-01

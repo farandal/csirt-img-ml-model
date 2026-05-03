@@ -1,0 +1,40 @@
+Source: 13BCS23-000258-01_UEG30NF.pdf | Page: 10 | Image: 13BCS23-000258-01_UEG30NF_p10_03 (831x468px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+9 de abril de 2024
+
+Última revisión 
+9 de abril de 2024
+
+CVE 
+CVE-2024-20665 
+CVE-2024-20669 
+CVE-2024-20670 
+CVE-2024-20678 
+CVE-2024-20685
+
+CVE-2024-26226 
+CVE-2024-26227 
+CVE-2024-26228 
+CVE-2024-26229 
+CVE-2024-26230
+
+CVE-2024-28921 
+CVE-2024-28922 
+CVE-2024-28923 
+CVE-2024-28924 
+CVE-2024-28925
+
+9

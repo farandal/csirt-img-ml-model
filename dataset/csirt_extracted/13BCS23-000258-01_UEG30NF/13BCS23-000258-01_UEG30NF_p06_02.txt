@@ -1,0 +1,32 @@
+Source: 13BCS23-000258-01_UEG30NF.pdf | Page: 6 | Image: 13BCS23-000258-01_UEG30NF_p06_02 (642x487px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 de abril de 2024
+
+Última revisión 
+8 de abril de 2024
+
+Asunto 
+Cotización 
+Correos de salida 
+info@tadbirenergy.com 
+SHA256 
+34f838011c9242be21fc440f803dbc271a19e7cbf35dd585b68566df577e0cea 
+96ad1146eb96877eab5942ae0736b82d8b5e2039a80d3d6932665c1a4c87dcf7 
+cbceb77aadc2e48791ffca911e04cb4fafad3d29545535b11c08d26e4dda971d 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/cmv24-00456
+
+5

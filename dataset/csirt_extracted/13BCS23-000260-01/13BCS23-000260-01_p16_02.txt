@@ -1,0 +1,73 @@
+Source: 13BCS23-000260-01.pdf | Page: 16 | Image: 13BCS23-000260-01_p16_02 (831x468px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de abril de 2024
+
+Última revisión 
+25 de abril de 2024
+
+CVE y EPSS 
+CVE-2024-3852 
+ 
+0.05%
+
+CVE-2024-3853 
+ 
+0.04%
+
+CVE-2024-3854 
+ 
+0.05%
+
+CVE-2024-3855 
+ 
+0.04%
+
+CVE-2024-3856 
+ 
+0.04%
+
+CVE-2024-3857 
+ 
+0.05%
+
+CVE-2024-3858 
+ 
+0.04%
+
+CVE-2024-3859 
+ 
+0.05%
+
+CVE-2024-3860 
+ 
+0.04%
+
+CVE-2024-3861 
+ 
+0.05%
+
+CVE-2024-3862 
+ 
+0.04%
+
+CVE-2024-3863 
+ 
+0.05%
+
+Fabricante 
+Mozilla
+
+15

@@ -1,0 +1,24 @@
+Source: 13BCS23-000239-01.pdf | Page: 9 | Image: 13BCS23-000239-01_p09_03 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información sobre tres nuevas vulnerabilidades críticas en 
+ownCloud 
+Alerta de seguridad cibernética 
+9VSA23-00938-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 noviembre, 2023
+
+Última revisión 
+30 noviembre, 2023

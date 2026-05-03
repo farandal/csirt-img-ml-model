@@ -1,0 +1,34 @@
+Source: 13BCS23-000257-01.pdf | Page: 6 | Image: 13BCS23-000257-01_p06_01 (825x626px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta a BancoEstado 
+Alerta de seguridad cibernética 
+FPH24-00944
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 de abril de 2024
+
+Última revisión 
+2 de abril de 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://public-
+b0nstado.com/1712064459/imagenes/_personas/home/default.asp 
+URL de redirección  
+https://uncerhomestados.club/activacion/cuenta-ldlb/ 
+Dirección IP sitio falso 
+[54.39.196.148] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/fph24-00944/

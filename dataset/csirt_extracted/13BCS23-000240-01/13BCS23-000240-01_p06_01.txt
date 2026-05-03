@@ -1,0 +1,25 @@
+Source: 13BCS23-000240-01.pdf | Page: 6 | Image: 13BCS23-000240-01_p06_01 (501x427px)
+------------------------------------------------------------
+CSIRT alerta de nuevo sitio fraudulento que suplanta inicio de sesión de Zimbra 
+Alerta de seguridad cibernética 
+8FFR23-01592-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+6 diciembre, 2023
+
+Última revisión 
+6 diciembre, 2023
+
+5

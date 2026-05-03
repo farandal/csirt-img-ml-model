@@ -1,0 +1,33 @@
+Source: 13BCS23-000243-01-.pdf | Page: 10 | Image: 13BCS23-000243-01-_p10_04 (1058x149px)
+------------------------------------------------------------
+CSIRT advierte nuevo sitio falso que suplanta a Primark  
+Alerta de seguridad cibernética 
+8FFR23-01624-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 diciembre, 2023
+
+Última revisión 
+26 diciembre, 2023
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://www.primarkchile[.]com 
+Dirección IP sitio falso 
+[196.198.12.105] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01624-01/
+
+9

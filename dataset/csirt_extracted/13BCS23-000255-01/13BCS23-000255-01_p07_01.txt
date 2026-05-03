@@ -1,0 +1,31 @@
+Source: 13BCS23-000255-01.pdf | Page: 7 | Image: 13BCS23-000255-01_p07_01 (582x468px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de marzo, 2024
+
+Última revisión 
+20 de marzo, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://mi-tarjetacencosud-cl.pandawa-lawoffice[.]com/ 
+Dirección IP sitio falso 
+[172.66.44.146] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01670-01/
+
+CSIRT alerta de nueva página fraudulenta que suplanta a Banco Ripley 
+Código de alerta 
+8FFR24-01671-01

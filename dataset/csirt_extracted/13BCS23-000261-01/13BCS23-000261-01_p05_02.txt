@@ -1,0 +1,36 @@
+Source: 13BCS23-000261-01.pdf | Page: 5 | Image: 13BCS23-000261-01_p05_02 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+30 de abril de 2024
+
+Última revisión 
+30 de abril de 2024
+
+Indicadores de compromiso 
+Asunto 
+CFDI Manager Emision 188000422560 4/29/2024 
+URL descarga 
+https://livmallsusps.apaneymster.com/Y1Kz2PEvOUBWGvKRBFVAMcUesmafwJK
+CpCIx4iaW1scUgOwu6HQcDtS5clVPFyO2zeKZkj9vrLVxQ7hxNfZLvs/yzQTZKkC5xV5
+9fCC1o/CaqbtuFPPUnYQzY9zknph40LVKXHpAXX/QVJI4fZOUHEAz3coRIH9p/svefy
+Vo1R9DkgJT3B3 
+SHA256 
+5e6e4b921c30e9b12e65e110b4833c84c7f2621d7fe16fd890dd511308634bbf 
+bd098ae264b4ac2097867132ee29b23af5b21d200abd77f033d343fcd2cbd37e 
+d5c740ccdb8e748282de69f20e58eb7860f2174d6bfe43d50851ad32df4ac002 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/cmv24-00460/
+
+4

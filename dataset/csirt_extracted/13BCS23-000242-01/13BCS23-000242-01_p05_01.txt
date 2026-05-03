@@ -1,0 +1,31 @@
+Source: 13BCS23-000242-01.pdf | Page: 5 | Image: 13BCS23-000242-01_p05_01 (735x603px)
+------------------------------------------------------------
+CSIRT alerta de un nuevo sitio fraudulento que suplanta a Rosen 
+Alerta de seguridad cibernética 
+8FFR23-01600-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 diciembre, 2023
+
+Última revisión 
+19 diciembre, 2023
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://www.mobilisdusmaison[.]shop/ 
+Dirección IP sitio falso 
+[5.141.156.89] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01600-01/

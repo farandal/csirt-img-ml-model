@@ -1,0 +1,34 @@
+Source: 13BCS23-000258-01_UEG30NF.pdf | Page: 8 | Image: 13BCS23-000258-01_UEG30NF_p08_01 (800x589px)
+------------------------------------------------------------
+Netflix - Phishing 
+Alerta de seguridad cibernética 
+FPH24-00946
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de abril de 2024
+
+Última revisión 
+5 de abril de 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://jemi.so/nitwatchflex-24 
+URL de redirección  
+https://yekx619z.dreamwp.com/wp-admin/css/colors/blue/daz/update/pay-
+method.php 
+Dirección IP sitio falso 
+[76.76.21.93] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/fph24-00946/

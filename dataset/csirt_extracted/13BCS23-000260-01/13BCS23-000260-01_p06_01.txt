@@ -1,0 +1,34 @@
+Source: 13BCS23-000260-01.pdf | Page: 6 | Image: 13BCS23-000260-01_p06_01 (798x600px)
+------------------------------------------------------------
+BancoEstado - Phishing 
+Alerta de seguridad cibernética 
+FPH24-00953
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de abril de 2024
+
+Última revisión 
+22 de abril de 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://fogape.larissakovalchuk.com/1713799490/imagenes/_personas/home/de
+fault.asp 
+URL de redirección  
+https://temucoproduce.com/activacion/cuenta-nldo/ 
+Dirección IP sitio falso 
+[122.201.66.57] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/fph24-00953/

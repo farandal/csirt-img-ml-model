@@ -1,0 +1,29 @@
+Source: 13BCS23-000252-01.pdf | Page: 5 | Image: 13BCS23-000252-01_p05_02 (668x608px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+26 febrero, 2024
+
+Última revisión 
+26 febrero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://abcdln-cl[.]shop/ 
+Dirección IP sitio falso 
+[23.227.38.73] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01646-01/
+
+4

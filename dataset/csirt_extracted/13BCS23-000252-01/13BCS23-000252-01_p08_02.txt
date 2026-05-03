@@ -1,0 +1,29 @@
+Source: 13BCS23-000252-01.pdf | Page: 8 | Image: 13BCS23-000252-01_p08_02 (743x657px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 febrero, 2024
+
+Última revisión 
+29 febrero, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://uchilecl.weebly[.]com/ 
+Dirección IP sitio falso 
+[199.34.228.53] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01654-01/
+
+7

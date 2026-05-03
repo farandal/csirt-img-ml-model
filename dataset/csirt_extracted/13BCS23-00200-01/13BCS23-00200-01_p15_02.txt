@@ -1,0 +1,42 @@
+Source: 13BCS23-00200-01.pdf | Page: 15 | Image: 13BCS23-00200-01_p15_02 (699x525px)
+------------------------------------------------------------
+CSIRT advierte campaña de phishing con malware que suplanta a Servipag 
+Alerta de seguridad cibernética 
+2CMV23-00402-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 de marzo de 2023
+
+Última revisión 
+2 de marzo de 2023
+
+Indicadores de compromiso 
+Asunto 
+Devolución de pago. 
+Correo de Salida 
+nouth@182619bd.cst.lightpath.net 
+SHA256   
+01fcca3d6d70126fe0f6bcbc6ebd118571daca4a6651f5cb4c8fe478ca70d895 
+b5ef9f0acea3657ccc51a932cedd2af09c12126aa5af39d6f0e83813491d6691 
+440f247ae6bc6ad94848099db55962ea4068287776e8301e97c6a3990b7a1be4 
+447670a3d9e3843a7d1758eb77842c8b5a9cd817ee1bc335c5adce43df64fa8b 
+ca9aa6aedb8d8b60138a8fc23a39a82dd0aac7d93bd43d7aaaf726e69c359d29 
+43b8fa243f0fc5c5c175b7c0dd80390446c74f284107e4a16b8198f60183b0cb 
+98e4f904f7de1644e519d09371b8afcbbf40ff3bd56d76ce4df48479a4ab884b 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/CodigoMalicioso/blob/main/Phishing-
+Malware_2CMV23-00402-01.txt
+
+14

@@ -1,0 +1,39 @@
+Source: 13BCS23-000260-01.pdf | Page: 6 | Image: 13BCS23-000260-01_p06_03 (1058x149px)
+------------------------------------------------------------
+BancoEstado - Phishing 
+Alerta de seguridad cibernética 
+FPH24-00954
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de abril de 2024
+
+Última revisión 
+23 de abril de 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://portal-
+digitalbonobancooestado.pages.dev/?cvid=rja&CNhFD5ilyYGk6vBMtfgSpweUq8b
+Q3EXHoPLIaJcAZzV1sxTWrO9740ujmdKRn2 
+URL de redirección  
+http://159.65.156.91/dc8a63028568ce934158852be92c13c9/db44ec749ab06ea
+44c53S/5ead2be--f8a12a42bb492/?k=KERT 
+https://bit.ly/4cBQnRD 
+Dirección IP sitio falso 
+[172.66.47.116] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/fph24-00954/
+
+5

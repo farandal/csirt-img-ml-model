@@ -1,0 +1,31 @@
+Source: 13BCS23-000256-01.pdf | Page: 4 | Image: 13BCS23-000256-01_p04_02 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 marzo, 2024
+
+Última revisión 
+25 marzo, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://pub-8b9ea07df5f046fea4d628bca49a42ad.r2[.]dev/link.html 
+URL de redirección 
+https://t[.]co/7y3BBFk0do 
+Dirección IP sitio falso 
+[104.18.3.35] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01674-01/
+
+3

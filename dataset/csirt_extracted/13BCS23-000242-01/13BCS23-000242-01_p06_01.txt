@@ -1,0 +1,31 @@
+Source: 13BCS23-000242-01.pdf | Page: 6 | Image: 13BCS23-000242-01_p06_01 (560x485px)
+------------------------------------------------------------
+CSIRT alerta ante nuevo sitio fraudulento que suplanta a Steve Madden 
+Alerta de seguridad cibernética 
+8FFR23-01602-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 diciembre, 2023
+
+Última revisión 
+19 diciembre, 2023
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://www.bootsell[.]shop 
+Dirección IP sitio falso 
+[198.144.149.116] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01602-01/

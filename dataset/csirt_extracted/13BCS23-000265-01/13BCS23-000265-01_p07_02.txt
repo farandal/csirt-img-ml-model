@@ -1,0 +1,29 @@
+Source: 13BCS23-000265-01.pdf | Page: 7 | Image: 13BCS23-000265-01_p07_02 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de mayo de 2024
+
+Última revisión 
+28 de mayo de 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://msellagolan001.wixsite.com/validar 
+Dirección IP sitio falso 
+[34.117.60.144] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/fph24-00962/
+
+6

@@ -1,0 +1,35 @@
+Source: 13BCS23-000258-01_UEG30NF.pdf | Page: 5 | Image: 13BCS23-000258-01_UEG30NF_p05_03 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de abril de 2024
+
+Última revisión 
+5 de abril de 2024
+
+Asunto 
+Orden compra 
+Correo de salida 
+vendas@psidobrasil.com.br 
+Indicadores de compromiso 
+SHA256 
+1837ea1589add133e71cee9186650e173858f803c1d22c35379e0942d237972c 
+2af73b4896049b091a2ef506dee893208ec548eb9236568c9f793c709efcf307 
+77238aaa93306c3b06c4284434492ada5acf0e160c0097970080dabad38a4ba5 
+add1a0e5cf249b22e6873a930149429ceb82e535fdc66b892fc8bff16df3f099 
+e110f2c1139aa5b879c3288ece8c485a0af16d14be2a7c0eed78970d75efafea 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/cmv24-00454/
+
+4

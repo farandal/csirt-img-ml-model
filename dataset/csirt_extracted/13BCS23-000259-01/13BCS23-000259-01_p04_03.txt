@@ -1,0 +1,30 @@
+Source: 13BCS23-000259-01.pdf | Page: 4 | Image: 13BCS23-000259-01_p04_03 (692x466px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de abril de 2024
+
+Última revisión 
+15 de abril de 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+http://patito.larissakovalchuk.com/1713196395/imagenes/_pe
+rsonas/home/default.asp 
+Dirección IP sitio falso 
+[122.201.66.57] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01679/
+
+3

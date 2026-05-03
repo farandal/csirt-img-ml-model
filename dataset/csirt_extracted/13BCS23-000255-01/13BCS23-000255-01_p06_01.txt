@@ -1,0 +1,31 @@
+Source: 13BCS23-000255-01.pdf | Page: 6 | Image: 13BCS23-000255-01_p06_01 (582x428px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de marzo, 2024
+
+Última revisión 
+20 de marzo, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://bancoestado-solicita[.]pages.dev/fr7pr|94 
+Dirección IP sitio falso 
+[172.66.44.183] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01667-01/
+
+CSIRT advierte de un nuevo sitio fraudulento que suplanta a BancoEstado 
+Código de alerta 
+8FFR24-01668-01

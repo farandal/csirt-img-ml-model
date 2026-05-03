@@ -1,0 +1,29 @@
+Source: 13BCS23-000255-01.pdf | Page: 7 | Image: 13BCS23-000255-01_p07_03 (582x491px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de marzo, 2024
+
+Última revisión 
+21 de marzo, 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://www.www-bancoripley-cl.msdfilmsphotography[.]in/1711043044/login 
+Dirección IP sitio falso 
+[103.92.235.178] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01672-01/
+
+6

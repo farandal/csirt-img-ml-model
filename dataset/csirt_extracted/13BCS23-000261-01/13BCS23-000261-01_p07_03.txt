@@ -1,0 +1,75 @@
+Source: 13BCS23-000261-01.pdf | Page: 7 | Image: 13BCS23-000261-01_p07_03 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+2 de mayo de 2024
+
+Última revisión 
+2 de mayo de 2024
+
+CVE, puntaje CVSS y EPSS al momento de la publicación 
+CVE-2024-26304 
+9.8 
+0.04%
+
+CVE-2024-26305 
+9.8 
+0.04%
+
+CVE-2024-33511 
+9.8 
+0.04%
+
+CVE-2024-33512 
+9.8 
+0.04%
+
+CVE-2024-33513 
+5.9 
+0.04%
+
+CVE-2024-33514 
+5.9 
+0.04%
+
+CVE-2024-33515 
+5.9 
+0.04%
+
+CVE-2024-33516 
+5.3 
+0.04%
+
+CVE-2024-33517 
+5.3 
+0.04%
+
+CVE-2024-33518 
+5.3 
+0.04%
+
+Fabricante 
+Aruba 
+Productos afectados 
+ArubaOS  
+10.5.1.0 y anteriores. 
+10.4.1.0 y anteriores. 
+8.11.2.1 y anteriores. 
+8.10.0.10 y anteriores. 
+Todas las versiones que alcanzaron su fin de vida (EoL), para las 
+cuales no se entregó parches. 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/vsa24-01011
+
+6

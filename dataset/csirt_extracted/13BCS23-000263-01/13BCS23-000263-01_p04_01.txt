@@ -1,0 +1,39 @@
+Source: 13BCS23-000263-01.pdf | Page: 4 | Image: 13BCS23-000263-01_p04_01 (812x405px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+14 de mayo de 2024
+
+Última revisión 
+14 de mayo de 2024
+
+CVE, puntaje EPSS al momento de la publicación 
+CVE-2024-4761 
+ 
+0.04%
+
+CVE-2024-4671 
+ 
+1.97%
+
+Fabricante 
+Google 
+Productos afectados 
+Google Chrome 124 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/vsa24-01014/
+
+SAP Security Patch Day Mayo 2024 - Vulnerabilidades 
+Código de alerta 
+VSA24-01015

@@ -1,0 +1,21 @@
+Source: 13BCS23-000253-01.pdf | Page: 9 | Image: 13BCS23-000253-01_p09_03 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+4 de marzo, 2024
+
+Última revisión 
+4 de marzo, 2024
+
+8

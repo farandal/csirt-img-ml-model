@@ -1,0 +1,38 @@
+Source: 13BCS23-000251-01.pdf | Page: 8 | Image: 13BCS23-000251-01_p08_01 (641x595px)
+------------------------------------------------------------
+CSIRT comparte información de vulnerabilidades en Joomla 
+Alerta de seguridad cibernética 
+9VSA24-00979-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 febrero, 2024
+
+Última revisión 
+22 febrero, 2024
+
+CVE 
+CVE-2024-21722  
+CVE-2024-21723  
+CVE-2024-21724  
+CVE-2024-21725  
+CVE-2024-21726 
+Fabricante 
+Joomla 
+Productos afectados 
+Series 5.x y 4.x de Joomla. 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/vulnerabilidades/9vsa24-00979-01/
+
+7

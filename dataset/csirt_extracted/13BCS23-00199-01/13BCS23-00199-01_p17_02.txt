@@ -1,0 +1,25 @@
+Source: 13BCS23-00199-01.pdf | Page: 17 | Image: 13BCS23-00199-01_p17_02 (641x595px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades en VMware Carbon Black App Control 
+Alerta de seguridad cibernética 
+9VSA23-00795-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Crítico
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de febrero de 2023
+
+Última revisión 
+22 de febrero de 2023
+
+16

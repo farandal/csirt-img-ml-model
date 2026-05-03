@@ -1,0 +1,34 @@
+Source: 13BCS23-000260-01.pdf | Page: 7 | Image: 13BCS23-000260-01_p07_01 (800x532px)
+------------------------------------------------------------
+Zimbra - Phishing 
+Alerta de seguridad cibernética 
+FPH24-00955
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de abril de 2024
+
+Última revisión 
+25 de abril de 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://ipfs.io/ipfs/bafybeih4wwljr3lg6fxunpfgmjpqlwhihybtxvvbn5wesic6ii6wdjiz
+fm/eso.com.mk.htm 
+Dirección IP sitio falso 
+[209.94.90.1] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/fph24-00955/
+
+6

@@ -1,0 +1,37 @@
+Source: 13BCS23-00198-01.pdf | Page: 10 | Image: 13BCS23-00198-01_p10_02 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de ataques de fuerza bruta contra SMTP 
+Alerta de seguridad cibernética 
+4IIA23-00062-01
+
+Clase de alerta 
+Intentos de Intrusión
+
+Tipo de incidente 
+Intentos de acceso – Fuerza bruta
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de febrero de 2023
+
+Última revisión 
+15 de febrero de 2023
+
+Indicadores de compromiso 
+Direcciones IP 
+46.148.40.177
+
+46.148.40.91
+
+80.94.95.204
+
+185.36.81.70
+
+103.74.107.101
+
+9

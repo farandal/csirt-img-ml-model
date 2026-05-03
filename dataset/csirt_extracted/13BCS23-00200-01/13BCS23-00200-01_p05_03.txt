@@ -1,0 +1,37 @@
+Source: 13BCS23-00200-01.pdf | Page: 5 | Image: 13BCS23-00200-01_p05_03 (1058x149px)
+------------------------------------------------------------
+CSIRT advierte sitio que suplanta a H&M 
+Alerta de seguridad cibernética 
+8FFR23-01228-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de febrero de 2023
+
+Última revisión 
+24 de febrero de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+https[:]//abrigoshop.flazio[.]com/?gclid=Cj0KCQiA3eGfBhCeARIsACpJNU-
+SsqpV1c5TqIiXGalFImGMf49x-D6-
+WwbpVcdNzPHZQBw_pCCcnNYaAmP0EALw_wcB 
+https://www.hamcamiseta[.]online/?u=2uYen/3t6Zg= 
+Dirección IP 
+[162.218.176.46] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Falsificaci%C3%B3n%20de%20Regis
+tros%20o%20Identidad_8FFR23-01228-01.txt
+
+4

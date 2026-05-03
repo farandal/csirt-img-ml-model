@@ -1,0 +1,33 @@
+Source: 13BCS23-000243-01-.pdf | Page: 11 | Image: 13BCS23-000243-01-_p11_03 (732x520px)
+------------------------------------------------------------
+CSIRT advierte nuevo sitio falso que suplanta a CorreosChile 
+Alerta de seguridad cibernética 
+8FFR23-01627-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 diciembre, 2023
+
+Última revisión 
+27 diciembre, 2023
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://clpotosenloy[.]club/ 
+Dirección IP sitio falso 
+[170.106.158.50] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01627-01/
+
+10

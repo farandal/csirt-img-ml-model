@@ -1,0 +1,31 @@
+Source: 13BCS23-000242-01.pdf | Page: 7 | Image: 13BCS23-000242-01_p07_02 (592x478px)
+------------------------------------------------------------
+CSIRT alerta de nuevo sitio fraudulento que suplanta a Cencosud Scotiabank 
+Alerta de seguridad cibernética 
+8FFR23-01606-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 diciembre, 2023
+
+Última revisión 
+20 diciembre, 2023
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://webserviceonlinetarjeta[.]com/1703093756/login/index.html 
+Dirección IP sitio falso 
+[51.79.176.23] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01606-01/

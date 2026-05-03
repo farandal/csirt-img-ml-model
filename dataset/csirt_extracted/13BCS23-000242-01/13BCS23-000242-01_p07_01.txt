@@ -1,0 +1,30 @@
+Source: 13BCS23-000242-01.pdf | Page: 7 | Image: 13BCS23-000242-01_p07_01 (588x482px)
+------------------------------------------------------------
+Alerta de seguridad cibernética 
+8FFR23-01605-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 diciembre, 2023
+
+Última revisión 
+20 diciembre, 2023
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://www.calzaoutle[.]shop/ 
+Dirección IP sitio falso 
+[198.144.149.112] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr23-01605-01/

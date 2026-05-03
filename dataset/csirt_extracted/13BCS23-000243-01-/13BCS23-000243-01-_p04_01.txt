@@ -1,0 +1,34 @@
+Source: 13BCS23-000243-01-.pdf | Page: 4 | Image: 13BCS23-000243-01-_p04_01 (742x450px)
+------------------------------------------------------------
+CSIRT alerta de campaña de phishing que suplanta al Banco Estado 
+Alerta de seguridad cibernética 
+8FPH23-00916-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 diciembre, 2023
+
+Última revisión 
+22 diciembre, 2023
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://patito.glaucireis[.]com.br/1703251723/imagenes/_personas/home/defau
+lt.asp 
+URL de redirección  
+https://procontroltotal[.]com/activacion/cuenta-ajwh/ 
+Dirección IP sitio falso 
+[45.224.128.77] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8fph23-00916-01/

@@ -1,0 +1,42 @@
+Source: 13BCS23-000258-01_UEG30NF.pdf | Page: 6 | Image: 13BCS23-000258-01_UEG30NF_p06_01 (642x487px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 de abril de 2024
+
+Última revisión 
+8 de abril de 2024
+
+Asunto 
+Factura no pagada, Marzo - 2024 
+Correo de salida 
+support@uww-reg.ru 
+support@uncutmaza.club 
+support@lot.ziy.cc 
+support@johnwilliamnelson.com 
+support@ikaglm.com 
+support@banglachotigolpo.top 
+support@augustineformayor.ca
+
+SHA256 
+19ef6dcc8257fc55032aa97eb5613a8dc35cfd41bf4804d239ee349d03b7129c 
+5cc97524d9ab2d29019d545b06f8ef8fcf5b9fb8ee257d7352a619f8950f5449 
+7e643c188a1ee3b0251b7dfcab000b7c48fd840eff35189e8a45901852e3910a 
+e28e34fbdaff077669586dcdb4e10f0ba2ca6c9973ed4d372a5c3ec3b8ad20e7 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/cmv24-00455
+
+Email con falsa cotización - Suplantación con malware 
+Código de alerta 
+CMV24-00456

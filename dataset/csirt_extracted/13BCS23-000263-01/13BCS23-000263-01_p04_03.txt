@@ -1,0 +1,74 @@
+Source: 13BCS23-000263-01.pdf | Page: 4 | Image: 13BCS23-000263-01_p04_03 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de mayo de 2024
+
+Última revisión 
+16 de mayo de 2024
+
+CVE y puntaje CVSS al momento de la publicación 
+CVE-2019-17495 
+9.8
+
+CVE-2024-33006 
+9.6
+
+CVE-2022-36364 
+8.8
+
+CVE-2024-28165 
+8.1
+
+CVE-2024-32730 
+6.5
+
+CVE-2024-34687 
+6.5
+
+CVE-2024-32733 
+6.1
+
+CVE-2024-33002 
+6.1
+
+CVE-2024-32731 
+5.5
+
+CVE-2024-33008 
+4.9
+
+CVE-2024-33004 
+4.3
+
+CVE-2024-33009 
+3.7
+
+CVE-2024-33000 
+3.5
+
+CVE-2024-33007 
+3.5
+
+Fabricante 
+SAP 
+Productos afectados 
+SAP Business Client  HY_COM 2205 
+SAP NetWeaver Application Server ABAP and ABAP Platform 
+SAP BusinessObjects (Business Intelligence Platform) 430, 440 
+SAP Enable Now 1704 
+SAP S/4HANA (Manage Catalog Items and Cross-Catalog search) 
+SAP Process Integration
+
+3

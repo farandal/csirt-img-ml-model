@@ -1,0 +1,30 @@
+Source: 13BCS23-000252-01.pdf | Page: 10 | Image: 13BCS23-000252-01_p10_02 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 febrero, 2024
+
+Última revisión 
+28 febrero, 2024
+
+Indicadores de compromiso 
+SHA256 
+c1e0f5185a2efc13b4e821ee1a2d445634e87fb380306315c482c05ae26fbd55 
+17a6f57be6897d2a7456ad9b0f5bc798b951c6c41b2511886706edee16c5c14c 
+8ecc1fea5ca3169d8c6269ae0f1a13e3b1e7e9c415c6df4a77af08bd4a2dba11 
+913bbaede66f7c2f00b92916d5cad558067b589bca0b782409e96cb6bf48106e 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/2cmv24-00447-01/
+
+9

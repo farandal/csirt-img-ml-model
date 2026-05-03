@@ -1,0 +1,32 @@
+Source: 13BCS23-00201-01.pdf | Page: 7 | Image: 13BCS23-00201-01_p07_01 (582x506px)
+------------------------------------------------------------
+CSIRT advierte página web que suplanta a Champion 
+Alerta de seguridad cibernética 
+8FFR23-01245-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+8 de marzo de 2023
+
+Última revisión 
+8 de marzo de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+https://www.championchilecl[.]com/ 
+Dirección IP 
+[196.245.249.87] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Falsificaci%C3%B3n%20de%20Regis
+tros%20o%20Identidad_8FFR23-01245-01.txt

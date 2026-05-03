@@ -1,0 +1,30 @@
+Source: 13BCS23-000258-01_UEG30NF.pdf | Page: 4 | Image: 13BCS23-000258-01_UEG30NF_p04_02 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Fraude
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de abril de 2024
+
+Última revisión 
+5 de abril de 2024
+
+Indicadores de compromiso 
+URL del sitio falso 
+https://mitarjetacencosud-cl-login-mitarjetacencosud-login-
+cl.personaschile.sbs/1712341150/login/index.html 
+Dirección IP sitio falso 
+[172.67.142.101] 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/8ffr24-01676/
+
+3

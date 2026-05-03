@@ -1,0 +1,36 @@
+Source: 13BCS23-000258-01_UEG30NF.pdf | Page: 5 | Image: 13BCS23-000258-01_UEG30NF_p05_01 (664x504px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+5 de abril de 2024
+
+Última revisión 
+5 de abril de 2024
+
+Indicadores de compromiso 
+Asunto 
+REQUERIMIENTO PARA RESOLVER EL TRÁMITE- Últimos dias. - ( 7322458 ) 
+Correo de salida 
+pwanmaxe@6859004.hostengines.com 
+SHA256 
+054b7fb5c8aece945a0162b21dad6ad0436c07201e20f17db9f5d0628958a785 
+7e643c188a1ee3b0251b7dfcab000b7c48fd840eff35189e8a45901852e3910a 
+ac789666d9867918d589bcacfe0fded5300026ff019ccba122f73e7cf634e431 
+e28e34fbdaff077669586dcdb4e10f0ba2ca6c9973ed4d372a5c3ec3b8ad20e7 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/cmv24-00453/
+
+Alerta general - Suplantación con malware 
+Código de alerta 
+CMV24-00454

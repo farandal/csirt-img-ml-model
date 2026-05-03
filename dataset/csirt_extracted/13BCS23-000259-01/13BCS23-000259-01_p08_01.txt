@@ -1,0 +1,43 @@
+Source: 13BCS23-000259-01.pdf | Page: 8 | Image: 13BCS23-000259-01_p08_01 (836x470px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de abril de 2024
+
+Última revisión 
+12 de abril de 2024
+
+CVE 
+CVE-2024-3400
+
+Fabricante 
+Palo Alto 
+Productos afectados 
+Palo Alto Networks PAN-OS
+
+• 
+Anteriores a 11.1.2-h3
+
+• 
+Anteriores a 11.0.4-h1
+
+• 
+Anteriores a 10.2.9-h1
+
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/vsa24-01002/
+
+PuTTY y otros - Vulnerabilidades 
+Código de alerta 
+VSA24-01003

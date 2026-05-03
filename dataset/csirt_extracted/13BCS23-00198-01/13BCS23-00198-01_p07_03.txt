@@ -1,0 +1,26 @@
+Source: 13BCS23-00198-01.pdf | Page: 7 | Image: 13BCS23-00198-01_p07_03 (1058x149px)
+------------------------------------------------------------
+CSIRT alerta de nueva campaña de phishing que suplanta al Servicio de Impuestos 
+Internos (SII) 
+Alerta de seguridad cibernética 
+8FPH23-00746-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de febrero de 2023
+
+Última revisión 
+13 de febrero de 2023
+
+6

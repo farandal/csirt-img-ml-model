@@ -1,0 +1,36 @@
+Source: 13BCS23-000264-01.pdf | Page: 10 | Image: 13BCS23-000264-01_p10_02 (737x368px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+23 de mayo de 2024
+
+Última revisión 
+23 de mayo de 2024
+
+CVE al momento de la publicación 
+CVE-2014-100005
+
+CVE-2021-40655 
+Fabricante 
+D-Link 
+Productos afectados 
+D-Link DIR-600 (routers)
+
+firmware anterior a 2.17b02 
+D-LINK-DIR-605 B2 
+firmware 2.01MT 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/vsa24-01021
+
+9

@@ -1,0 +1,53 @@
+Source: 13BCS23-000260-01.pdf | Page: 15 | Image: 13BCS23-000260-01_p15_01 (831x468px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de abril de 2024
+
+Última revisión 
+25 de abril de 2024
+
+CVE, CVSS y EPSS 
+CVE-2024-20295 
+8.8 
+0,04%
+
+CVE-2024-20356 
+8.7 
+0,04%
+
+CVE-2024-20353 
+8.6 
+1,18%
+
+CVE-2024-20359 
+6.0 
+1,18%
+
+CVE-2024-20358 
+6.0 
+0,04%
+
+Fabricante 
+Cisco 
+Productos afectados 
+Cisco ASA Software  
+Cisco FTD Software  
+Cisco IMC 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/vsa24-01006/
+
+Ivanti Avalanche - Vulnerabilidades 
+Código de alerta 
+VSA24-01007

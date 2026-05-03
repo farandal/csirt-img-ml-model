@@ -1,0 +1,34 @@
+Source: 13BCS23-00200-01.pdf | Page: 7 | Image: 13BCS23-00200-01_p07_01 (703x603px)
+------------------------------------------------------------
+CSIRT advierte sitio que suplanta a Empresas Copec 
+Alerta de seguridad cibernética 
+8FFR23-01231-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de febrero de 2023
+
+Última revisión 
+28 de febrero de 2023
+
+Indicadores de compromiso 
+URL sitio falso 
+https://dion-empresa-es-559b03.firebaseapp[.]com/?gclid=CjwKCAiAxvGfBhB-
+EiwAMPakqlkiMWselQ7bJ2qwSoom_J_U9a7ylRx9HN_LOopWgM8lQmsmRoei8Bo
+C4O8QAvD_BwE 
+Dirección IP 
+[199.36.158.100] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Falsificaci%C3%B3n%20de%20Regis
+tros%20o%20Identidad_8FFR23-01231-01.txt

@@ -1,0 +1,110 @@
+Source: 13BCS23-000260-01.pdf | Page: 15 | Image: 13BCS23-000260-01_p15_03 (1058x149px)
+------------------------------------------------------------
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de abril de 2024
+
+Última revisión 
+25 de abril de 2024
+
+CVE, CVSS  
+CVE-2024-22061 
+8.1
+
+CVE-2024-24994 
+8.8
+
+CVE-2024-23526 
+5.3
+
+CVE-2024-24995 
+8.8
+
+CVE-2024-23527 
+5.3
+
+CVE-2024-24996 
+9.8
+
+CVE-2024-23528 
+5.3
+
+CVE-2024-24997 
+8.8
+
+CVE-2024-23529 
+5.3
+
+CVE-2024-24998 
+8.8
+
+CVE-2024-23530 
+5.3
+
+CVE-2024-24999 
+8.8
+
+CVE-2024-23531 
+7.5
+
+CVE-2024-25000 
+8.8
+
+CVE-2024-23533 
+4.3
+
+CVE-2024-27975 
+8.8
+
+CVE-2024-23532 
+7.5
+
+CVE-2024-27976 
+8.8
+
+CVE-2024-23534 
+8.8
+
+CVE-2024-27977 
+7.1
+
+CVE-2024-23535 
+8.8
+
+CVE-2024-27978 
+6.5
+
+CVE-2024-24991 
+6.5
+
+CVE-2024-27984 
+7.1
+
+CVE-2024-24992 
+8.8
+
+CVE-2024-29204 
+9.8
+
+CVE-2024-24993 
+8.8
+
+Fabricante 
+Ivanti 
+Productos afectados 
+Ivanti Avalanche anteriores a 6.4.3 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/vsa24-01007/
+
+14

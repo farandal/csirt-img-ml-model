@@ -1,0 +1,129 @@
+Source: 13BCS23-000241-01.pdf | Page: 6 | Image: 13BCS23-000241-01_p06_02 (1058x149px)
+------------------------------------------------------------
+CSIRT comparte información de actualización de seguridad de Microsoft para 
+diciembre 2023 
+Alerta de seguridad cibernética 
+9VSA23-00943-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 diciembre, 2023
+
+Última revisión 
+13 diciembre, 2023
+
+CVE 
+CVE-2023-35621
+
+CVE-2023-35643
+
+CVE-2023-21740
+
+CVE-2023-35622
+
+CVE-2023-35642
+
+CVE-2023-35644
+
+CVE-2023-35619
+
+CVE-2023-35641
+
+CVE-2023-36012
+
+CVE-2023-20588
+
+CVE-2023-35639
+
+CVE-2023-35634
+
+CVE-2023-36696
+
+CVE-2023-35638
+
+CVE-2023-35625
+
+CVE-2023-35635
+
+CVE-2023-36006
+
+CVE-2023-35624
+
+CVE-2023-35633
+
+CVE-2023-36005
+
+CVE-2023-36019
+
+CVE-2023-35632
+
+CVE-2023-36004
+
+CVE-2023-36020
+
+CVE-2023-35631
+
+CVE-2023-36003
+
+CVE-2023-35636
+
+CVE-2023-35630
+
+CVE-2023-36011
+
+CVE-2023-36010
+
+CVE-2023-35629
+
+CVE-2023-36009
+
+CVE-2023-36391
+
+CVE-2023-35628
+
+Fabricante 
+Microsoft 
+Productos afectados 
+Azure Connected Machine Agent 
+Azure Logic Apps 
+Azure Machine Learning SDK 
+Dynamics 365 for Finance and Operations Platform Update 60 
+Dynamics 365 for Finance and Operations Version 10.0.37 Platform Update 61 
+Dynamics 365 for Finance and Operations Version 10.0.38 Platform Update 62 
+Microsoft 365 Apps for Enterprise for 32-bit Systems 
+Microsoft 365 Apps for Enterprise for 64-bit Systems 
+Microsoft Dynamics 365 (on-premises) version 9.0 
+Microsoft Dynamics 365 (on-premises) version 9.1 
+Microsoft Malware Protection Platform 
+Microsoft Office 2016 (32-bit edition) 
+Microsoft Office 2016 (64-bit edition) 
+Microsoft Office 2019 for 32-bit editions 
+Microsoft Office 2019 for 64-bit editions 
+Microsoft Office LTSC 2021 for 32-bit editions 
+Microsoft Office LTSC 2021 for 64-bit editions 
+Microsoft Office LTSC for Mac 2021 
+Microsoft Power Platform 
+Windows 10 for 32-bit Systems 
+Windows 10 for x64-based Systems 
+Windows 10 Version 1607 for 32-bit Systems 
+Windows 10 Version 1607 for x64-based Systems 
+Windows 10 Version 1809 for 32-bit Systems 
+Windows 10 Version 1809 for ARM64-based Systems 
+Windows 10 Version 1809 for x64-based Systems 
+Windows 10 Version 21H2 for 32-bit Systems 
+Windows 10 Version 21H2 for ARM64-based Systems 
+Windows 10 Version 21H2 for x64-based Systems 
+Windows 10 Version 22H2 for 32-bit Systems
+
+5

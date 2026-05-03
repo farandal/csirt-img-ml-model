@@ -1,0 +1,28 @@
+Source: 13BCS23-000258-01_UEG30NF.pdf | Page: 9 | Image: 13BCS23-000258-01_UEG30NF_p09_02 (973x513px)
+------------------------------------------------------------
+Phishing con malware, suplantación de Claro - Phishing 
+Alerta de seguridad cibernética 
+FPH24-00949
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de abril de 2024
+
+Última revisión 
+10 de abril de 2024
+
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/fph24-00949/
+
+8

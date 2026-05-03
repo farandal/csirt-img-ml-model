@@ -1,0 +1,35 @@
+Source: 13BCS23-00200-01.pdf | Page: 11 | Image: 13BCS23-00200-01_p11_01 (640x343px)
+------------------------------------------------------------
+CSIRT alerta de campaña de smishing que suplanta a Chilexpress 
+Alerta de seguridad cibernética 
+8FPH23-00757-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de febrero de 2023
+
+Última revisión 
+24 de febrero de 2023
+
+Indicadores de compromiso 
+URL redirección 
+https[:]//amdel[.]cl/ 
+https[:]//r.chilexpress[.]live/r/KlsMhSg 
+URL sitio falso 
+https[:]//envios.chilexpress[.]live/Contingencia/f5e2d6abceb10c49b26c019d3f9f
+a30f 
+Dirección IP 
+[94.242.53.110] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Phishing_8FPH23-00757-01.txt

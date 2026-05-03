@@ -1,0 +1,23 @@
+Source: 13BCS23-00199-01.pdf | Page: 12 | Image: 13BCS23-00199-01_p12_01 (606x318px)
+------------------------------------------------------------
+CSIRT advierte campaña de phishing con falsa actualización de cuenta de correo 
+Alerta de seguridad cibernética 
+8FPH23-00753-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de febrero de 2023
+
+Última revisión 
+22 de febrero de 2023

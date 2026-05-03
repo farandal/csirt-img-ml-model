@@ -1,0 +1,36 @@
+Source: 13BCS23-00200-01.pdf | Page: 14 | Image: 13BCS23-00200-01_p14_02 (1058x149px)
+------------------------------------------------------------
+CSIRT advierte campaña de smishing que suplanta un  inicio de sesión de billetera 
+de criptomonedas 
+Alerta de seguridad cibernética 
+8FPH23-00763-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de febrero de 2023
+
+Última revisión 
+28 de febrero de 2023
+
+Indicadores de compromiso 
+URL redirección 
+Usdtrrx[.]com 
+URL sitio falso 
+Usdtrrx[.]com 
+Dirección IP 
+[92.242.187.58] 
+Enlace para revisar IoC: 
+https://github.com/csirtcl/Fraude/blob/main/Phishing_8FPH23-00763-01.txt
+
+13

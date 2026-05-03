@@ -1,0 +1,32 @@
+Source: 13BCS23-000264-01.pdf | Page: 4 | Image: 13BCS23-000264-01_p04_01 (642x502px)
+------------------------------------------------------------
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de mayo de 2024
+
+Última revisión 
+17 de mayo de 2024
+
+Indicadores de compromiso 
+Asunto 
+Citacion a fiscalia 
+SHA256 
+aa7d80daa488e8627316e1e24bef1a713ae4f86e4a6304c6784b6187ad0433d9 
+f98cb51b72234756df112ccfa9a412c20b313c26ef459b042a99a090a0ced8d8 
+Enlace para revisar IoC: 
+https://csirt.gob.cl/alertas/cmv24-00462/
+
+Servicio de Impuestos Internos - Suplantación con malware 
+Código de alerta 
+CMV24-00463
