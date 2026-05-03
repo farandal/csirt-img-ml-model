@@ -1,0 +1,35 @@
+Source: 13BCS20-00057-01.pdf | Page: 8 | Image: 13BCS20-00057-01_p08_01 (431x579px)
+------------------------------------------------------------
+CSIRT advierte phishing bancario por abono de beneficio 
+Alerta de seguridad cibernética 
+8FPH20-00236-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+03 de Junio de 2020
+
+Última revisión 
+03 de Junio de 2020
+
+Indicadores de compromiso 
+URL 
+hxxp://bigforum[.]in/js/enviar.php?l=589944743 
+http://bizitsystem[.]com/_Pensiones/www.bancoestado.cl 
+IP 
+[45.236.131.160] 
+Otros IOCs del informe: 
+1 sender 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/8fph20-00231-01/ 
+https://csirt.gob.cl/media/2020/05/8FPH20-00231-01.pdf

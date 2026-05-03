@@ -1,0 +1,24 @@
+Source: 13BCS20-00062-01.pdf | Page: 10 | Image: 13BCS20-00062-01_p10_01 (431x374px)
+------------------------------------------------------------
+CSIRT comparte mitigación para vulnerabilidad crítica en interfaz TMUI 
+obtenida de F5 
+Alerta de seguridad cibernética 
+9VSA20-00261-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+04 de Julio de 2020
+
+Última revisión 
+04 de Julio de 2020

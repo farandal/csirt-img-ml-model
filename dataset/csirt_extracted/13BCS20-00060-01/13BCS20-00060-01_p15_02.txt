@@ -1,0 +1,23 @@
+Source: 13BCS20-00060-01.pdf | Page: 15 | Image: 13BCS20-00060-01_p15_02 (426x374px)
+------------------------------------------------------------
+CSIRT advierte vulnerabilidades y mitigaciones obtenidas de FortiNet 
+Alerta de seguridad cibernética 
+9VSA20-00252-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de Junio de 2020
+
+Última revisión 
+24 de Junio de 2020

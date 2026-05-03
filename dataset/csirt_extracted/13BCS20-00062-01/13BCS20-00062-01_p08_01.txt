@@ -1,0 +1,23 @@
+Source: 13BCS20-00062-01.pdf | Page: 8 | Image: 13BCS20-00062-01_p08_01 (431x330px)
+------------------------------------------------------------
+CSIRT informa phishing de cuenta suspendida de un sitio de pago en línea 
+Alerta de seguridad cibernética 
+8FPH20-00264-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+07 de Julio de 2020
+
+Última revisión 
+07 de Julio de 2020

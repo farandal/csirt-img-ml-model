@@ -1,0 +1,23 @@
+Source: 13BCS20-00068-01.pdf | Page: 17 | Image: 13BCS20-00068-01_p17_02 (431x593px)
+------------------------------------------------------------
+CSIRT informa phishing de crédito de consumo disponible 
+Alerta de seguridad cibernética 
+8FPH20-00290-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de Agosto de 2020
+
+Última revisión 
+17 de Agosto de 2020

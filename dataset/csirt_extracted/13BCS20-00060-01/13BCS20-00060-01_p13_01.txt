@@ -1,0 +1,23 @@
+Source: 13BCS20-00060-01.pdf | Page: 13 | Image: 13BCS20-00060-01_p13_01 (431x376px)
+------------------------------------------------------------
+CSIRT advierte vulnerabilidades en Gestor de Cotenidos de Drupal 
+Alerta de seguridad cibernética 
+9VSA20-00247-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de Junio de 2020
+
+Última revisión 
+19 de Junio de 2020

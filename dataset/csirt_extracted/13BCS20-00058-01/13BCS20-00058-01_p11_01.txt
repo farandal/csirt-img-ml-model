@@ -1,0 +1,23 @@
+Source: 13BCS20-00058-01.pdf | Page: 11 | Image: 13BCS20-00058-01_p11_01 (400x557px)
+------------------------------------------------------------
+CSIRT advierte smishing que ofrece hielera de cerveza 
+Alerta de seguridad cibernética 
+8FPH20-00245-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de Junio de 2020
+
+Última revisión 
+11 de Junio de 2020

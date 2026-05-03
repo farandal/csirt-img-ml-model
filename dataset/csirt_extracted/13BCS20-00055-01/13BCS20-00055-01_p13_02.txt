@@ -1,0 +1,23 @@
+Source: 13BCS20-00055-01.pdf | Page: 13 | Image: 13BCS20-00055-01_p13_02 (431x463px)
+------------------------------------------------------------
+CSIRT advierte phishing por premio de lotería internacional 
+Alerta de seguridad cibernética 
+8FPH20-00225-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de Mayo de 2020
+
+Última revisión 
+18 de Mayo de 2020

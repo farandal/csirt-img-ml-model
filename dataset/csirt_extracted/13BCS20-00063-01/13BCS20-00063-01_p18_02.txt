@@ -1,0 +1,23 @@
+Source: 13BCS20-00063-01.pdf | Page: 18 | Image: 13BCS20-00063-01_p18_02 (445x577px)
+------------------------------------------------------------
+CSIRT advierte de phishing bancario por promoción 
+Alerta de seguridad cibernética 
+8FPH20-00266-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de Julio de 2020
+
+Última revisión 
+13 de Julio de 2020

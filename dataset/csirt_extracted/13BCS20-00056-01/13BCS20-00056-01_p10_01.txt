@@ -1,0 +1,23 @@
+Source: 13BCS20-00056-01.pdf | Page: 10 | Image: 13BCS20-00056-01_p10_01 (427x370px)
+------------------------------------------------------------
+CSIRT comparte información sobre vulnerabilidad en protocolo DNS 
+Alerta de seguridad cibernética 
+9VSA20-00221-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+21 de Mayo de 2020
+
+Última revisión 
+21 de Mayo de 2020

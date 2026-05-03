@@ -1,0 +1,34 @@
+Source: 13BCS20-00056-01.pdf | Page: 9 | Image: 13BCS20-00056-01_p09_01 (431x283px)
+------------------------------------------------------------
+CSIRT advierte de phishing de servicio de streaming 
+Alerta de seguridad cibernética 
+8FPH20-00231-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de Mayo de 2020
+
+Última revisión 
+25 de Mayo de 2020
+
+Indicadores de compromiso 
+URL 
+hxxp://ottienivideo.altervista[.]org/newbie/f20e4973d8bc1fe/sign_in/ 
+IP 
+[50.116.86.60] 
+Otros IOCs del informe: 
+1 sender 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/8fph20-00231-01/ 
+https://csirt.gob.cl/media/2020/05/8FPH20-00231-01.pdf

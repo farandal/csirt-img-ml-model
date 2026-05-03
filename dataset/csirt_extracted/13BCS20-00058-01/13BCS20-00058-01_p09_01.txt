@@ -1,0 +1,23 @@
+Source: 13BCS20-00058-01.pdf | Page: 9 | Image: 13BCS20-00058-01_p09_01 (431x579px)
+------------------------------------------------------------
+CSIRT advierte phishing bancario por abono de pensión 
+Alerta de seguridad cibernética 
+8FPH20-00241-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+05 de Junio de 2020
+
+Última revisión 
+05 de Junio de 2020

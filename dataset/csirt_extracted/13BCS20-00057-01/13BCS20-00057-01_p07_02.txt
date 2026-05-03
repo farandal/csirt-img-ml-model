@@ -1,0 +1,23 @@
+Source: 13BCS20-00057-01.pdf | Page: 7 | Image: 13BCS20-00057-01_p07_02 (431x299px)
+------------------------------------------------------------
+CSIRT advierte de phishing por entrega de beneficio estatal 
+Alerta de seguridad cibernética 
+8FPH20-00235-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+29 de Mayo de 2020
+
+Última revisión 
+29 de Mayo de 2020

@@ -1,0 +1,23 @@
+Source: 13BCS20-00067-01.pdf | Page: 15 | Image: 13BCS20-00067-01_p15_01 (431x235px)
+------------------------------------------------------------
+CSIRT advierte sobre phishing por bloqueo de sistema de pago 
+Alerta de seguridad cibernética 
+8FPH20-00286-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de Agosto de 2020
+
+Última revisión 
+11 de Agosto de 2020

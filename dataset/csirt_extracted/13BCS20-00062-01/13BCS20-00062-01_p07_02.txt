@@ -1,0 +1,24 @@
+Source: 13BCS20-00062-01.pdf | Page: 7 | Image: 13BCS20-00062-01_p07_02 (431x291px)
+------------------------------------------------------------
+CSIRT advierte phishing de validación de cuentas en servicio de correo y red 
+social 
+Alerta de seguridad cibernética 
+8FPH20-00263-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+07 de Julio de 2020
+
+Última revisión 
+07 de Julio de 2020

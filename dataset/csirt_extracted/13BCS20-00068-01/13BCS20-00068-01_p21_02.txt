@@ -1,0 +1,24 @@
+Source: 13BCS20-00068-01.pdf | Page: 21 | Image: 13BCS20-00068-01_p21_02 (431x375px)
+------------------------------------------------------------
+CSIRT advierte múltiples vulnerabilidades y comparte mitigación de Google 
+Chrome 
+Alerta de seguridad cibernética 
+9VSA20-00285-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de Agosto de 2020
+
+Última revisión 
+12 de Agosto de 2020

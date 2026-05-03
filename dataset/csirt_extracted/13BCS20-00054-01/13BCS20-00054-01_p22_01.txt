@@ -1,0 +1,23 @@
+Source: 13BCS20-00054-01.pdf | Page: 22 | Image: 13BCS20-00054-01_p22_01 (370x319px)
+------------------------------------------------------------
+CSIRT comparte nueva actualización de VMWare para ESXI y HorizonDaaS 
+Alerta de seguridad cibernética 
+9VSA-00097-002
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+06 de Diciembre de 2019
+
+Última revisión 
+08 de Mayo de 2020

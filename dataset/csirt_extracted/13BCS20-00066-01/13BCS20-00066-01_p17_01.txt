@@ -1,0 +1,23 @@
+Source: 13BCS20-00066-01.pdf | Page: 17 | Image: 13BCS20-00066-01_p17_01 (431x235px)
+------------------------------------------------------------
+CSIRT advierte smishing bancario por AFP 
+Alerta de seguridad cibernética 
+8FPH20-00280-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+04 de Agosto de 2020
+
+Última revisión 
+04 de Agosto de 2020

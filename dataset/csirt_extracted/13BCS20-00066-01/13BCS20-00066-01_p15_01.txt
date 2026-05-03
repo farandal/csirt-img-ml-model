@@ -1,0 +1,23 @@
+Source: 13BCS20-00066-01.pdf | Page: 15 | Image: 13BCS20-00066-01_p15_01 (430x581px)
+------------------------------------------------------------
+CSIRT advierte de phishing bancario por crédito FOGAPE 
+Alerta de seguridad cibernética 
+8FPH20-00276-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+31 de Julio de 2020
+
+Última revisión 
+31 de Julio de 2020

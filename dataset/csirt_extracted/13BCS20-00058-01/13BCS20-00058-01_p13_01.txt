@@ -1,0 +1,23 @@
+Source: 13BCS20-00058-01.pdf | Page: 13 | Image: 13BCS20-00058-01_p13_01 (427x372px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones liberadas por FortiNet 
+Alerta de seguridad cibernética 
+9VSA20-00236-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+06 de Junio de 2020
+
+Última revisión 
+06 de Junio de 2020

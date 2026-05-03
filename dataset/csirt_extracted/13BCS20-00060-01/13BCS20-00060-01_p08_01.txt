@@ -1,0 +1,23 @@
+Source: 13BCS20-00060-01.pdf | Page: 8 | Image: 13BCS20-00060-01_p08_01 (431x377px)
+------------------------------------------------------------
+CSIRT advierte phishing bancario por inconveniente en dispositivo 
+Alerta de seguridad cibernética 
+8FPH20-00247-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de Junio de 2020
+
+Última revisión 
+18 de Junio de 2020

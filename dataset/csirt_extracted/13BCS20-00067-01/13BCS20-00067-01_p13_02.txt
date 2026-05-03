@@ -1,0 +1,23 @@
+Source: 13BCS20-00067-01.pdf | Page: 13 | Image: 13BCS20-00067-01_p13_02 (431x474px)
+------------------------------------------------------------
+CSIRT informa sobre phishing sobre abono de AFP 
+Alerta de seguridad cibernética 
+8FPH20-00283-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+07 de Agosto de 2020
+
+Última revisión 
+07 de Agosto de 2020

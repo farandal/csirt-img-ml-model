@@ -1,0 +1,23 @@
+Source: 13BCS20-00068-01.pdf | Page: 19 | Image: 13BCS20-00068-01_p19_01 (431x391px)
+------------------------------------------------------------
+CSIRT advierte phishing por transferencia retenida 
+Alerta de seguridad cibernética 
+8FPH20-00293-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de Agosto de 2020
+
+Última revisión 
+18 de Agosto de 2020

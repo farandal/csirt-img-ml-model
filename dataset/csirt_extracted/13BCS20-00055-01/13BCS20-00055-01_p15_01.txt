@@ -1,0 +1,23 @@
+Source: 13BCS20-00055-01.pdf | Page: 15 | Image: 13BCS20-00055-01_p15_01 (349x298px)
+------------------------------------------------------------
+CSIRT informa sobre tres variantes de malware activos 
+Alerta de seguridad cibernética 
+2CMV20-00062-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de Mayo de 2020
+
+Última revisión 
+15 de Mayo de 2020

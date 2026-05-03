@@ -1,0 +1,23 @@
+Source: 13BCS20-00064-01.pdf | Page: 16 | Image: 13BCS20-00064-01_p16_02 (431x371px)
+------------------------------------------------------------
+CSIRT advierte de phishing por bloqueo de cuenta 
+Alerta de seguridad cibernética 
+8FPH20-00266-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de Julio de 2020
+
+Última revisión 
+17 de Julio de 2020

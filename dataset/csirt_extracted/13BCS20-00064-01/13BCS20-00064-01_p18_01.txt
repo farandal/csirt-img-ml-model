@@ -1,0 +1,61 @@
+Source: 13BCS20-00064-01.pdf | Page: 18 | Image: 13BCS20-00064-01_p18_01 (431x373px)
+------------------------------------------------------------
+CSIRT alerta de múltiples campañas de Emotet activas 
+Alerta de seguridad cibernética 
+2CMV20-00066-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de Julio de 2020
+
+Última revisión 
+18 de Julio de 2020
+
+Indicadores de compromiso 
+URL 
+http://tarisfotografi.com/aup/Overview/ 
+http://movie.cxyw.net/fork/LLC/jj0av1ems/xrgxn858627574n193e6s4zoqd2/ 
+http://teste.hoonicorns.pt/ddfcn41dj/payment/epwsnm/ 
+http://demo.xoweb.cn/static/public/yn4g1lj32bix/ 
+http://www.leonardoenergie.it/media/balance/ 
+http://watkins.mitchellpwright.com/wp-
+includes/docs/lg2wm6zn/sxhgff291213969722cb2tpmjwffm/ 
+http://linhkien36.net.co/wp-admin/browse/ 
+http://www.mikesar.com/cgi-
+bin/FILE/9iy3rbp/yc697386432801482480z1o1srx37/ 
+http://exchangecamp.ir/wp-admin/Documentation/ 
+http://www.gdstechnologies.co.in/app/eTrac/ 
+http://akzy.top/h8ioc8/Documentation/ 
+http://www.ajanews.asia/wp/Document/5r65712504026116389jmyzp09zw
+2b3sfn63/ 
+http://www.aumhealings.org/wp-admin/docs/1izhzmhbo/ 
+http://ulfhorror.com/wp-
+admin/83279465106718/7fkhh84265327972167057acuknjrmhrfbxz9bdd/ 
+http://steelworks-students.com/wp-admin/FILE/ype8vbeho2jn/ 
+http://longphuong.tk/wp-admin/browse/buz7el/ 
+http://pasca.fapet.ub.ac.id/l/sites/ 
+http://drive.medisail.fr/lib/INC/ 
+https://doraflob.com/fef2/Document/ 
+http://ranks.hoonicorns.pt/comp3/Overview/00giwvmzhy/s04054954269w9
+vtvn5tqlan/ 
+http://www.timelyrain.top/wp-includes/ID3/parts_service/enlbnfk4xl/ 
+https://koncenful.com/wp-
+content/lm/hmhj52/ook7ri689941810111164mlk5ffuksnm6anf/ 
+https://daniwilkinson.co.uk/dup-
+installer/sites/3u01718046821pkh6l38v42wa3e1eiw/ 
+https://max-hoffmann-webdesign.de/eTrac/ 
+http://aarunya.in/wp-
+admin/swift/3jc4jqgai3rf/98382623658csjsmcfrnnlx032w6e9/ 
+http://elilaifs.cn/wp-admin/parts_service/jecxwnaz1j/ 
+https://gayasianporn.men/wp-includes/docs/

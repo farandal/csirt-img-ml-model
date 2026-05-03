@@ -1,0 +1,23 @@
+Source: 13BCS20-00056-01.pdf | Page: 10 | Image: 13BCS20-00056-01_p10_02 (424x366px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones liberadas por Apache para Apache Tomcat 
+Alerta de seguridad cibernética 
+9VSA20-00222-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de Mayo de 2020
+
+Última revisión 
+24 de Mayo de 2020

@@ -1,0 +1,23 @@
+Source: 13BCS20-00064-01.pdf | Page: 12 | Image: 13BCS20-00064-01_p12_02 (431x260px)
+------------------------------------------------------------
+CSIRT advierte de sitio bancario de suplantación 
+Alerta de seguridad cibernética 
+8FFR20-00527-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+22 de Julio de 2020
+
+Última revisión 
+22 de Julio de 2020

@@ -1,0 +1,23 @@
+Source: 13BCS20-00066-01.pdf | Page: 12 | Image: 13BCS20-00066-01_p12_02 (430x298px)
+------------------------------------------------------------
+CSIRT advierte sitio falso de empresa de software 
+Alerta de seguridad cibernética 
+8FFR20-00580-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+05 de Agosto de 2020
+
+Última revisión 
+05 de Agosto de 2020

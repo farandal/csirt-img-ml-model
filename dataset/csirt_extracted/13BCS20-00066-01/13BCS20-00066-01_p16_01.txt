@@ -1,0 +1,23 @@
+Source: 13BCS20-00066-01.pdf | Page: 16 | Image: 13BCS20-00066-01_p16_01 (451x700px)
+------------------------------------------------------------
+CSIRT advierte phishing bancario por aumento de cupo 
+Alerta de seguridad cibernética 
+8FPH20-00278-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+03 de Agosto de 2020
+
+Última revisión 
+03 de Agosto de 2020

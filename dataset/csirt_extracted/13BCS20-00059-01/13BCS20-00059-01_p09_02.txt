@@ -1,0 +1,24 @@
+Source: 13BCS20-00059-01.pdf | Page: 9 | Image: 13BCS20-00059-01_p09_02 (426x371px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidades y mitigaciones liberadas por Adobe para sus 
+productos 
+Alerta de seguridad cibernética 
+9VSA20-00245-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de Junio de 2020
+
+Última revisión 
+15 de Junio de 2020

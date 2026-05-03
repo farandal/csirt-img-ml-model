@@ -1,0 +1,23 @@
+Source: 13BCS20-00066-01.pdf | Page: 9 | Image: 13BCS20-00066-01_p09_02 (431x387px)
+------------------------------------------------------------
+CSIRT advierte de sitio que suplanta web de AFP 
+Alerta de seguridad cibernética 
+8FFR20-00574-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+01 de Agosto de 2020
+
+Última revisión 
+01 de Agosto de 2020

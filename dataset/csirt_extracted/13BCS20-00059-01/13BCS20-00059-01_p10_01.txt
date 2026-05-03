@@ -1,0 +1,24 @@
+Source: 13BCS20-00059-01.pdf | Page: 10 | Image: 13BCS20-00059-01_p10_01 (426x371px)
+------------------------------------------------------------
+CSIRT advierte tres vulnerabilidades y comparte mitigaciones liberadas por 
+McAfee para VirusScanEnterprise 
+Alerta de seguridad cibernética 
+9VSA20-00246-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de Junio de 2020
+
+Última revisión 
+16 de Junio de 2020

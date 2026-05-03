@@ -1,0 +1,23 @@
+Source: 13BCS20-00068-01.pdf | Page: 22 | Image: 13BCS20-00068-01_p22_01 (431x375px)
+------------------------------------------------------------
+CSIRT comparte 5 vulnerabilidades de Citrix y sus respectivas mitigaciones 
+Alerta de seguridad cibernética 
+9VSA20-00286-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de Agosto de 2020
+
+Última revisión 
+12 de Agosto de 2020

@@ -1,0 +1,23 @@
+Source: 13BCS20-00068-01.pdf | Page: 18 | Image: 13BCS20-00068-01_p18_02 (431x260px)
+------------------------------------------------------------
+CSIRT advierte phishing por problemas de pago en plataforma de streaming 
+Alerta de seguridad cibernética 
+8FPH20-00292-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de Agosto de 2020
+
+Última revisión 
+17 de Agosto de 2020

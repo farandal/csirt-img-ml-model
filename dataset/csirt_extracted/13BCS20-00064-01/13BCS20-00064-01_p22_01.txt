@@ -1,0 +1,23 @@
+Source: 13BCS20-00064-01.pdf | Page: 22 | Image: 13BCS20-00064-01_p22_01 (427x372px)
+------------------------------------------------------------
+CSIRT comparte información obtenida de Python por vulnerabilidad tipo DDoS 
+Alerta de seguridad cibernética 
+9VSA20-00274-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de Julio de 2020
+
+Última revisión 
+18 de Julio de 2020

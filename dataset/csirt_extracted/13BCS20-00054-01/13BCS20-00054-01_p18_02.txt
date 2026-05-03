@@ -1,0 +1,23 @@
+Source: 13BCS20-00054-01.pdf | Page: 18 | Image: 13BCS20-00054-01_p18_02 (429x340px)
+------------------------------------------------------------
+CSIRT informa sobre campaña de phishing por depósito de pensión 
+Alerta de seguridad cibernética 
+8FPH20-00210-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+11 de Mayo de 2020
+
+Última revisión 
+11 de Mayo de 2020

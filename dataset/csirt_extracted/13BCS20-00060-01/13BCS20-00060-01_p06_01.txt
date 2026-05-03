@@ -1,0 +1,23 @@
+Source: 13BCS20-00060-01.pdf | Page: 6 | Image: 13BCS20-00060-01_p06_01 (431x241px)
+------------------------------------------------------------
+CSIRT advierte un sitio bancario fraudulento 
+Alerta de seguridad cibernética 
+8FFR20-00458-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de Junio de 2020
+
+Última revisión 
+24 de Junio de 2020

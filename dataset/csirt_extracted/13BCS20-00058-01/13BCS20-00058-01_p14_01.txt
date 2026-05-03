@@ -1,0 +1,23 @@
+Source: 13BCS20-00058-01.pdf | Page: 14 | Image: 13BCS20-00058-01_p14_01 (432x375px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones liberadas por Docker 
+Alerta de seguridad cibernética 
+9VSA20-00238-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+08 de Junio de 2020
+
+Última revisión 
+08 de Junio de 2020

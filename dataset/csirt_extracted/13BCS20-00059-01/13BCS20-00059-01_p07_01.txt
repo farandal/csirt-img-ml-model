@@ -1,0 +1,23 @@
+Source: 13BCS20-00059-01.pdf | Page: 7 | Image: 13BCS20-00059-01_p07_01 (431x254px)
+------------------------------------------------------------
+CSIRT advierte phishing por expiración en versión de cuenta de correo 
+Alerta de seguridad cibernética 
+8FPH20-00246-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+17 de Junio de 2020
+
+Última revisión 
+17 de Junio de 2020

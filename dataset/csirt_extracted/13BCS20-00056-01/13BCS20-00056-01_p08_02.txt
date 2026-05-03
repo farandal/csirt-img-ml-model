@@ -1,0 +1,34 @@
+Source: 13BCS20-00056-01.pdf | Page: 8 | Image: 13BCS20-00056-01_p08_02 (431x313px)
+------------------------------------------------------------
+CSIRT advierte phishing por retención de correos 
+Alerta de seguridad cibernética 
+8FPH20-00230-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+25 de Mayo de 2020
+
+Última revisión 
+25 de Mayo de 2020
+
+Indicadores de compromiso 
+URL 
+hxxps://kwiksurveys[.]com/s/QKTYAyRJ#/0 
+IP 
+[212.5.159.59] 
+Otros IOCs del informe: 
+1 sender 
+Enlaces para revisar el informe: 
+https://csirt.gob.cl/alertas/8fph20-00230-01/ 
+https://csirt.gob.cl/media/2020/05/8FPH20-00230-01.pdf

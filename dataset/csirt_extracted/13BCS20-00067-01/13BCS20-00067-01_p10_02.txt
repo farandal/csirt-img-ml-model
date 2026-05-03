@@ -1,0 +1,23 @@
+Source: 13BCS20-00067-01.pdf | Page: 10 | Image: 13BCS20-00067-01_p10_02 (431x324px)
+------------------------------------------------------------
+CSIRT informa de página de streaming falsa 
+Alerta de seguridad cibernética 
+8FFR20-005600-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de Agosto de 2020
+
+Última revisión 
+12 de Agosto de 2020

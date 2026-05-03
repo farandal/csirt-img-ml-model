@@ -1,0 +1,24 @@
+Source: 13BCS20-00061-01.pdf | Page: 13 | Image: 13BCS20-00061-01_p13_01 (427x373px)
+------------------------------------------------------------
+CSIRT comparte mitigaciones liberadas por Huawei para dispositivos P30 y P30 
+Pro 
+Alerta de seguridad cibernética 
+9VSA20-00257-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+01 de Julio de 2020
+
+Última revisión 
+01 de Julio de 2020

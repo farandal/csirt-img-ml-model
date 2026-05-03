@@ -1,0 +1,23 @@
+Source: 13BCS20-00063-01.pdf | Page: 13 | Image: 13BCS20-00063-01_p13_01 (431x314px)
+------------------------------------------------------------
+CSIRT advierte de sitio fraudulento sobre covid-19 
+Alerta de seguridad cibernética 
+8FFR20-00499-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de Julio de 2020
+
+Última revisión 
+15 de Julio de 2020

@@ -1,0 +1,23 @@
+Source: 13BCS20-00061-01.pdf | Page: 9 | Image: 13BCS20-00061-01_p09_02 (431x250px)
+------------------------------------------------------------
+CSIRT informa phishing con falso crédito aprobado por programa Covid-19 
+Alerta de seguridad cibernética 
+8FPH20-00257-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+27 de Junio de 2020
+
+Última revisión 
+27 de Junio de 2020

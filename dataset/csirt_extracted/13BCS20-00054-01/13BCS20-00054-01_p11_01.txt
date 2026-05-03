@@ -1,0 +1,23 @@
+Source: 13BCS20-00054-01.pdf | Page: 11 | Image: 13BCS20-00054-01_p11_01 (433x298px)
+------------------------------------------------------------
+CSIRT advierte tres dominios bancarios fraudulentos 
+Alerta de seguridad cibernética 
+8FFR20-00406-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Falsificación de Registros o Identidad
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de Mayo de 2020
+
+Última revisión 
+10 de Mayo de 2020

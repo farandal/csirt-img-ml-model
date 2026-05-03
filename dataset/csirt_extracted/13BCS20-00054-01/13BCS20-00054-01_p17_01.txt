@@ -1,0 +1,23 @@
+Source: 13BCS20-00054-01.pdf | Page: 17 | Image: 13BCS20-00054-01_p17_01 (426x306px)
+------------------------------------------------------------
+CSIRT advierte de phishing por bloqueo de cuenta bancaria 
+Alerta de seguridad cibernética 
+8FPH20-00207-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+08 de Mayo de 2020
+
+Última revisión 
+08 de Mayo de 2020

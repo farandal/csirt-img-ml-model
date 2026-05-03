@@ -1,0 +1,24 @@
+Source: 13BCS20-00060-01.pdf | Page: 15 | Image: 13BCS20-00060-01_p15_01 (426x368px)
+------------------------------------------------------------
+CSIRT advierte 3 vulnerabilidades y comparte mitigaciones liberadas por Adobe 
+para AdobeFrameMaker 
+Alerta de seguridad cibernética 
+9VSA20-00251-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de Junio de 2020
+
+Última revisión 
+24 de Junio de 2020

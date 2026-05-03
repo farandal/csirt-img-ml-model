@@ -1,0 +1,23 @@
+Source: 13BCS20-00058-01.pdf | Page: 9 | Image: 13BCS20-00058-01_p09_02 (431x600px)
+------------------------------------------------------------
+CSIRT advierte phishing bancario por abono de beneficio estatal 
+Alerta de seguridad cibernética 
+8FPH20-00242-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de Junio de 2020
+
+Última revisión 
+10 de Junio de 2020

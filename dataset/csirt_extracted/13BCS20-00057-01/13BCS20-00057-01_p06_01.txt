@@ -1,0 +1,23 @@
+Source: 13BCS20-00057-01.pdf | Page: 6 | Image: 13BCS20-00057-01_p06_01 (430x207px)
+------------------------------------------------------------
+CSIRT informa sobre Smishing bancario por bloqueo de cuenta 
+Alerta de seguridad cibernética 
+8FPH20-00232-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+28 de Mayo de 2020
+
+Última revisión 
+28 de Mayo de 2020

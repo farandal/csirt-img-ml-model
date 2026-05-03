@@ -1,0 +1,23 @@
+Source: 13BCS20-00058-01.pdf | Page: 15 | Image: 13BCS20-00058-01_p15_01 (431x377px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones para LibreOffice 
+Alerta de seguridad cibernética 
+9VSA20-00240-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+09 de Junio de 2020
+
+Última revisión 
+09 de Junio de 2020

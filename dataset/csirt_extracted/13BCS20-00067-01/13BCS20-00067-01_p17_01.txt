@@ -1,0 +1,23 @@
+Source: 13BCS20-00067-01.pdf | Page: 17 | Image: 13BCS20-00067-01_p17_01 (431x375px)
+------------------------------------------------------------
+CSIRT advierte vulnerabilidad y comparte mitigación para TeamViewer 
+Alerta de seguridad cibernética 
+9VSA20-00282-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de Agosto de 2020
+
+Última revisión 
+12 de Agosto de 2020

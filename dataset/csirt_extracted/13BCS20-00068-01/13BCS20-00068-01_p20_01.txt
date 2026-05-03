@@ -1,0 +1,23 @@
+Source: 13BCS20-00068-01.pdf | Page: 20 | Image: 13BCS20-00068-01_p20_01 (430x177px)
+------------------------------------------------------------
+CSIRT advierte Smishing por retiro de pensiones en AFP 
+Alerta de seguridad cibernética 
+8FPH20-00295-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de Agosto de 2020
+
+Última revisión 
+18 de Agosto de 2020

@@ -1,0 +1,23 @@
+Source: 13BCS20-00055-01.pdf | Page: 15 | Image: 13BCS20-00055-01_p15_02 (431x137px)
+------------------------------------------------------------
+CSIRT advierte campaña de phishing con malware por bono de combustible 
+Alerta de seguridad cibernética 
+2CMV20-00063-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de Mayo de 2020
+
+Última revisión 
+18 de Mayo de 2020

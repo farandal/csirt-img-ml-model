@@ -1,0 +1,23 @@
+Source: 13BCS20-00054-01.pdf | Page: 17 | Image: 13BCS20-00054-01_p17_02 (426x296px)
+------------------------------------------------------------
+CSIRT advierte sobre campaña de phishing por supuesto premio al azar 
+Alerta de seguridad cibernética 
+8FPH20-00208-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+08 de Mayo de 2020
+
+Última revisión 
+08 de Mayo de 2020

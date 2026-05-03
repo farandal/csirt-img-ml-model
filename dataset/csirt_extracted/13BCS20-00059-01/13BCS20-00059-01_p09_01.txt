@@ -1,0 +1,24 @@
+Source: 13BCS20-00059-01.pdf | Page: 9 | Image: 13BCS20-00059-01_p09_01 (431x373px)
+------------------------------------------------------------
+CSIRT advierte vulnerabilidades y mitigaciones de VMware para ESXi, 
+Workstation, Fusion y Horizon Client 
+Alerta de seguridad cibernética 
+9VSA20-00244-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de Junio de 2020
+
+Última revisión 
+12 de Junio de 2020

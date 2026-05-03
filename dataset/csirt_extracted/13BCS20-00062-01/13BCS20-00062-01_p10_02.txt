@@ -1,0 +1,23 @@
+Source: 13BCS20-00062-01.pdf | Page: 10 | Image: 13BCS20-00062-01_p10_02 (426x371px)
+------------------------------------------------------------
+CSIRT comparte mitigaciones para Squid obtenidas de GitHub 
+Alerta de seguridad cibernética 
+9VSA20-00262-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+08 de Julio de 2020
+
+Última revisión 
+08 de Julio de 2020

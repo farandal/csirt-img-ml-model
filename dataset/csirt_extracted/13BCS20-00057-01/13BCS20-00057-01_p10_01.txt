@@ -1,0 +1,23 @@
+Source: 13BCS20-00057-01.pdf | Page: 10 | Image: 13BCS20-00057-01_p10_01 (431x185px)
+------------------------------------------------------------
+CSIRT advierte malware por facturación electrónica 
+Alerta de seguridad cibernética 
+2CMV20-00067-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+03 de Junio de 2020
+
+Última revisión 
+03 de Junio de 2020

@@ -1,0 +1,23 @@
+Source: 13BCS20-00060-01.pdf | Page: 12 | Image: 13BCS20-00060-01_p12_01 (431x371px)
+------------------------------------------------------------
+CSIRT advierte de phishing de supermercado vía WhatsApp 
+Alerta de seguridad cibernética 
+8FPH20-00254-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+24 de Junio de 2020
+
+Última revisión 
+24 de Junio de 2020

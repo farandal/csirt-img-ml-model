@@ -1,0 +1,23 @@
+Source: 13BCS20-00056-01.pdf | Page: 13 | Image: 13BCS20-00056-01_p13_02 (431x374px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones de OpenSSH 
+Alerta de seguridad cibernética 
+9VSA20-00228-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+20 de Mayo de 2020
+
+Última revisión 
+20 de Mayo de 2020

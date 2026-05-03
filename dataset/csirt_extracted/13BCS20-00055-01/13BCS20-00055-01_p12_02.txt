@@ -1,0 +1,23 @@
+Source: 13BCS20-00055-01.pdf | Page: 12 | Image: 13BCS20-00055-01_p12_02 (424x202px)
+------------------------------------------------------------
+CSIRT advierte Smishing por vencimiento de tarjeta de coordenadas 
+Alerta de seguridad cibernética 
+8FPH20-00223-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de Mayo de 2020
+
+Última revisión 
+18 de Mayo de 2020

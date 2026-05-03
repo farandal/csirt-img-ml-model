@@ -1,0 +1,23 @@
+Source: 13BCS20-00055-01.pdf | Page: 12 | Image: 13BCS20-00055-01_p12_01 (431x641px)
+------------------------------------------------------------
+CSIRT advierte de phishing por entrega de bono covid-19 
+Alerta de seguridad cibernética 
+8FPH20-00222-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de Mayo de 2020
+
+Última revisión 
+16 de Mayo de 2020

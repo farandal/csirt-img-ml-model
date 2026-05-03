@@ -1,0 +1,23 @@
+Source: 13BCS20-00068-01.pdf | Page: 20 | Image: 13BCS20-00068-01_p20_02 (430x452px)
+------------------------------------------------------------
+CSIRT informa phishing de plataforma de servicio de nube 
+Alerta de seguridad cibernética 
+8FPH20-00296-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+18 de Agosto de 2020
+
+Última revisión 
+18 de Agosto de 2020

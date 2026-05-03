@@ -1,0 +1,23 @@
+Source: 13BCS20-00062-01.pdf | Page: 9 | Image: 13BCS20-00062-01_p09_01 (431x373px)
+------------------------------------------------------------
+CSIRT comparte mitigaciones para ApacheTomcat y ApacheTrafficServer 
+Alerta de seguridad cibernética 
+9VSA20-00259-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+03 de Julio de 2020
+
+Última revisión 
+03 de Julio de 2020

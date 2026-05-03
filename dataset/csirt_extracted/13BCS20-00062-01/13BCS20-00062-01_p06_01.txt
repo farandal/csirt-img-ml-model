@@ -1,0 +1,23 @@
+Source: 13BCS20-00062-01.pdf | Page: 6 | Image: 13BCS20-00062-01_p06_01 (430x243px)
+------------------------------------------------------------
+CSIRT advierte campaña de phishing por medidas sanitarias 
+Alerta de seguridad cibernética 
+8FPH20-00260-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+01 de Julio de 2020
+
+Última revisión 
+01 de Julio de 2020

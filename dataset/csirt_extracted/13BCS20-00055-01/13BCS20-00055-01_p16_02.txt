@@ -1,0 +1,29 @@
+Source: 13BCS20-00055-01.pdf | Page: 16 | Image: 13BCS20-00055-01_p16_02 (431x421px)
+------------------------------------------------------------
+CSIRT advierte de malware en correo sobre investigación policial 
+Alerta de seguridad cibernética 
+2CMV20-00065-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de Mayo de 2020
+
+Última revisión 
+19 de Mayo de 2020
+
+Indicadores de compromiso 
+IP 
+172[.]111[.]188[.]199 
+3 tipos de Hash 
+Enlaces para revisar el informe:

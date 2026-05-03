@@ -1,0 +1,23 @@
+Source: 13BCS20-00055-01.pdf | Page: 11 | Image: 13BCS20-00055-01_p11_02 (431x375px)
+------------------------------------------------------------
+CSIRT advierte estafa que involucra encomienda internacional con multa 
+Alerta de seguridad cibernética 
+8FPH20-00221-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+16 de Mayo de 2020
+
+Última revisión 
+16 de Mayo de 2020

@@ -1,0 +1,23 @@
+Source: 13BCS20-00055-01.pdf | Page: 18 | Image: 13BCS20-00055-01_p18_02 (431x376px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones liberadas por Moodle 
+Alerta de seguridad cibernética 
+9VSA20-00216-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+19 de Mayo de 2020
+
+Última revisión 
+19 de Mayo de 2020

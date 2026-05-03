@@ -1,0 +1,23 @@
+Source: 13BCS20-00066-01.pdf | Page: 18 | Image: 13BCS20-00066-01_p18_01 (431x375px)
+------------------------------------------------------------
+CSIRT advierte múltiples campañas de phishing con malware 
+Alerta de seguridad cibernética 
+2CMV20-00069-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Malware
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+05 de Agosto de 2020
+
+Última revisión 
+05 de Agosto de 2020

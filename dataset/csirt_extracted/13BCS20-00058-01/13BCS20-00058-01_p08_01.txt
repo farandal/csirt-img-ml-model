@@ -1,0 +1,23 @@
+Source: 13BCS20-00058-01.pdf | Page: 8 | Image: 13BCS20-00058-01_p08_01 (431x600px)
+------------------------------------------------------------
+CSIRT advierte campaña de phishing por abono de beneficio 
+Alerta de seguridad cibernética 
+8FPH20-00239-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+04 de Junio de 2020
+
+Última revisión 
+04 de Junio de 2020

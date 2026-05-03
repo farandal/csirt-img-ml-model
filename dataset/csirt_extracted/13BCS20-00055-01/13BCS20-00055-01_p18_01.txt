@@ -1,0 +1,23 @@
+Source: 13BCS20-00055-01.pdf | Page: 18 | Image: 13BCS20-00055-01_p18_01 (383x332px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones de ClamAV para su AntiVirus 
+Alerta de seguridad cibernética 
+9VSA20-00215-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+15 de Mayo de 2020
+
+Última revisión 
+15 de Mayo de 2020

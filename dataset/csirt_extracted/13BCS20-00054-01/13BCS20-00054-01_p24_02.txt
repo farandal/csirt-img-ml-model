@@ -1,0 +1,23 @@
+Source: 13BCS20-00054-01.pdf | Page: 24 | Image: 13BCS20-00054-01_p24_02 (344x301px)
+------------------------------------------------------------
+CSIRT comparte actualizaciones liberadas por vBulletin 
+Alerta de seguridad cibernética 
+9VSA20-00211-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+12 de Mayo de 2020
+
+Última revisión 
+12 de Mayo de 2020

@@ -1,0 +1,23 @@
+Source: 13BCS20-00054-01.pdf | Page: 25 | Image: 13BCS20-00054-01_p25_01 (346x301px)
+------------------------------------------------------------
+CSIRT comparte información liberada por Microsoft para sus productos 
+Alerta de seguridad cibernética 
+9VSA20-00212-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+13 de Mayo de 2020
+
+Última revisión 
+13 de Mayo de 2020

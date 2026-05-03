@@ -1,0 +1,24 @@
+Source: 13BCS20-00058-01.pdf | Page: 14 | Image: 13BCS20-00058-01_p14_02 (431x371px)
+------------------------------------------------------------
+CSIRT comparte vulnerabilidad y mitigación para múltiples audífonos libres de 
+Sony 
+Alerta de seguridad cibernética 
+9VSA20-00239-01
+
+Clase de alerta 
+Vulnerabilidad
+
+Tipo de incidente 
+Sistema y/o Software Abierto
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+08 de Junio de 2020
+
+Última revisión 
+08 de Junio de 2020

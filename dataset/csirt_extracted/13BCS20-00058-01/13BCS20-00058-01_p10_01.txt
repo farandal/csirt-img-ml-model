@@ -1,0 +1,23 @@
+Source: 13BCS20-00058-01.pdf | Page: 10 | Image: 13BCS20-00058-01_p10_01 (411x553px)
+------------------------------------------------------------
+CSIRT advierte phishing por falsa compensación en estafa internacional 
+Alerta de seguridad cibernética 
+8FPH20-00243-01
+
+Clase de alerta 
+Fraude
+
+Tipo de incidente 
+Phishing
+
+Nivel de riesgo 
+Alto
+
+TLP 
+Blanco
+
+Fecha de lanzamiento original 
+10 de Junio de 2020
+
+Última revisión 
+10 de Junio de 2020
